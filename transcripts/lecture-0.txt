@@ -1,0 +1,1072 @@
+[00:00:00.000 --> 00:00:06.000]   Okay, you should now be able to see my desktop.
+[00:00:06.000 --> 00:00:11.000]   Is that correct?
+[00:00:11.000 --> 00:00:14.000]   Okay, thank you.
+[00:00:14.000 --> 00:00:21.000]   Okay, thank you very much.
+[00:00:23.000 --> 00:00:39.000]   So, first of all, I must say that I'm really sorry about the inconvenience of last week. Hopefully, this week, everything should work quite fine.
+[00:00:40.000 --> 00:00:57.000]   I had to upgrade some of my devices in order to have a better connection. I also needed to create a new room because I was not able to share my desktop in the other Zoom room.
+[00:00:57.000 --> 00:01:06.000]   And so I believe that for my classes, we will be using this new link.
+[00:01:07.000 --> 00:01:14.000]   If something goes wrong, that is to say if the connection or
+[00:01:14.000 --> 00:01:25.000]   audio of this lecture is not working fine, we can switch to
+[00:01:25.000 --> 00:01:30.000]   Google Meet.
+[00:01:33.000 --> 00:01:41.000]   In the mail I've sent to you yesterday, there is a link also for joining that meeting room.
+[00:01:41.000 --> 00:01:49.000]   Okay, so let's get started. Well, just a note about our organization.
+[00:01:50.000 --> 00:02:04.000]   We are a week behind, so during this week I will try to upload a video lecture, hopefully by Tuesday or Friday.
+[00:02:04.000 --> 00:02:18.000]   The same will be done next week. So in this week and the next week we will have three lectures, two of them online.
+[00:02:19.000 --> 00:02:33.000]   There will be a timetable we have agreed on and two of those lectures will be just video lectures.
+[00:02:33.000 --> 00:02:43.000]   So anyway, we will be able to discuss and to ask questions or whatever during our online meeting.
+[00:02:44.000 --> 00:02:55.000]   Okay, so since we couldn't do anything last time we met, I will start over again by talking about the legal system in general.
+[00:02:55.000 --> 00:03:13.000]   And I will try to give you some basic concepts about the legal system and about our lawyers do interact with the legal system in terms of knowledge, in terms of rule creation and so on and so forth.
+[00:03:13.000 --> 00:03:24.000]   So, as I said the last time, I'm going to start by giving you a formal definition of what the law is.
+[00:03:24.000 --> 00:03:37.000]   And we will see that that definition actually is deeply rooted within what I've been calling the Western legal tradition.
+[00:03:37.000 --> 00:03:39.000]   Sorry.
+[00:03:39.000 --> 00:03:40.000]   Sorry.
+[00:03:45.000 --> 00:04:14.000]   And as I said the last time, the Western legal tradition plays a very important role in the global and international order, because the Western legal tradition is the tradition embraced by the most powerful economies, economies in the world.
+[00:04:14.000 --> 00:04:31.000]   Starting from the United States, Europe, and so on and so forth. But I will also try to stress the fact that the Western legal tradition is not the only legal tradition in the world.
+[00:04:32.000 --> 00:04:47.000]   There are other different legal traditions which are very important, which are managing huge communities and just think about the Chinese legal system.
+[00:04:48.000 --> 00:05:09.000]   Chinese legal system is very different from the Western legal tradition, even though we will see that the Western legal tradition, especially in the fields, we will be covering at a very important role in shaping the institutional framework.
+[00:05:10.000 --> 00:05:26.000]   Think about intellectual property or about privacy and that international framework was then able to influence almost every other legal tradition in the world.
+[00:05:27.000 --> 00:05:41.000]   When we are talking about intellectual property, and we will see what intellectual property actually means, we will see that intellectual property is basically the same all over the world.
+[00:05:42.000 --> 00:06:01.000]   The Chinese regulation of intellectual property is not very different from the European regulation of intellectual property, which is not, as you may understand, different from the United States intellectual property regulation.
+[00:06:01.000 --> 00:06:20.000]   That's also something we have to keep in mind because when talking about intellectual property, when talking about privacy, we will be talking about a set of rules which has been developed at the international level.
+[00:06:21.000 --> 00:06:39.000]   When talking about intellectual property is made up of international treaties, those treaties are then implemented at the national level with some differences but the basic principles are common to almost every legal legal system.
+[00:06:40.000 --> 00:06:55.000]   And when talking about intellectual property, we lawyers believe that intellectual property was one of the first globalized legal institutions.
+[00:06:56.000 --> 00:07:20.000]   In order to understand those basic principles governing the law, we must first start talking about a definition of what the law is. And as I said last time now, we are looking at two different, I don't know whether this is interfering with your vision.
+[00:07:21.000 --> 00:07:45.000]   Also, I have to, yeah, sometimes I will have to switch to the chat room so that I can read some questions or whatever. Anyway, if you do not understand something you can also open your microphone and just start talking so I can hear you without having to switch to the chat room.
+[00:07:46.000 --> 00:07:56.000]   So, those are two definitions. The first one is a very common definition about among lawyers belong into the Western legal tradition.
+[00:07:56.000 --> 00:08:04.000]   The law is a body of rules that regulate the social behavior of the community of people in a given territory.
+[00:08:04.000 --> 00:08:20.000]   And probably, as I said the last time there are three important concepts that must be taken from that definition. The first one is the fact that the law consists in a body of rules.
+[00:08:20.000 --> 00:08:29.000]   And, you know, with body of rules we mean that those rules are creating a system.
+[00:08:29.000 --> 00:08:55.000]   This is the reason why we call the legal system, legal system indeed. So, that body of rules should be thought as a coordinated set of rules without contradictions without deficiencies and without any kind of inconsistency, and so on and so forth.
+[00:08:55.000 --> 00:09:21.000]   Well, this is actually the ideal situation because we will have to instead see that at the practical level, when the number of rules is growing and growing, we will see that there are problems of coordination of contradictions, and so on and so forth.
+[00:09:21.000 --> 00:09:45.000]   The second important part of this definition is given by the fact that that set of rules is meant to regulate the social behavior of the community, where with a community of people we mean a group of individuals or of collective entities.
+[00:09:45.000 --> 00:09:55.000]   Think about associations, corporations, or political parties, labor union, and so on and so forth.
+[00:09:55.000 --> 00:10:13.000]   So, the fact that the important part of this definition is that we believe that the legal system is going to regulate the social behavior.
+[00:10:13.000 --> 00:10:33.000]   That is to say, the relationship among those individuals and collective entities, but it is not meant to regulate, you know, the internal state of those individuals.
+[00:10:33.000 --> 00:10:50.000]   So, we indeed must keep in mind that there are also other body of rules which regulate the behavior of individuals, but that are not legal.
+[00:10:50.000 --> 00:10:55.000]   What does that mean?
+[00:10:55.000 --> 00:11:03.000]   Think about religion or ethics or good manners.
+[00:11:03.000 --> 00:11:07.000]   Those are rules.
+[00:11:07.000 --> 00:11:15.000]   For instance, when you sit at the table eating with someone else, you will be following some rules.
+[00:11:15.000 --> 00:11:24.000]   But those rules are not legal rules. Those rules are generated in different domains.
+[00:11:24.000 --> 00:11:40.000]   And as you know, by traveling around the world, you will see that the rules applied to that specific situation vary are very different from a place to another place.
+[00:11:40.000 --> 00:11:46.000]   Another set of non-legal rules are the so-called social norms.
+[00:11:46.000 --> 00:11:58.000]   Social norms are meant to regulate in a very informal way the social behavior of individuals.
+[00:11:58.000 --> 00:12:19.000]   Instead, when we are talking about legal rules, we are referring to a set of rules which may be enforced by some kind of authority, by some kind of institutions.
+[00:12:19.000 --> 00:12:38.000]   For instance, if we sign a contract which is regulated by, you know, the formal legal rules governing contracts, well, when we sign a contract, we will be entering into a legal relationship.
+[00:12:38.000 --> 00:13:07.000]   And that legal relationship basically consists in the possibility for one of the parties of that contract to go in front of the judge because that party believes that the other party did not perform the obligations of the contract correctly.
+[00:13:07.000 --> 00:13:22.000]   And by going in front of the judge, the judge will be able, will have the power to decide which part is right, which is not, which is wrong.
+[00:13:22.000 --> 00:13:51.000]   And the judge will be able to create some legal remedies, some bounding legal remedies, which will be applied to the individuals, to the parties involved in the contract without their consent.
+[00:13:51.000 --> 00:14:02.000]   By the use of the force of sort of ritualized violence.
+[00:14:02.000 --> 00:14:24.000]   I don't know if you buy something without paying in it, and the seller brings you in front of a judge, you will have a judge condemning you to pay the amount of money you were bound to pay by the contract.
+[00:14:24.000 --> 00:14:43.000]   And if you're not willing to pay it, then the judge will be able to use the force of the government or the police or of some other institutions in order to get the money and give that money to the seller.
+[00:14:43.000 --> 00:15:09.000]   And that brings me to the second definition of the legal system that I have taken from Wikipedia, according to which the law is a formal regime that orders human activities and relations through systematic application of the force of a governing body and society it rules over.
+[00:15:09.000 --> 00:15:33.000]   So, in that second definition we do not focus on the legal system meant as a body of rules, but instead we focus on the remedies on what is possible to do when a given rule has been broken by some someone.
+[00:15:33.000 --> 00:15:49.000]   And what we can do is to arise the problem where the basically the judiciary system in order to enforce the rule.
+[00:15:49.000 --> 00:16:02.000]   As I said once again, without the consent of being the vid walls towards whom those rules were meant to be applied.
+[00:16:02.000 --> 00:16:27.000]   So we have two different definitions. The first one refers to the set of rules, set of legal rules, whereas instead of the second definition refers to the possibility to enforce those rules by using a form of violence.
+[00:16:27.000 --> 00:16:49.000]   And that is quite important because we usually believe that at the very beginning of the history of human society is violence was not a monopoly of the state.
+[00:16:49.000 --> 00:17:10.000]   In order to have a state which has the monopoly over the use and the application of the force of the violence in order to enforce the rules, we have to wait quite a lot.
+[00:17:10.000 --> 00:17:31.000]   The first state were created, I don't know, five, six century, six million, six, okay, let me rephrase sorry.
+[00:17:31.000 --> 00:17:41.000]   The first state appear in the history of humanity, six, five, six thousand years ago.
+[00:17:41.000 --> 00:18:07.000]   Instead before we had informal societies with not without any centralized monopoly over the use of the violence in order to to enforce legal rules.
+[00:18:07.000 --> 00:18:12.000]   So, let's go back to the Western legal tradition.
+[00:18:12.000 --> 00:18:22.000]   And let's briefly describe the development of that legal tradition.
+[00:18:22.000 --> 00:18:41.000]   As I said, the Western legal tradition is a tradition which is very different from other legal traditions. There are other legal traditions like the Chinese legal tradition, as I said, but there are also many different legal traditions in Africa.
+[00:18:41.000 --> 00:18:54.000]   Those legal traditions are very different from ours. Our legal tradition is, as I said,
+[00:18:54.000 --> 00:19:03.000]   centered on the idea that the legal system is a set of coordinated rules.
+[00:19:03.000 --> 00:19:21.000]   But there is also something more. The roots of our legal tradition can be found in the Latin and Roman legal traditions.
+[00:19:21.000 --> 00:19:41.000]   You know, Rome was the capital of a huge empire, one of the greatest empires ever created in human history.
+[00:19:41.000 --> 00:20:02.000]   That empire was managed with the technologies of that time, very slow communication, very problematic transportation system, and so on and so forth.
+[00:20:02.000 --> 00:20:21.000]   So in order to manage such a huge empire with such a huge territory involved was to have a form of government based on rules.
+[00:20:21.000 --> 00:20:37.000]   Because, you know, the basic concept of having a set of rules is that the existence of rules makes human behavior predictable.
+[00:20:37.000 --> 00:20:55.000]   That is to say, if we have rules, we may have the expectation that individuals or collective entities
+[00:20:55.000 --> 00:21:16.000]   will behave in a predictable way because they will be following rules.
+[00:21:16.000 --> 00:21:45.000]   And so, so in given circumstances, when a given rule is going to be applied, we have the expectation that individuals will be following that rule and that their behavior can be predicted in the.
+[00:21:45.000 --> 00:22:05.000]   So that's the root of our legal tradition. But there is something more because in order to make sure that those rules are being applied, those rules must be written.
+[00:22:05.000 --> 00:22:29.000]   And that's very important factor. And that's quite an interesting development of our perception of the legal system. If we go back to history, and we try to capture the first appearance of legal rules.
+[00:22:29.000 --> 00:22:43.000]   Probably we would, we wouldn't be able to read those rules, because those rules were at first created in a very informal way.
+[00:22:43.000 --> 00:23:09.000]   The very first appearance of a legal rule is by, you know, a constant repetition of a given behavior when some circumstances are present.
+[00:23:09.000 --> 00:23:21.000]   So, if lawyers are trying to find the roots of, for instance, something like rules are related to legal obligations.
+[00:23:21.000 --> 00:23:29.000]   Well, we are going back to, you know, variation times.
+[00:23:29.000 --> 00:23:44.000]   We believe that rules pertaining obligations, like contracts, were created in order to make, yes, were created in order to make human behavior predictable.
+[00:23:44.000 --> 00:23:47.000]   So I'm going to see whether there are questions.
+[00:23:47.000 --> 00:23:56.000]   Sorry if I check is, is everything fine. You can hear me. Can you understand my English.
+[00:23:56.000 --> 00:24:00.000]   Everything is clear.
+[00:24:00.000 --> 00:24:05.000]   Okay, thank you. Thank you. Thank you very much. Sorry but I need.
+[00:24:05.000 --> 00:24:18.000]   I need some confirmations is since I'm not staring at your faces and so I, I'm just talking to my computer and thank you very much.
+[00:24:18.000 --> 00:24:28.000]   So,
+[00:24:28.000 --> 00:24:38.000]   I was talking about the origins of rules related to legal obligations.
+[00:24:38.000 --> 00:25:06.000]   They were meant to make the individual behavior predictable, and probably we can imagine that those rules were created when the complexity of human societies began to increase to a level where division of labor.
+[00:25:06.000 --> 00:25:20.000]   Made it a very basic requirement, the predictions of others behavior.
+[00:25:20.000 --> 00:25:24.000]   Think about production of any widget.
+[00:25:24.000 --> 00:25:35.000]   I produce a widget by myself by getting the raw material and by assembling it. Well, I don't need to rely on others behaviors.
+[00:25:35.000 --> 00:25:46.000]   But if I start putting together a widget, which requires a deco ordination of different individuals in order to achieve the goal.
+[00:25:46.000 --> 00:25:54.000]   Then I will have to rely on what other people are doing.
+[00:25:54.000 --> 00:26:02.000]   And I want to have the possibility to predict their behavior.
+[00:26:02.000 --> 00:26:16.000]   And also the possibility to correct their behavior when their behavior is going to make my behavior my my my enterprise, not working.
+[00:26:16.000 --> 00:26:42.000]   If I'm building a bicycle.
+[00:26:42.000 --> 00:26:47.000]   The wheels will be created and will be given to me.
+[00:26:47.000 --> 00:26:59.000]   And if something goes wrong. I need to have a remedy, because if I'm not able to get the wheels in time for the creation of the bicycle, I won't be able to sell the bicycle.
+[00:26:59.000 --> 00:27:27.000]   And I will be wasting my time. So I need to rely on others behavior, but I know Sony I also needed to have a legal remedy to enforce the obligations that others are taken in order to cooperate with me to create something as complex as a bicycle.
+[00:27:27.000 --> 00:27:39.000]   Well, think about something more, even more complicated and you get an idea why we need rules related to obligations.
+[00:27:39.000 --> 00:27:57.000]   At first, though, we believe that at first those rules were very informal in a primitive society. If someone was not better if someone was breaching the obligation was not fulfilling them.
+[00:27:57.000 --> 00:28:07.000]   Well, I could start complaining maybe I could use the violence in order to make that individual complain comply with the obligation.
+[00:28:07.000 --> 00:28:19.000]   Or I could refer to some sort of a of an authority in order to have the obligation and forest.
+[00:28:19.000 --> 00:28:31.000]   Older people within our small village or community could be asked to enforce the obligation.
+[00:28:31.000 --> 00:28:47.000]   And they, at the very beginning, probably they were doing so in a very informal way without referring to a specific, a specific and written rule.
+[00:28:47.000 --> 00:28:58.000]   Well, they could refer to general principles like justice or something like that.
+[00:28:58.000 --> 00:29:17.000]   I was expecting to receive a wheel for creating my bicycle. I didn't receive it and that's a violation of the principle of justice, because I need to rely on on the wheels to create my bicycle.
+[00:29:17.000 --> 00:29:29.000]   At the very beginning in the development of legal rules, we may think that those rules were were not written.
+[00:29:29.000 --> 00:29:45.000]   They were just applied by the boss of the village by the elder people of the village by a village council or something like that.
+[00:29:45.000 --> 00:30:06.000]   But as the time goes by, we start looking at the new phenomenon that the rules applied tend to be always the same.
+[00:30:06.000 --> 00:30:11.000]   And so every decision.
+[00:30:11.000 --> 00:30:31.000]   We are now talking about obligation that we could be talking about criminal law, you know, crimes, violence to our southern people that we see that those rules are persistent, persistent over time.
+[00:30:31.000 --> 00:30:39.000]   They are always the same.
+[00:30:39.000 --> 00:30:52.000]   And so we we can start talking about those rules and we start right. Well, at first we start verbalizing them.
+[00:30:52.000 --> 00:31:05.000]   Say that there is a rule when someone is entering a legal relationship with someone else.
+[00:31:05.000 --> 00:31:14.000]   And that relationship implies the creation of a widget to be sold to someone else.
+[00:31:14.000 --> 00:31:28.000]   And that is not happening. We start talking about the branch of an obligation and the remedy for that branch.
+[00:31:28.000 --> 00:31:51.000]   So at first we start talking about the rules that we start saying them because we think of them as something which is persistent over time.
+[00:31:51.000 --> 00:32:01.000]   And that leads to the first codification of the law.
+[00:32:01.000 --> 00:32:27.000]   As far as I remember, the first Roman codification, which took place while probably in the sixth or fifth century before Christ, the law of the 12 tables, as it is called.
+[00:32:27.000 --> 00:32:35.000]   That first codification was not the creation of new rules.
+[00:32:35.000 --> 00:32:52.000]   That codification was just the writing of pre-existing rules in order to make those rules more stable.
+[00:32:52.000 --> 00:33:10.000]   And think about the Bible and Moses commandments.
+[00:33:10.000 --> 00:33:18.000]   They were written, but they were not created. Those rules were not new rules.
+[00:33:18.000 --> 00:33:36.000]   Those rules were just the written rules which have been applied for a huge amount of time before.
+[00:33:36.000 --> 00:34:02.000]   Another example of written rules are treaties among, well, at that time, especially in Greece, groundwater, what we could call city-states, the polis.
+[00:34:02.000 --> 00:34:27.000]   You know, Greek civilization was represented by very small cities, each one with a governing bodies with a set of rules, independent.
+[00:34:27.000 --> 00:34:47.000]   And each city was independent from any other cities, even though Greeks were then able to create huge coalitions in order to fight with foreign enemies like the Persian Empire.
+[00:34:47.000 --> 00:35:02.000]   Many times there were wars between those cities, and usually the war was ended by an agreement, a treaty, an international treaty.
+[00:35:02.000 --> 00:35:25.000]   And usually those treaties were written in stones in order to make them clear and to make it possible for everyone to have knowledge of those treaties.
+[00:35:25.000 --> 00:35:37.000]   So the very first written legal rules were not meant to be new rules to solve new problems.
+[00:35:37.000 --> 00:36:00.000]   They were just a recognition of pre-existing rules, and writing them down was only meant to make those rules clear and to make it possible to everyone to have knowledge of those rules.
+[00:36:00.000 --> 00:36:21.000]   And that perception of legal rules as something which is not created out of the blue, but something that is pre-existing and
+[00:36:21.000 --> 00:36:32.000]   has been the central idea within the Western legal tradition for centuries.
+[00:36:32.000 --> 00:36:47.000]   Obviously, we had at that time rules which were written down but not created.
+[00:36:47.000 --> 00:37:02.000]   But then we started also to see by the governing bodies, the creation of new rules to face and solve new problems.
+[00:37:02.000 --> 00:37:18.000]   And that's a very deep change in the development of the Western legal tradition, because if at first we can say that nobody was creating rules,
+[00:37:18.000 --> 00:37:38.000]   even though that is not entirely true, because as you may understand, when I'm applying a general principle as justice, as I was telling you before, actually I'm creating the rule.
+[00:37:38.000 --> 00:38:04.000]   And I'm using a general concept to solve a very specific problem, a controversy between two individuals, and by drawing from that general principle, a specific rule to say which one of the parties in front of me is right and which one is wrong, actually there is a creation process.
+[00:38:04.000 --> 00:38:10.000]   But that creation process was not perceived as creation.
+[00:38:10.000 --> 00:38:33.000]   I was just applying, I had the belief that I was just applying a general principle, it was just a matter of interpretation, in order to give to that general principle a meaning which could be then applied to that specific rule.
+[00:38:33.000 --> 00:38:49.000]   So I'm not saying that we didn't create rules, we were creating rules, but in a not quotient way.
+[00:38:49.000 --> 00:39:10.000]   Instead, when the governing body of the state is creating new written rules to face and solve new problems, well, now the creation process is explicit.
+[00:39:10.000 --> 00:39:19.000]   And the legal system changes its nature.
+[00:39:19.000 --> 00:39:48.000]   The first one is just, how can I say, the, let me rephrase, the first experience when roots were written down but not created.
+[00:39:48.000 --> 00:40:08.000]   In that experience, the legal system is a set of traditional rules, which have been created by the constant application of the same set of principles.
+[00:40:08.000 --> 00:40:37.000]   Instead, when a governing body started to create rules to solve new problems, then the legal system is becoming a sort of technology of social coordination of individuals.
+[00:40:37.000 --> 00:40:56.000]   Why I'm using the word technology, because the rule creation is maybe seen as a set of tools for shaping human behavior in a very explicit way.
+[00:40:56.000 --> 00:41:23.000]   And if we look at the present state of the Western legal tradition, we see that the legal system, perceived as technology, as a technology of social control, is the main character of our perception of the legal system.
+[00:41:23.000 --> 00:41:38.000]   Still, I would like you to keep in mind that that was not the entire history of the Western legal tradition.
+[00:41:38.000 --> 00:41:56.000]   The legal system as a technological tool for social control is a very recent idea that can be dated back to the Roman tradition.
+[00:41:56.000 --> 00:42:23.000]   When the, and especially the empire, during the empire period, when the emperor was using legal rules in order to organize such a huge complex and vast institution like the Roman Empire.
+[00:42:23.000 --> 00:42:34.000]   It was the Roman Empire that required a new conception of the legal system.
+[00:42:34.000 --> 00:43:03.000]   Not just as an expression of traditionally applied rules, but instead as a tool for shaping individual behavior and coordinating individuals in a very complex organization.
+[00:43:03.000 --> 00:43:29.000]   Sorry, I had to check.
+[00:43:29.000 --> 00:43:52.000]   Now that, now that the perception within the Western legal tradition of the legal system has changed from
+[00:43:52.000 --> 00:44:09.000]   a set of rules, traditionally discovered to a set of rules specifically created to organize a given community.
+[00:44:09.000 --> 00:44:28.000]   With that change, we started focusing within our tradition to the foundations of the power to create rules.
+[00:44:28.000 --> 00:44:56.000]   You know, for a great period of time, sorry professor, the foundation of the power to create rules was believed to consist in something related to the supernatural.
+[00:44:56.000 --> 00:45:08.000]   If we look at the European experience after the advent of the Christianity.
+[00:45:08.000 --> 00:45:36.000]   So, after the destruction of the Roman Empire, and with the emergence of national states, ruled by kings and queens.
+[00:45:36.000 --> 00:45:46.000]   We see that, the rule creation was the power of the king.
+[00:45:46.000 --> 00:45:56.000]   And that power was based on the fact that the king has been appointed by God.
+[00:45:56.000 --> 00:46:15.000]   That is to say, the legitimacy of the power of rule creation was believed to come from God.
+[00:46:15.000 --> 00:46:28.000]   And that went on for centuries and centuries.
+[00:46:28.000 --> 00:46:54.000]   Three centuries ago, the first revolutions, the American and the French revolutions, which changed our perception, regarding the foundation of creating rules.
+[00:46:54.000 --> 00:47:14.000]   At some point in history, the reference to the Godness for identifying the foundation of creating rules was not enough.
+[00:47:14.000 --> 00:47:17.000]   Oh, okay.
+[00:47:17.000 --> 00:47:21.000]   Yes, Tomasso, you can talk.
+[00:47:21.000 --> 00:47:23.000]   Do I have to do something?
+[00:47:23.000 --> 00:47:29.000]   Someone was trying to ask you something and they also wrote something into the chat.
+[00:47:29.000 --> 00:47:38.000]   I think you cannot hear us talking.
+[00:47:38.000 --> 00:47:42.000]   Okay, Tomasso, you may talk.
+[00:47:42.000 --> 00:47:44.000]   You can hear me.
+[00:47:44.000 --> 00:47:48.000]   I don't hear you.
+[00:47:48.000 --> 00:48:02.000]   I have a question.
+[00:48:02.000 --> 00:48:13.000]   Well,
+[00:48:13.000 --> 00:48:18.000]   thank you, thank you, Bruno's question is very interesting.
+[00:48:18.000 --> 00:48:23.000]   Very complicated actually.
+[00:48:23.000 --> 00:48:28.000]   Both, I would say both.
+[00:48:28.000 --> 00:48:42.000]   I, well, the interaction between behavior, individual behavior within the historical framework framework I'm trying to describe is very complicated.
+[00:48:42.000 --> 00:48:47.000]   Yes, I do believe that the law changes human behavior.
+[00:48:47.000 --> 00:48:57.000]   But I also believe that the human behavior changes the law.
+[00:48:57.000 --> 00:49:11.000]   But the main point I'm trying to make is a different one.
+[00:49:11.000 --> 00:49:16.000]   How can I put it.
+[00:49:16.000 --> 00:49:34.000]   Nowadays, and I'm talking about, you know, contemporary legal systems, those legal systems are really based on the assumption that the law is going to change human behavior.
+[00:49:34.000 --> 00:49:54.000]   And I think about the pandemic and think about the action of governments during the pandemic, they are adopting very detailed rules on how each of us has to behave in every social context.
+[00:49:54.000 --> 00:50:13.000]   And I really do believe that we are following those rules and we are changing our behavior to comply with these with those prescriptions.
+[00:50:13.000 --> 00:50:23.000]   So, it is true that the law is a technology for shaping human behavior.
+[00:50:23.000 --> 00:50:30.000]   Think to other
+[00:50:30.000 --> 00:50:45.000]   think to other experiences, or other type of regulations. Think about for instance, to drugs regulation.
+[00:50:45.000 --> 00:51:02.000]   And we have rules, which are created by legislators, which are not applied, or better, which are not abide with by individuals by many individuals.
+[00:51:02.000 --> 00:51:14.000]   So, I believe that there is a misconception about the capability of the legal system to change human behavior.
+[00:51:14.000 --> 00:51:34.000]   And at the same time, the law is just part of the process of the process of reshaping human behavior. There is a very interesting example I could, I could come up with the dual.
+[00:51:34.000 --> 00:51:50.000]   I'm offending you. I'm insulting you and you respond by inviting me to a dual in order to solve with the blood, our controversy.
+[00:51:50.000 --> 00:52:00.000]   Duals have been prohibited for centuries, but they were not eradicated from society.
+[00:52:00.000 --> 00:52:15.000]   So, the law was trying to reshape a human behavior, which was perceived to be bad for society, but the law was not enough.
+[00:52:15.000 --> 00:52:23.000]   When did we get rid of duals?
+[00:52:23.000 --> 00:52:30.000]   When the social perception of the dual changed.
+[00:52:30.000 --> 00:52:40.000]   If you were to invite me to a dual today, I would just start laughing. And everyone do probably.
+[00:52:40.000 --> 00:52:50.000]   Because your action would be perceived as stupid, as socially unacceptable.
+[00:52:50.000 --> 00:53:04.000]   The very same action, which a century ago instead, was far from being perceived as stupid and unacceptable.
+[00:53:04.000 --> 00:53:16.000]   I probably will come back to that because there are lawyers who are talking about the so called social meaning of an action.
+[00:53:16.000 --> 00:53:30.000]   Another example I would like to give you. When I was young, when I was a teenager, I had very little money.
+[00:53:30.000 --> 00:53:37.000]   My other friends had very little money too, but we enjoy the music.
+[00:53:37.000 --> 00:53:46.000]   And you know, LPs, we didn't have CDs at that time. LPs were very costly.
+[00:53:46.000 --> 00:53:52.000]   And we couldn't afford it by a huge number of them, even though we wanted to.
+[00:53:52.000 --> 00:53:58.000]   So, we created a sort of organization.
+[00:53:58.000 --> 00:54:08.000]   A very informal organization actually. Probably a very illegal one too. So that everyone was buying an LP
+[00:54:08.000 --> 00:54:17.000]   and was then recording on a cassette that LP for the remaining part of the group.
+[00:54:17.000 --> 00:54:31.000]   And that way we could maximize our assets to music with the very limited resources we had.
+[00:54:31.000 --> 00:54:38.000]   Well, you know, that very action was not by us, at least, perceived as being illegal.
+[00:54:38.000 --> 00:54:43.000]   But how would you call it now? You would probably call it file sharing.
+[00:54:43.000 --> 00:54:52.000]   And you know that there are regulations according to which file sharing is illegal. It's bad.
+[00:54:52.000 --> 00:54:59.000]   And it's a half of inter-level property.
+[00:54:59.000 --> 00:55:05.000]   Well, what's interesting is that, you know, the regulation didn't change so much.
+[00:55:05.000 --> 00:55:22.000]   What we were doing at that time was illegal as what we, or what many of us are doing at this time by downloading and uploading copyrighted material is illegal.
+[00:55:22.000 --> 00:55:28.000]   So, human behavior changes over time.
+[00:55:28.000 --> 00:55:34.000]   Sometimes the law has to adapt to that change.
+[00:55:34.000 --> 00:55:42.000]   Think about our perception of abortion.
+[00:55:42.000 --> 00:55:52.000]   Abortion was perceived to be a crime until a few decades ago.
+[00:55:52.000 --> 00:56:12.000]   But there was also a growing perception of the fact that the mother, the pregnant woman, has some rights over her body.
+[00:56:12.000 --> 00:56:20.000]   And those rights are, you know, important must be protected.
+[00:56:20.000 --> 00:56:38.000]   And then we came up with the idea that when there is a conflict between the rights of the mother and the rights of the unborn child, well, we need to find a solution.
+[00:56:38.000 --> 00:56:50.000]   And the solution was to permit abortion within a given period of time of the pregnancy.
+[00:56:50.000 --> 00:57:04.000]   In that case, the law has adapted to the new cultural perception of the problem.
+[00:57:04.000 --> 00:57:32.000]   So as you see, even though I'm trying to simplify the problem by stating that there is a traditional way of perceiving the law as something which is created by constant repetition of a human behavior, in which case the law is, you know, like the law of nature.
+[00:57:32.000 --> 00:57:38.000]   If I take that pen and I drop it, you know, it falls down.
+[00:57:38.000 --> 00:57:45.000]   And if I keep repeating that, it keeps falling down.
+[00:57:45.000 --> 00:57:58.000]   We call it the law of gravity, but no one prescribed a legal sense to the pen that when I drop it, he has to fall.
+[00:57:58.000 --> 00:58:02.000]   So the first.
+[00:58:02.000 --> 00:58:04.000]   I don't know what happened.
+[00:58:04.000 --> 00:58:09.000]   I was.
+[00:58:09.000 --> 00:58:14.000]   I was disconnected probably.
+[00:58:14.000 --> 00:58:16.000]   I'm back.
+[00:58:16.000 --> 00:58:19.000]   Okay.
+[00:58:19.000 --> 00:58:22.000]   I lost your.
+[00:58:22.000 --> 00:58:40.000]   Question, Bruno, but so I was trying to tell you that when I'm talking about the first conception of the law as a set of rules which are not created by discovered.
+[00:58:40.000 --> 00:58:52.000]   I'm talking about the law as the law of nature's, you know, I hope you you heard my example of the law of gravity.
+[00:58:52.000 --> 00:58:58.000]   If I drop my pen, the pen is going to fall down every time.
+[00:58:58.000 --> 00:59:03.000]   But.
+[00:59:03.000 --> 00:59:05.000]   But.
+[00:59:05.000 --> 00:59:14.000]   Instead, when I'm talking about the law as technological tool for shaping human behavior.
+[00:59:14.000 --> 00:59:23.000]   Well, that's that gets very complicated because how much is shapeable to human behavior.
+[00:59:23.000 --> 00:59:25.000]   Not a very mass action.
+[00:59:25.000 --> 00:59:28.000]   That's that's the point.
+[00:59:28.000 --> 00:59:42.000]   And indeed, well for for for for Italian students, I can give you a very famous example about, you know, the man's only promise is policy.
+[00:59:42.000 --> 01:00:03.000]   When the main character goes to the to a lawyer in order to find a solution for a problem he has and the lawyer started reading many different regulations, each one with a contradictory meaning.
+[01:00:03.000 --> 01:00:07.000]   And we call them.
+[01:00:07.000 --> 01:00:12.000]   Greed them and zone. Yeah.
+[01:00:12.000 --> 01:00:18.000]   Greed could be translated with shouts. I don't know.
+[01:00:18.000 --> 01:00:21.000]   People yelling. You have to do that.
+[01:00:21.000 --> 01:00:23.000]   But nobody listened.
+[01:00:23.000 --> 01:00:30.000]   So that that's that's a very commonplace.
+[01:00:30.000 --> 01:00:34.000]   Okay.
+[01:00:34.000 --> 01:00:42.000]   Let's go back to sharing the screen.
+[01:00:42.000 --> 01:00:44.000]   There we go.
+[01:00:44.000 --> 01:00:52.000]   So when we move away from the perception of the law.
+[01:00:52.000 --> 01:00:58.000]   As a traditional body of rules.
+[01:00:58.000 --> 01:01:12.000]   And we move towards the conception of the law as a technological tool for shaping human behavior.
+[01:01:12.000 --> 01:01:23.000]   As I said, the problem of who is entitled to create the rules arises.
+[01:01:23.000 --> 01:01:29.000]   And the French and the American revolutions.
+[01:01:29.000 --> 01:01:35.000]   Provided an answer with which was very different from the traditional one.
+[01:01:35.000 --> 01:01:46.000]   Because traditionally we believe that the only power to create rules to shape human behavior was coming from God.
+[01:01:46.000 --> 01:01:49.000]   For the darkness.
+[01:01:49.000 --> 01:01:54.000]   And believe me that that's a pretty common perception.
+[01:01:54.000 --> 01:01:56.000]   Even today.
+[01:01:56.000 --> 01:02:04.000]   Think about the Islamic Republic of Iran.
+[01:02:04.000 --> 01:02:08.000]   They have a written constitution.
+[01:02:08.000 --> 01:02:20.000]   So they have a written constitution regulating the creation of rules with that within that legal system.
+[01:02:20.000 --> 01:02:30.000]   But then the written constitution says that the ultimate power creator rules comes from God.
+[01:02:30.000 --> 01:02:37.000]   So,
+[01:02:37.000 --> 01:02:48.000]   the Constitution of the Republic of Iran is a very Western type of Constitution, if you read it.
+[01:02:48.000 --> 01:02:54.000]   But at the very same time it rejects.
+[01:02:54.000 --> 01:03:03.000]   One of the major results of the French and the American revolutions.
+[01:03:03.000 --> 01:03:07.000]   And the major results of those revolutions is that.
+[01:03:07.000 --> 01:03:23.000]   The rules which are going to shape the behavior of people must be created by the people.
+[01:03:23.000 --> 01:03:38.000]   Which leads to very difficult problems because how can we map the will of the people for creating rules?
+[01:03:38.000 --> 01:03:46.000]   In a very small city state like Athens.
+[01:03:46.000 --> 01:03:53.000]   That's very simple. You have a few hundreds or a few thousands of people.
+[01:03:53.000 --> 01:04:09.000]   You can gather them in a place big enough and have them vote for new rules to be created.
+[01:04:09.000 --> 01:04:19.000]   But what happens in countries with hundreds of millions of people?
+[01:04:19.000 --> 01:04:22.000]   That's not possible.
+[01:04:22.000 --> 01:04:31.000]   And that leads us to the so-called representative democracy.
+[01:04:31.000 --> 01:04:42.000]   The people will be expressed their will by electing people that will have the power to create rules.
+[01:04:42.000 --> 01:04:49.000]   And the power of create rules is thus based on the democratic principle.
+[01:04:49.000 --> 01:04:58.000]   Not on the power given by God to a king or a queen.
+[01:04:58.000 --> 01:05:09.000]   That democratic principle also brings another principle which is the principle of the division of power.
+[01:05:09.000 --> 01:05:23.000]   Because if only the people are allowed to create rules to rule their representatives,
+[01:05:23.000 --> 01:05:29.000]   then the other powers of the state are not.
+[01:05:29.000 --> 01:05:36.000]   And so we came up with the principle of the division of power according to which we have three different powers.
+[01:05:36.000 --> 01:05:46.000]   The legislative power, the power to create rules, and that power belongs to the people.
+[01:05:46.000 --> 01:05:54.000]   Then we have another power that is the power to apply the rules.
+[01:05:54.000 --> 01:06:09.000]   We call it the jurisdictional power.
+[01:06:09.000 --> 01:06:24.000]   And the jurisdictional power is the power to apply rules which have been written by the legislative power.
+[01:06:24.000 --> 01:06:30.000]   And as we will see, that brings us quite a few problems.
+[01:06:30.000 --> 01:06:44.000]   Because when you read a rule, as I said before, when you think about the general principle or when you read a general rule,
+[01:06:44.000 --> 01:07:07.000]   and you have to apply it to a specific situation, well, in that process of deriving the specific rule to solve the specific situation from a general rule,
+[01:07:07.000 --> 01:07:13.000]   there is a creative process.
+[01:07:13.000 --> 01:07:24.000]   But that process, that the creativity of that process must minimize to the maximum extent.
+[01:07:24.000 --> 01:07:37.000]   Because otherwise we would have judges which do not represent the will of the people
+[01:07:37.000 --> 01:07:43.000]   who are given the power to create rules.
+[01:07:43.000 --> 01:07:55.000]   And that doesn't fit within the framework he created by the principle of the division of power.
+[01:07:55.000 --> 01:07:57.000]   But there are exceptions.
+[01:07:57.000 --> 01:08:05.000]   I'm pretty sure that you know what the President of the United States is doing right now.
+[01:08:05.000 --> 01:08:13.000]   Last week he decided to appoint a new judge for the U.S. Supreme Court.
+[01:08:13.000 --> 01:08:20.000]   And you know that there is a huge debate going on in the United States about that.
+[01:08:20.000 --> 01:08:35.000]   But we will see that this is a very interesting difference between the United States and the other countries belonging to the Western legal tradition.
+[01:08:35.000 --> 01:08:49.000]   Because we will see that in the United States and to some extent even in the UK, the United Kingdom, judges have the power to create rules to some extent.
+[01:08:49.000 --> 01:08:55.000]   What we call judge made law.
+[01:08:55.000 --> 01:09:09.000]   But that power also relies on the fact that many judges in the United States are elected by the people.
+[01:09:09.000 --> 01:09:25.000]   And when they are not elected at the federal level, they are nominated by the United States President with the confirmation of the United States Senate.
+[01:09:25.000 --> 01:09:34.000]   So there is the possibility for judges to create to a certain extent the rules.
+[01:09:34.000 --> 01:09:50.000]   But they have the legitimacy of doing so the right by the fact that they are appointed by political bodies.
+[01:09:50.000 --> 01:10:02.000]   So I was talking about the division of power, the legislative power, the only power that through the democratic principle is allowed to create rules.
+[01:10:02.000 --> 01:10:11.000]   Then we have the jury's jurisdictional power, which has the power to apply but not to create rules.
+[01:10:11.000 --> 01:10:35.000]   And then we have the executive power, which is the power to manage the organization of the state, but by following the legal rules created by the legislative power.
+[01:10:35.000 --> 01:10:44.000]   And that took me sometimes to arrive to page four of my slide show.
+[01:10:44.000 --> 01:10:58.000]   But that brings me to what I call the scientific approach to the legal system because what is the role of lawyers in that context?
+[01:10:58.000 --> 01:11:05.000]   What is my role as a legal scholar?
+[01:11:05.000 --> 01:11:27.000]   Well, you know, in the Roman tradition, scholars, legal scholars, Dr. Torres, they were very highly regarded because of their knowledge of the legal system.
+[01:11:27.000 --> 01:11:33.000]   But they were also providing solutions.
+[01:11:33.000 --> 01:11:39.000]   And judges were using those solutions because judges were appointed by the king.
+[01:11:39.000 --> 01:11:49.000]   So they had it. They didn't have the problem of justify their creative process in shaping the rules.
+[01:11:49.000 --> 01:11:56.000]   And the king had the ultimate power to create rules, too.
+[01:11:56.000 --> 01:12:22.000]   So in that context, the legal scholarship had also some role in the creation or in the proposal of new legal solutions.
+[01:12:22.000 --> 01:12:45.000]   But after the French Revolution and the American Revolution, where the legal creative power was strictly confined within the boundaries of the democratic body elected by the people and representing the will of the people,
+[01:12:45.000 --> 01:13:01.000]   in that context, judges and legal scholars lost their power, their informal power to create rules.
+[01:13:01.000 --> 01:13:15.000]   Well, that's not true, as we will see. The legal Western tradition is based on, you know, quite some number of lies.
+[01:13:15.000 --> 01:13:19.000]   The division of power is one of them.
+[01:13:19.000 --> 01:13:35.000]   The fact that judges are, as they were called right after the French Revolution, must be, judges must be the mouth of the law.
+[01:13:35.000 --> 01:13:50.000]   You know, just an instrument for the law to appear in the world.
+[01:13:50.000 --> 01:13:58.000]   That's not true. As I said, there is a creative process in legal interpretation.
+[01:13:58.000 --> 01:14:02.000]   But the same applies to legal scholars.
+[01:14:02.000 --> 01:14:13.000]   So whereas before the French Revolution, legal scholars were perceived as, you know,
+[01:14:13.000 --> 01:14:25.000]   people capable of providing legal new legal solutions for new problems, and they were part of the role creation process.
+[01:14:25.000 --> 01:14:36.000]   After the French Revolution, they started to lose that role, and they started to confine themselves within the boundaries
+[01:14:36.000 --> 01:14:40.000]   created by the principle of the division of power.
+[01:14:40.000 --> 01:14:55.000]   So they started to perceive their role as a role very similar to every other type of scientist.
+[01:14:55.000 --> 01:15:05.000]   They describe the phenomena they are studying.
+[01:15:05.000 --> 01:15:18.000]   Just describing them as clearly, as deeply, as precisely as possible.
+[01:15:18.000 --> 01:15:34.000]   And by doing so, they were also trying to organize the rules created by democratic bodies with the power to create them
+[01:15:34.000 --> 01:15:42.000]   in order to show or to fix conflicts.
+[01:15:42.000 --> 01:15:56.000]   Well, that's pretty funny. I don't want to get too deep into this brief history and brief introduction to the legal system
+[01:15:56.000 --> 01:16:02.000]   because I don't want it to be too complicated. Otherwise, you wouldn't probably understand too much.
+[01:16:02.000 --> 01:16:23.000]   You would be overwhelmed by the amount of information I'm providing you, but still,
+[01:16:23.000 --> 01:16:34.000]   the democratic body representing the will of the people, the parliament, or more abstractly, the legislator
+[01:16:34.000 --> 01:16:50.000]   is perceived as being rational with full information, with the capacity, with the perfect knowledge of the legal system.
+[01:16:50.000 --> 01:17:02.000]   And from that assumption, we derive the fact that the legal system must be a system coherent without contradictions,
+[01:17:02.000 --> 01:17:12.000]   without any lack of rules, without imperfection.
+[01:17:12.000 --> 01:17:25.000]   And so the role of the legal scholar is to describe that system and make that system clear when it is not.
+[01:17:25.000 --> 01:17:36.000]   As I said, those are assumptions. If we look at Italian legislation, make reference to something I have some knowledge of,
+[01:17:36.000 --> 01:17:44.000]   well, we would see that Italian legislation is just a big mess with a huge number of contradictions,
+[01:17:44.000 --> 01:17:53.000]   far, very far from being a system.
+[01:17:53.000 --> 01:18:12.000]   Still, as a legal scholar, I perceive my role exactly as the role of a scientist studying, I don't know,
+[01:18:12.000 --> 01:18:27.000]   as the role of a scientist, as the role of a scientist studying stars and classifying them, or scientists studying animals and classifying them according to their nature, to their region,
+[01:18:27.000 --> 01:18:32.000]   to their behavior, and so on and so forth.
+[01:18:32.000 --> 01:18:40.000]   That's what I mean with a scientific approach to the legal system.
+[01:18:40.000 --> 01:18:48.000]   I have an object, the legal system, and I have to study that complex system.
+[01:18:48.000 --> 01:19:02.000]   And I studied by organizing the rules which form the system itself.
+[01:19:02.000 --> 01:19:18.000]   Let's try to find some criteria in order to organize those rules.
+[01:19:18.000 --> 01:19:36.000]   Those criteria will help me divide the labor among legal scholars, because since the parliament really enjoys the power to create rules,
+[01:19:36.000 --> 01:19:50.000]   every parliament in the world started creating rules at the pace legal scholars have very difficult time in catching up.
+[01:19:50.000 --> 01:20:05.000]   Maybe I have to rephrase the last sentence. What I was trying to say is that the number of rules created by parliaments has increased so much.
+[01:20:05.000 --> 01:20:17.000]   That not any single mind can keep them together and have full knowledge of all of them.
+[01:20:17.000 --> 01:20:27.000]   And so even among legal scholars, we have to divide our job in different sectors.
+[01:20:27.000 --> 01:20:43.000]   In the hope that each sector contains a small number, a number of rules, which is small enough to be managed by a single mind.
+[01:20:43.000 --> 01:20:51.000]   Well, far from it, but anyway, we are trying to do that.
+[01:20:51.000 --> 01:21:10.000]   And so the next time we will briefly see the different labor divisions among legal scholars.
+[01:21:10.000 --> 01:21:27.000]   We will see constitutional law and constitutional legal scholars, what they are studying. We will see criminal lawyers, what they are studying administrative lawyers, what they are studying, and so on, and so forth.
+[01:21:27.000 --> 01:21:42.000]   But I believe that we are running out of time. So I'm going to ask you if you have any other questions.
+[01:21:42.000 --> 01:21:58.000]   Go back to.
+[01:21:58.000 --> 01:22:06.000]   Okay, so do. Did we solve the problem we had last time I believe yes.
+[01:22:06.000 --> 01:22:24.000]   I hope you will. Well, I don't know whether you enjoyed my lecture. That's not the problem. Actually, my only concern is whether the lecture was
+[01:22:24.000 --> 01:22:38.000]   about whether you had the possibility to understand at least something or what I said.
+[01:22:38.000 --> 01:22:43.000]   If you can give me a very. Yes, thank you very much.
+[01:22:43.000 --> 01:22:48.000]   Yeah.
+[01:22:48.000 --> 01:23:08.000]   Oh, clear. Thank you. Thank you. Okay, so I recorded this lecture, I will download that. That's a very complicated procedure because I have to download the video recording and then upload that in in in culture.
+[01:23:08.000 --> 01:23:33.000]   I will do that as soon as possible. I will see you on Wednesday at 1030, we will be using these very same link. So these very same zoom room. I don't know whether you have the proposal to change and switch to Google meta.
+[01:23:33.000 --> 01:23:43.000]   I don't like zoom. If I must tell you the truth. But anyway,
+[01:23:43.000 --> 01:24:02.000]   we may change to Google meet. I'm not sure if recording the lectures with Google meta and sharing the desktop is as easy as it is with a zoom. Anyway, we have also that opportunity.
+[01:24:02.000 --> 01:24:11.000]   Okay, so thank you very much for your attention. As I said, I will meet you on Wednesday.
+[01:24:11.000 --> 01:24:21.000]   On Thursday or Friday, I will try to upload a third lecture so that we could.
+[01:24:21.000 --> 01:24:33.000]   My plan is by the end of the next week to have done all the six lectures and so not to leave anything behind. Okay.
+[01:24:33.000 --> 01:24:38.000]   Okay, thank you very much. I will see you
+[01:24:38.000 --> 01:24:40.000]   Wednesday.
+[01:24:40.000 --> 01:24:47.000]   Thank you.
+
+
+whisper_print_timings:     load time =   121.33 ms
+whisper_print_timings:     fallbacks =   2 p /   1 h
+whisper_print_timings:      mel time =  3777.79 ms
+whisper_print_timings:   sample time =  4818.31 ms /  9627 runs (    0.50 ms per run)
+whisper_print_timings:   encode time = 1035264.69 ms /   235 runs ( 4405.38 ms per run)
+whisper_print_timings:   decode time = 103106.91 ms /  9389 runs (   10.98 ms per run)
+whisper_print_timings:   prompt time = 161929.36 ms /   236 runs (  686.14 ms per run)
+whisper_print_timings:    total time = 1309154.88 ms
+whisper_init_from_file_no_state: loading model from 'models/ggml-small.en.bin'
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51864
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 768
+whisper_model_load: n_audio_head  = 12
+whisper_model_load: n_audio_layer = 12
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 768
+whisper_model_load: n_text_head   = 12
+whisper_model_load: n_text_layer  = 12
+whisper_model_load: n_mels        = 80
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 3
+whisper_model_load: adding 1607 extra tokens
+whisper_model_load: model ctx     =  464.68 MB
+whisper_model_load: model size    =  464.44 MB
+whisper_init_state: kv self size  =   15.75 MB
+whisper_init_state: kv cross size =   52.73 MB
+whisper_init_state: compute buffer (conv)   =   19.96 MB
+whisper_init_state: compute buffer (encode) =  122.04 MB
+whisper_init_state: compute buffer (cross)  =    5.86 MB
+whisper_init_state: compute buffer (decode) =   36.17 MB
+
+system_info: n_threads = 6 / 8 | AVX = 1 | AVX2 = 1 | AVX512 = 0 | FMA = 1 | NEON = 0 | ARM_FMA = 0 | METAL = 0 | F16C = 1 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 0 | SSE3 = 1 | SSSE3 = 1 | VSX = 0 | COREML = 0 | OPENVINO = 0 |
+
+main: processing '../Downloads/lecture-0_2.wav' (84646952 samples, 5290.4 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:13.780]   Okay, sorry I'm a bit late. Sorry I didn't upload our first lecture, but I have to edit
+[00:00:13.780 --> 00:00:24.800]   it because it was cut into pieces. Moreover, if you don't mind, I would like you not to
+[00:00:24.800 --> 00:00:33.600]   join our meeting too early because it will start recording, so then I have to cut and
+[00:00:33.600 --> 00:00:43.800]   edit the video quite a lot, which is a bit troublesome, not a real problem anyway, if
+[00:00:43.800 --> 00:00:55.120]   you can. Okay, so please remember that if you want to ask a question, you can use the
+[00:00:55.120 --> 00:01:04.040]   chat obviously, but since I'm not able to keep track of the chat when I'm sharing my
+[00:01:04.040 --> 00:01:13.000]   desktop, I would like also to use the "rise your hand" or something like that in Zoom,
+[00:01:13.000 --> 00:01:31.280]   so I can be reminded that there is a question in the chat room. Okay, so first of all, let
+[00:01:31.280 --> 00:01:54.920]   me share my desktop. Okay, last time I, well, what I did last time was actually quite, how
+[00:01:54.920 --> 00:02:08.080]   can I say, quite, it was an attempt in an hour and a half to give you a very brief and
+[00:02:08.080 --> 00:02:18.240]   short overview of the historical development of the Western legal tradition and you know,
+[00:02:18.240 --> 00:02:30.400]   the Western legal tradition spans over more than 2,000 years, so that was obviously very,
+[00:02:30.400 --> 00:02:47.040]   very, just a very brief summary to point out some of the main character of that tradition,
+[00:02:47.040 --> 00:03:04.920]   and if you remember, we stopped, well, let me rephrase, and we ended up talking about
+[00:03:04.920 --> 00:03:16.480]   the importance of the French and the American Revolution, because after those revolutions,
+[00:03:16.480 --> 00:03:28.080]   we had quite a deep change in our perception of how rules, legal rules should be created,
+[00:03:28.080 --> 00:03:35.720]   and we talked about the division of power, and we talked about the fact that the power
+[00:03:35.720 --> 00:03:49.920]   to create rules is basically linked with the will of the people, which in Western democracies,
+[00:03:49.920 --> 00:03:59.800]   in Western contemporary democracies, means basically that the legislative power has,
+[00:03:59.800 --> 00:04:12.440]   is the power exercised by Parliament of elected representatives of the people, we call that
+[00:04:12.440 --> 00:04:23.600]   representative democracy, and I told you that after that change in our perspective on rule
+[00:04:23.600 --> 00:04:34.400]   creation, also the role of legal scholars started to change, and whereas before legal
+[00:04:34.400 --> 00:04:44.360]   scholars were trying to provide new solutions for new problems, we will say that, well,
+[00:04:44.360 --> 00:04:51.320]   I don't know whether we will have time to dig into that, but there are parts of the
+[00:04:51.320 --> 00:05:00.480]   legal systems which have been basically created by legal scholarship, specifically contract
+[00:05:00.480 --> 00:05:14.040]   and property law, but after that, after those revolutions, the role of legal scholarship
+[00:05:14.040 --> 00:05:27.080]   was confined within the boundaries of a scientific approach, which, as you can see, consists
+[00:05:27.080 --> 00:05:35.920]   in the categorization of legal rules according to their origin and their content.
+[00:05:35.920 --> 00:05:47.320]   That led to a division of labor among legal scholars, each one focusing on a small portion
+[00:05:47.320 --> 00:05:49.000]   of the legal system.
+[00:05:49.000 --> 00:05:59.720]   Moreover, I told you that when we started perceiving the law as a tool for social control,
+[00:05:59.720 --> 00:06:10.280]   out of technology to shape human behavior, we have seen a huge growth of the number of
+[00:06:10.280 --> 00:06:13.840]   rules created by the Parliament.
+[00:06:13.840 --> 00:06:30.680]   That led actually to something new which was not actually unheard of before, but had a
+[00:06:30.680 --> 00:06:47.520]   new strength, so to speak.
+[00:06:47.520 --> 00:06:57.360]   This is what we called codification, the fact that with a growing number of rules, there
+[00:06:57.360 --> 00:07:08.280]   was the perception that those rules should be somehow coordinated even by the legislator,
+[00:07:08.280 --> 00:07:24.440]   and that led to the creation of codes, which are basically laws pertaining to a certain
+[00:07:24.440 --> 00:07:34.360]   domain and united within a system.
+[00:07:34.360 --> 00:07:45.400]   To give you an example, a civil code or a code of criminal procedure or a commercial code.
+[00:07:45.400 --> 00:08:02.160]   We will see that the civil code tries to create a system of coherent rules pertaining the relationship
+[00:08:02.160 --> 00:08:05.280]   among private individuals.
+[00:08:05.280 --> 00:08:21.880]   A criminal law code or a criminal code instead is just the code containing all the rules defining
+[00:08:21.880 --> 00:08:26.680]   crimes and punishment and so on and so forth.
+[00:08:26.680 --> 00:08:35.320]   The growing number of rules created by the Parliament led to the necessity of creating
+[00:08:35.320 --> 00:08:36.320]   a system.
+[00:08:36.320 --> 00:08:43.640]   But as I told you last time, we are talking about a legal system because we believe that
+[00:08:43.640 --> 00:08:59.520]   every rule created by a legislator should fit within a body, a coherent body of rules.
+[00:08:59.520 --> 00:09:15.640]   Going back to the work of legal scholars and their attempt to describe the system of rules,
+[00:09:15.640 --> 00:09:27.680]   we started dividing the rules and categorizing them according to their role and their nature
+[00:09:27.680 --> 00:09:32.760]   and their region and their content.
+[00:09:32.760 --> 00:09:38.320]   Within the Western legal tradition, we have a basic dichotomy, which is public law versus
+[00:09:38.320 --> 00:09:40.440]   private law.
+[00:09:40.440 --> 00:09:46.680]   As you see here in my definition, public law is the area of the law governing the relationship
+[00:09:46.680 --> 00:09:53.200]   between individuals, citizens and companies, and the state.
+[00:09:53.200 --> 00:10:09.640]   Where the state has a sort of superior legal status compared to the status of citizens
+[00:10:09.640 --> 00:10:11.320]   and companies.
+[00:10:11.320 --> 00:10:24.240]   Which basically means that public law is the set of rules where citizens must obey somehow
+[00:10:24.240 --> 00:10:37.840]   to the superior powers of the state.
+[00:10:37.840 --> 00:10:44.080]   But even public law has been subdivided into different legal topics.
+[00:10:44.080 --> 00:10:49.120]   We have constitutional law, we have administrative law, we have criminal law and so on and so
+[00:10:49.120 --> 00:10:51.480]   forth.
+[00:10:51.480 --> 00:11:01.480]   We have a macro-category public law, which is then subdivided into smaller area.
+[00:11:01.480 --> 00:11:07.280]   We will very briefly look at that.
+[00:11:07.280 --> 00:11:11.320]   The second part of the dichotomy is private law.
+[00:11:11.320 --> 00:11:17.160]   Private law is that part of the legal system that involves relationships between individuals,
+[00:11:17.160 --> 00:11:30.640]   such as the law of contract or towards the law of obligation and so on and so forth.
+[00:11:30.640 --> 00:11:39.200]   The main character of private law is the fact that individuals are sort of equal before the
+[00:11:39.200 --> 00:11:40.200]   law.
+[00:11:40.200 --> 00:11:50.920]   That is to say, you do not have a party which is more powerful of another.
+[00:11:50.920 --> 00:12:02.280]   And unlike public law where the state has powers which can be exercised over private
+[00:12:02.280 --> 00:12:11.920]   individuals, instead within the domain of private law, individuals are equal.
+[00:12:11.920 --> 00:12:20.680]   And we will say that in order to create relationship among those individuals, everyone involved
+[00:12:20.680 --> 00:12:30.960]   in the relationship must give her or his consent in order to create the relationship.
+[00:12:30.960 --> 00:12:37.920]   Whereas instead, within the domain of public law, consent is not needed.
+[00:12:37.920 --> 00:12:54.240]   The state has the power to use violence, the force to pretend given behavior by individuals.
+[00:12:54.240 --> 00:13:04.600]   And if they do not comply, the state will have the power to enforce those rules without
+[00:13:04.600 --> 00:13:11.400]   any intervention of the individual's will.
+[00:13:11.400 --> 00:13:23.600]   As I said, and now we are talking briefly about public law, public law has been subdivided
+[00:13:23.600 --> 00:13:31.320]   into many different subdomains.
+[00:13:31.320 --> 00:13:42.800]   And one of the most important ones, sorry, the most important one is constitutional law.
+[00:13:42.800 --> 00:13:46.440]   This is a definition taken from Wikipedia.
+[00:13:46.440 --> 00:13:54.280]   Constitutional law is the study of foundational laws that govern the scope of powers and authorities
+[00:13:54.280 --> 00:14:04.200]   of various bodies in relation to the creation and execution of other laws by a government.
+[00:14:04.200 --> 00:14:16.240]   That's quite interesting because basically constitutional law is the set of rules regulating
+[00:14:16.240 --> 00:14:30.000]   the organization of the state, but also it defines the basic freedoms and rights of individuals
+[00:14:30.000 --> 00:14:35.320]   being governed by that state.
+[00:14:35.320 --> 00:14:44.280]   And as you may understand, constitutional law is something which is present even without
+[00:14:44.280 --> 00:14:47.760]   a written constitution.
+[00:14:47.760 --> 00:15:01.080]   But and that's one of the most interesting aspects of the French and the American revolutions.
+[00:15:01.080 --> 00:15:10.320]   Within the Western legal tradition, we came up with the idea that we should have a written
+[00:15:10.320 --> 00:15:22.200]   constitution stating how explicitly, how the state is organized, which are the powers,
+[00:15:22.200 --> 00:15:33.120]   the legislative power, the judiciary power, and the administrative powers.
+[00:15:33.120 --> 00:15:44.680]   And also the constitution must provide an explicit set of individual rights.
+[00:15:44.680 --> 00:15:51.560]   But we need also to keep in mind that this is not always true.
+[00:15:51.560 --> 00:16:01.000]   For instance, one of the major legal systems, one of the most important legal system belonging
+[00:16:01.000 --> 00:16:08.640]   to the Western legal tradition, I referring to the legal system of the United Kingdom,
+[00:16:08.640 --> 00:16:16.080]   doesn't have a written constitution.
+[00:16:16.080 --> 00:16:27.720]   And instead in the United States, which is a legal system directly derived from the UK
+[00:16:27.720 --> 00:16:28.720]   legal system.
+[00:16:28.720 --> 00:16:33.280]   Remember the United States were a colony of the United Kingdom.
+[00:16:33.280 --> 00:16:38.400]   Instead in the United States, we do have a written constitution.
+[00:16:38.400 --> 00:16:44.880]   We have a written constitution, which it's a short one.
+[00:16:44.880 --> 00:16:53.000]   And it organizes the United States at the federal level.
+[00:16:53.000 --> 00:17:04.800]   Indeed, we do have also 50 state constitutions, which are organized in the state at the state
+[00:17:04.800 --> 00:17:08.360]   level.
+[00:17:08.360 --> 00:17:14.120]   And at the federal level, we have that small constitution.
+[00:17:14.120 --> 00:17:21.280]   But right after the adoption of that constitution, a new part of that constitution was created
+[00:17:21.280 --> 00:17:35.840]   and that part is called the Bill of Rights, which basically sets a few basic and fundamental
+[00:17:35.840 --> 00:17:47.360]   rights that every United States citizens enjoy.
+[00:17:47.360 --> 00:18:02.200]   As I said, constitutional law has been present everywhere in every community, which organized
+[00:18:02.200 --> 00:18:06.760]   with a central authority we call the state.
+[00:18:06.760 --> 00:18:14.600]   But written constitutions instead are a very recent phenomenon.
+[00:18:14.600 --> 00:18:20.440]   As I said, public law does not consist only in constitutional law.
+[00:18:20.440 --> 00:18:28.400]   We also have other domains which are part of public law.
+[00:18:28.400 --> 00:18:35.440]   The two most important domains, I believe, are criminal law and administrative law.
+[00:18:35.440 --> 00:18:43.320]   Criminal law, which is also known as penal law, that's the European terminology, is the
+[00:18:43.320 --> 00:18:49.120]   body of rules that punishes criminals for committing offenses against the state or other
+[00:18:49.120 --> 00:18:53.440]   individuals or organizations.
+[00:18:53.440 --> 00:18:57.360]   Why is that part of public law?
+[00:18:57.360 --> 00:19:13.160]   Because basically the power to punish by confining people in prison or even--
+[00:19:13.160 --> 00:19:29.000]   We have a very huge amount of different type of punishment from corporal punishments to
+[00:19:29.000 --> 00:19:32.800]   death penalty and so on and so forth.
+[00:19:32.800 --> 00:19:39.560]   But every time we are talking about criminal law, we are talking about the power of the
+[00:19:39.560 --> 00:19:53.440]   state to impose over individuals a punishment if after a procedure someone is found guilty
+[00:19:53.440 --> 00:19:57.480]   of criminal offense.
+[00:19:57.480 --> 00:20:02.480]   Administrative law instead is the body of law that arises from the activity of the administrative
+[00:20:02.480 --> 00:20:07.480]   agencies of the government.
+[00:20:07.480 --> 00:20:13.240]   Also administrative law is very important from our perspective because it quite deeply
+[00:20:13.240 --> 00:20:18.400]   defines the Western legal tradition.
+[00:20:18.400 --> 00:20:25.320]   After the French and the American revolutions, we believe that administrative agencies of
+[00:20:25.320 --> 00:20:32.400]   the government must behave according to legal rules.
+[00:20:32.400 --> 00:20:42.520]   They are not allowed to take actions if there is not a law giving them the power to take
+[00:20:42.520 --> 00:20:44.520]   action.
+[00:20:44.520 --> 00:20:52.000]   That's the reason why within the Western legal tradition, administrative law is very important
+[00:20:52.000 --> 00:21:00.520]   and together with constitutional law defines the organizations and the power of the state
+[00:21:00.520 --> 00:21:05.040]   over private citizens.
+[00:21:05.040 --> 00:21:15.480]   Then we have private law and as I said, private law is the domain of the legal system which
+[00:21:15.480 --> 00:21:24.440]   defines legal relationships among individuals and private organizations.
+[00:21:24.440 --> 00:21:29.800]   That can be also divided into different subdomains.
+[00:21:29.800 --> 00:21:39.280]   For instance, civil law which regulates the economic relationships among persons and private
+[00:21:39.280 --> 00:21:42.640]   organizations.
+[00:21:42.640 --> 00:21:49.880]   For instance, I think yes, we will talk about that later on, but for instance, contract
+[00:21:49.880 --> 00:21:58.560]   law liability rules and stuff like property are belonging to civil law.
+[00:21:58.560 --> 00:22:07.560]   That family law regulates economic and non-economic relationships between married individuals and
+[00:22:07.560 --> 00:22:15.160]   between them and their children.
+[00:22:15.160 --> 00:22:23.720]   We believe that, we lawyers believe that private civil law and family law are two distinct
+[00:22:23.720 --> 00:22:31.400]   bodies of rules because whereas civil law only deals with economic relationship among
+[00:22:31.400 --> 00:22:41.000]   individuals, family law deals with economic and non-economic relationships.
+[00:22:41.000 --> 00:22:52.480]   Think for instance, the relationship between parents and children.
+[00:22:52.480 --> 00:22:57.440]   Or the relationship among married individuals.
+[00:22:57.440 --> 00:23:05.080]   We do have some economic type of relationship.
+[00:23:05.080 --> 00:23:11.840]   Married individuals must support each other economically.
+[00:23:11.840 --> 00:23:20.600]   But there are also non-economic type of relationship of legal relationships.
+[00:23:20.600 --> 00:23:27.280]   The duty of the parents to take care of the education of their children for instance,
+[00:23:27.280 --> 00:23:38.360]   that's not an economically defined legal relation.
+[00:23:38.360 --> 00:23:44.640]   That's outside the boundaries of economic relations.
+[00:23:44.640 --> 00:23:47.560]   Then we have commercial law.
+[00:23:47.560 --> 00:23:54.800]   Commercial law is quite interesting because unlike civil law and family law which have
+[00:23:54.800 --> 00:24:04.400]   been basically created at first by legal scholarship but later on after the revolutions we have
+[00:24:04.400 --> 00:24:12.400]   been talking about, civil law and family law has been codified by the legislator.
+[00:24:12.400 --> 00:24:28.320]   Where the commercial law has been created by you know, entrepreneurs.
+[00:24:28.320 --> 00:24:38.120]   It was a sort of customary law which has been created by commercial practices.
+[00:24:38.120 --> 00:24:47.680]   We will not dig into commercial law obviously but if we think about economic organizations
+[00:24:47.680 --> 00:25:11.040]   like corporations or like commercial contracts, these are the result of a sort of repetition
+[00:25:11.040 --> 00:25:28.000]   of commercial practices which have been perceived after some time as mandatory.
+[00:25:28.000 --> 00:25:38.560]   So unlike civil law and family law, commercial law has been created by the practice of firms
+[00:25:38.560 --> 00:25:48.680]   and economic organizations and only in a second time those practices have been codified into
+[00:25:48.680 --> 00:25:51.920]   legal rules.
+[00:25:51.920 --> 00:25:58.360]   That's the reason why I'm talking about commercial law because it's a quite peculiar domain of
+[00:25:58.360 --> 00:26:10.680]   the legal system where rules have been codified but have not been created explicitly by a
+[00:26:10.680 --> 00:26:12.800]   legislator.
+[00:26:12.800 --> 00:26:20.640]   The legislator at some point in history decided to codify those rules but those rules were
+[00:26:20.640 --> 00:26:29.480]   taken from the practical behavior of firms and other economic entities and that's quite
+[00:26:29.480 --> 00:26:32.560]   interesting.
+[00:26:32.560 --> 00:26:43.640]   As I said civil law regulates economic relationships among individuals and collective entities
+[00:26:43.640 --> 00:26:57.000]   like private organizations and it is usually divided into three subdomains, contract law,
+[00:26:57.000 --> 00:27:00.880]   civil liability and property law.
+[00:27:00.880 --> 00:27:13.040]   As you may understand civil law has quite a huge impact on the topic we will be covering
+[00:27:13.040 --> 00:27:19.000]   later on which is intellectual property because we will see that intellectual property has
+[00:27:19.000 --> 00:27:28.800]   been somehow shaped by taking property law as a reference.
+[00:27:28.800 --> 00:27:43.280]   By contract law, this is another important part of the story we are going to dig into.
+[00:27:43.280 --> 00:27:47.880]   Contract law pertains to the formation and the conclusion of contracts and contracts
+[00:27:47.880 --> 00:27:58.760]   are legal relationship among private individuals which bind them to a certain set of rules
+[00:27:58.760 --> 00:28:03.280]   created by the contract.
+[00:28:03.280 --> 00:28:13.840]   In the Italian civil code when talking about the effect of the contract the code says that
+[00:28:13.840 --> 00:28:25.360]   the contract is like the law created by individuals part of the contract and so the contract is
+[00:28:25.360 --> 00:28:27.640]   their law.
+[00:28:27.640 --> 00:28:38.760]   A contract is a way of creating rules pertaining a private relationship between the parties
+[00:28:38.760 --> 00:28:49.520]   of the contract.
+[00:28:49.520 --> 00:28:58.920]   We will see that this is quite important because contract law is the body of rules that defines
+[00:28:58.920 --> 00:29:02.240]   for instance software licenses.
+[00:29:02.240 --> 00:29:13.640]   Even though when we will be talking about software licenses we will see that there are
+[00:29:13.640 --> 00:29:23.920]   differences even within the Western legal tradition about the nature of a software license.
+[00:29:23.920 --> 00:29:31.920]   In Europe a software license is a contract and it is regulated by contract law.
+[00:29:31.920 --> 00:29:37.440]   Whereas instead in the United States a software license is not perceived as a contract.
+[00:29:37.440 --> 00:29:45.120]   Well there are different opinions actually some legal scholars believe that software
+[00:29:45.120 --> 00:29:51.200]   licenses are a contract whereas others do not believe that.
+[00:29:51.200 --> 00:30:02.520]   Anyway we will see that from a European perspective contract law has quite an impact on software
+[00:30:02.520 --> 00:30:06.120]   licenses.
+[00:30:06.120 --> 00:30:19.840]   Civil liability instead is a different domain where we can find the rules taken into account
+[00:30:19.840 --> 00:30:37.640]   unwanted relationship created by the interference among private activities.
+[00:30:37.640 --> 00:30:41.400]   Common example is a car accident.
+[00:30:41.400 --> 00:30:52.040]   If I have a car accident and I injure someone well according to the principles of civil
+[00:30:52.040 --> 00:30:57.200]   liability I will have to pay damages.
+[00:30:57.200 --> 00:31:11.000]   So the very fact of injuring someone creates a new unwanted legal relationship between
+[00:31:11.000 --> 00:31:25.240]   the victim and the insurer which gives origin to a duty to restore the victim by paying
+[00:31:25.240 --> 00:31:29.360]   damages.
+[00:31:29.360 --> 00:31:38.960]   That's not very interesting for our perspective and for our course but still it's worth mentioning
+[00:31:38.960 --> 00:31:41.320]   it.
+[00:31:41.320 --> 00:31:51.120]   We will probably be talking a bit about civil liability when talking about you know software
+[00:31:51.120 --> 00:32:01.040]   failures and we will see that usually software licenses provide a very strong limitation
+[00:32:01.040 --> 00:32:11.600]   of liability of the producer of the software towards the user of the software.
+[00:32:11.600 --> 00:32:20.920]   Basically the user of the software is not entitled to any form of damage when a software
+[00:32:20.920 --> 00:32:27.720]   failure creates damage creates a loss.
+[00:32:27.720 --> 00:32:36.400]   Even though as you probably have experienced many times a software failure may lead to
+[00:32:36.400 --> 00:32:38.080]   a loss.
+[00:32:38.080 --> 00:32:47.040]   I mean if you forget to save your file and you have been working the whole night for
+[00:32:47.040 --> 00:32:54.680]   finishing your paper for the course of privacy and intellectual property right well you're
+[00:32:54.680 --> 00:33:04.080]   going to allow to suffer quite a huge loss but unfortunately there is no way to get damages
+[00:33:04.080 --> 00:33:18.360]   if the loss was caused by a software bug and that has quite interesting consequences on
+[00:33:18.360 --> 00:33:27.040]   the market of software as we will see and also probably on the general security of software
+[00:33:27.040 --> 00:33:36.080]   infrastructures we will come we will probably come to that.
+[00:33:36.080 --> 00:33:41.460]   And then there is property law and property law is very important well first of all because
+[00:33:41.460 --> 00:33:49.880]   property law is I believe at the very core of the Western legal tradition.
+[00:33:49.880 --> 00:33:59.400]   The Western legal tradition is expression of an economic order and that economic order
+[00:33:59.400 --> 00:34:04.640]   is based on private property.
+[00:34:04.640 --> 00:34:14.400]   So you are too young to remember that one of the major distinction between legal systems
+[00:34:14.400 --> 00:34:24.080]   until the beginning of the 90s of the last century was the contraposition among between
+[00:34:24.080 --> 00:34:30.280]   the Western legal tradition and what at that time was called the Eastern legal tradition
+[00:34:30.280 --> 00:34:33.520]   or the socialist legal tradition.
+[00:34:33.520 --> 00:34:40.640]   And the major difference between those two traditions was indeed related to property
+[00:34:40.640 --> 00:34:43.420]   law.
+[00:34:43.420 --> 00:34:52.080]   Property law in the Western legal tradition is based on the concept of private property
+[00:34:52.080 --> 00:35:05.440]   whereas instead in the socialist tradition property law was defining a collective type
+[00:35:05.440 --> 00:35:08.800]   of ownership.
+[00:35:08.800 --> 00:35:18.040]   Private property was confined within very strict boundaries you could be the owner of
+[00:35:18.040 --> 00:35:30.440]   some basic goods like a car maybe a flatter or a house but it was not possible to have
+[00:35:30.440 --> 00:35:36.520]   a property right over an enterprise.
+[00:35:36.520 --> 00:35:46.200]   And that was the major distinction about those two legal and economic orders.
+[00:35:46.200 --> 00:35:57.000]   So if I would have to define the Western economies I would say that they are based on property
+[00:35:57.000 --> 00:36:00.580]   and contra.
+[00:36:00.580 --> 00:36:11.760]   Property defines an exclusive right over resources and exclusive rights are from an economic
+[00:36:11.760 --> 00:36:17.000]   perspective are very easily defined.
+[00:36:17.000 --> 00:36:25.480]   I have a property right over this pen which means that I have an exclusive right over
+[00:36:25.480 --> 00:36:38.260]   this pen and that means that I have the right to exclude everyone else from using this pen.
+[00:36:38.260 --> 00:36:51.640]   So from an economic perspective property right equals right to exclude equals exclusive right.
+[00:36:51.640 --> 00:36:57.480]   These are three ways of defining the same phenomenon.
+[00:36:57.480 --> 00:37:08.160]   And so generally speaking property rights define an exclusive right over resources that
+[00:37:08.160 --> 00:37:17.560]   is to say that there is one owner of the resource and the owner of the resource has the right
+[00:37:17.560 --> 00:37:25.100]   to exclude everyone else from enjoying the resource.
+[00:37:25.100 --> 00:37:37.360]   And then the second defining block of the Western legal economic order is contra.
+[00:37:37.360 --> 00:37:49.680]   Because with contracts you may transfer that exclusive right over the resource which basically
+[00:37:49.680 --> 00:37:57.400]   means that you can take this pen and sell it to someone else.
+[00:37:57.400 --> 00:38:01.120]   But the sell is a contract.
+[00:38:01.120 --> 00:38:10.000]   It's a relationship created by the will of the people wanting to share well wanting to
+[00:38:10.000 --> 00:38:19.400]   exchange a resource pen with another resource the money to buy it.
+[00:38:19.400 --> 00:38:29.440]   So it is fair to say that contract law and property law define a legal but also an economic
+[00:38:29.440 --> 00:38:35.160]   order what we call the market based economy.
+[00:38:35.160 --> 00:38:49.200]   With market based economy we mean that economic production and economic exchange happen in
+[00:38:49.200 --> 00:38:59.400]   a marketplace through contract by exchanging rights defined by property law.
+[00:38:59.400 --> 00:39:16.200]   And we will say that those two basic blocks of the economic order have been taken to shape
+[00:39:16.200 --> 00:39:22.000]   also what we call intellectual property.
+[00:39:22.000 --> 00:39:29.840]   And related to intellectual property which defines rights over intellectual resources
+[00:39:29.840 --> 00:39:42.880]   we have licensing or licensing and contracts to exchange those resources.
+[00:39:42.880 --> 00:39:51.000]   To just give you an example when I write a piece of software I acquire a property an
+[00:39:51.000 --> 00:39:56.080]   intellectual property right over that piece of software.
+[00:39:56.080 --> 00:40:04.880]   That means that I have a right to exclude everyone else from using or even studying
+[00:40:04.880 --> 00:40:11.680]   or even looking at the software I created.
+[00:40:11.680 --> 00:40:20.920]   Contract law a license as I said in different legal systems a license may be a contract
+[00:40:20.920 --> 00:40:30.320]   or may not be a contract but that doesn't matter at this point.
+[00:40:30.320 --> 00:40:44.200]   A license contract is the tool I may be using to give someone else permission to use or
+[00:40:44.200 --> 00:40:52.600]   to study or even to share the software I created.
+[00:40:52.600 --> 00:41:02.480]   So intellectual property is based on rules belonging to the civil law domain but they
+[00:41:02.480 --> 00:41:16.880]   have some specificity that we will have to describe discover because I will try to argue
+[00:41:16.880 --> 00:41:27.280]   in a few minutes probably that intellectual property is not property it is something different
+[00:41:27.280 --> 00:41:30.320]   with a different regulation.
+[00:41:30.320 --> 00:41:41.680]   But from a very abstract perspective from the from an economic perspective I should
+[00:41:41.680 --> 00:41:56.960]   say that there are very much similarities between property the real stuff and intellectual
+[00:41:56.960 --> 00:42:11.720]   property because both clearly define an exclusive right over resources and even though property
+[00:42:11.720 --> 00:42:25.880]   defines exclusive rights over physical resources whereas instead intellectual property defines
+[00:42:25.880 --> 00:42:36.440]   exclusive rights over known physical resources both define an exclusive right that can be
+[00:42:36.440 --> 00:42:43.680]   traded in the marketplace through the use of a contract.
+[00:42:43.680 --> 00:42:53.160]   A contract of sale when talking about physical property and the license when talking about
+[00:42:53.160 --> 00:43:01.360]   intellectual property.
+[00:43:01.360 --> 00:43:08.400]   But that's not it so far we have been talking about you remember let me go back to the first
+[00:43:08.400 --> 00:43:21.040]   page for a second you remember well first of all is there any question no so everything
+[00:43:21.040 --> 00:43:29.840]   is clear I assume you remember we started our definition by talking of a community of
+[00:43:29.840 --> 00:43:41.320]   people in a given territory and and I said that that definition is a typical definition
+[00:43:41.320 --> 00:43:47.760]   of the law within the western legal tradition.
+[00:43:47.760 --> 00:43:56.520]   You know a community of people in a given territory regulated by a body of rules is
+[00:43:56.520 --> 00:44:05.520]   what we define is our sorry it's how we define the state.
+[00:44:05.520 --> 00:44:18.000]   The state is composed of three components as we said the legal system the body of rules
+[00:44:18.000 --> 00:44:25.880]   the community of people the people you remember the United States declaration of independence
+[00:44:25.880 --> 00:44:34.060]   we the people of the United States so the people and the territory.
+[00:44:34.060 --> 00:44:44.880]   And as I said the territory is the you know physical boundary within which the rules of
+[00:44:44.880 --> 00:44:56.980]   the legal system apply to the community of people which are bound by by by by by those
+[00:44:56.980 --> 00:44:59.520]   rules.
+[00:44:59.520 --> 00:45:15.200]   So within the western legal tradition.
+[00:45:15.200 --> 00:45:21.640]   Within the western legal tradition.
+[00:45:21.640 --> 00:45:34.120]   The legal system is a national phenomenon also because nation nations and states.
+[00:45:34.120 --> 00:45:42.480]   Particularly in Europe have probably similar meanings well.
+[00:45:42.480 --> 00:45:47.120]   That's not entirely true when we're talking when we are talking about a nation we are
+[00:45:47.120 --> 00:45:53.920]   not just talking about the legal system and the state we are also talking about cultural
+[00:45:53.920 --> 00:46:01.840]   links.
+[00:46:01.840 --> 00:46:09.800]   Binding together the people and thus form in the community.
+[00:46:09.800 --> 00:46:20.400]   But traditionally. Traditionally within the western legal tradition the the the the legal
+[00:46:20.400 --> 00:46:27.320]   system is a national.
+[00:46:27.320 --> 00:46:31.360]   Phenomenon.
+[00:46:31.360 --> 00:46:46.040]   But then there are legal domains where a single nation or a single state is powerless.
+[00:46:46.040 --> 00:46:51.360]   Or may become powerless.
+[00:46:51.360 --> 00:47:06.520]   Think about war. To fight in states may lead to the annihilation of one of them.
+[00:47:06.520 --> 00:47:15.000]   Which is being acquired by the first one.
+[00:47:15.000 --> 00:47:29.200]   But there are others other domains where international cooperation is needed.
+[00:47:29.200 --> 00:47:34.480]   And intellectual property is one of them.
+[00:47:34.480 --> 00:47:39.360]   We will see by looking at the ease of the copyright that.
+[00:47:39.360 --> 00:47:49.840]   Protecting an author of a piece of software or novel or book or poem or song or whatever
+[00:47:49.840 --> 00:47:55.400]   or piece of music in one country.
+[00:47:55.400 --> 00:48:02.920]   In one legal system is going to be useless if that protection is not afforded also by
+[00:48:02.920 --> 00:48:10.280]   other countries especially in the global economy.
+[00:48:10.280 --> 00:48:12.160]   I mean.
+[00:48:12.160 --> 00:48:19.000]   I could be writing a piece of software which is very useful.
+[00:48:19.000 --> 00:48:21.640]   For everyone.
+[00:48:21.640 --> 00:48:30.720]   But I'm being protected only by the Italian legal system.
+[00:48:30.720 --> 00:48:40.920]   Which has no power to shape the behavior of a French individual living in France.
+[00:48:40.920 --> 00:48:44.800]   So in a global economy.
+[00:48:44.800 --> 00:48:54.160]   For a court.
+[00:48:54.160 --> 00:48:59.320]   It's useless because someone could be taking my piece of software.
+[00:48:59.320 --> 00:49:01.400]   I see that my connection is unstable.
+[00:49:01.400 --> 00:49:05.640]   Can you hear me?
+[00:49:05.640 --> 00:49:07.120]   Do you have any problem?
+[00:49:07.120 --> 00:49:08.120]   Okay.
+[00:49:08.120 --> 00:49:09.120]   It's okay.
+[00:49:09.120 --> 00:49:12.040]   So false alarm.
+[00:49:12.040 --> 00:49:14.040]   Great.
+[00:49:14.040 --> 00:49:24.280]   If I'm being protected in Italy but a French guy can make a copy of my piece of software
+[00:49:24.280 --> 00:49:30.880]   and bring it to France and.
+[00:49:30.880 --> 00:49:39.120]   I would not have any exclusive right there because I can claim an exclusive right only
+[00:49:39.120 --> 00:49:42.400]   in Italy.
+[00:49:42.400 --> 00:50:00.360]   And as I said in the global economy specifically with the Internet and stuff like that.
+[00:50:00.360 --> 00:50:05.240]   Protection at the national level is basically useless.
+[00:50:05.240 --> 00:50:10.800]   We will see that indeed intellectual property is one of the legal domain which has been
+[00:50:10.800 --> 00:50:17.880]   globalized first.
+[00:50:17.880 --> 00:50:25.840]   But how do we create legal rules at the international level.
+[00:50:25.840 --> 00:50:32.160]   And this is where international law comes into place.
+[00:50:32.160 --> 00:50:44.640]   International law defines the legal relationship among states or among individuals or collective
+[00:50:44.640 --> 00:50:51.440]   entities belonging to different states.
+[00:50:51.440 --> 00:50:58.480]   The first part of intellectual international law is called public international law.
+[00:50:58.480 --> 00:51:07.600]   And it defines relationships among states.
+[00:51:07.600 --> 00:51:15.560]   And we will see that public international law has been shaped upon the idea of contract
+[00:51:15.560 --> 00:51:18.960]   law basically.
+[00:51:18.960 --> 00:51:28.920]   Because at the international level states are equal in power.
+[00:51:28.920 --> 00:51:42.160]   Like at the national level private individuals are equal with regard to contract law.
+[00:51:42.160 --> 00:51:52.480]   I cannot force anyone of you to enter a legal relationship called the contract with me if
+[00:51:52.480 --> 00:51:58.080]   you are not willing to.
+[00:51:58.080 --> 00:52:00.160]   And the contrary applies.
+[00:52:00.160 --> 00:52:09.640]   I cannot be forced to be part of the contract unless I'm willing to.
+[00:52:09.640 --> 00:52:17.360]   Well public international law brings this concept at the international level so that
+[00:52:17.360 --> 00:52:33.520]   at the international level states are not bound by rules if they did not accept those
+[00:52:33.520 --> 00:52:35.600]   rules.
+[00:52:35.600 --> 00:52:41.360]   This is not entirely true actually because there is also a part of the public international
+[00:52:41.360 --> 00:52:50.040]   law which is called customary international law.
+[00:52:50.040 --> 00:53:00.400]   In which case every state is bound to the rules belonging to customary international
+[00:53:00.400 --> 00:53:03.360]   law.
+[00:53:03.360 --> 00:53:21.280]   But like what happens at the national level the rules sorry I needed to drink some hot
+[00:53:21.280 --> 00:53:29.800]   tea.
+[00:53:29.800 --> 00:53:43.080]   I was saying at the international level customary rules are created by the repetition by the
+[00:53:43.080 --> 00:53:53.880]   constant repetition of a given course of behavior.
+[00:53:53.880 --> 00:54:13.640]   And that repetition at some point in time is perceived as being obliged as being mandatory.
+[00:54:13.640 --> 00:54:27.280]   You know states have been fighting wars for thousands of years.
+[00:54:27.280 --> 00:54:48.520]   And during the time some basic principles governing the behavior of state at war have
+[00:54:48.520 --> 00:54:52.720]   emerged.
+[00:54:52.720 --> 00:54:56.960]   So even war is not a rule less.
+[00:54:56.960 --> 00:55:09.680]   There are rules that can be broken in which case the state braching the rules breaking
+[00:55:09.680 --> 00:55:17.360]   the rule may be found responsible.
+[00:55:17.360 --> 00:55:25.480]   And there are sanctions penalties if you want to call them that may be applied.
+[00:55:25.480 --> 00:55:50.720]   Think about the Second World War and how it ended up with the trials against the war criminals.
+[00:55:50.720 --> 00:56:02.880]   Part of the rules applied there were not public international law to which for instance the
+[00:56:02.880 --> 00:56:06.480]   Nazi state committed itself.
+[00:56:06.480 --> 00:56:13.640]   But they were part of customary international law.
+[00:56:13.640 --> 00:56:27.720]   So there is also a body of international rules which are not created by the will of the state.
+[00:56:27.720 --> 00:56:33.920]   But probably it is fair to say that the great majority of legal rules at the international
+[00:56:33.920 --> 00:56:48.320]   level are created by a willing full cooperation among states.
+[00:56:48.320 --> 00:56:58.720]   And that's definitely true for intellectual property as we will see.
+[00:56:58.720 --> 00:57:13.160]   Maybe I have already said that but it is worth repeating.
+[00:57:13.160 --> 00:57:19.560]   Intellectual property has been globalized.
+[00:57:19.560 --> 00:57:26.960]   And it has been globalized through international law.
+[00:57:26.960 --> 00:57:37.920]   And that's the reason why we can find some uniformity of the intellectual property regulation
+[00:57:37.920 --> 00:57:48.920]   in very in almost every national legal system.
+[00:57:48.920 --> 00:58:06.040]   These rules regulating intellectual property at the state level have been shaped by that
+[00:58:06.040 --> 00:58:11.840]   international legal mayor.
+[00:58:11.840 --> 00:58:20.240]   I hear some noise.
+[00:58:20.240 --> 00:58:24.920]   Maybe some of you opened the microphone.
+[00:58:24.920 --> 00:58:29.480]   It doesn't matter.
+[00:58:29.480 --> 00:58:42.800]   Then as I said there is private international law which instead regulates the legal relationship
+[00:58:42.800 --> 00:58:55.560]   among private individuals or private collective entities belonging to two different legal
+[00:58:55.560 --> 00:58:58.560]   systems.
+[00:58:58.560 --> 00:59:09.720]   But a few decades ago private international law was not very interesting for the ordinary
+[00:59:09.720 --> 00:59:13.080]   people.
+[00:59:13.080 --> 00:59:31.120]   The enterprises working at the international level were interested in private international
+[00:59:31.120 --> 00:59:32.760]   law.
+[00:59:32.760 --> 00:59:39.360]   Because their contract, just to give you an example, suppose I want to buy something from
+[00:59:39.360 --> 00:59:49.000]   a German firm or a British firm.
+[00:59:49.000 --> 00:59:50.720]   I signed.
+[00:59:50.720 --> 00:59:53.560]   I conclude the contract.
+[00:59:53.560 --> 00:59:54.560]   Sorry.
+[00:59:54.560 --> 00:59:55.560]   Sorry.
+[00:59:55.560 --> 00:59:56.560]   Sorry.
+[00:59:56.560 --> 01:00:04.560]   Sorry, we had the kind of decision of the calendar of the top business.
+[01:00:04.560 --> 01:00:10.160]   Last time I saw you giving us the goal.
+[01:00:10.160 --> 01:00:16.800]   I see that there are approximately one student and one non-attending student.
+[01:00:16.800 --> 01:00:22.120]   So that one will do it itself.
+[01:00:22.120 --> 01:00:28.720]   I think that probably we will have something like the laboratory.
+[01:00:28.720 --> 01:00:29.720]   Let me see.
+[01:00:29.720 --> 01:00:31.760]   I have to stop sharing.
+[01:00:31.760 --> 01:00:44.400]   I didn't open that window.
+[01:00:44.400 --> 01:00:47.320]   That was an interesting class maybe.
+[01:00:47.320 --> 01:00:51.280]   Maybe more interesting than mine.
+[01:00:51.280 --> 01:00:52.280]   But I'm sorry.
+[01:00:52.280 --> 01:00:57.600]   We had to stick to ours.
+[01:00:57.600 --> 01:00:59.880]   Let me go back.
+[01:00:59.880 --> 01:01:04.000]   I was talking about private international law.
+[01:01:04.000 --> 01:01:18.360]   I said if I create a contract with a German firm to buy a widget or something, it doesn't
+[01:01:18.360 --> 01:01:21.800]   really matter.
+[01:01:21.800 --> 01:01:23.920]   Sorry.
+[01:01:23.920 --> 01:01:27.840]   I lost.
+[01:01:27.840 --> 01:01:42.800]   Please give me just one second.
+[01:01:42.800 --> 01:01:50.320]   Okay.
+[01:01:50.320 --> 01:02:05.760]   Sorry.
+[01:02:05.760 --> 01:02:22.600]   If I create a contract with someone belonging to a different legal system and there is a
+[01:02:22.600 --> 01:02:34.560]   problem, we have an international sort of contract.
+[01:02:34.560 --> 01:02:46.200]   We have to decide which are the rules regulating that contract.
+[01:02:46.200 --> 01:02:51.960]   Because the rules are regulating a contract in Italy and in the UK may be different or
+[01:02:51.960 --> 01:03:02.000]   the rules regulating the contract in Italy and in Germany may be different.
+[01:03:02.000 --> 01:03:10.160]   Which rules are we going to apply?
+[01:03:10.160 --> 01:03:18.880]   That's where private international law comes into play.
+[01:03:18.880 --> 01:03:24.160]   As I said, traditionally private international law was not a very important domain of the
+[01:03:24.160 --> 01:03:30.160]   legal system, but now it is.
+[01:03:30.160 --> 01:03:39.480]   I believe that everyone in our class has some time somehow concluded the contract with someone
+[01:03:39.480 --> 01:03:42.880]   belonging to a different legal system.
+[01:03:42.880 --> 01:03:49.200]   That contract is regulated by international law.
+[01:03:49.200 --> 01:03:55.720]   But still the important part of international law we need to deal with is public international
+[01:03:55.720 --> 01:04:07.960]   law because we will see that that's the major source of rules regulating intellectual property.
+[01:04:07.960 --> 01:04:13.120]   And then there is a European law and I'm sorry but I will have to talk a lot about European
+[01:04:13.120 --> 01:04:14.120]   law.
+[01:04:14.120 --> 01:04:22.920]   I will actually be using two legal systems as a reference for our discussion of intellectual
+[01:04:22.920 --> 01:04:33.120]   property and specifically about intellectual property rights and privacy.
+[01:04:33.120 --> 01:04:46.160]   Because the European Union is basically an international organization
+[01:04:46.160 --> 01:04:56.520]   created by treaties.
+[01:04:56.520 --> 01:04:59.160]   I was talking about private international law.
+[01:04:59.160 --> 01:05:05.640]   I was making a comparison between private international law and contract law.
+[01:05:05.640 --> 01:05:15.840]   What is called contract at the national level is called treaty at the international level.
+[01:05:15.840 --> 01:05:24.440]   So you may look at a treaty as a contract between states.
+[01:05:24.440 --> 01:05:32.480]   It's probably an oversimplification but I think it's a useful analogy.
+[01:05:32.480 --> 01:05:35.160]   So let's go back to European law.
+[01:05:35.160 --> 01:05:36.960]   What is European law?
+[01:05:36.960 --> 01:05:45.040]   Because the European Union is just an international organization created by, well, quite few treaties
+[01:05:45.040 --> 01:05:49.280]   but anyway treaties.
+[01:05:49.280 --> 01:06:05.120]   And as you know, as Brexit proved, you may withdraw from those treaties like you may
+[01:06:05.120 --> 01:06:08.360]   withdraw from a contract.
+[01:06:08.360 --> 01:06:18.360]   So is European law just the body of rules created by those treaties?
+[01:06:18.360 --> 01:06:22.320]   And the answer is no.
+[01:06:22.320 --> 01:06:36.760]   Because the European Union is a very peculiar international organization.
+[01:06:36.760 --> 01:06:40.560]   And indeed we call it union.
+[01:06:40.560 --> 01:06:51.480]   If not a federal government as we find in the United States, I could say that there
+[01:06:51.480 --> 01:06:57.480]   is something similar in the United Kingdom even though it is not.
+[01:06:57.480 --> 01:07:03.760]   Because in the United Kingdom we are talking about four nations, not four states.
+[01:07:03.760 --> 01:07:09.800]   One island, Scotland, Wales and England.
+[01:07:09.800 --> 01:07:12.000]   Those are not states.
+[01:07:12.000 --> 01:07:21.960]   Whereas instead California, Florida or New Mexico or Texas are states.
+[01:07:21.960 --> 01:07:28.560]   But the United States are not an international organization.
+[01:07:28.560 --> 01:07:38.960]   They are a federation with their own constitution, with federal law, federal judges and the federal
+[01:07:38.960 --> 01:07:40.960]   government.
+[01:07:40.960 --> 01:07:50.320]   Well, the European Union is not a federation because it has been created by treaties but
+[01:07:50.320 --> 01:08:03.760]   still it is not -- it would be a simplification to trade it as an international organization.
+[01:08:03.760 --> 01:08:05.760]   Why?
+[01:08:05.760 --> 01:08:19.760]   Because member states of the European Union gave to the European Union the power to create
+[01:08:19.760 --> 01:08:26.040]   legal rules.
+[01:08:26.040 --> 01:08:33.000]   What is called statutory law.
+[01:08:33.000 --> 01:08:44.400]   So in some domains the European Union may be creating legal rules which are binding
+[01:08:44.400 --> 01:08:48.200]   for every European citizens.
+[01:08:48.200 --> 01:08:53.840]   This is the case of privacy for instance.
+[01:08:53.840 --> 01:09:18.160]   We will be talking about the general regulation on privacy which is a statute of law.
+[01:09:18.160 --> 01:09:32.920]   Defining the right to privacy of European citizens and which is directly binding within
+[01:09:32.920 --> 01:09:42.200]   the legal system of each member state.
+[01:09:42.200 --> 01:09:53.080]   We will see that there are -- I don't know whether we will see that.
+[01:09:53.080 --> 01:09:58.440]   I will just give you a brief introduction to that right now.
+[01:09:58.440 --> 01:10:05.800]   We will see that -- sorry for the repetition.
+[01:10:05.800 --> 01:10:26.360]   In the European law is basically composed by three categories of legally binding acts
+[01:10:26.360 --> 01:10:31.880]   or statutory tools or I don't know.
+[01:10:31.880 --> 01:10:37.640]   You can call them.
+[01:10:37.640 --> 01:10:47.000]   The first one is directives.
+[01:10:47.000 --> 01:10:54.840]   Directives is the second one regulation.
+[01:10:54.840 --> 01:10:59.840]   And the third one, the cesion.
+[01:10:59.840 --> 01:11:10.720]   Well, probably I should change the order.
+[01:11:10.720 --> 01:11:15.120]   This is better.
+[01:11:15.120 --> 01:11:20.640]   Regulations are laws created by the European Union.
+[01:11:20.640 --> 01:11:25.920]   The European Commission makes a proposal.
+[01:11:25.920 --> 01:11:33.440]   The European Council and the European Parliament adopt the proposal and the proposal becomes
+[01:11:33.440 --> 01:11:44.880]   a regulation.
+[01:11:44.880 --> 01:11:54.640]   A regulation creates rules which are directly immediately binding in each member state.
+[01:11:54.640 --> 01:12:02.480]   So if there is a regulation stating that I have the right to do something and the Italian
+[01:12:02.480 --> 01:12:15.000]   government doesn't want me to do that, well, I can enforce my right within my legal system.
+[01:12:15.000 --> 01:12:24.520]   Italian judges must apply European regulations.
+[01:12:24.520 --> 01:12:30.400]   Directives instead are a different legal tool.
+[01:12:30.400 --> 01:12:40.880]   Even though they may have some direct effect within each legal system of the member states,
+[01:12:40.880 --> 01:12:54.400]   usually directives are commands given to the member states to adopt internal legislation
+[01:12:54.400 --> 01:13:12.840]   which complies with basic principles set by the directive.
+[01:13:12.840 --> 01:13:21.800]   So whereas the regulation has immediate effect in each member state and may be applied by
+[01:13:21.800 --> 01:13:42.600]   judges in each member state, usually directives require a national implementation with a national
+[01:13:42.600 --> 01:13:45.280]   law.
+[01:13:45.280 --> 01:13:51.280]   I won't talk about decisions because decisions are not actually legal rules as we intend
+[01:13:51.280 --> 01:13:52.280]   to do.
+[01:13:52.280 --> 01:14:00.920]   Legal rules are general rules to be applied to an undefined categories of individuals.
+[01:14:00.920 --> 01:14:13.240]   Whereas instead decisions apply to a specific situation and to a specific individual or
+[01:14:13.240 --> 01:14:21.960]   collective entity.
+[01:14:21.960 --> 01:14:24.760]   Why am I talking about European law?
+[01:14:24.760 --> 01:14:31.480]   Because well, because of privacy.
+[01:14:31.480 --> 01:14:40.080]   And as we will see with privacy, we will see that actually directives and regulations are
+[01:14:40.080 --> 01:15:00.840]   usually steps taken by the European Union to first harmonize and then unify legal rules
+[01:15:00.840 --> 01:15:08.040]   of the member states.
+[01:15:08.040 --> 01:15:10.760]   Why?
+[01:15:10.760 --> 01:15:22.400]   Well because we have a single internal market and a single internal market requires shared
+[01:15:22.400 --> 01:15:24.400]   rules.
+[01:15:24.400 --> 01:15:46.800]   As you may understand, I was telling you to the unification of European rules, legal
+[01:15:46.800 --> 01:15:50.280]   rules.
+[01:15:50.280 --> 01:15:54.880]   History is a perfect example.
+[01:15:54.880 --> 01:16:03.840]   In the mid-90s, the European Union adopted, at that time it was called the European Economic
+[01:16:03.840 --> 01:16:09.840]   Community.
+[01:16:09.840 --> 01:16:13.560]   But that doesn't matter.
+[01:16:13.560 --> 01:16:28.440]   In the mid-90s, the European Union adopted a directive for regulating privacy rights
+[01:16:28.440 --> 01:16:32.960]   of European citizens.
+[01:16:32.960 --> 01:16:42.400]   That directive has been implemented at the national level by the member states with national
+[01:16:42.400 --> 01:16:48.520]   laws.
+[01:16:48.520 --> 01:16:59.840]   They were obviously implementing the same set of principles but with slight differences
+[01:16:59.840 --> 01:17:06.000]   which could be quite important.
+[01:17:06.000 --> 01:17:21.600]   And that led to a sort of harmonization of member states' privacy regulations.
+[01:17:21.600 --> 01:17:36.080]   A few years ago, after almost 20 years of harmonizing the regulation of privacy in the
+[01:17:36.080 --> 01:17:48.880]   member states, the European Union adopted a regulation which sets the same rules for
+[01:17:48.880 --> 01:17:53.800]   every member state.
+[01:17:53.800 --> 01:18:06.960]   So now in Europe, the European Union, the privacy regulation is the same everywhere.
+[01:18:06.960 --> 01:18:20.680]   So the directive tried to harmonize the regulation on privacy.
+[01:18:20.680 --> 01:18:36.920]   The regulation unified it.
+[01:18:36.920 --> 01:18:47.080]   So this is specifically important for privacy but not just privacy also for, as we will
+[01:18:47.080 --> 01:18:51.840]   see, the legal protection of computer programs.
+[01:18:51.840 --> 01:18:56.320]   Even though the legal protection of computer programs in Europe is still regulated by a
+[01:18:56.320 --> 01:19:02.920]   directive and not a regulation.
+[01:19:02.920 --> 01:19:07.440]   Why?
+[01:19:07.440 --> 01:19:24.080]   Well, we started by analyzing the legal system at the state level.
+[01:19:24.080 --> 01:19:37.480]   And then we moved on to talk about the international level and the European level.
+[01:19:37.480 --> 01:19:46.920]   As I said, European law may be seen as created by international law.
+[01:19:46.920 --> 01:19:58.440]   But the European law is a layer, a legal layer between the international level and the national
+[01:19:58.440 --> 01:20:02.640]   one.
+[01:20:02.640 --> 01:20:09.200]   And this is pretty clear when talking about intellectual property.
+[01:20:09.200 --> 01:20:22.400]   We will see that intellectual property, since it has been globalized, it's one of the first
+[01:20:22.400 --> 01:20:30.000]   private law institutions being globalized.
+[01:20:30.000 --> 01:20:50.120]   The intellectual property international regulation has been created by treaties, by treaties
+[01:20:50.120 --> 01:21:00.760]   adopted by or entered in by the European Union.
+[01:21:00.760 --> 01:21:06.480]   We will see that for instance the World Intellectual Property Organization copyright treaty of
+[01:21:06.480 --> 01:21:16.720]   1996 has been signed by the United States and by the European Union.
+[01:21:16.720 --> 01:21:28.400]   And later on, the European Union adopted a directive to make the implementation of that
+[01:21:28.400 --> 01:21:37.520]   copyright treaty homogeneous in the legal system of each member state.
+[01:21:37.520 --> 01:21:58.720]   There are differences in the implementation of the copyright treaty of 1996 in the US
+[01:21:58.720 --> 01:22:02.440]   and in Europe.
+[01:22:02.440 --> 01:22:14.120]   And those differences are not present within the European Union because the member states'
+[01:22:14.120 --> 01:22:22.160]   implementation of the European directive was based on the same set of principles set by
+[01:22:22.160 --> 01:22:27.320]   the directive itself.
+[01:22:27.320 --> 01:22:36.960]   And that leads me to the conclusion of our lecture because I would like to remember you
+[01:22:36.960 --> 01:22:43.160]   that we cannot understand.
+[01:22:43.160 --> 01:23:03.160]   Well, we can, but we better use different models of intellectual property regulations
+[01:23:03.160 --> 01:23:06.840]   in order to understand them.
+[01:23:06.840 --> 01:23:18.440]   And in the remaining part of the course, I will not describe you the Italian regulation
+[01:23:18.440 --> 01:23:19.640]   of intellectual property.
+[01:23:19.640 --> 01:23:24.240]   We will be talking mostly about copyright, but then later on we will be talking also
+[01:23:24.240 --> 01:23:27.360]   about patents.
+[01:23:27.360 --> 01:23:45.920]   First of all, because, well, many of you are Italians, but many of you are Italian and
+[01:23:45.920 --> 01:23:55.960]   it could be useful for you to know the Italian legislation, but many of you are not Italian.
+[01:23:55.960 --> 01:24:08.280]   Many of you are international students and probably you're now studying in Trento, but
+[01:24:08.280 --> 01:24:18.400]   maybe you will be moving away and you will be going into a territory regulated by a different
+[01:24:18.400 --> 01:24:21.040]   legal system.
+[01:24:21.040 --> 01:24:35.360]   So I will try to show, I will try to give you some knowledge of intellectual property
+[01:24:35.360 --> 01:24:48.600]   rights by making references to the two major models, the United States and the European
+[01:24:48.600 --> 01:24:51.120]   Union model.
+[01:24:51.120 --> 01:24:57.240]   We will try to describe the differences because I believe that by describing the differences,
+[01:24:57.240 --> 01:25:09.880]   we will be able also to better understand each model's regulation.
+[01:25:09.880 --> 01:25:19.120]   So when talking about privacy, we will be mostly talking about the European regulation
+[01:25:19.120 --> 01:25:24.200]   and we will be talking about the Brussels effect, the fact that the European regulation
+[01:25:24.200 --> 01:25:34.760]   is capable of shaping other legal systems of regulations of privacy.
+[01:25:34.760 --> 01:25:41.200]   Also because in the United States, we do not have any comprehensive and global regulation
+[01:25:41.200 --> 01:25:45.400]   of privacy rights.
+[01:25:45.400 --> 01:25:52.000]   But when talking about copyright and when talking about patents, I will make reference
+[01:25:52.000 --> 01:26:01.080]   to the European regulation, sometimes to the national implementation of the European regulation
+[01:26:01.080 --> 01:26:03.800]   and to the American regulation.
+[01:26:03.800 --> 01:26:17.440]   So we will be able to assess the differences and by doing so, probably better understand
+[01:26:17.440 --> 01:26:21.520]   the rules.
+[01:26:21.520 --> 01:26:24.680]   Time is over.
+[01:26:24.680 --> 01:26:33.440]   Any questions?
+[01:26:33.440 --> 01:26:37.760]   Did you have any problem in following the lecture?
+[01:26:37.760 --> 01:26:44.840]   From a technical perspective, probably you can see that today I'm not in the place I
+[01:26:44.840 --> 01:26:47.040]   was last day.
+[01:26:47.040 --> 01:26:52.520]   I'm in my daughter's room.
+[01:26:52.520 --> 01:27:00.360]   The quiet place in my house when they are not at all, obviously.
+[01:27:00.360 --> 01:27:01.360]   Okay.
+[01:27:01.360 --> 01:27:03.040]   Thank you very much.
+[01:27:03.040 --> 01:27:06.720]   I will see you next Monday.
+[01:27:06.720 --> 01:27:13.920]   I will try to send you a lecture on the history of copyright by Friday.
+[01:27:13.920 --> 01:27:18.120]   I will see you on Monday.
+[01:27:18.120 --> 01:27:26.920]   Please check out the calendar because I added a class on next Wednesday so that we will
+[01:27:26.920 --> 01:27:34.520]   be able to get in pair with the calendar by the end of next week without me having to
+[01:27:34.520 --> 01:27:38.880]   send you another video lecture.
+[01:27:38.880 --> 01:27:50.800]   Thank you very much for your attention and I will see you in presence digitally next
+[01:27:50.800 --> 01:27:51.800]   Monday.
+[01:27:51.800 --> 01:27:53.080]   Bye-bye.
+[01:27:53.080 --> 01:27:54.080]   >> Thank you.
+[01:27:54.080 --> 01:27:55.080]   >> Thank you.
+[01:27:55.080 --> 01:27:56.080]   >> Thank you.
+[01:27:56.080 --> 01:27:57.080]   >> Thank you.
+[01:27:57.080 --> 01:27:57.080]   >> Thank you.
+[01:27:57.080 --> 01:27:59.140]   you
+[01:27:59.140 --> 01:28:01.200]   you
+[01:28:01.200 --> 01:28:03.260]   you
+[01:28:03.260 --> 01:28:05.320]   you
+[01:28:05.320 --> 01:28:07.380]   you
+[01:28:07.380 --> 01:28:17.380]   [BLANK_AUDIO]
+
+
+whisper_print_timings:     load time =   125.00 ms
+whisper_print_timings:     fallbacks =   6 p /   3 h
+whisper_print_timings:      mel time =  3922.18 ms
+whisper_print_timings:   sample time =  4421.55 ms /  9275 runs (    0.48 ms per run)
+whisper_print_timings:   encode time = 974509.12 ms /   222 runs ( 4389.68 ms per run)
+whisper_print_timings:   decode time = 96639.48 ms /  9044 runs (   10.69 ms per run)
+whisper_print_timings:   prompt time = 149062.16 ms /   225 runs (  662.50 ms per run)
+whisper_print_timings:    total time = 1228826.25 ms

@@ -1,0 +1,466 @@
+[00:00:00.000 --> 00:00:03.000]   Last lecture and the base lecture.
+[00:00:03.000 --> 00:00:21.000]   Okay, so probably as you've seen, I'm trying to rush a beat during these first lectures
+[00:00:21.000 --> 00:00:31.000]   because I would like not to run out of space and, sorry, out of time when dealing with
+[00:00:31.000 --> 00:00:41.000]   free software licensing, which is going to take probably more than one class.
+[00:00:41.000 --> 00:00:48.000]   So today we are going to talk about copyright and digital principles.
+[00:00:48.000 --> 00:00:59.000]   Yesterday we had been talking about copyright from a historical perspective.
+[00:00:59.000 --> 00:01:06.000]   We have seen that copyright was not a reaction to a technological revolution,
+[00:01:06.000 --> 00:01:14.000]   but copyright was the reaction to deregulation, to the previous revolution of that technological revolution.
+[00:01:14.000 --> 00:01:22.000]   Today we are going to instead analyze basically the principles of copyright law.
+[00:01:22.000 --> 00:01:36.000]   And you remember at the end of yesterday's lecture I was talking about the globalization of copyright regulation.
+[00:01:36.000 --> 00:01:48.000]   Copyright was born in England in the 18th century, but during the 19th century copyright has been
+[00:01:48.000 --> 00:01:57.000]   globalized because it was meaningless to protect an author in one jurisdiction while not protecting it in other jurisdictions
+[00:01:57.000 --> 00:02:00.000]   since culture is a global phenomenon.
+[00:02:00.000 --> 00:02:07.000]   So what I'm trying to say is that after the adoption of the Berne Convention,
+[00:02:07.000 --> 00:02:20.000]   basically copyright legislations around the world have been converging towards a common set of rules.
+[00:02:20.000 --> 00:02:26.000]   And there are basically implementations of the Berne Convention,
+[00:02:26.000 --> 00:02:33.000]   but as I told you yesterday, the United States were not part of the Berne Convention.
+[00:02:33.000 --> 00:02:42.000]   So they had their own copyright legislation, which was based on the State of the Fund,
+[00:02:42.000 --> 00:02:49.000]   which was the model adopted by the Berne Convention in some way,
+[00:02:49.000 --> 00:02:59.000]   but still they had some specific rules which were not compatible with the Berne Convention.
+[00:02:59.000 --> 00:03:11.000]   The first major issue of the United States copyright law and its incompatibility with the Berne Convention
+[00:03:11.000 --> 00:03:22.000]   is related to the requirement to acquire the legal protection afforded by copyright.
+[00:03:22.000 --> 00:03:29.000]   That is to say, when can I claim a copyright over an intellectual world?
+[00:03:29.000 --> 00:03:40.000]   Till the mid-70s, there were in the United States two requirements.
+[00:03:40.000 --> 00:03:50.000]   The first one was to claim copyright protection in the intellectual world with a sentence like,
+[00:03:50.000 --> 00:03:54.000]   "All the rights are reserved, copyright by."
+[00:03:54.000 --> 00:04:00.000]   So there was the need of a copyright clause within the intellectual world.
+[00:04:00.000 --> 00:04:08.000]   Otherwise, if the clause was not there, that meant that you didn't want copyright protection
+[00:04:08.000 --> 00:04:11.000]   and copyright protection was not afforded to you.
+[00:04:11.000 --> 00:04:21.000]   The other requirement was the registration of an intellectual world to the US Copyright Office.
+[00:04:21.000 --> 00:04:27.000]   Now, I'm telling you that there are those two requirements,
+[00:04:27.000 --> 00:04:33.000]   because those two requirements actually, in a quite funny way,
+[00:04:33.000 --> 00:04:42.000]   will be quite important when talking about the legal protection of software.
+[00:04:42.000 --> 00:04:56.000]   Specifically, the early development of free software.
+[00:04:56.000 --> 00:05:05.000]   Because now, if you think about a free operating system, probably you're thinking about Linux.
+[00:05:05.000 --> 00:05:16.000]   But as you probably know, there are other families of free and open source operating systems like the BSD family.
+[00:05:16.000 --> 00:05:24.000]   Free BSD, NetBSD, and I don't remember the third one.
+[00:05:24.000 --> 00:05:34.000]   Anyway, those operating systems are descendant of the AT&T Unix operating system.
+[00:05:34.000 --> 00:05:38.000]   Probably you have heard about Unix, right?
+[00:05:38.000 --> 00:05:47.000]   Unix was developed by the Bell Laboratories, we will be talking about that history.
+[00:05:47.000 --> 00:06:00.000]   But it was developed by the Bell Laboratories in the early sixties, sorry, in the late sixties to the early seventies.
+[00:06:00.000 --> 00:06:08.000]   So before the new regulation that didn't require the copyright clause,
+[00:06:08.000 --> 00:06:28.000]   but it seems like Thomas O'Neill-Ricty, the author of the Unix operating system, forgot to insert a copyright clause in the source code of the Unix operating system.
+[00:06:28.000 --> 00:06:43.000]   And that was part of a deal between Berkeley University and AT&T regarding the Unix copyright and ownership.
+[00:06:43.000 --> 00:06:50.000]   So, as we will see, that requirement was important.
+[00:06:50.000 --> 00:07:05.000]   Instead, when talking about the Berne Convention, the only requirement that the Berne Convention asks for is that you created the world.
+[00:07:05.000 --> 00:07:12.000]   That is to say, by the very creation, you acquire copyright protection.
+[00:07:12.000 --> 00:07:18.000]   That's automatic. There is no other requirement.
+[00:07:18.000 --> 00:07:24.000]   So that difference made the United States legislation incompatible with the Berne Convention.
+[00:07:24.000 --> 00:07:32.000]   This is why, well, there are also political reasons behind, as I said yesterday, but...
+[00:07:32.000 --> 00:07:39.000]   So the Berne Convention was the global model.
+[00:07:39.000 --> 00:07:51.000]   Every jurisdiction around the world that wanted to be part of the international trade community needed to implement the Berne Convention, basically.
+[00:07:51.000 --> 00:08:04.000]   And so what we will be doing in analyzing the general principles of the copyright legislation
+[00:08:04.000 --> 00:08:14.000]   is to take as examples on one side the European implementation.
+[00:08:14.000 --> 00:08:21.000]   And I will be referring to the Italian implementation, basically, just to give you an example.
+[00:08:21.000 --> 00:08:29.000]   Making reference also to European legislation, for instance, talking about the legal protection of software.
+[00:08:29.000 --> 00:08:37.000]   But I will also try to compare the European legislation with the US legislation.
+[00:08:37.000 --> 00:08:47.000]   In order to have... Even though the principles are basically the same, you have different wording of those principles,
+[00:08:47.000 --> 00:08:55.000]   which leads to small differences which I think are worth noting.
+[00:08:55.000 --> 00:09:05.000]   Okay, so we start back from the very beginning, state of the UN and the US Constitution,
+[00:09:05.000 --> 00:09:18.000]   and we remember and stress the fact that copyright legislation, unlike property,
+[00:09:18.000 --> 00:09:27.000]   as a scope, as a goal, as something to achieve, promote the progress of science and arts,
+[00:09:27.000 --> 00:09:34.000]   encourage learning, dissemination of knowledge, and that kind of stuff.
+[00:09:34.000 --> 00:09:37.000]   We saw that yesterday.
+[00:09:37.000 --> 00:09:48.000]   On the other side, that scope is achieved by securing the authors with an exclusive right,
+[00:09:48.000 --> 00:09:56.000]   which is limited, as we will see, in extension and in time.
+[00:09:56.000 --> 00:10:10.000]   Those limitations which are not similar to the limitations you may find in property law,
+[00:10:10.000 --> 00:10:21.000]   those limitations are meant to make the scope compatible with the tools through which the scope is achieved,
+[00:10:21.000 --> 00:10:36.000]   to make the exclusive right compatible with the ultimate goal of promoting the cultural growth of a given society.
+[00:10:36.000 --> 00:10:44.000]   And basically, as I said, there are two types of limitations.
+[00:10:44.000 --> 00:10:57.000]   One is the extension, and we will see that we have four major limitations in this category,
+[00:10:57.000 --> 00:11:04.000]   the originality requirement, the dichotomy, ideas, and expressions,
+[00:11:04.000 --> 00:11:15.000]   the fair use, close in the US, and fair uses, as we will see in some European countries like Italy,
+[00:11:15.000 --> 00:11:21.000]   and the first, say, doctrine, which is quite an obscure limitation,
+[00:11:21.000 --> 00:11:33.000]   but I think it's quite important when trying to understand the impact of digital technologies on copyright regulation.
+[00:11:33.000 --> 00:11:39.000]   The second one is duration, and as we have seen yesterday,
+[00:11:39.000 --> 00:11:45.000]   a time limitation was introduced by the State of the Fund and the US Constitution,
+[00:11:45.000 --> 00:11:52.000]   and that was the instrument to create the so-called public domain,
+[00:11:52.000 --> 00:11:57.000]   which is the ultimate destination of every intellectual war.
+[00:11:57.000 --> 00:12:04.000]   At some point in time, the exclusive right will expire,
+[00:12:04.000 --> 00:12:13.000]   and everyone will be able to do what the intellect will work, whatever it wants, whatever they want,
+[00:12:13.000 --> 00:12:18.000]   without having to require the consent of the author.
+[00:12:18.000 --> 00:12:25.000]   Well, actually, the duration is so long that, you know,
+[00:12:25.000 --> 00:12:29.000]   we have seen that, we will see that later on.
+[00:12:29.000 --> 00:12:35.000]   Can I ask a question? What about artists that died, for example?
+[00:12:35.000 --> 00:12:40.000]   Let's say that an artist registered an album in 1960, for example,
+[00:12:40.000 --> 00:12:47.000]   and then after that he died, but the house that has the records still have those.
+[00:12:47.000 --> 00:12:50.000]   How many years does it take to produce?
+[00:12:50.000 --> 00:12:58.000]   Actually, this is covered by a specific rule,
+[00:12:58.000 --> 00:13:07.000]   because recording, audio recordings, are treated differently from books and other intellectual works.
+[00:13:11.000 --> 00:13:22.000]   Originally, the duration was 50 years after the recording took place,
+[00:13:22.000 --> 00:13:27.000]   but that duration was extended a few years ago.
+[00:13:27.000 --> 00:13:32.000]   Now, when and when?
+[00:13:32.000 --> 00:13:35.000]   Good morning.
+[00:13:35.000 --> 00:13:38.000]   Think about it for a second.
+[00:13:39.000 --> 00:13:41.000]   Pop music?
+[00:13:41.000 --> 00:13:42.000]   Michael Jackson.
+[00:13:42.000 --> 00:13:43.000]   What?
+[00:13:43.000 --> 00:13:45.000]   Michael Jackson.
+[00:13:45.000 --> 00:13:46.000]   Michael Jackson.
+[00:13:46.000 --> 00:13:48.000]   No.
+[00:13:48.000 --> 00:13:50.000]   The Beatles.
+[00:13:50.000 --> 00:13:54.000]   When did the Beatles start recording their albums?
+[00:13:54.000 --> 00:13:56.000]   1960s.
+[00:13:56.000 --> 00:13:58.000]   Sixties?
+[00:13:58.000 --> 00:14:03.000]   So, sixties plus fifty makes?
+[00:14:03.000 --> 00:14:05.000]   Ten.
+[00:14:05.000 --> 00:14:06.000]   Ten?
+[00:14:06.000 --> 00:14:09.000]   So, 2010.
+[00:14:09.000 --> 00:14:13.000]   Right before 2010, there was an extension.
+[00:14:13.000 --> 00:14:22.000]   So now, as far as I remember, the copyright over audio recordings
+[00:14:22.000 --> 00:14:28.000]   are going to last 75 years after the recordings.
+[00:14:28.000 --> 00:14:33.000]   We will see something similar with Mickey Mouse, the Mickey Mouse act.
+[00:14:33.000 --> 00:14:39.000]   So, usually when there is a big asset that is going to become part of the public domain,
+[00:14:39.000 --> 00:14:45.000]   the legislator will step in and will extend the duration.
+[00:14:45.000 --> 00:14:48.000]   Or they do a remake, right?
+[00:14:48.000 --> 00:14:49.000]   Or they?
+[00:14:49.000 --> 00:14:50.000]   Do a remake.
+[00:14:50.000 --> 00:14:55.000]   Well, but the original is going to become part of the public domain nonetheless,
+[00:14:55.000 --> 00:15:03.000]   so the remake is not going to cover the first edition, so to speak.
+[00:15:03.000 --> 00:15:08.000]   Isn't that the reason why they are making all this live action of the classic?
+[00:15:08.000 --> 00:15:12.000]   Sorry, because I'm coming from the mountains.
+[00:15:12.000 --> 00:15:13.000]   No.
+[00:15:13.000 --> 00:15:23.000]   I was asking whether this was the reason why they are making this live action version of the classic Disney movies.
+[00:15:23.000 --> 00:15:31.000]   Well, probably this is because they want to acquire new copyrighted material
+[00:15:31.000 --> 00:15:43.000]   to get money from when the copyright over their first album will expire.
+[00:15:43.000 --> 00:15:54.000]   So, everything they record is going to make big money for them.
+[00:15:54.000 --> 00:16:00.000]   I don't see any type of relation because recording a song a second time
+[00:16:00.000 --> 00:16:03.000]   doesn't change the original recording.
+[00:16:03.000 --> 00:16:07.000]   Yes, yes, I was talking about the cinema.
+[00:16:07.000 --> 00:16:08.000]   The movies?
+[00:16:08.000 --> 00:16:09.000]   Yes.
+[00:16:09.000 --> 00:16:14.000]   The same.
+[00:16:14.000 --> 00:16:17.000]   There is no such rule as that for books?
+[00:16:17.000 --> 00:16:18.000]   No.
+[00:16:18.000 --> 00:16:24.000]   Books are going to expire 70 years after the author's death.
+[00:16:24.000 --> 00:16:26.000]   The author's death, okay.
+[00:16:26.000 --> 00:16:31.000]   So, the starting point is the author's death.
+[00:16:31.000 --> 00:16:32.000]   Okay.
+[00:16:32.000 --> 00:16:34.000]   After that 70 years.
+[00:16:34.000 --> 00:16:43.000]   Instead, with the recordings, movies, other type of intellectual work
+[00:16:43.000 --> 00:16:47.000]   owned by corporations, they do not die.
+[00:16:47.000 --> 00:16:51.000]   It's going to last 75 years as far as I remember.
+[00:16:51.000 --> 00:16:55.000]   There are differences in different jurisdictions, but that's...
+[00:16:55.000 --> 00:17:02.000]   Before it was, well, 50 years, I don't remember because the copyright,
+[00:17:02.000 --> 00:17:07.000]   the Sony Bono Copyright Extension Act, which was about Mickey Mouse,
+[00:17:07.000 --> 00:17:13.000]   was adopted because Mickey Mouse was going to become part of the public domain in 2004.
+[00:17:13.000 --> 00:17:19.000]   So, in 1998, the Congress adopted the copyright extension.
+[00:17:19.000 --> 00:17:25.000]   But we will come to that when we're talking about the duration, okay.
+[00:17:25.000 --> 00:17:29.000]   Even though I said almost everything that.
+[00:17:29.000 --> 00:17:38.000]   Because I want to start with the limitations on the extension of the exclusive work.
+[00:17:38.000 --> 00:17:43.000]   Now, this is the Berne Convention, Article 2.
+[00:17:43.000 --> 00:17:46.000]   Title of the protected word.
+[00:17:46.000 --> 00:17:48.000]   Sorry, there is a title.
+[00:17:48.000 --> 00:17:50.000]   It's protected words.
+[00:17:50.000 --> 00:17:51.000]   Works.
+[00:17:51.000 --> 00:17:56.000]   The expression "literary and artistic works," you remember,
+[00:17:56.000 --> 00:18:05.000]   the title of the Berne Convention is "The Berne Convention on the Protection of Artistic and Literary Works."
+[00:18:05.000 --> 00:18:11.000]   So, the expression "literary and artistic works" shall include everything production in the literary,
+[00:18:11.000 --> 00:18:18.000]   scientific and artistic domain, whatever may be the mode or form of its expression,
+[00:18:18.000 --> 00:18:21.000]   such as books and so on and so forth.
+[00:18:21.000 --> 00:18:24.000]   Then you see there is a list.
+[00:18:24.000 --> 00:18:26.000]   Okay, you can read the list.
+[00:18:26.000 --> 00:18:32.000]   It's a very long list that includes almost everything.
+[00:18:32.000 --> 00:18:35.000]   We know.
+[00:18:35.000 --> 00:18:41.000]   But actually, you should not think that as a closed list.
+[00:18:41.000 --> 00:18:48.000]   That is to say, these are the types of intellectual works which are protected.
+[00:18:48.000 --> 00:18:54.000]   Types that fall outside of the list are not protected.
+[00:18:54.000 --> 00:18:56.000]   This is not the case.
+[00:18:56.000 --> 00:19:10.000]   This is just an open list which is going to provide judges with a guideline to decide whether intellectual work is protected or not.
+[00:19:10.000 --> 00:19:24.000]   Indeed, you see here, shall include any production, literary, scientific, artistic domain,
+[00:19:24.000 --> 00:19:28.000]   regardless the mode or form of its expression.
+[00:19:28.000 --> 00:19:39.000]   And then the list starts with "such as" that "such as" must be read as a list of examples
+[00:19:39.000 --> 00:19:42.000]   that may be extended.
+[00:19:42.000 --> 00:19:49.000]   And if you read it, you won't be able to find computer programs, software.
+[00:19:49.000 --> 00:20:08.000]   Stata software was included as production in the mix of literary and scientific and artistic domain.
+[00:20:08.000 --> 00:20:17.000]   We will be talking about the history of the inclusion of software within the works protected by copyright.
+[00:20:17.000 --> 00:20:26.000]   And the second requirement of the legislation, the registration with the Copyright Office,
+[00:20:26.000 --> 00:20:31.000]   will be useful because there is a...
+[00:20:31.000 --> 00:20:37.000]   Well, I will tell you that story when we will be talking about the e-cellular copyright protection.
+[00:20:37.000 --> 00:20:44.000]   But there are lawyers trying to copyright computer programs, which was funny.
+[00:20:44.000 --> 00:20:51.000]   Okay, so that's the wording of the Berne Convention.
+[00:20:51.000 --> 00:21:03.000]   You see, it is worth noting that according to the Berne Convention,
+[00:21:03.000 --> 00:21:16.000]   the protection is according to an intellectual work, regardless the mode or form of its expression.
+[00:21:16.000 --> 00:21:28.000]   We will see that instead, in order to find something similar in the US legislation,
+[00:21:28.000 --> 00:21:34.000]   we have to wait till 1976.
+[00:21:34.000 --> 00:21:48.000]   And this is indeed section 102 of Title 17 of the US Code,
+[00:21:48.000 --> 00:21:59.000]   in the form which has been amended by the US Copyright Act of 1976.
+[00:21:59.000 --> 00:22:06.000]   So here we see that copyright protection subsists in accordance with this title
+[00:22:06.000 --> 00:22:14.000]   in original works of authorship fixed in any tangible medium of expression,
+[00:22:14.000 --> 00:22:21.000]   now known for later the battle, from which they can be perceived or reproduced
+[00:22:21.000 --> 00:22:30.000]   or otherwise communicated either directly or with the aid of a machine or device.
+[00:22:30.000 --> 00:22:42.000]   Keep in mind that this new definition of intellectual work has been added to the US Copyright legislation
+[00:22:42.000 --> 00:23:00.000]   in 1976.
+[00:23:00.000 --> 00:23:16.000]   Let me check.
+[00:23:16.000 --> 00:23:45.000]   Because I don't remember if my next...
+[00:23:45.000 --> 00:23:56.000]   Okay.
+[00:23:56.000 --> 00:24:10.000]   I didn't remember whether I was going to talk about a topic that I do not want to fully discuss today.
+[00:24:10.000 --> 00:24:14.000]   Okay.
+[00:24:14.000 --> 00:24:20.000]   As we will see talking about the illegal protection of software,
+[00:24:20.000 --> 00:24:29.000]   before 1976, an intellectual work in order to be protected by copyright
+[00:24:29.000 --> 00:24:39.000]   should be... was required to be perceivable to the so-called naked eye.
+[00:24:39.000 --> 00:24:42.000]   There was that theory.
+[00:24:42.000 --> 00:24:48.000]   We will see when that theory was developed and we will see the consequences of that theory.
+[00:24:48.000 --> 00:25:01.000]   Basically, that meant that, for instance, if you have a computer program in source code
+[00:25:01.000 --> 00:25:09.000]   and you can read it, and if you are a coder you can understand it,
+[00:25:09.000 --> 00:25:17.000]   that code which is readable with a naked eye can be protected by copyright.
+[00:25:17.000 --> 00:25:18.000]   Okay.
+[00:25:18.000 --> 00:25:24.000]   We will see when talking about the legal protection of software, how, and so on and so forth.
+[00:25:24.000 --> 00:25:35.000]   Instead, when the source code is compiled into binary form and the program,
+[00:25:35.000 --> 00:25:41.000]   the working of the program can be perceived only by executing it.
+[00:25:41.000 --> 00:26:04.000]   So, with the eye of a machine, that program cannot be protected, could not be protected by copyright before 1976.
+[00:26:04.000 --> 00:26:07.000]   Is that clear? Okay.
+[00:26:07.000 --> 00:26:17.000]   That new definition adopted in 1876 was in order to make software in binary form
+[00:26:17.000 --> 00:26:21.000]   protectable under copyright.
+[00:26:21.000 --> 00:26:40.000]   So, as you see, even section 102 has a general definition and then a list of examples.
+[00:26:40.000 --> 00:26:53.000]   The wording is different, but basically the result is identical.
+[00:26:53.000 --> 00:27:05.000]   Instead, before 1976, since there was the requirement of the naked eye perception,
+[00:27:05.000 --> 00:27:12.000]   the US legislation was incompatible with the Bergen Foundation,
+[00:27:12.000 --> 00:27:22.000]   which instead states that the work is protected regardless of the mode of expression.
+[00:27:22.000 --> 00:27:34.000]   That was a third issue which made the US legislation incompatible with the Bergen Foundation.
+[00:27:34.000 --> 00:27:51.000]   I would like to stress the fact that the wording of the definition of copyrighted works, of copyrightable works,
+[00:27:51.000 --> 00:28:03.000]   is different because here we have a specific measure of authorship.
+[00:28:03.000 --> 00:28:15.000]   But as you remember, that comes from the US Constitution
+[00:28:15.000 --> 00:28:24.000]   and the definition of the power granted by the US Constitution to the Congress
+[00:28:24.000 --> 00:28:35.000]   to promote science and useful arts by securing for limited times two authors and inventors
+[00:28:35.000 --> 00:28:42.000]   of the exclusive right to their respective writings and discovery.
+[00:28:42.000 --> 00:28:58.000]   I think that this is interesting with the development of the so-called artificial intelligence.
+[00:28:58.000 --> 00:29:14.000]   Can the output of an artificial intelligence be copyrighted by the artificial intelligence
+[00:29:14.000 --> 00:29:22.000]   or by the copyright owner of the artificial, for instance, a large language model?
+[00:29:22.000 --> 00:29:29.000]   There are many people right now writing books with chat GPT and publishing them on Amazon
+[00:29:29.000 --> 00:29:41.000]   with a self-publishing platform. They are making money, as far as they say.
+[00:29:41.000 --> 00:29:49.000]   Could open AI claim authorship of those reductions?
+[00:29:49.000 --> 00:29:59.000]   I don't know, but I'm pretty sure that this is going to be part of future legal disputes and court decisions.
+[00:29:59.000 --> 00:30:10.000]   It's a quite interesting frontier of the intellectual property domain.
+[00:30:10.000 --> 00:30:27.000]   Anyway, we will see. As you know, right now there are instead class actions carried out by authors
+[00:30:27.000 --> 00:30:37.000]   against the owners of large language models because of the use of their works in the training of those models.
+[00:30:37.000 --> 00:30:48.000]   Copilot has been sued in a class action by free software coders of the GitHub community.
+[00:30:48.000 --> 00:30:54.000]   A couple of days ago there was the announcement of the Authors Guild,
+[00:30:54.000 --> 00:31:07.000]   which is a union of writers in the US that is going to sue open AI for chat GPT.
+[00:31:07.000 --> 00:31:17.000]   The fact that chat GPT was trained using books of members of the Authors Guild.
+[00:31:17.000 --> 00:31:28.000]   There are those double-phase issues with copyright and artificial intelligence.
+[00:31:28.000 --> 00:31:42.000]   Anyway, in the US there are standard requirements that the copyright protection must be granted to an author.
+[00:31:42.000 --> 00:31:53.000]   That's the reason why the protection must be granted to a work of authorship.
+[00:31:53.000 --> 00:32:03.000]   It will be interesting to see how the US Supreme Court is going to interpret the authorship requirement
+[00:32:03.000 --> 00:32:12.000]   with regards to the present technological developments.
+[00:32:12.000 --> 00:32:32.000]   Now, you remember we were talking about the first limitation of the extension of the exclusive writing.
+[00:32:32.000 --> 00:32:38.000]   The first limitation relates to originality.
+[00:32:38.000 --> 00:32:48.000]   The originality requirement in the US is derived by the authorship requirement.
+[00:32:48.000 --> 00:32:59.000]   That is to say, the authorship requirement is going to add something to the intellectual world.
+[00:32:59.000 --> 00:33:03.000]   Think about, for instance, a news reporting.
+[00:33:03.000 --> 00:33:09.000]   I walk outside this building, I see a car accident.
+[00:33:09.000 --> 00:33:19.000]   I'm a journalist and I'm writing my report.
+[00:33:19.000 --> 00:33:25.000]   You see the same accident from the very same perspective.
+[00:33:25.000 --> 00:33:31.000]   You are a news reporter, you are going to write your own report.
+[00:33:31.000 --> 00:33:34.000]   You are a journalist for a different newspaper.
+[00:33:34.000 --> 00:33:37.000]   You are writing your own report.
+[00:33:37.000 --> 00:33:41.000]   Our two reports may be similar.
+[00:33:41.000 --> 00:33:51.000]   Still, they may be different because of our writing style and so on and so forth.
+[00:33:51.000 --> 00:33:58.000]   So even though there is not much originality in what we are describing,
+[00:33:58.000 --> 00:34:06.000]   still we can perceive that there is a work of authorship.
+[00:34:06.000 --> 00:34:08.000]   Same for a picture.
+[00:34:08.000 --> 00:34:10.000]   I take a picture.
+[00:34:10.000 --> 00:34:14.000]   You take the picture of the same car accident.
+[00:34:14.000 --> 00:34:18.000]   But we are using different perspectives.
+[00:34:18.000 --> 00:34:21.000]   We are using different focus lengths.
+[00:34:21.000 --> 00:34:29.000]   We are producing a different kind of experience.
+[00:34:29.000 --> 00:34:33.000]   That's the authorship.
+[00:34:33.000 --> 00:34:37.000]   Think about an ontology.
+[00:34:37.000 --> 00:34:44.000]   I want to create a collection of poems, of the poems I like,
+[00:34:44.000 --> 00:34:52.000]   or the poems that are to be studied in my literature class.
+[00:34:52.000 --> 00:34:58.000]   Now I decide which poem to insert in my collection.
+[00:34:58.000 --> 00:35:02.000]   But in creating that collection,
+[00:35:02.000 --> 00:35:09.000]   I'm expressing a form of authorship by using my taste,
+[00:35:09.000 --> 00:35:17.000]   my culture to choose the different poems I want to include.
+[00:35:17.000 --> 00:35:28.000]   So even a collection of works which are not my intellectual property,
+[00:35:28.000 --> 00:35:32.000]   which have not been created by me,
+[00:35:32.000 --> 00:35:36.000]   so they have their authors.
+[00:35:36.000 --> 00:35:42.000]   In collecting them, I'm authoring something new.
+[00:35:42.000 --> 00:35:52.000]   So as you see, the originality must be a very minimal requirement.
+[00:35:52.000 --> 00:35:55.000]   Still there must be something.
+[00:35:55.000 --> 00:36:00.000]   Shouldn't playlists then be covered by copyright as well?
+[00:36:00.000 --> 00:36:02.000]   Well, probably they could.
+[00:36:02.000 --> 00:36:04.000]   Probably they could.
+[00:36:04.000 --> 00:36:08.000]   I don't know who is going to sell its playlist.
+[00:36:08.000 --> 00:36:12.000]   Better. I don't know who is going to buy your playlist.
+[00:36:12.000 --> 00:36:15.000]   But maybe there can be someone.
+[00:36:15.000 --> 00:36:19.000]   But yes, you could claim a sort of copyright,
+[00:36:19.000 --> 00:36:22.000]   because there is some authorship.
+[00:36:22.000 --> 00:36:25.000]   As you can claim an authorship over an ontology,
+[00:36:25.000 --> 00:36:27.000]   which is a frequent book,
+[00:36:27.000 --> 00:36:31.000]   a collection of text and materials.
+[00:36:31.000 --> 00:36:40.000]   So yes.
+[00:36:40.000 --> 00:36:43.000]   We will come back.
+[00:36:43.000 --> 00:36:57.000]   Okay, yes.
+[00:36:57.000 --> 00:37:07.000]   And indeed, you see the originality requirement.
+[00:37:07.000 --> 00:37:18.000]   So a collection of intellectual works is an intellectual work.
+[00:37:18.000 --> 00:37:21.000]   Always.
+[00:37:21.000 --> 00:37:29.000]   Awaking connects.
+[00:37:29.000 --> 00:37:40.000]   In the last 50 years, copyright has been interconnected with computer programs
+[00:37:40.000 --> 00:37:47.000]   and their legal connection, as we will see.
+[00:37:47.000 --> 00:37:57.000]   So I will tell you this story twice, I think.
+[00:37:57.000 --> 00:38:03.000]   Think about the telephone network.
+[00:38:03.000 --> 00:38:09.000]   The telephone network was perceived as being a national monopoly of some time ago.
+[00:38:09.000 --> 00:38:13.000]   You need to invest a lot of money to wire up your households
+[00:38:13.000 --> 00:38:16.000]   in order to connect them to the telephone network.
+[00:38:16.000 --> 00:38:19.000]   Very costly.
+[00:38:19.000 --> 00:38:24.000]   But then there are positive network personalities, stuff like that.
+[00:38:24.000 --> 00:38:26.000]   I'm not going to dig into that.
+[00:38:26.000 --> 00:38:30.000]   But usually everywhere in the world, the telephone network was developed
+[00:38:30.000 --> 00:38:36.000]   by the same huge monopolistic firm.
+[00:38:36.000 --> 00:38:40.000]   In the United States, it was AT&T.
+[00:38:40.000 --> 00:38:46.000]   In Italy, it was C.
+[00:38:46.000 --> 00:38:59.000]   AT&T, which was also the owner of the Unix copyright.
+[00:38:59.000 --> 00:39:03.000]   And we will see that this is important for the development of the Unix operating system
+[00:39:03.000 --> 00:39:07.000]   and the origin of FreeSoft.
+[00:39:07.000 --> 00:39:15.000]   Anyway, during the Reagan Revolution,
+[00:39:15.000 --> 00:39:22.000]   there were regulations, stuff like that, competition, market, spirits,
+[00:39:22.000 --> 00:39:24.000]   and stuff like that.
+[00:39:24.000 --> 00:39:29.000]   The U.S. government decided to end the 18th monopoly
+[00:39:29.000 --> 00:39:36.000]   and to split AT&T into small, local-area telephone networks.
+[00:39:36.000 --> 00:39:46.000]   So that would make it possible to create long-distance connections
+[00:39:46.000 --> 00:39:49.000]   provided by different carriers
+[00:39:49.000 --> 00:39:57.000]   and to create some competition in the long-distance telephone services.
+[00:39:57.000 --> 00:40:02.000]   And indeed, during the '80s, long-distance telephone calls in the U.S.
+[00:40:02.000 --> 00:40:06.000]   started to become very cheap.
+[00:40:06.000 --> 00:40:13.000]   I remember I spent an academic year in 1993 in the U.S.
+[00:40:13.000 --> 00:40:18.000]   The calling from the U.S. to Italy
+[00:40:18.000 --> 00:40:25.000]   was probably a tenth of the price of calling from Italy to the U.S.
+[00:40:25.000 --> 00:40:31.000]   In Italy, we still had the telephone monopoly by C.
+[00:40:31.000 --> 00:40:38.000]   Right now, we call for free.
+[00:40:38.000 --> 00:40:47.000]   We pay small subscription, almost everywhere.
+[00:40:47.000 --> 00:40:57.000]   So that's the result of the Reagan decision in 1982
+[00:40:57.000 --> 00:41:01.000]   to split AT&T into small telephone networks
+[00:41:01.000 --> 00:41:08.000]   and to let competition grow in interconnecting those networks.
+[00:41:08.000 --> 00:41:17.000]   Still, there was a problem at that time that was telephone directories.
+[00:41:17.000 --> 00:41:25.000]   Each local network, local-area network, was providing its own directory.
+[00:41:25.000 --> 00:41:30.000]   But if you wanted to call someone outside your local network,
+[00:41:30.000 --> 00:41:37.000]   you needed to pay a service to get the telephone number.
+[00:41:37.000 --> 00:41:41.000]   That was happening in Italy, too.
+[00:41:41.000 --> 00:41:45.000]   I don't know. You do not remember dialing the 12
+[00:41:45.000 --> 00:41:50.000]   to get the telephone number of someone leaving Naples or in Rome.
+[00:41:50.000 --> 00:41:55.000]   We had to do that at that time.
+[00:41:55.000 --> 00:42:02.000]   And we had to pay for that service to get into the note number.
+[00:42:02.000 --> 00:42:08.000]   So as you can imagine, there were some publishing companies
+[00:42:08.000 --> 00:42:14.000]   that started collecting telephone directories from local networks
+[00:42:14.000 --> 00:42:25.000]   and merging them into larger directories to cover a bigger,
+[00:42:25.000 --> 00:42:38.000]   or to cover more than one network in order to let people save the money of asking for a single number.
+[00:42:38.000 --> 00:42:42.000]   And that market started to appear.
+[00:42:42.000 --> 00:42:48.000]   Fisk publication was one of such publishers.
+[00:42:48.000 --> 00:42:55.000]   And a rural telephone service company was a small telephone network
+[00:42:55.000 --> 00:43:00.000]   operated by a rural telephone service
+[00:43:00.000 --> 00:43:08.000]   that was publishing its own telephone directory, covering its own network.
+[00:43:08.000 --> 00:43:13.000]   Fisk publication collected that directory
+[00:43:13.000 --> 00:43:21.000]   and included it into its own multi-networks directory.
+[00:43:21.000 --> 00:43:27.000]   A rural telephone company sued the publishing company for copyright violation,
+[00:43:27.000 --> 00:43:29.000]   for copyright infringement.
+[00:43:29.000 --> 00:43:38.000]   They said they had copyright protection over their directory.
+[00:43:38.000 --> 00:43:47.000]   And so, Fisk, by copying the directory, was infringing
+[00:43:47.000 --> 00:43:56.000]   a rural telephone service's copyright.
+[00:43:56.000 --> 00:43:59.000]   What do you think?
+[00:43:59.000 --> 00:44:03.000]   Do you think Fisk publications in the right,
+[00:44:03.000 --> 00:44:08.000]   rural telephone company doesn't have any copyright claim over a telephone directory,
+[00:44:08.000 --> 00:44:11.000]   according to what you have said?
+[00:44:11.000 --> 00:44:25.000]   Or do you think instead that rural telephone service has copyright protection over the directory?
+[00:44:25.000 --> 00:44:31.000]   No one tried to guess?
+[00:44:31.000 --> 00:44:44.000]   Well, let's try to understand it together.
+[00:44:44.000 --> 00:44:49.000]   What is a telephone directory? It's a list of entries.
+[00:44:49.000 --> 00:45:00.000]   Each entry is made up of a name, possibly an address, and a telephone number.
+[00:45:00.000 --> 00:45:06.000]   What is a name? What is an address? What is a telephone number?
+[00:45:06.000 --> 00:45:16.000]   Facts. Pure facts.
+[00:45:16.000 --> 00:45:25.000]   The collection of those three elements is a fact. There is no authors.
+[00:45:25.000 --> 00:45:30.000]   Well, we said that a playlist may be protected.
+[00:45:30.000 --> 00:45:38.000]   A collection of pictures may be protected. A collection of poems.
+[00:45:38.000 --> 00:45:48.000]   But what do we protect in those collections? The ordering.
+[00:45:48.000 --> 00:45:56.000]   And what about a telephone directory? What is the ordering of a telephone directory?
+[00:45:56.000 --> 00:46:02.000]   An alphabetic order. That's the only way to find a name.
+[00:46:02.000 --> 00:46:08.000]   And from the name get the number?
+[00:46:08.000 --> 00:46:20.000]   Possibly you could also make a double entry directory and use the name as a second ordinary criteria.
+[00:46:20.000 --> 00:46:27.000]   I don't think that would be useful, but who knows?
+[00:46:27.000 --> 00:46:36.000]   When the number I had to die in order to know the number of a friend in Naples was active,
+[00:46:36.000 --> 00:46:47.000]   I could ask the 12 that they did in the service to give me the name of the telephone number,
+[00:46:47.000 --> 00:46:52.000]   which is still possible, possibly if your number is published.
+[00:46:52.000 --> 00:47:02.000]   So the ordering is not original. There is no authorship in the ordering, so who won?
+[00:47:02.000 --> 00:47:06.000]   Feast won. Feast publications.
+[00:47:06.000 --> 00:47:20.000]   The U.S. Supreme Court in 1891 said that no, if the ordering is not original,
+[00:47:20.000 --> 00:47:30.000]   and the collection is not, you do not have a copyright on each entry,
+[00:47:30.000 --> 00:47:38.000]   then the collection is not protected as such.
+[00:47:38.000 --> 00:47:55.000]   What about if the ordering is not original, but the collection, the entries, the objects of the collection are interlateral works?
+[00:47:55.000 --> 00:48:02.000]   Well, in that case, the single interlateral works will be protected,
+[00:48:02.000 --> 00:48:07.000]   the single interlateral work will be protected, but not the ordering.
+[00:48:07.000 --> 00:48:12.000]   And so if you are the owner of the ordering, you are not protected.
+[00:48:12.000 --> 00:48:16.000]   If you are also the owner of the single elements of the collection,
+[00:48:16.000 --> 00:48:23.000]   you are going to be protected because of the authorship of the single elements of the collection.
+[00:48:23.000 --> 00:48:40.000]   Feast Publication Incorporation versus the Runa Al Thelofan Service Company is a landmark court decision,
+[00:48:40.000 --> 00:48:52.000]   as you may understand, for the protection of databases in the U.S.
+[00:48:52.000 --> 00:49:04.000]   I think you may have some experience in writing SQL code and creating databases, yes?
+[00:49:04.000 --> 00:49:15.000]   In this case, who did all the effort to put together the list of people to put in the telephone book?
+[00:49:15.000 --> 00:49:27.000]   I can guess, but I read the case, but I didn't know how Feast Publication managed the publication.
+[00:49:27.000 --> 00:49:34.000]   Keep in mind that we are in the 80s, so probably using a computer machine.
+[00:49:34.000 --> 00:49:43.000]   Because if one makes all the effort to collect all of this data, it could make sense that they have the...
+[00:49:43.000 --> 00:49:52.000]   Well, that's a very good point. That's a very good point in which I don't think we will recover in it.
+[00:49:52.000 --> 00:50:01.000]   But that's a good point because it stresses one of the major differences between database protections in the U.S.
+[00:50:01.000 --> 00:50:04.000]   and database protection in Europe.
+[00:50:04.000 --> 00:50:10.000]   In Europe, we have a specific legislation on the protection of databases.
+[00:50:10.000 --> 00:50:17.000]   What is protected in Europe is equal to the protection of the United States.
+[00:50:17.000 --> 00:50:25.000]   If the ordering of the collection is original, you get the protection with the Bergen Convention.
+[00:50:25.000 --> 00:50:34.000]   If the collection is not original but the elements are protected, you get the protection of each single element.
+[00:50:34.000 --> 00:50:43.000]   But if there is a financial investment to create the collection which was ordered is not original,
+[00:50:43.000 --> 00:50:55.000]   then you will get a special database protection which is called the "Suigeneris" or "Suigeneris" in ecclesiastical Latin,
+[00:50:55.000 --> 00:51:03.000]   "Suigeneris" wrapped over the database for 15 years.
+[00:51:03.000 --> 00:51:11.000]   So you have from the last update of the collection.
+[00:51:11.000 --> 00:51:22.000]   So if there is a substantial financial investment which also means paying something to do the job as FIST did,
+[00:51:22.000 --> 00:51:32.000]   in the U.S. though they do not have that "Suigeneris" right, so only the original ordering of the collection is protected.
+[00:51:32.000 --> 00:51:40.000]   Well, that's the title version.
+[00:51:40.000 --> 00:52:01.000]   As you see there in bold and italic characters, I stress the fact that the original requirement in Italy is described as a creative character of the intellectual world.
+[00:52:01.000 --> 00:52:13.000]   Different wording, same meaning, some sort of originality.
+[00:52:13.000 --> 00:52:39.000]   The second important limitation of copyright protection relates to the expression or dichotomy between ideas and form of expression.
+[00:52:39.000 --> 00:52:57.000]   This is Article 2. As you see, I took some different pieces of legislation to show you that the wording may be different, but the outcome is basically the same.
+[00:52:57.000 --> 00:53:19.000]   Why both Article 2 copyright treaty in 1896? Copyright protection extends to expressions and not to ideas, procedures, method of operation or mathematical concept as such.
+[00:53:19.000 --> 00:53:33.000]   To express it in terms you should be familiar with, an algorithm cannot be protected.
+[00:53:33.000 --> 00:53:39.000]   The implementation of an algorithm is protected.
+[00:53:39.000 --> 00:54:02.000]   The wording of the source code, now, can I change the name of a variable in the source code and pretend that's my expression? No, obviously.
+[00:54:02.000 --> 00:54:23.000]   So if I change the names of the variable, I cannot copy your implementation. I have to write it again.
+[00:54:23.000 --> 00:54:33.000]   We will see when talking about legal protection of software that even the graphical user interface is not protected.
+[00:54:33.000 --> 00:54:38.000]   The look and feel is not protected.
+[00:54:38.000 --> 00:54:59.000]   Only the protection only happens at the source code level and only the wording of the source code is protected.
+[00:54:59.000 --> 00:55:14.000]   The same for a book. The plot is not protected. The wording is protected.
+[00:55:14.000 --> 00:55:28.000]   We can't have two journalists report on the same fact.
+[00:55:28.000 --> 00:55:37.000]   Because they are going to use different wordings. So, two authors, two intellectual works.
+[00:55:37.000 --> 00:55:46.000]   That's the definition of section 102, letter B, of the US code.
+[00:55:46.000 --> 00:56:01.000]   In no case does copyright protection of an original work about a ship, authorship extends to any idea procedure, process, system, method of operation, concepts, and so on and so forth.
+[00:56:01.000 --> 00:56:03.000]   Yes?
+[00:56:03.000 --> 00:56:08.000]   How different does the expression have to be in order to know different questions?
+[00:56:08.000 --> 00:56:14.000]   Well, that's a different question I wouldn't be able to answer.
+[00:56:14.000 --> 00:56:35.000]   It's a matter of looking at the specific case, specific example.
+[00:56:35.000 --> 00:56:46.000]   We will see that when talking about fair use, which is the third limitation.
+[00:56:46.000 --> 00:56:57.000]   Because as we will see, fair use lets you copy a certain amount.
+[00:56:57.000 --> 00:57:12.000]   Now, for instance, in Italy, the title legislation says exactly up to what amount you are allowed to copy, 15% of the pages.
+[00:57:12.000 --> 00:57:26.000]   In the US, we do not have such a rule, but that's just a basic general principle which must be read by judges to decide.
+[00:57:26.000 --> 00:57:44.000]   Well, that happens all the time in the music, in the pop music contest, if you read newspapers and stuff like that, in forms of plagiarism.
+[00:57:44.000 --> 00:57:48.000]   Because suppose you are copying an author.
+[00:57:48.000 --> 00:57:54.000]   Well, there are two situations that we don't always look at.
+[00:57:54.000 --> 00:57:59.000]   The first situation is when you are copying, pretending to be the author.
+[00:57:59.000 --> 00:58:02.000]   That's plagiarism.
+[00:58:02.000 --> 00:58:06.000]   That's even outside the boundaries of intellectual property, I would say.
+[00:58:06.000 --> 00:58:17.000]   That's a crime, which is, you know, very common, but still a crime.
+[00:58:17.000 --> 00:58:24.000]   It's a sort of a theft.
+[00:58:24.000 --> 00:58:40.000]   You're stealing...
+[00:58:40.000 --> 00:58:46.000]   intellectual effort of a person.
+[00:58:46.000 --> 00:58:58.000]   On the other side, when you instead you are copying, well, that's a different situation.
+[00:58:58.000 --> 00:59:05.000]   Because you are giving credit, you are acknowledging to be copying.
+[00:59:05.000 --> 00:59:20.000]   And that's fair use. After a certain amount, after that it's a copyright infringement.
+[00:59:20.000 --> 00:59:24.000]   But then, also on the cover, is it still fair use?
+[00:59:24.000 --> 00:59:30.000]   It's an entire song, sung by another person.
+[00:59:30.000 --> 00:59:38.000]   Well, yes, but that's a performance.
+[00:59:38.000 --> 00:59:40.000]   You're talking about songs, right?
+[00:59:40.000 --> 00:59:43.000]   But that's a performance.
+[00:59:43.000 --> 00:59:50.000]   You're not stealing, because you're not pretending to be the author.
+[00:59:50.000 --> 00:59:59.000]   But you are performing, and your performance is protected.
+[00:59:59.000 --> 01:00:07.000]   And the performance of a copyrighted work is not prohibited.
+[01:00:07.000 --> 01:00:12.000]   It's not covered by the escrow's override.
+[01:00:12.000 --> 01:00:22.000]   I can buy a book, come here, and read it aloud.
+[01:00:22.000 --> 01:00:24.000]   That's not copyright infringement.
+[01:00:24.000 --> 01:00:33.000]   That was very interesting. But it's not possible to find that picture any longer, I believe.
+[01:00:34.000 --> 01:00:36.000]   Thanks.

@@ -1,0 +1,777 @@
+[00:00:00.000 --> 00:00:06.400]   >> We're able to read all the deadlines for the report
+[00:00:06.400 --> 00:00:10.340]   and then we can.
+[00:00:10.340 --> 00:00:13.080]   Today we are going to start talking
+[00:00:13.080 --> 00:00:18.280]   about legal protection of software.
+[00:00:18.280 --> 00:00:24.520]   Slides are already available.
+[00:00:24.520 --> 00:00:37.040]   And first of all I would like to start talking about the root
+[00:00:37.040 --> 00:00:42.000]   from a cultural perspective of computer science.
+[00:00:42.000 --> 00:00:52.980]   Because as you probably know computer science was
+[00:00:52.980 --> 00:00:55.320]   that scientific domain that was able
+[00:00:55.320 --> 00:01:02.660]   to produce those machineries which had practical uses.
+[00:01:02.660 --> 00:01:09.940]   But if we look at the root of the theoretical framework
+[00:01:09.940 --> 00:01:15.680]   that led to the creation of that kind of machine,
+[00:01:15.680 --> 00:01:24.040]   we see that computer science was the result
+[00:01:24.040 --> 00:01:30.760]   of different disciplines converging in order
+[00:01:30.760 --> 00:01:38.160]   to understand some highly theoretical issues related
+[00:01:38.160 --> 00:01:44.660]   to philosophy, mathematics, logic and so on and so forth.
+[00:01:44.660 --> 00:01:50.900]   And this is pretty clear if we look at the father
+[00:01:50.900 --> 00:01:55.880]   of what now is computer science that starting from Pascal life
+[00:01:55.880 --> 00:02:00.420]   with a beige bull on Newman, you see it's made
+[00:02:00.420 --> 00:02:04.760]   up of philosophers or better thinkers
+[00:02:04.760 --> 00:02:13.700]   that are both mathematicians, philosophers and the like.
+[00:02:13.700 --> 00:02:25.840]   And so the roots of computer science even though today is
+[00:02:25.840 --> 00:02:33.480]   basically expressed by a huge industry still was coming
+[00:02:33.480 --> 00:02:37.060]   from the academic world.
+[00:02:37.060 --> 00:02:44.120]   And as you know the scientific method applied
+[00:02:44.120 --> 00:02:51.440]   by academic members, members of the academic community is based
+[00:02:51.440 --> 00:02:54.900]   on publication knowledge sharing, peer review
+[00:02:54.900 --> 00:02:57.080]   and stuff like that.
+[00:02:57.080 --> 00:03:05.820]   And when we start talking about the development of copyright
+[00:03:05.820 --> 00:03:10.280]   in order to include software among the protected works,
+[00:03:10.280 --> 00:03:14.520]   protected intellectual works, we will see
+[00:03:14.520 --> 00:03:21.200]   that there somehow there is a clash, sort of a fight
+[00:03:21.200 --> 00:03:28.200]   between that young industry on one side
+[00:03:28.200 --> 00:03:32.400]   and the academic world on the other side.
+[00:03:32.400 --> 00:03:36.100]   And that clash led also to the development
+[00:03:36.100 --> 00:03:41.420]   of what now is called the free and open source software.
+[00:03:41.420 --> 00:03:45.060]   And we will see that there is a strong connection between,
+[00:03:45.060 --> 00:03:50.260]   on one side the extension of copyright to computer programs
+[00:03:50.260 --> 00:03:54.620]   and on the other side the development of the idea
+[00:03:54.620 --> 00:04:03.260]   that given the nature of computer programs,
+[00:04:03.260 --> 00:04:19.580]   they should be part of a common cultural, how can I say?
+[00:04:19.580 --> 00:04:31.360]   [ Pause ]
+[00:04:31.360 --> 00:04:35.800]   A common cultural property belonging to everyone basically.
+[00:04:35.800 --> 00:04:39.740]   It's like, you know, we will see when talking
+[00:04:39.740 --> 00:04:41.040]   about Richard Stalman.
+[00:04:41.040 --> 00:04:47.040]   Richard Stalman used, which is the founder of the GNU,
+[00:04:47.040 --> 00:04:50.020]   the software of the Free Software Foundation
+[00:04:50.020 --> 00:04:54.580]   and the GNU project, we will see that it makes a comparison
+[00:04:54.580 --> 00:05:02.360]   between computer programs and receipt for cooking dishes.
+[00:05:02.360 --> 00:05:08.800]   And our receipts are part of our common cultural heritage
+[00:05:08.800 --> 00:05:11.100]   and we share that.
+[00:05:11.100 --> 00:05:19.740]   There is no, how can I say, exclusive right over that.
+[00:05:19.740 --> 00:05:22.620]   On the other side we will see that at the very beginning
+[00:05:22.620 --> 00:05:26.920]   of the development of the software industry,
+[00:05:26.920 --> 00:05:33.660]   the existence of an exclusive right was a needed tool
+[00:05:33.660 --> 00:05:38.460]   in order to make that industry possible.
+[00:05:38.460 --> 00:05:43.100]   We will see that actually there are also technological
+[00:05:43.100 --> 00:05:47.940]   requirements which are needed in order to make a distinction
+[00:05:47.940 --> 00:05:51.680]   between the hardware and the software industry.
+[00:05:51.680 --> 00:05:57.380]   Anyway, if we start talking about computer science,
+[00:05:57.380 --> 00:06:00.880]   we must keep in mind that computer science is just an
+[00:06:00.880 --> 00:06:07.760]   academic discipline and every academic discipline is based
+[00:06:07.760 --> 00:06:12.600]   on, you know, principles which are not related
+[00:06:12.600 --> 00:06:15.800]   to intellectual property.
+[00:06:15.800 --> 00:06:19.840]   Scholars do not publish because they get money.
+[00:06:19.840 --> 00:06:24.040]   Most of the time they have to pay to get published.
+[00:06:24.040 --> 00:06:27.220]   They publish because they want to share their knowledge
+[00:06:27.220 --> 00:06:31.080]   and they want to see their contribution recognized
+[00:06:31.080 --> 00:06:36.260]   by the community they belong to.
+[00:06:36.260 --> 00:06:39.120]   We do not have the time to understand the relationship
+[00:06:39.120 --> 00:06:45.460]   between intellectual property and science, but usually I think
+[00:06:45.460 --> 00:06:49.000]   that it is fair to say that science
+[00:06:49.000 --> 00:06:53.540]   and intellectual property do not have anything common.
+[00:06:53.540 --> 00:07:03.380]   But please keep in mind that by saying so, I also try
+[00:07:03.380 --> 00:07:06.920]   to make a distinction between intellectual property
+[00:07:06.920 --> 00:07:14.220]   and what is called plagiarism, which is not related
+[00:07:14.220 --> 00:07:16.500]   to intellectual property because as we have seen,
+[00:07:16.500 --> 00:07:22.660]   intellectual property refers to the economic exploitation
+[00:07:22.660 --> 00:07:25.540]   of an intellectual world.
+[00:07:25.540 --> 00:07:29.680]   Well, I've been talking about probably, I've said something
+[00:07:29.680 --> 00:07:34.380]   about moral right in European countries,
+[00:07:34.380 --> 00:07:46.320]   but among the academic community there is the unwritten
+[00:07:46.320 --> 00:07:52.460]   to some extent rule that if you want to belong
+[00:07:52.460 --> 00:07:53.940]   to that community you have
+[00:07:53.940 --> 00:08:00.100]   to acknowledge others' contributions
+[00:08:00.100 --> 00:08:05.580]   to your contribution.
+[00:08:05.580 --> 00:08:12.260]   This is why usually we talk about plagiarism when talking
+[00:08:12.260 --> 00:08:17.860]   about academic ethics and I could show you
+[00:08:17.860 --> 00:08:25.200]   that actually plagiarism was an idea that became part
+[00:08:25.200 --> 00:08:28.260]   of the regulation, of the informal regulation
+[00:08:28.260 --> 00:08:31.360]   of our community long before intellectual property was
+[00:08:31.360 --> 00:08:33.140]   even invented.
+[00:08:33.140 --> 00:08:39.640]   You know, the word plagiarism comes
+[00:08:39.640 --> 00:08:47.320]   from a Latin name of a crime, plagiaris.
+[00:08:47.320 --> 00:09:00.460]   Which was consisting in making a free man a slave.
+[00:09:00.460 --> 00:09:08.500]   And that terminology has been used by Martiale, a poet,
+[00:09:08.500 --> 00:09:13.380]   of the very beginning of the Christian era,
+[00:09:16.100 --> 00:09:24.220]   who used the reference to that crime when talking about a guy
+[00:09:24.220 --> 00:09:35.660]   who was reading publicly his poems pretending they were his.
+[00:09:35.660 --> 00:09:43.860]   So plagiarism is sort of a path.
+[00:09:43.860 --> 00:09:49.000]   It's like stealing.
+[00:09:49.000 --> 00:10:00.880]   And that's not related to intellectual property.
+[00:10:00.880 --> 00:10:02.320]   It is something deeper.
+[00:10:02.320 --> 00:10:09.120]   So what I want to say is that we have to remember why
+[00:10:09.120 --> 00:10:14.500]   that free software was created as a reaction to the idea
+[00:10:14.500 --> 00:10:17.340]   that software could be proprietary,
+[00:10:17.340 --> 00:10:24.340]   could be the object of an exclusive right.
+[00:10:24.340 --> 00:10:26.280]   And that idea was rooted
+[00:10:26.280 --> 00:10:31.220]   in the academic tradition of computer science.
+[00:10:31.220 --> 00:10:34.580]   Richard Stallman was a computer scientist
+[00:10:34.580 --> 00:10:39.860]   at the artificial laboratory, artificial intelligence
+[00:10:39.860 --> 00:10:44.000]   laboratory of the MIT.
+[00:10:44.000 --> 00:10:49.800]   We will see that the BSD family of free operating system were
+[00:10:49.800 --> 00:10:54.800]   created at the University of Berkeley in California.
+[00:10:54.800 --> 00:11:01.340]   Free software is rooted in the academic tradition.
+[00:11:01.340 --> 00:11:05.620]   And it was the response to some extent
+[00:11:05.620 --> 00:11:13.660]   of the academic tradition towards the growing importance
+[00:11:13.660 --> 00:11:18.360]   of the industry as a software, as a business.
+[00:11:18.360 --> 00:11:20.660]   That's the reason why I would like you
+[00:11:20.660 --> 00:11:24.840]   to remember that root.
+[00:11:24.840 --> 00:11:28.500]   If we move to the computer industry,
+[00:11:28.500 --> 00:11:43.080]   then we have to see how that industry shaped the development
+[00:11:43.080 --> 00:11:45.020]   of computer science.
+[00:11:45.020 --> 00:11:50.400]   Because as you may understand, why generally the very beginning
+[00:11:50.400 --> 00:11:54.660]   of computer science was just an academic business,
+[00:11:54.660 --> 00:12:02.480]   once that enterprise led to the creation of useful machine
+[00:12:02.480 --> 00:12:08.740]   and market for those useful machines started to appear,
+[00:12:08.740 --> 00:12:12.720]   then that market became a leading force
+[00:12:12.720 --> 00:12:19.620]   in shaping the development of computer science.
+[00:12:19.620 --> 00:12:25.360]   Now the first computer, we usually
+[00:12:25.360 --> 00:12:34.040]   say that the first computer was sold by IBM in 1952.
+[00:12:34.040 --> 00:12:40.540]   It was a huge machine, very costly.
+[00:12:40.540 --> 00:12:49.420]   And the machine was subject to a very rapid obsolescence.
+[00:12:49.420 --> 00:13:01.000]   So you need to understand that buying a machine like that,
+[00:13:01.000 --> 00:13:06.300]   that machine was affordable only by big corporations,
+[00:13:06.300 --> 00:13:13.180]   governmental agencies, and that type of buyers.
+[00:13:13.180 --> 00:13:19.820]   But investing in such a machine with the limited computing
+[00:13:19.820 --> 00:13:23.460]   power they had at the time, far less than my cell phone
+[00:13:23.460 --> 00:13:25.760]   probably, surely.
+[00:13:25.760 --> 00:13:32.500]   Investing in that machine also meant pricing.
+[00:13:35.660 --> 00:13:40.700]   Each second of computation, and the price
+[00:13:40.700 --> 00:13:46.180]   of each second of computation was very high.
+[00:13:46.180 --> 00:13:54.820]   So the main leading force shaping
+[00:13:54.820 --> 00:13:58.260]   that market and that industry was
+[00:13:58.260 --> 00:14:03.060]   to make computers more affordable and more efficient.
+[00:14:03.060 --> 00:14:13.380]   In that context, software didn't really
+[00:14:13.380 --> 00:14:17.040]   play any important role.
+[00:14:17.040 --> 00:14:20.980]   Writing software for those machines, well, at first,
+[00:14:20.980 --> 00:14:25.120]   you know, the very first computer that was sold
+[00:14:25.120 --> 00:14:28.920]   could be coded by wiring.
+[00:14:28.920 --> 00:14:32.500]   You needed to change the wiring of the machine.
+[00:14:32.500 --> 00:14:36.140]   But later on, when it became clear
+[00:14:36.140 --> 00:14:44.300]   that changing the wires was a time-consuming task that
+[00:14:44.300 --> 00:14:50.980]   was destroying computational time,
+[00:14:50.980 --> 00:14:53.780]   new methodology started to appear,
+[00:14:53.780 --> 00:15:01.860]   like punch cards and readers to make the job of writing
+[00:15:01.860 --> 00:15:05.100]   computer program easier and quicker.
+[00:15:05.100 --> 00:15:16.740]   But if we compare the price of hiring someone
+[00:15:16.740 --> 00:15:25.180]   to write the code to the price of the machine itself,
+[00:15:25.180 --> 00:15:30.020]   coding was almost gratis.
+[00:15:30.020 --> 00:15:32.860]   It was a very small percentage of the total cost
+[00:15:32.860 --> 00:15:33.820]   of the computation.
+[00:15:33.820 --> 00:15:42.340]   So there was no interest in thinking
+[00:15:42.340 --> 00:15:46.060]   about a software industry.
+[00:15:46.060 --> 00:15:53.620]   It is interesting that in 1955, IBM
+[00:15:53.620 --> 00:15:57.540]   created the first computer user group
+[00:15:57.540 --> 00:16:04.020]   among the owners of the 704 data processing system, which
+[00:16:04.020 --> 00:16:11.180]   was a new model developed and released just three years
+[00:16:11.180 --> 00:16:18.140]   after the sale of the first computer.
+[00:16:18.140 --> 00:16:21.380]   That user group was named SHARE.
+[00:16:23.900 --> 00:16:31.660]   And it was meant to unite users, owners, and users of those very
+[00:16:31.660 --> 00:16:35.620]   costly machines in order to collaborating and writing
+[00:16:35.620 --> 00:16:37.300]   the code for those machines.
+[00:16:37.300 --> 00:16:40.220]   Also because at that time, the code
+[00:16:40.220 --> 00:16:42.220]   was written in machine code.
+[00:16:42.220 --> 00:16:47.620]   There were not high-level programming languages.
+[00:16:47.620 --> 00:16:55.340]   So once you change the R, where you have to write code
+[00:16:55.340 --> 00:17:01.140]   once again because the code is not compatible.
+[00:17:01.140 --> 00:17:07.340]   So we need to remember that in that SHARE user group,
+[00:17:07.340 --> 00:17:10.300]   there were big corporations which
+[00:17:10.300 --> 00:17:13.140]   were competitors in the marketplace,
+[00:17:13.140 --> 00:17:16.220]   like Lockheed and Boeing.
+[00:17:16.220 --> 00:17:18.580]   But still, they were joining forces
+[00:17:18.580 --> 00:17:22.420]   in order to write a code that was used both by Lockheed
+[00:17:22.420 --> 00:17:24.340]   and Boeing.
+[00:17:24.340 --> 00:17:29.500]   If you read online the manual of the SHARE user group,
+[00:17:29.500 --> 00:17:34.540]   you will see that by becoming a member of that user group,
+[00:17:34.540 --> 00:17:40.060]   you were committing yourself to SHARE bug reports, bug fixes,
+[00:17:40.060 --> 00:17:43.180]   and stuff like that.
+[00:17:43.180 --> 00:17:47.220]   The SHARE user group was, if you think about it,
+[00:17:47.220 --> 00:17:50.700]   basically a very early incarnation
+[00:17:50.700 --> 00:17:56.380]   of the free software and open source software movement.
+[00:17:56.380 --> 00:17:59.420]   But that, as I said, was just given by the fact
+[00:17:59.420 --> 00:18:02.100]   that the price of writing software
+[00:18:02.100 --> 00:18:05.380]   was very cheap in comparison with the price of the hardware
+[00:18:05.380 --> 00:18:06.820]   for running that software.
+[00:18:10.460 --> 00:18:23.220]   Still, the development of new methodologies
+[00:18:23.220 --> 00:18:41.140]   for speeding up the execution of programs was pushing
+[00:18:41.140 --> 00:18:44.140]   towards the creation of more--
+[00:18:48.620 --> 00:18:55.220]   or better, less error-prone ways of writing software.
+[00:18:55.220 --> 00:18:59.020]   And that led to the creation of higher-level programming
+[00:18:59.020 --> 00:19:09.380]   languages, which could free the coder from the complexity
+[00:19:09.380 --> 00:19:16.020]   of having to code for that specific hardware.
+[00:19:16.020 --> 00:19:18.980]   The first one was the Fortran programming language,
+[00:19:18.980 --> 00:19:22.820]   which was developed in 1975.
+[00:19:22.820 --> 00:19:25.820]   Then the coder programming language.
+[00:19:25.820 --> 00:19:26.820]   And so on.
+[00:19:26.820 --> 00:19:29.260]   Of course, then during the '60s, a huge number
+[00:19:29.260 --> 00:19:33.820]   of different programming languages started to appear.
+[00:19:33.820 --> 00:19:40.020]   Some of them had different paradigms,
+[00:19:40.020 --> 00:19:47.020]   like LISP, which is a functional programming language,
+[00:19:47.020 --> 00:19:51.020]   while the other are procedural programming languages,
+[00:19:51.020 --> 00:19:53.020]   or imperative programming languages.
+[00:19:53.020 --> 00:20:02.020]   Still, even if written in a higher-level programming
+[00:20:02.020 --> 00:20:09.020]   language, which led to the creation of the programming
+[00:20:09.020 --> 00:20:17.020]   language, reduce the number of bugs--
+[00:20:17.020 --> 00:20:21.020]   and keep in mind that bugs were discovered only at runtime,
+[00:20:21.020 --> 00:20:24.020]   because you didn't have any other tool to check
+[00:20:24.020 --> 00:20:27.020]   the program by running it.
+[00:20:27.020 --> 00:20:36.020]   Still, even it was possible by using higher-level programming
+[00:20:36.020 --> 00:20:44.020]   languages to write better and more precise code.
+[00:20:44.020 --> 00:20:51.020]   Decomputation.
+[00:20:51.020 --> 00:20:57.020]   And the time for the computation was not going to change.
+[00:20:57.020 --> 00:21:00.020]   And what people started realizing
+[00:21:00.020 --> 00:21:06.020]   was that most of the time of the computation
+[00:21:06.020 --> 00:21:12.020]   was due to input-output operations,
+[00:21:12.020 --> 00:21:15.020]   reading the programs and writing the output.
+[00:21:15.020 --> 00:21:23.520]   Decomputation was part of the process--
+[00:21:23.520 --> 00:21:26.020]   the real computation calculations
+[00:21:26.020 --> 00:21:29.020]   performed by the machine.
+[00:21:29.020 --> 00:21:42.020]   It was actually taking place at the fraction of the time needed
+[00:21:42.020 --> 00:21:46.020]   for executing and producing the output of the program.
+[00:21:46.020 --> 00:21:53.020]   And that's the reason why the first operating systems started
+[00:21:53.020 --> 00:21:55.020]   to appear.
+[00:21:55.020 --> 00:22:01.020]   The fourth-round monitor system is probably the first one.
+[00:22:01.020 --> 00:22:07.020]   The idea was to have input-output operations
+[00:22:07.020 --> 00:22:12.020]   performed during the computation.
+[00:22:12.020 --> 00:22:16.020]   And so we needed a monitor, something
+[00:22:16.020 --> 00:22:21.020]   which was going to coordinate the loading, the execution,
+[00:22:21.020 --> 00:22:25.020]   and the output production of the computer program.
+[00:22:25.020 --> 00:22:33.020]   In order to keep the processing unit always busy
+[00:22:33.020 --> 00:22:38.020]   in doing calculation, that was just a way
+[00:22:38.020 --> 00:22:42.020]   of maximizing the time used by the machine,
+[00:22:42.020 --> 00:22:45.020]   actually performing the calculations,
+[00:22:45.020 --> 00:22:51.020]   and thus reducing the cost per unit of calculation.
+[00:22:51.020 --> 00:22:58.020]   Later on, a new idea started--
+[00:22:58.020 --> 00:23:05.020]   the algorithm was becoming more powerful.
+[00:23:05.020 --> 00:23:16.020]   And later on, a new idea was conceived--
+[00:23:16.020 --> 00:23:20.020]   the idea of running multiple programs at the same time
+[00:23:20.020 --> 00:23:27.020]   by splitting the CPU time between different processes,
+[00:23:27.020 --> 00:23:34.020]   which was what an operating system made possible.
+[00:23:34.020 --> 00:23:39.020]   So the operating system was performing input-output
+[00:23:39.020 --> 00:23:42.020]   and coordination of input-output operations
+[00:23:42.020 --> 00:23:49.020]   with the processing, the actual execution of the program.
+[00:23:49.020 --> 00:23:59.020]   It was the next step to make that monitor,
+[00:23:59.020 --> 00:24:03.020]   that operating system, also to divide the CPU time
+[00:24:03.020 --> 00:24:08.020]   between different processes so that processes
+[00:24:08.020 --> 00:24:17.020]   could run simultaneously on the same processing unit.
+[00:24:17.020 --> 00:24:18.020]   Time sharing.
+[00:24:18.020 --> 00:24:30.020]   So during the '60s, as I said, the driving force
+[00:24:30.020 --> 00:24:37.020]   was efficiency, economic efficiency, if you want,
+[00:24:37.020 --> 00:24:43.020]   because after all, it was just a matter of costs
+[00:24:43.020 --> 00:24:49.020]   that should be compressed as much as possible.
+[00:24:49.020 --> 00:24:52.020]   And that led, as I said, to the creation
+[00:24:52.020 --> 00:24:56.020]   of the idea of an operating system
+[00:24:56.020 --> 00:25:03.020]   and the creation of the idea of time sharing and multitasking.
+[00:25:03.020 --> 00:25:12.020]   Something changed at the end of the '60s,
+[00:25:12.020 --> 00:25:19.020]   the beginning of the '70s, with the creation
+[00:25:19.020 --> 00:25:23.020]   of the Unix operating system that
+[00:25:23.020 --> 00:25:31.020]   had a really huge impact on the later history of software.
+[00:25:31.020 --> 00:25:46.020]   Here I quoted what Richty wrote about how Thomas and Richty
+[00:25:46.020 --> 00:25:52.020]   decided to come up with a new operating system.
+[00:25:52.020 --> 00:25:56.020]   And according to Richty, the idea
+[00:25:56.020 --> 00:26:01.020]   was just to play a video game on a machine that
+[00:26:01.020 --> 00:26:08.020]   had a visual display that made playing the game more fun.
+[00:26:18.020 --> 00:26:23.020]   I think that that may be possible.
+[00:26:23.020 --> 00:26:25.020]   Probably there was also something deeper.
+[00:26:25.020 --> 00:26:29.020]   We don't know anyway.
+[00:26:29.020 --> 00:26:31.020]   The Unix operating system was the result
+[00:26:31.020 --> 00:26:38.020]   of a combination of two major factors.
+[00:26:38.020 --> 00:26:44.020]   The idea of Thompson porting a video game to a new hardware.
+[00:26:44.020 --> 00:26:51.020]   Which led to the development of an operating system.
+[00:26:51.020 --> 00:26:55.020]   And the work of Richty, who instead
+[00:26:55.020 --> 00:26:59.020]   was working on a new programming language,
+[00:26:59.020 --> 00:27:02.020]   at that time it was called the B,
+[00:27:02.020 --> 00:27:07.020]   like balanced B programming language.
+[00:27:07.020 --> 00:27:14.020]   That was a high level programming language
+[00:27:14.020 --> 00:27:17.020]   until later on became the C programming language.
+[00:27:17.020 --> 00:27:23.020]   I'm pretty sure you're all familiar with C. No?
+[00:27:23.020 --> 00:27:26.020]   Not everyone.
+[00:27:26.020 --> 00:27:33.020]   Which at that time was perceived as the highest level
+[00:27:33.020 --> 00:27:35.020]   programming language.
+[00:27:35.020 --> 00:27:41.020]   Nowadays, we believe that writing C or writing a singular
+[00:27:41.020 --> 00:27:45.020]   is not very different.
+[00:27:45.020 --> 00:27:48.020]   Malc, free, and stuff like that.
+[00:27:48.020 --> 00:27:50.020]   Direct memory operations.
+[00:27:50.020 --> 00:27:56.020]   Anyway, there are so many programs
+[00:27:56.020 --> 00:28:00.020]   that are still written in the C programming language
+[00:28:00.020 --> 00:28:09.020]   that that language 50 years later,
+[00:28:09.020 --> 00:28:12.020]   it's more than 50 years later after its invention,
+[00:28:12.020 --> 00:28:14.020]   is still very popular.
+[00:28:14.020 --> 00:28:26.020]   So there was another interesting aspect
+[00:28:26.020 --> 00:28:31.020]   of the design of the C programming language.
+[00:28:31.020 --> 00:28:37.020]   The fact that the core of the language was very, very small.
+[00:28:37.020 --> 00:28:45.020]   And most of the functionalities provided by the language
+[00:28:45.020 --> 00:28:53.020]   were basically libraries.
+[00:28:53.020 --> 00:28:58.020]   You know, the C standard library.
+[00:28:58.020 --> 00:29:07.020]   That design led to an interesting side effect.
+[00:29:07.020 --> 00:29:11.020]   That the C programming language was very easily portable
+[00:29:11.020 --> 00:29:15.020]   from one other architecture to another.
+[00:29:15.020 --> 00:29:22.020]   At that time, that was not very clear
+[00:29:22.020 --> 00:29:26.020]   and it was not actually the purpose
+[00:29:26.020 --> 00:29:32.020]   of writing or conceiving a new programming language.
+[00:29:32.020 --> 00:29:39.020]   As far as I understand, the Rictis ideas
+[00:29:39.020 --> 00:29:42.020]   was just to have a high level programming language
+[00:29:42.020 --> 00:29:46.020]   that made it possible also to perform low level tasks.
+[00:29:50.020 --> 00:29:52.020]   And that was probably a brilliant idea
+[00:29:52.020 --> 00:29:56.020]   because Thompson decided to rewrite
+[00:29:56.020 --> 00:30:03.020]   the operating system he wrote for playing the game
+[00:30:03.020 --> 00:30:06.020]   of a new Rictis architecture
+[00:30:06.020 --> 00:30:08.020]   to rewrite that operating system
+[00:30:08.020 --> 00:30:11.020]   using the C programming language.
+[00:30:11.020 --> 00:30:15.020]   And that was quite an astonishing idea at that time
+[00:30:15.020 --> 00:30:17.020]   because no one was writing operating systems
+[00:30:17.020 --> 00:30:20.020]   with a high level programming language.
+[00:30:20.020 --> 00:30:22.020]   The idea was that the operating system
+[00:30:22.020 --> 00:30:26.020]   should be written in a very low level programming language
+[00:30:26.020 --> 00:30:28.020]   like assembler or machine code
+[00:30:28.020 --> 00:30:33.020]   because that was the only way to get out of it
+[00:30:33.020 --> 00:30:39.020]   as much performance as it was feasibly possible.
+[00:30:42.020 --> 00:30:55.020]   Anyway, Thompson and Rictis in three years of work
+[00:30:55.020 --> 00:31:00.020]   came up with this new operating system
+[00:31:00.020 --> 00:31:07.020]   which was a time sharing multi-user operating system
+[00:31:10.020 --> 00:31:16.020]   written in a language which was easily readable.
+[00:31:16.020 --> 00:31:22.020]   And that made it an interactive system
+[00:31:22.020 --> 00:31:27.020]   because you could run it, modify the source code,
+[00:31:27.020 --> 00:31:33.020]   recompile and run it again, the modified version.
+[00:31:33.020 --> 00:31:38.020]   You could be developing the system
+[00:31:38.020 --> 00:31:41.020]   while you're writing the system.
+[00:31:41.020 --> 00:31:50.020]   In 1874, Rictis and Thompson decided to write a paper
+[00:31:50.020 --> 00:31:57.020]   in a very prestigious review, the communication of the ACM
+[00:31:57.020 --> 00:32:03.020]   titled "The Unix Time Sharing System".
+[00:32:03.020 --> 00:32:13.020]   Thompson and Rictis were working at that time
+[00:32:13.020 --> 00:32:18.020]   at the Bells Laboratories.
+[00:32:18.020 --> 00:32:24.020]   And Bells Laboratories, as the name implies,
+[00:32:24.020 --> 00:32:29.020]   were the research division of AT&T.
+[00:32:29.020 --> 00:32:34.020]   And you remember I was talking about AT&T
+[00:32:34.020 --> 00:32:39.020]   when we were talking about the legal protection of databases
+[00:32:39.020 --> 00:32:43.020]   and the requirement of originality.
+[00:32:43.020 --> 00:32:47.020]   You remember I told you that till 1982,
+[00:32:47.020 --> 00:32:53.020]   AT&T was the telephone service monopoly in the United States.
+[00:32:53.020 --> 00:32:55.020]   After that, the monopoly was split
+[00:32:55.020 --> 00:32:59.020]   in order to create the possibility of a market
+[00:32:59.020 --> 00:33:05.020]   for long distance calls, reduced prices and so on and so forth.
+[00:33:05.020 --> 00:33:13.020]   Since AT&T was a monopoly,
+[00:33:13.020 --> 00:33:20.020]   in the United States there is antitrust legislation
+[00:33:20.020 --> 00:33:28.020]   since the late 19th century.
+[00:33:28.020 --> 00:33:32.020]   The first legislation on regulating market power
+[00:33:32.020 --> 00:33:39.020]   was adopted by the US Congress in 1890, the Sherman Act.
+[00:33:39.020 --> 00:33:46.020]   Since AT&T was a monopoly, it was highly regulated
+[00:33:46.020 --> 00:33:49.020]   by the federal government of the United States.
+[00:33:50.020 --> 00:33:56.020]   And specifically in 1950,
+[00:33:56.020 --> 00:34:00.020]   the Department of Justice of the US government
+[00:34:00.020 --> 00:34:05.020]   signed together with AT&T a so-called consent decree
+[00:34:05.020 --> 00:34:12.020]   according to which the government granted AT&T
+[00:34:12.020 --> 00:34:15.020]   the monopoly over telephone services,
+[00:34:15.020 --> 00:34:21.020]   but only under the condition that AT&T
+[00:34:21.020 --> 00:34:26.020]   was not going to enter any other market.
+[00:34:26.020 --> 00:34:28.020]   Why?
+[00:34:28.020 --> 00:34:33.020]   Because as you know, a monopoly gives you,
+[00:34:33.020 --> 00:34:37.020]   being the only one selling a given good,
+[00:34:37.020 --> 00:34:42.020]   gives you the possibility to charge the so-called monopolistic prices.
+[00:34:43.020 --> 00:34:58.020]   Prices that are higher than the cost of production
+[00:34:58.020 --> 00:35:03.020]   and the profits of the enterprise.
+[00:35:06.020 --> 00:35:13.020]   So you can get more than is spent out of the market
+[00:35:13.020 --> 00:35:16.020]   where you are a monopoly
+[00:35:16.020 --> 00:35:21.020]   and use that extra profit to enter
+[00:35:21.020 --> 00:35:26.020]   in an aggressive competitive way another market.
+[00:35:26.020 --> 00:35:29.020]   That's the reason why there was that consent decree
+[00:35:29.020 --> 00:35:32.020]   prohibiting that to take place.
+[00:35:35.020 --> 00:35:40.020]   So what happened was that AT&T had a new operating system
+[00:35:40.020 --> 00:35:45.020]   developed in-house, but it couldn't sell it.
+[00:35:45.020 --> 00:35:50.020]   It was prohibited by the consent decree.
+[00:35:50.020 --> 00:36:02.020]   And so basically, Unix was not an asset for AT&T.
+[00:36:03.020 --> 00:36:06.020]   They couldn't get any money out of it.
+[00:36:06.020 --> 00:36:12.020]   They could not even license it to other software offices
+[00:36:12.020 --> 00:36:17.020]   because they couldn't enter the software market.
+[00:36:17.020 --> 00:36:24.020]   On the other side,
+[00:36:26.020 --> 00:36:36.020]   the Rick and Thompson paper received a very warm welcome
+[00:36:36.020 --> 00:36:39.020]   by the computer science community.
+[00:36:39.020 --> 00:36:46.020]   And from universities everywhere around the world,
+[00:36:46.020 --> 00:36:52.020]   AT&T started to be requested to
+[00:36:52.020 --> 00:37:07.020]   let universities use Unix for research and teaching purposes.
+[00:37:07.020 --> 00:37:16.020]   And the legal department of AT&T decided that,
+[00:37:16.020 --> 00:37:19.020]   well, since AT&T cannot be sold,
+[00:37:19.020 --> 00:37:25.020]   we can freely distribute it to universities
+[00:37:25.020 --> 00:37:30.020]   with an agreement between AT&T and the university.
+[00:37:30.020 --> 00:37:36.020]   And since it was written in a high-level programming language
+[00:37:36.020 --> 00:37:44.020]   and was a very useful tool for teaching too,
+[00:37:45.020 --> 00:37:52.020]   the source code was distributed together with the binary code.
+[00:37:52.020 --> 00:38:04.020]   And as we will see, the source code being readable by naked eye,
+[00:38:04.020 --> 00:38:06.020]   you remember I told you something about that.
+[00:38:06.020 --> 00:38:10.020]   We will come back to that later.
+[00:38:13.020 --> 00:38:19.020]   Even though the source code was copyrightable,
+[00:38:19.020 --> 00:38:25.020]   a professor at the University of New South Wales in Australia,
+[00:38:25.020 --> 00:38:31.020]   John Lyles, wrote a complete commentary of the source code.
+[00:38:31.020 --> 00:38:37.020]   Source code with comments to explain.
+[00:38:37.020 --> 00:38:42.020]   And that book, even though it was clearly a copyright by your law,
+[00:38:42.020 --> 00:38:45.020]   a copyright violation, copyright infringement,
+[00:38:45.020 --> 00:38:51.020]   became a very popular textbook in courses about
+[00:38:51.020 --> 00:38:58.020]   design and implementation of operating systems.
+[00:38:58.020 --> 00:39:06.020]   As we will see later,
+[00:39:06.020 --> 00:39:15.020]   when we start to look at what was going on at the institutional level,
+[00:39:15.020 --> 00:39:22.020]   it is worth mentioning that
+[00:39:22.020 --> 00:39:31.020]   the split of AT&T was looming and AT&T was aware of that.
+[00:39:31.020 --> 00:39:39.020]   The political environment was changing,
+[00:39:39.020 --> 00:39:46.020]   the regulation, competition, where the new key was,
+[00:39:46.020 --> 00:39:49.020]   think about Thatcher, think about Reagan.
+[00:39:49.020 --> 00:39:56.020]   And so starting in 1879,
+[00:39:56.020 --> 00:40:03.020]   AT&T decided to change its policy with regard to the distribution
+[00:40:03.020 --> 00:40:06.020]   of the Unix operating systems to universities.
+[00:40:06.020 --> 00:40:14.020]   With version 7 of the operating system, AT&T adopted a new license agreement,
+[00:40:14.020 --> 00:40:19.020]   which prohibited the use of the Unix source code as a teaching material.
+[00:40:19.020 --> 00:40:22.020]   Why?
+[00:40:23.020 --> 00:40:27.020]   Because we will see that when talking about software,
+[00:40:27.020 --> 00:40:30.020]   and the protection of software,
+[00:40:30.020 --> 00:40:34.020]   we have many layers of possible protection.
+[00:40:34.020 --> 00:40:44.020]   One layer is technology and obscuration, if you want.
+[00:40:44.020 --> 00:40:48.020]   If I give you a piece of code, an object code,
+[00:40:48.020 --> 00:40:55.020]   you can compile it, maybe you can disassemble it.
+[00:40:55.020 --> 00:41:08.020]   But it is very difficult for you to understand the complexity
+[00:41:08.020 --> 00:41:10.020]   of the architecture of the code,
+[00:41:10.020 --> 00:41:16.020]   because you are looking at what the processing unit is doing.
+[00:41:16.020 --> 00:41:25.020]   Push, pull, move that digit into the register, stuff like that.
+[00:41:25.020 --> 00:41:33.020]   And you have to try to understand the working of a computer program
+[00:41:33.020 --> 00:41:36.020]   by looking at what the processor is doing.
+[00:41:36.020 --> 00:41:39.020]   A very hard task.
+[00:41:39.020 --> 00:41:45.020]   That's one level of protection.
+[00:41:45.020 --> 00:41:47.020]   A technological level of protection.
+[00:41:47.020 --> 00:41:53.020]   This is why proprietary software is distributed in binary form only.
+[00:41:53.020 --> 00:42:04.020]   I have never seen the source code of the Microsoft Word program.
+[00:42:04.020 --> 00:42:12.020]   The second level of protection,
+[00:42:12.020 --> 00:42:19.020]   which was used when copyright was not granted for computer programs,
+[00:42:19.020 --> 00:42:23.020]   or not yet granted for computer programs,
+[00:42:23.020 --> 00:42:26.020]   was secrecy.
+[00:42:26.020 --> 00:42:33.020]   In terms of trade secrecy,
+[00:42:33.020 --> 00:42:37.020]   or in terms of non-disclosure agreement.
+[00:42:37.020 --> 00:42:41.020]   Sure you can read my code,
+[00:42:41.020 --> 00:42:46.020]   but you have to promise me that you won't disclose any information
+[00:42:46.020 --> 00:42:48.020]   you gather by reading the code.
+[00:42:48.020 --> 00:42:50.020]   That's a non-disclosure agreement.
+[00:42:50.020 --> 00:42:57.020]   We will see that non-disclosure agreements play some role also
+[00:42:57.020 --> 00:43:02.020]   in the early development of the free software movement.
+[00:43:03.020 --> 00:43:07.020]   After secrecy we have copyright and patents.
+[00:43:07.020 --> 00:43:11.020]   Copyright is going to protect the expression.
+[00:43:11.020 --> 00:43:20.020]   Eventually patents are going to protect the algorithm behind the specific implementation.
+[00:43:20.020 --> 00:43:26.020]   As you know, software patents are highly discussed and highly used.
+[00:43:27.020 --> 00:43:34.020]   There are many jurisdictions where software patents are not allowed.
+[00:43:34.020 --> 00:43:38.020]   You will see that there is the European Patent Foundation
+[00:43:38.020 --> 00:43:43.020]   that specifically prohibits the granting of patents for computer programs,
+[00:43:43.020 --> 00:43:49.020]   even though the European Patent Office doesn't seem to care very much.
+[00:43:49.020 --> 00:43:53.020]   But,
+[00:43:54.020 --> 00:43:58.020]   we will try to understand their perspective too.
+[00:43:58.020 --> 00:44:05.020]   Copyright is granted,
+[00:44:05.020 --> 00:44:08.020]   because as we have seen,
+[00:44:08.020 --> 00:44:12.020]   at a certain point of the 70s,
+[00:44:12.020 --> 00:44:19.020]   judges started to think that software was not very different from a manual or a textbook.
+[00:44:21.020 --> 00:44:28.020]   It was an intellectual work in the field of science, basically.
+[00:44:28.020 --> 00:44:38.020]   So, starting from 1879, it was not possible to use the recent versions
+[00:44:38.020 --> 00:44:45.020]   of the Unix operating system in universities as a teaching tool anymore.
+[00:44:48.020 --> 00:44:53.020]   That's the reason why Professor Tannenbaum, who was professor of the operating system
+[00:44:53.020 --> 00:44:56.020]   at the Field University of Amsterdam,
+[00:44:56.020 --> 00:44:59.020]   sorry, but, well,
+[00:44:59.020 --> 00:45:04.020]   should be Freit Universität of Amsterdam,
+[00:45:04.020 --> 00:45:09.020]   when my pronunciation of Dutch is correct,
+[00:45:09.020 --> 00:45:13.020]   Professor Tannenbaum decided to write
+[00:45:14.020 --> 00:45:19.020]   a Minix, which was,
+[00:45:19.020 --> 00:45:25.020]   as the final two letters of the name suggest,
+[00:45:25.020 --> 00:45:33.020]   a re-written Unix operating system,
+[00:45:33.020 --> 00:45:36.020]   but without code from AT&T.
+[00:45:36.020 --> 00:45:40.020]   That was made possible by the
+[00:45:41.020 --> 00:45:45.020]   idea versus expression they cut in.
+[00:45:45.020 --> 00:45:51.020]   My operating system, Minix, does whatever Unix does,
+[00:45:51.020 --> 00:45:55.020]   but it does it with different code, so it's not Unix.
+[00:45:55.020 --> 00:46:07.020]   I think it's more mention of Minix,
+[00:46:07.020 --> 00:46:13.020]   because Minix will play a role in the early development of the Linux kernel,
+[00:46:13.020 --> 00:46:17.020]   and what we call the GNU Linux operating system.
+[00:46:17.020 --> 00:46:25.020]   Because behind and around the Linux operating system,
+[00:46:25.020 --> 00:46:28.020]   a community of users grows.
+[00:46:28.020 --> 00:46:35.020]   And when the internet became part of the academic society
+[00:46:35.020 --> 00:46:38.020]   in the late 80s and early 90s,
+[00:46:38.020 --> 00:46:46.020]   that community was going to be the place where
+[00:46:46.020 --> 00:46:53.020]   the Linux operating system started to be conceived by Linux Torro.
+[00:46:53.020 --> 00:47:03.020]   So,
+[00:47:04.020 --> 00:47:09.020]   Minix was meant to be a teaching tool,
+[00:47:09.020 --> 00:47:17.020]   because it came with the source code as a Unix had been till the late 70s.
+[00:47:17.020 --> 00:47:21.020]   And indeed, Minix was not Free Software,
+[00:47:21.020 --> 00:47:26.020]   but it was included as an appendix of the book on Free Software design
+[00:47:26.020 --> 00:47:30.020]   and implementation by Professor Tannenbaum.
+[00:47:31.020 --> 00:47:36.020]   So everyone started buying that book and had a copy of that operating system,
+[00:47:36.020 --> 00:47:38.020]   and could use it.
+[00:47:38.020 --> 00:47:53.020]   As I said, what the ATAT did to change the license of the source code of version 7
+[00:47:53.020 --> 00:47:56.020]   of the Unix operating system,
+[00:47:57.020 --> 00:48:06.020]   was because basically they wanted to have a trade secrecy claim over the source code.
+[00:48:06.020 --> 00:48:14.020]   But you cannot have a trade secrecy claim if you distribute the source code into the world.
+[00:48:14.020 --> 00:48:22.020]   A secret to be protected must be kept secret.
+[00:48:25.020 --> 00:48:34.020]   The law only protects, only provides better remedies for breaking the secret.
+[00:48:34.020 --> 00:48:46.020]   Threatening the violation with a sort of punishment.
+[00:48:49.020 --> 00:48:55.020]   So since AT&T wanted to have a trade secrecy claim,
+[00:48:55.020 --> 00:49:01.020]   they had to stop sharing the source code.
+[00:49:01.020 --> 00:49:05.020]   And this is what they did.
+[00:49:05.020 --> 00:49:17.020]   Why? Well, I told you in 1982, Ronald Reagan competition the regulation AT&T
+[00:49:17.020 --> 00:49:25.020]   and the Department of Justice adopted a new consent decree,
+[00:49:25.020 --> 00:49:37.020]   according to which AT&T lost its monopoly over the telephone service market,
+[00:49:39.020 --> 00:49:48.020]   but it was allowed to enter different other markets, like the software market.
+[00:49:48.020 --> 00:50:01.020]   So in 1882 AT&T created the Unix system laboratories.
+[00:50:01.020 --> 00:50:06.020]   They started to develop the operating system,
+[00:50:06.020 --> 00:50:15.020]   but they also started to license it to other firms, to other software houses.
+[00:50:15.020 --> 00:50:24.020]   And the year of commercial Unix started at that time.
+[00:50:24.020 --> 00:50:34.020]   Well, probably you are too young to remember,
+[00:50:35.020 --> 00:50:51.020]   but when I was at your age and I started using the digital infrastructure of our university,
+[00:50:51.020 --> 00:51:00.020]   we had different workstations running different types of Unix operating system.
+[00:51:03.020 --> 00:51:08.020]   There were many bland, many flavors of Unix operating system.
+[00:51:08.020 --> 00:51:12.020]   I remember there was a version by Sun,
+[00:51:12.020 --> 00:51:19.020]   Woodtricks, as far as I remember,
+[00:51:19.020 --> 00:51:26.020]   a version by IBM, Ix,
+[00:51:29.020 --> 00:51:36.020]   a version by, well, there was also a version by Microsoft.
+[00:51:36.020 --> 00:51:42.020]   The basic code, the base code was the Unix operating system,
+[00:51:42.020 --> 00:51:49.020]   but each software house had a license by AT&T to develop their own flavor.
+[00:51:49.020 --> 00:51:56.020]   As you may understand, that led to a mess,
+[00:51:57.020 --> 00:52:02.020]   because those flavors started to become incompatible with one or the other.
+[00:52:02.020 --> 00:52:13.020]   Reusing the same code over those different operating,
+[00:52:13.020 --> 00:52:18.020]   well, it was the same operating system, but in different flavors, it became impossible.
+[00:52:19.020 --> 00:52:27.020]   And so, for this reason, the process of standardization of the Unix operating system,
+[00:52:27.020 --> 00:52:32.020]   the basic operating system calls,
+[00:52:32.020 --> 00:52:36.020]   was done that led to
+[00:52:45.020 --> 00:52:49.020]   POSIX standard.
+[00:52:49.020 --> 00:53:00.020]   One of the editors of POSIX standard was Richard Stalman, by the way, as we will see.
+[00:53:00.020 --> 00:53:08.020]   I should stress, evenly stress,
+[00:53:11.020 --> 00:53:19.020]   the fact that the technology used for creating Unix operating system had a side effect.
+[00:53:19.020 --> 00:53:22.020]   So now, unexpected.
+[00:53:22.020 --> 00:53:29.020]   The core design of the C programming language led
+[00:53:29.020 --> 00:53:36.020]   that programming language to be easily portable from other architecture to another.
+[00:53:40.020 --> 00:53:45.020]   It was just a matter of rewriting the compiler and
+[00:53:45.020 --> 00:53:53.020]   do some little changes to the standard library.
+[00:53:53.020 --> 00:54:05.020]   The side effect of this side effect,
+[00:54:05.020 --> 00:54:08.020]   being Unix written in C,
+[00:54:09.020 --> 00:54:13.020]   was that the Unix system itself was portable.
+[00:54:13.020 --> 00:54:20.020]   And that made it possible,
+[00:54:20.020 --> 00:54:28.020]   the proliferation of different versions of the Unix operating system,
+[00:54:28.020 --> 00:54:32.020]   because being an operating system which was very portable,
+[00:54:34.020 --> 00:54:42.020]   hardware producers were able to use it and port it to their new architectures very easily.
+[00:54:42.020 --> 00:54:52.020]   That's the reason why IBM had its own Unix flavor operating system,
+[00:54:52.020 --> 00:54:54.020]   sound microsystem,
+[00:54:54.020 --> 00:54:58.020]   and so on and so forth.
+[00:54:58.020 --> 00:55:16.020]   A higher level side effect of software portability.
+[00:55:16.020 --> 00:55:27.020]   Well, it was that you could write a piece of software and run it on different hardware architectures.
+[00:55:27.020 --> 00:55:33.020]   The strong link between hardware and software was broken.
+[00:55:33.020 --> 00:55:43.020]   The hardware industry and software industry could start taking different paths independently.
+[00:55:43.020 --> 00:55:49.020]   That was made possible by the very idea of portability,
+[00:55:49.020 --> 00:55:52.020]   which was a side effect of the C programming language,
+[00:55:52.020 --> 00:55:56.020]   which had a side effect of making Unix portable.
+[00:55:56.020 --> 00:56:13.020]   And thus far I just had a look at the technological development.
+[00:56:13.020 --> 00:56:19.020]   But there is also the other side of the coin, the institutional development.
+[00:56:24.020 --> 00:56:31.020]   As you may understand, in the mid-seventies,
+[00:56:31.020 --> 00:56:42.020]   when the software and the hardware industries were mature enough to start taking different paths,
+[00:56:44.020 --> 00:57:00.020]   software emerged as a valuable asset, but an asset cannot become a good,
+[00:57:00.020 --> 00:57:05.020]   something tradable on the market,
+[00:57:05.020 --> 00:57:13.020]   unless it is protected by some sort of property right, some sort of exclusive right.
+[00:57:13.020 --> 00:57:20.020]   So that you are buying the right to exclude others from using what you are buying.
+[00:57:20.020 --> 00:57:30.020]   If you buy a sandwich and then pass by and take your sandwich from your hand and that's not a crime,
+[00:57:30.020 --> 00:57:38.020]   you wouldn't be so willing to spend your money to buy the sandwich.
+[00:57:39.020 --> 00:57:43.020]   I'm not kidding.
+[00:57:43.020 --> 00:57:51.020]   Still there was a problem, because as I said,
+[00:57:51.020 --> 00:58:02.020]   in the United States, which was the most advanced from technological perspective country in the world,
+[00:58:07.020 --> 00:58:18.020]   until 1876, they had the naked eye notion of copy.
+[00:58:18.020 --> 00:58:30.020]   And that was the result of a court decision adopted by the US Supreme Court in 1908,
+[00:58:31.020 --> 00:58:38.020]   in the case of White Smith Music Publishing Company versus Apollo Company.
+[00:58:38.020 --> 00:58:43.020]   Now Apollo.
+[00:58:43.020 --> 00:58:58.020]   Let me see.
+[00:58:58.020 --> 00:59:08.020]   Apollo was producing piano rolls.
+[00:59:08.020 --> 00:59:12.020]   That's probably a nice picture.
+[00:59:12.020 --> 00:59:23.020]   That's one of the pianos produced by Apollo.
+[00:59:26.020 --> 00:59:29.020]   A piano roll.
+[00:59:29.020 --> 00:59:32.020]   A pianola.
+[00:59:32.020 --> 00:59:42.020]   Basically, a piano that could be played by itself with the music encoded in a roll.
+[00:59:42.020 --> 00:59:50.020]   In a cylinder with a small, like a brio, a small...
+[00:59:54.020 --> 00:59:56.020]   Bumps.
+[00:59:56.020 --> 00:59:59.020]   Bumps. You mean like little bumps?
+[00:59:59.020 --> 01:00:08.020]   Bumps. With bumps, we're activating a mechanism which was producing the music.
+[01:00:08.020 --> 01:00:23.020]   White Smith Music Publishing Company instead was a publishing company
+[01:00:24.020 --> 01:00:31.020]   editing and publishing music in written form.
+[01:00:31.020 --> 01:00:37.020]   Scores. Music scores.
+[01:00:37.020 --> 01:00:49.020]   Now, White Smith Music Publishing Company discovered that some of the rolls
+[01:00:50.020 --> 01:01:00.020]   sold by Apollo were copies of the scores White Smith Music Publishing Company was selling.
+[01:01:00.020 --> 01:01:10.020]   And so they wrote a case in front of a judge to say that those rolls with bumpers were
+[01:01:10.020 --> 01:01:18.020]   copyright infringement of the music published by White Smith Music Publishing Company.
+[01:01:19.020 --> 01:01:27.020]   But the Supreme Court said that no, that was not a copy because a copy is just something
+[01:01:27.020 --> 01:01:34.020]   that can be read with the naked eye. Instead, those rolls could be read only by a machine.
+[01:01:34.020 --> 01:01:47.020]   So you could perceive the same music, but you could not perceive the music of the roll
+[01:01:47.020 --> 01:01:54.020]   without the machine to play it. So the roll was not a copy.
+[01:01:54.020 --> 01:02:04.020]   And White Smith didn't have any copy.
+[01:02:08.020 --> 01:02:19.020]   Next year, US Congress decided to adopt that definition of a copy and to codify it.
+[01:02:19.020 --> 01:02:33.020]   And so starting from 1909, a copy, and so copyright infringement,
+[01:02:34.020 --> 01:02:43.020]   was only something which was directly perceived by a human being without any idea of a machine.
+[01:02:43.020 --> 01:02:52.020]   Well, that was going to be applied to computer programs.
+[01:02:52.020 --> 01:03:02.020]   Because the computer program is just a list of instructions for a central processing unit, for a CPU.
+[01:03:02.020 --> 01:03:12.020]   Without the CPU, you cannot, well yes, you cannot read the instruction, but you may have an idea,
+[01:03:12.020 --> 01:03:21.020]   but you won't have a clear idea of what the entire program is going to do, what functions cost.
+[01:03:25.020 --> 01:03:40.020]   And so the very ratio behind White Smith was going to prohibit the inclusion of computer programs
+[01:03:40.020 --> 01:03:45.020]   in object code among the intellectual works protected by copyright.
+[01:03:45.020 --> 01:03:50.020]   And that impossibility was actually tasked
+[01:03:50.020 --> 01:04:06.020]   by law students. As far as I remember, it was the University of Columbia, and Yale, maybe.
+[01:04:06.020 --> 01:04:14.020]   I'm sure about Columbia University, but I don't remember, or the Harvard Law School.
+[01:04:15.020 --> 01:04:28.020]   And what did these students do? Well, they tried to register computer programs with the U.S. Copyright Office.
+[01:04:28.020 --> 01:04:42.020]   You remember I told you that in that time, the U.S. legislation on copyright was incompatible with the Berne Convention,
+[01:04:43.020 --> 01:04:53.020]   because one of the requirements for getting the protection was the registration of the intellectual work with the U.S. Copyright Office.
+[01:04:53.020 --> 01:05:02.020]   Otherwise the protection was not given. You remember I told you that was incompatible.
+[01:05:03.020 --> 01:05:14.020]   So those law students decided to try and test what the U.S. Copyright Office was going to do.
+[01:05:14.020 --> 01:05:29.020]   And they filed a few programs in both object code, encoder intakes, and source code.
+[01:05:29.020 --> 01:05:37.020]   The source code was accepted, and the object code was rejected.
+[01:05:37.020 --> 01:05:54.020]   And in order to clarify its policy, the U.S. Copyright Office adopted a circular number 61 in 1974.
+[01:05:55.020 --> 01:06:08.020]   According to which of the copy deposits for registration must consist of or include the reproduction in a language intelligible to human beings.
+[01:06:11.020 --> 01:06:28.020]   So the source code in a high-level programming language, which is intelligible by a human being, may be protected by copyright, but not the object code.
+[01:06:34.020 --> 01:06:45.020]   Keep in mind that the second requirement was to place a copyright notice on the intellectual work itself to claim your rights.
+[01:06:45.020 --> 01:06:56.020]   Seems like Thompson and Rick Pitt forgot to do that in the source code of the original UNIX operating system.
+[01:07:00.020 --> 01:07:11.020]   If you do not place a copyright clause, it means that you are weighing your rights.
+[01:07:11.020 --> 01:07:15.020]   You are renouncing your rights.
+[01:07:15.020 --> 01:07:22.020]   Not asking for legal protection afforded by copyright.
+[01:07:25.020 --> 01:07:31.020]   That's before the creation of the UNIX operating system.
+[01:07:31.020 --> 01:07:38.020]   By the end of the 1760s UNIX started being written.
+[01:07:38.020 --> 01:07:50.020]   And then something was going to change in 1876, which is the turning point.
+[01:07:52.020 --> 01:08:14.020]   Because after appreciating the growing importance of the software industry, as separated by the hardware industry, something made possible by software portability.
+[01:08:17.020 --> 01:08:40.020]   The US Congress decided to adopt a new copyright law in order to include specific computer programs, but also to include other forms of expression that were not known in the 70s.
+[01:08:42.020 --> 01:08:52.020]   Do you remember we read the definition of literary work of the US copyright office?
+[01:08:52.020 --> 01:08:56.020]   Of the US Congress or so.
+[01:08:57.020 --> 01:09:19.020]   You see, literary works are works other than audio-visual works expressed in words, numbers or other verbal or numerical symbols or indigestion, regardless of the nature of the material object, such as books in which they are embodied.
+[01:09:24.020 --> 01:09:40.020]   So at that time there was a debate among legal scholars on whether computer programs should be protected with copyright or with other types of legal tools.
+[01:09:40.020 --> 01:09:43.020]   Why?
+[01:09:44.020 --> 01:09:54.020]   Because if you remember, the Bohm Convention was about literary and artistic works.
+[01:09:54.020 --> 01:10:04.020]   But what about software?
+[01:10:05.020 --> 01:10:14.020]   Well, software has definitely an intellectual component. You write software and you know what I mean.
+[01:10:14.020 --> 01:10:24.020]   But there is also a practical component because you are writing software which is useful for performing a task.
+[01:10:25.020 --> 01:10:53.020]   And the practical aspect of software as a tradeable good relies on its ability of performing in a good way.
+[01:10:54.020 --> 01:11:00.020]   The tasks that the software is supposed to perform.
+[01:11:03.020 --> 01:11:22.020]   In the same way, like two or three hundred years ago, for example, a person who forged a sword or something like that, so it made something that was useful but at the same time required some skill.
+[01:11:22.020 --> 01:11:31.020]   Or even today when someone creates a beautiful car, could be software considered as a form of art?
+[01:11:32.020 --> 01:11:36.020]   Yes, there is a copyright over the design.
+[01:11:36.020 --> 01:11:51.020]   Keep in mind that copyright refers to intellectual property, so if I'm building a nice car, I can sell the car.
+[01:11:51.020 --> 01:11:54.020]   I can sell the object.
+[01:11:55.020 --> 01:12:02.020]   But there is also an intellectual component of the car, its beauty, which is given by the design.
+[01:12:02.020 --> 01:12:08.020]   You know, the shape, the harmony of the dimensions and stuff like that.
+[01:12:08.020 --> 01:12:12.020]   But that can be protected by copyright.
+[01:12:13.020 --> 01:12:30.020]   I could not make, I don't think I could at least, a copy of a wonderful Lamborghini without infringing Lamborghini's ownership over the design of the car.
+[01:12:30.020 --> 01:12:33.020]   So making a copy is…
+[01:12:33.020 --> 01:12:37.020]   But how do you define software design choices?
+[01:12:38.020 --> 01:12:46.020]   I mean, it's very hard because at some point you're going to incur different implementation on the same thing.
+[01:12:46.020 --> 01:12:56.020]   Well, yes, but there is a difference.
+[01:12:57.020 --> 01:13:08.020]   Not that much actually, but there is some difference I believe between the design of a car and a piece of code.
+[01:13:08.020 --> 01:13:16.020]   A piece of code is just an expression of ideas.
+[01:13:16.020 --> 01:13:24.020]   Well, even the design of the car is the expression of the ideas, but it becomes a material object.
+[01:13:26.020 --> 01:13:27.020]   The code, no.
+[01:13:27.020 --> 01:13:40.020]   Yes, you may have not agreed and implemented in very different ways with different programming languages.
+[01:13:40.020 --> 01:13:43.020]   There are ways that are beautiful, there are ways that are ugly.
+[01:13:43.020 --> 01:13:49.020]   Most of the time they both work, it's just a matter of taste.
+[01:13:50.020 --> 01:13:59.020]   But the ugly and the beautiful implementations both have the same level of protection than copyright.
+[01:13:59.020 --> 01:14:08.020]   Then I cannot analyze your style, I like your style of coding and I can imitate your style of coding.
+[01:14:08.020 --> 01:14:14.020]   And you do not have any claim over the style of your coding.
+[01:14:14.020 --> 01:14:19.020]   You have a claim over the code you write.
+[01:14:20.020 --> 01:14:25.020]   Because the style of your coding is your idea of how to code.
+[01:14:25.020 --> 01:14:31.020]   You're falling outside the boundaries of the internet for property.
+[01:14:31.020 --> 01:14:41.020]   So if you learn how I code and you write a program in the same style that I do, it's only a matter of my word against yours.
+[01:14:41.020 --> 01:14:46.020]   Well, if I copy your code...
+[01:14:46.020 --> 01:14:54.020]   ...I make a copyright infringement. I do a copyright infringement.
+[01:14:54.020 --> 01:15:06.020]   But if I recreate your code with your style but express it differently...
+[01:15:07.020 --> 01:15:17.020]   I'm not thinking just about changing the variable and function names, but changing the structure...
+[01:15:17.020 --> 01:15:24.020]   ...making sure that it is different code.
+[01:15:24.020 --> 01:15:29.020]   Otherwise it's copyright infringement or even plagiarism.
+[01:15:31.020 --> 01:15:37.020]   I don't know whether my answer is clear.
+[01:15:37.020 --> 01:15:40.020]   It's a little bit of a grey area.
+[01:15:40.020 --> 01:15:42.020]   Sorry?
+[01:15:42.020 --> 01:15:44.020]   It's a little bit of a grey area.
+[01:15:44.020 --> 01:15:48.020]   Well, yes, sure, it's a grey area.
+[01:15:49.020 --> 01:16:03.020]   We fix the problem of that unfocused borderline by using a criteria which is the dichotomy between ideas and formal expression.
+[01:16:03.020 --> 01:16:10.020]   But take the change of two songs, the chord progressions of two songs.
+[01:16:10.020 --> 01:16:13.020]   They are similar.
+[01:16:13.020 --> 01:16:17.020]   But they are slightly different.
+[01:16:18.020 --> 01:16:23.020]   Who is going to decide whether one is copyright infringement of the other?
+[01:16:23.020 --> 01:16:25.020]   Someone.
+[01:16:25.020 --> 01:16:30.020]   At random. We call it a judge or a jury.
+[01:16:30.020 --> 01:16:36.020]   There is a margin of discretion.
+[01:16:42.020 --> 01:16:51.020]   In order to make that decision acceptable, you have to provide your arguments and I can check whether your arguments are strong.
+[01:16:51.020 --> 01:16:53.020]   But that's it.
+[01:16:53.020 --> 01:16:57.020]   The ultimate decision is an arbitrary decision.
+[01:16:57.020 --> 01:17:01.020]   Because it's not possible to...
+[01:17:01.020 --> 01:17:08.020]   Yes, we can say that there is a dichotomy between formal expression and ideas.
+[01:17:09.020 --> 01:17:14.020]   And that can be easily done in writing.
+[01:17:14.020 --> 01:17:17.020]   I compare.
+[01:17:17.020 --> 01:17:20.020]   If the wording is different, it's different.
+[01:17:20.020 --> 01:17:27.020]   That's the reason why there is the paraphrasing tool, Quillbot it is called.
+[01:17:27.020 --> 01:17:35.020]   That helps people plagiarize text by changing the wording.
+[01:17:37.020 --> 01:17:48.020]   So in that situation it's pretty easy and I think that even in the case of code, because the code is wording,
+[01:17:48.020 --> 01:18:01.020]   it may be difficult for songs, for melodies, for other intellectual works which are perceived with different senses.
+[01:18:03.020 --> 01:18:07.020]   Not by the meaning, by the...
+[01:18:07.020 --> 01:18:10.020]   Just a question to make it straight.
+[01:18:10.020 --> 01:18:21.020]   So I can ask for copyright protection on the source code but under the copyright act.
+[01:18:21.020 --> 01:18:28.020]   But I cannot ask for copyright protection for the object code.
+[01:18:29.020 --> 01:18:33.020]   That was true up until 1876.
+[01:18:33.020 --> 01:18:35.020]   Before the copyright act.
+[01:18:35.020 --> 01:18:41.020]   With that new definition the object code is included.
+[01:18:41.020 --> 01:18:43.020]   Ok.
+[01:18:43.020 --> 01:18:49.020]   So basically if I have a copyrighted source code,
+[01:18:49.020 --> 01:18:56.020]   every object code that may be derived from a compilation is...
+[01:18:57.020 --> 01:18:59.020]   No. You have to explicitly...
+[01:18:59.020 --> 01:19:01.020]   No, because the object code is not protected.
+[01:19:01.020 --> 01:19:04.020]   No, no, no. Under the copyright act.
+[01:19:04.020 --> 01:19:06.020]   Yes, under that code, yes.
+[01:19:06.020 --> 01:19:11.020]   So if I copyright an algorithm, I also have...
+[01:19:11.020 --> 01:19:15.020]   You are not allowed to copyright an algorithm because the algorithm is an idea.
+[01:19:15.020 --> 01:19:17.020]   But if you write the algorithm.
+[01:19:17.020 --> 01:19:21.020]   To implement the specific implementation in a given programming language.
+[01:19:22.020 --> 01:19:29.020]   You write a certain algorithm in C. If I write the same algorithm in Haskell, I'm not infringing your copyright.
+[01:19:29.020 --> 01:19:37.020]   If you patent the algorithm for sorting,
+[01:19:37.020 --> 01:19:47.020]   then both the implementation in C and Haskell will be patent infringement, patent violation.
+[01:19:47.020 --> 01:19:50.020]   Are you allowed to patent an algorithm?
+[01:19:50.020 --> 01:19:56.020]   Well, the wording of the European patent... We will discuss that.
+[01:19:56.020 --> 01:19:59.020]   But the wording of the European patent convention says no.
+[01:19:59.020 --> 01:20:02.020]   Computer programs cannot be patented.
+[01:20:02.020 --> 01:20:07.020]   Even though the European patent office grants patents for algorithms.
+[01:20:07.020 --> 01:20:11.020]   In the US there was a debate.
+[01:20:12.020 --> 01:20:23.020]   So the judges were quite open to let software patentability get into the system.
+[01:20:23.020 --> 01:20:25.020]   And that was possible.
+[01:20:25.020 --> 01:20:29.020]   For instance, I don't know whether you remember it,
+[01:20:29.020 --> 01:20:38.020]   there was a very famous code decision about Microsoft and a very small software house
+[01:20:39.020 --> 01:20:44.020]   where a patent related to embedding into a browser a different program.
+[01:20:44.020 --> 01:20:48.020]   For instance, for displaying PDF pages.
+[01:20:48.020 --> 01:20:57.020]   That patent was believed to be valid and Microsoft was...
+[01:20:58.020 --> 01:21:09.020]   Had to pay as far as I remember 500 million dollars of compensation.
+[01:21:09.020 --> 01:21:24.020]   But after that, I have the perception that the American judges are turning back to a very...
+[01:21:24.020 --> 01:21:32.020]   Prudent approach to software patentability.
+[01:21:32.020 --> 01:21:37.020]   Because they started to understand that software patentability means patenting ideas.
+[01:21:37.020 --> 01:21:44.020]   And patenting ideas may lead to higher level of litigation.
+[01:21:44.020 --> 01:21:51.020]   But we will be discussing all those topics when talking about software patents.
+[01:21:51.020 --> 01:21:59.020]   Okay, let me just finish this slide.
+[01:21:59.020 --> 01:22:02.020]   And then we will start our weekend.
+[01:22:02.020 --> 01:22:04.020]   Oh, please me.
+[01:22:04.020 --> 01:22:16.020]   When the US Congress, as I said, adopted that modification of the US Copyright Act
+[01:22:17.020 --> 01:22:25.020]   to include the object code into among the works protected by copyright.
+[01:22:25.020 --> 01:22:29.020]   They also understood that software was different.
+[01:22:29.020 --> 01:22:40.020]   First of all, because software is a set of instructions for a CPU
+[01:22:41.020 --> 01:22:51.020]   that are usually stored in some form of magnetic energy on a medium.
+[01:22:51.020 --> 01:22:57.020]   And that magnetic field may disappear.
+[01:22:57.020 --> 01:23:02.020]   You know, are these failures and stuff like that.
+[01:23:02.020 --> 01:23:04.020]   You know what I mean.
+[01:23:05.020 --> 01:23:11.020]   It doesn't have the persistency of a book, of a paper book.
+[01:23:11.020 --> 01:23:21.020]   And so there was the need to let people protect themselves from accidental losses of computer programs.
+[01:23:21.020 --> 01:23:24.020]   The cap code.
+[01:23:27.020 --> 01:23:37.020]   And then sometimes, since software has a practical use in order to perform that, you may need to let the user
+[01:23:37.020 --> 01:23:52.020]   modify the code as long as it is possible in order to make the code more useful for that specific user.
+[01:23:52.020 --> 01:24:14.020]   Suppose that you are a Chinese firm needing software for something.
+[01:24:14.020 --> 01:24:17.020]   And that software comes in English.
+[01:24:18.020 --> 01:24:25.020]   So people who do not speak English have troubles in understanding how to use the software.
+[01:24:25.020 --> 01:24:33.020]   Well, if you buy the software, you have the right to translate it.
+[01:24:33.020 --> 01:24:36.020]   As long as it is possible.
+[01:24:37.020 --> 01:24:48.020]   Because it is not always possible to translate a piece of code if the original wording is inside the source code.
+[01:24:48.020 --> 01:24:50.020]   Maybe difficult and challenging.
+[01:24:50.020 --> 01:25:04.020]   So what I'm trying to say is that the Congress perceived the urgency of including software in 1876.
+[01:25:05.020 --> 01:25:17.020]   But it also understood that the specific nature of computer programs needed to be addressed in order to design
+[01:25:17.020 --> 01:25:23.020]   some specific limitations to the extrusive ride on computer programs.
+[01:25:23.020 --> 01:25:26.020]   Because of the very nature of software.
+[01:25:27.020 --> 01:25:35.020]   And this is why the Congress created a commission called the Commission of New Technological Uses of Copyrighted Work,
+[01:25:35.020 --> 01:25:45.020]   CON2, and let the commission work for five years in order to come up with working solutions.
+[01:25:48.020 --> 01:25:58.020]   And in 1980, the US Congress adopted the Computer Software Copyright Act,
+[01:25:58.020 --> 01:26:06.020]   which was going to introduce some limitations on the extension of the extrusive ride.
+[01:26:06.020 --> 01:26:16.020]   And we will have a look at those limitations and we will start talking about the European protection of computer programs.
+[01:26:17.020 --> 01:26:20.020]   Next time. Any questions?
+[01:26:20.020 --> 01:26:30.020]   Great. Thank you very much for your kind attention. I will see you next week. Bye bye

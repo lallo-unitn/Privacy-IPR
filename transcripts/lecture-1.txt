@@ -1,0 +1,566 @@
+[00:00:00.000 --> 00:00:10.000]   [ Pause ]
+[00:00:10.000 --> 00:00:32.000]   [ Pause ]
+[00:00:32.000 --> 00:00:46.000]   Okay.
+[00:00:46.000 --> 00:01:04.000]   [ Pause ]
+[00:01:04.000 --> 00:01:28.000]   [ Pause ]
+[00:01:28.000 --> 00:01:29.000]   Okay.
+[00:01:29.000 --> 00:01:35.000]   Nice to meet you.
+[00:01:35.000 --> 00:01:42.000]   I'm Andreo Sato and together with Professor Dandrea I'm teaching privacy and teleco-property
+[00:01:42.000 --> 00:01:43.000]   right.
+[00:01:43.000 --> 00:01:52.000]   Unlike Professor Dandrea I'm a lawyer so I will--well, you saw that because probably
+[00:01:52.000 --> 00:01:59.000]   I've been watching my first lecture on legal system and legal analysis.
+[00:01:59.000 --> 00:02:07.000]   I don't know what's going on here but hopefully let's see.
+[00:02:07.000 --> 00:02:09.000]   Okay.
+[00:02:09.000 --> 00:02:21.000]   I don't know what--why?
+[00:02:21.000 --> 00:02:22.000]   Okay.
+[00:02:22.000 --> 00:02:23.000]   Keep.
+[00:02:23.000 --> 00:02:27.000]   Now I understand.
+[00:02:27.000 --> 00:02:30.000]   I'm sorry for last Friday.
+[00:02:30.000 --> 00:02:35.000]   I was planning to come here and deliver my lecture but actually I had a very bad call
+[00:02:35.000 --> 00:02:44.000]   so I couldn't speak actually so that's the reason why I have to conceal the class right
+[00:02:44.000 --> 00:02:45.000]   Friday.
+[00:02:45.000 --> 00:02:50.000]   Do you have any questions about video you have been watching about the legal system and legal
+[00:02:50.000 --> 00:02:51.000]   analysis?
+[00:02:51.000 --> 00:02:52.000]   Okay.
+[00:02:52.000 --> 00:03:01.000]   If not we can start talking about copyright so we can start digging into one of the main
+[00:03:01.000 --> 00:03:04.000]   subjects of our course, inter-level property.
+[00:03:04.000 --> 00:03:12.000]   And in order to understand what inter-level property is I think that historical perspective
+[00:03:12.000 --> 00:03:23.000]   is the best option because--well, first of all because there seems to be a perceived
+[00:03:23.000 --> 00:03:33.000]   connection between the invention of inter-level property and the technological revolution.
+[00:03:33.000 --> 00:03:34.000]   Okay.
+[00:03:34.000 --> 00:03:45.000]   We will see that usually legal scholars and economists think that inter-level property
+[00:03:45.000 --> 00:03:53.000]   and specifically copyright was created because of the technological revolution represented
+[00:03:53.000 --> 00:04:00.000]   by the invention of the printing press.
+[00:04:00.000 --> 00:04:07.000]   But that troubles some somehow.
+[00:04:07.000 --> 00:04:20.000]   Anyway, this is interesting because actually inter-level property has become one of the
+[00:04:20.000 --> 00:04:24.000]   major legal issues in the digital age.
+[00:04:24.000 --> 00:04:33.000]   And we will see that thanks to the development and deployment of information and communication
+[00:04:33.000 --> 00:04:52.000]   technologies we had a very rapid legal change related to inter-level property.
+[00:04:52.000 --> 00:04:59.000]   Starting from the end of the last century, the digital millennium copyright act, the
+[00:04:59.000 --> 00:05:04.000]   Sony Bono copyright extension act, and so on and so forth.
+[00:05:04.000 --> 00:05:18.000]   So those legal innovations were perceived as being caused by the technological revolution
+[00:05:18.000 --> 00:05:21.000]   of the digital age.
+[00:05:21.000 --> 00:05:33.000]   In a very similar way of what happened during the 15th, 16th, and 18th century.
+[00:05:33.000 --> 00:05:43.000]   So usually we believe that inter-level property is related to the technology we use to spread
+[00:05:43.000 --> 00:05:47.000]   and to enjoy and to perceive inter-level works.
+[00:05:47.000 --> 00:05:56.000]   If you think about books for instance, before the invention of the printing press books
+[00:05:56.000 --> 00:05:59.000]   were manually copied by copyists.
+[00:05:59.000 --> 00:06:09.000]   And as you may understand the cost of making the first copy in terms of physical effort
+[00:06:09.000 --> 00:06:17.000]   and writing the first copy of your book was not very different from making the second
+[00:06:17.000 --> 00:06:20.000]   copy and the third copy and so on and so forth.
+[00:06:20.000 --> 00:06:29.000]   That is to say the marginal cost of a book was basically constant because it took the
+[00:06:29.000 --> 00:06:33.000]   same amount of time to manually copy it.
+[00:06:33.000 --> 00:06:43.000]   Instead the invention of the printing press changed the cost structure of producing a
+[00:06:43.000 --> 00:06:44.000]   book.
+[00:06:44.000 --> 00:06:51.000]   Because with the printing press you should prepare the first copy but after that you
+[00:06:51.000 --> 00:07:01.000]   could start printing and printing the same book many different times at the cost of the
+[00:07:01.000 --> 00:07:03.000]   ink and the paper.
+[00:07:03.000 --> 00:07:20.000]   So no labor, well actually there is some labor but not as intense and not so great as the
+[00:07:20.000 --> 00:07:24.000]   effort needed to manually copy a book.
+[00:07:24.000 --> 00:07:39.000]   But if we look at the historical development we see that the first epiphany of the printing
+[00:07:39.000 --> 00:07:45.000]   press was the publication by Gutenberg of the Bible translated into German.
+[00:07:45.000 --> 00:07:52.000]   And that publication took place in 1455.
+[00:07:52.000 --> 00:08:04.000]   Instead if we look at the first legal document talking about copyright we have to wait till
+[00:08:04.000 --> 00:08:09.000]   1710 the State of the Fan.
+[00:08:09.000 --> 00:08:17.000]   Moreover if we read the State of the Fan we read something weird.
+[00:08:17.000 --> 00:08:24.000]   Look there, an act for the encouragement of learning by investing the copies of printed
+[00:08:24.000 --> 00:08:32.000]   books in the authors or processors of such copies during the times Dereen mentioned.
+[00:08:32.000 --> 00:08:38.000]   So an act for the encouragement of learning.
+[00:08:38.000 --> 00:08:48.000]   It was not about the protection of authors, it was about the protection of the community
+[00:08:48.000 --> 00:08:50.000]   of readers.
+[00:08:50.000 --> 00:09:05.000]   The fact that books are useful for the cultural growth of a society.
+[00:09:05.000 --> 00:09:17.000]   And if we read another early document related to copyright and intellectual property in
+[00:09:17.000 --> 00:09:28.000]   general, well that's the US Constitution Article 1 Section 8, close 8, which reads,
+[00:09:28.000 --> 00:09:34.000]   "The Congress has shared the power to promote the progress of science and useful arts by
+[00:09:34.000 --> 00:09:42.000]   securing for limited times to authors and inventors the exclusive right to their respective writings
+[00:09:42.000 --> 00:09:45.000]   and discoveries."
+[00:09:45.000 --> 00:09:51.000]   Well the meaning is almost the same of the State of the Fan.
+[00:09:51.000 --> 00:10:04.000]   The creation of copyright in terms of an exclusive right given to authors is not meant to reward
+[00:10:04.000 --> 00:10:12.000]   authors but is meant to promote the progress of science and useful arts.
+[00:10:12.000 --> 00:10:14.000]   Why?
+[00:10:14.000 --> 00:10:20.000]   Because if you think about it there is a problem.
+[00:10:20.000 --> 00:10:22.000]   And what is the problem?
+[00:10:22.000 --> 00:10:28.000]   That you are going to provide an author with an exclusive right.
+[00:10:28.000 --> 00:10:35.000]   And what exclusive right mean, what does exclusive right mean?
+[00:10:35.000 --> 00:10:39.000]   Well basically the right to exclude.
+[00:10:39.000 --> 00:10:46.000]   You know, I write a book and I don't want you to read it and I have the power to exclude
+[00:10:46.000 --> 00:10:48.000]   it from reading it.
+[00:10:48.000 --> 00:11:02.000]   So how the right to exclude is compatible with the aim of promoting the progress of science
+[00:11:02.000 --> 00:11:04.000]   and useful arts?
+[00:11:04.000 --> 00:11:14.000]   You know, there is a sort of a clash between the final goal, the encouragement of learning,
+[00:11:14.000 --> 00:11:18.000]   the promotion of science and so on and so forth.
+[00:11:18.000 --> 00:11:30.000]   And the other side, the creation of an exclusive right given to authors to keep everyone from
+[00:11:30.000 --> 00:11:36.000]   outside or from reading the book.
+[00:11:36.000 --> 00:11:43.000]   And we will see that when we will start talking about the basic principles of copyright,
+[00:11:43.000 --> 00:11:48.000]   then later on we will also be talking about patents.
+[00:11:48.000 --> 00:12:00.000]   We will see that deregulation of copyright and deregulation of patents is focused specifically
+[00:12:00.000 --> 00:12:09.000]   in making the ultimate goal of those institutions compatible with the means through which the
+[00:12:09.000 --> 00:12:11.000]   goal is achieved.
+[00:12:11.000 --> 00:12:20.000]   That is to say, deregulation has been created and draft in order to make the exclusive right
+[00:12:20.000 --> 00:12:26.000]   compatible with the aim of promoting science and useful arts.
+[00:12:26.000 --> 00:12:42.000]   Anyway, from a historical perspective, it is interesting to...
+[00:12:42.000 --> 00:12:50.000]   Sorry, I want to turn off the notification.
+[00:12:50.000 --> 00:13:04.000]   So first of all, we do have to understand why the State of the Fund, later on the US
+[00:13:04.000 --> 00:13:15.000]   Constitution, decided to adopt an approach to intellectual property based on that goal.
+[00:13:15.000 --> 00:13:23.000]   And later on we will try to understand also the latest development of intellectual property
+[00:13:23.000 --> 00:13:28.000]   in relation to the development of digital technologies.
+[00:13:28.000 --> 00:13:36.000]   And we will see that sometimes we could have the perception of going back in time and going
+[00:13:36.000 --> 00:13:44.000]   back at the early stages of the development of intellectual property.
+[00:13:44.000 --> 00:13:51.000]   Anyway, exclusive right.
+[00:13:51.000 --> 00:13:59.000]   First of all, what do we mean with exclusive right?
+[00:13:59.000 --> 00:14:01.000]   The right to exclude.
+[00:14:01.000 --> 00:14:06.000]   I am a right over...
+[00:14:06.000 --> 00:14:13.000]   Well, if you let me use this analogy, I would say that you have a right over a portion of
+[00:14:13.000 --> 00:14:17.000]   space which is yours.
+[00:14:17.000 --> 00:14:24.000]   And nobody can get in that portion of space without your consent.
+[00:14:24.000 --> 00:14:32.000]   Do you have any other example of an exclusive right?
+[00:14:32.000 --> 00:14:34.000]   No idea?
+[00:14:34.000 --> 00:14:36.000]   Private property?
+[00:14:36.000 --> 00:14:37.000]   Private property.
+[00:14:37.000 --> 00:14:44.000]   I would say that from a legal perspective, private property, let's call it property.
+[00:14:44.000 --> 00:14:49.000]   Because even public property is an exclusive right, okay?
+[00:14:49.000 --> 00:14:53.000]   That is, the public authority is allowed to keep you outside.
+[00:14:53.000 --> 00:14:58.000]   So it doesn't really matter whether it is private or public.
+[00:14:58.000 --> 00:15:01.000]   It is just property.
+[00:15:01.000 --> 00:15:07.000]   Well, property is a typical example of an exclusive right.
+[00:15:07.000 --> 00:15:14.000]   What does it mean that I have a property right over this piece of stuff?
+[00:15:14.000 --> 00:15:20.000]   That I can use it and I can prohibit you from using it.
+[00:15:20.000 --> 00:15:29.000]   So I can exclude you from the consumption of this resource.
+[00:15:29.000 --> 00:15:34.000]   But there is a difference still.
+[00:15:34.000 --> 00:15:40.000]   I don't know whether you have any idea of deregulation of property.
+[00:15:40.000 --> 00:15:45.000]   You know, property, the real stuff.
+[00:15:45.000 --> 00:15:50.000]   And you have probably heard that I was talking before about intellectual property.
+[00:15:50.000 --> 00:16:04.000]   That is to say, I was sort of suggesting that property and intellectual property are basically the same stuff.
+[00:16:04.000 --> 00:16:08.000]   And I said, you are the owner of the book.
+[00:16:08.000 --> 00:16:14.000]   As I can say, that you are the owner of a piece of land.
+[00:16:14.000 --> 00:16:22.000]   Or an apartment, or a mobile phone, a personal computer, and so on and so forth.
+[00:16:22.000 --> 00:16:33.000]   But still, there is a major difference between intellectual property and property, the real one.
+[00:16:33.000 --> 00:16:41.000]   Do you know what is the difference?
+[00:16:41.000 --> 00:16:45.000]   The intellectual property is on the earth.
+[00:16:45.000 --> 00:16:55.000]   Everyone can have an iPhone, but it's your thoughts, it's just inside your head.
+[00:16:55.000 --> 00:16:59.000]   I understand what you are meaning. Yes, that's right.
+[00:16:59.000 --> 00:17:07.000]   The intellectual property is something which is not material. It's not physical.
+[00:17:07.000 --> 00:17:15.000]   Even a book, well, yes, there is the so-called paper strand, the medium through which you can read the book,
+[00:17:15.000 --> 00:17:24.000]   but the book is not a piece of paper. The book is the content, which is transmitted by the piece of paper.
+[00:17:24.000 --> 00:17:29.000]   Well, that's right. And that's quite interesting and important indeed.
+[00:17:29.000 --> 00:17:33.000]   Because I will come to that later on.
+[00:17:33.000 --> 00:17:41.000]   But there is something, you know, easier to say.
+[00:17:41.000 --> 00:17:56.000]   If you think about it, property, the fact that I have an exclusive right over this mobile phone or this computer, doesn't have any goal.
+[00:17:56.000 --> 00:18:11.000]   You do not read in any legal document that the aim of property is, I don't know, increasing social welfare, maybe.
+[00:18:11.000 --> 00:18:25.000]   Well, there are economic theories according to which the fact that there is a property right over things makes it possible for people to exchange things.
+[00:18:25.000 --> 00:18:31.000]   And by exchanging things, you are going to increase social welfare.
+[00:18:31.000 --> 00:18:45.000]   This is pretty common. Think about that. I have this phone and I want to get rid of it because I want a better one and I can sell it.
+[00:18:45.000 --> 00:18:54.000]   What is the basic requirement for an exchange to take place?
+[00:18:54.000 --> 00:18:59.000]   I have to find someone who is willing to buy it.
+[00:18:59.000 --> 00:19:15.000]   And when someone is willing to buy it, when we have different perceptions about the value of this phone, for instance, I value this phone 100.
+[00:19:15.000 --> 00:19:23.000]   I don't know what, 100 dollars, 100 euros, 100 cents of euros, stuff like that.
+[00:19:23.000 --> 00:19:27.000]   It doesn't matter. But I value it 100.
+[00:19:27.000 --> 00:19:36.000]   There is no room to exchange it if you value it less than 100.
+[00:19:36.000 --> 00:19:45.000]   You wouldn't buy it. You wouldn't exchange 100 for the cell phone, for the mobile phone.
+[00:19:45.000 --> 00:19:53.000]   But if you value it more than I do, then there is a room for an exchange.
+[00:19:53.000 --> 00:20:08.000]   For instance, you value it 110. So you would be willing to give me, I don't know, 105 to get it.
+[00:20:08.000 --> 00:20:23.000]   Because by giving me 105 and getting 110, you are going to increase your wealth.
+[00:20:23.000 --> 00:20:28.000]   Instead of having 105 now, you have 110.
+[00:20:28.000 --> 00:20:37.000]   And I'm increasing my wealth too because instead of having 100, I now have 105.
+[00:20:37.000 --> 00:21:00.000]   And if we sum my increased wealth with your increased wealth, we see that by exchanging this cell phone, we are increasing our social or community wealth.
+[00:21:00.000 --> 00:21:10.000]   So that could be a reason why I'm awarding property rights to individuals.
+[00:21:10.000 --> 00:21:20.000]   Because if I do not have a property right, and everyone can come here and steal it, how can I sell it?
+[00:21:20.000 --> 00:21:28.000]   And what are you buying? You're not buying anything because I can give you the phone
+[00:21:28.000 --> 00:21:34.000]   and a few seconds later I can steal it from you.
+[00:21:34.000 --> 00:21:44.000]   You do not have a property right. So you understand property rights are meant to provide you with an exclusive right,
+[00:21:44.000 --> 00:22:00.000]   which means to provide you with legal remedies against theft, against whatever may jeopardize your enjoyment of a given resource.
+[00:22:00.000 --> 00:22:18.000]   So yes, there is an economic reason for property, but property was probably created before any reasoning about the goal of the institution.
+[00:22:18.000 --> 00:22:39.000]   Instead, when we come to intellectual property, we see that the very first document about intellectual property, the "Stitch of the Fan 1710", says that intellectual property better copyright has been created for the encouragement of learning.
+[00:22:39.000 --> 00:22:47.000]   Property was not created for the encouragement of anything.
+[00:22:47.000 --> 00:23:02.000]   There is another difference between property, the real stuff, and intellectual property, which relates to what you were saying before.
+[00:23:02.000 --> 00:23:23.000]   The fact that the exclusive right provided by copyright, or intellectual property if you prefer, is an exclusive right over something which is not material, which is not physical.
+[00:23:23.000 --> 00:23:41.000]   Well, I don't have any book here, but, you know, I can have a property right over a book, and indeed I can take that book and sell it.
+[00:23:41.000 --> 00:23:52.000]   But I do not have any property right over the content of a book. I cannot make a copy.
+[00:23:52.000 --> 00:24:02.000]   We will see that when we will be talking about the principles of copyright, and we will be talking about the regulation of copyright.
+[00:24:02.000 --> 00:24:16.000]   So, that's one difference between property and intellectual property.
+[00:24:16.000 --> 00:24:34.000]   And, you know, as you see, my code is not over yet.
+[00:24:34.000 --> 00:25:01.000]   As I said, I am a lawyer, and I must confess that for me,
+[00:25:01.000 --> 00:25:08.000]   the terminology of intellectual property is a contradiction in terms.
+[00:25:08.000 --> 00:25:20.000]   Because property, let's see if I can get some blackboard space.
+[00:25:20.000 --> 00:25:47.000]   Do you have any interest in that stuff?
+[00:25:47.000 --> 00:25:53.000]   Property is, as I said, a nation's legal institution.
+[00:25:53.000 --> 00:26:08.000]   Our regulation of property comes from the Roman legal experience.
+[00:26:08.000 --> 00:26:18.000]   You remember, during my lecture on the legal system, I was talking about the different legal cultures and traditions.
+[00:26:18.000 --> 00:26:25.000]   And I told you that during this course we will mostly be dealing with the Western legal tradition.
+[00:26:25.000 --> 00:26:36.000]   Because the Western legal tradition has been shaping almost every other legal tradition in recent times.
+[00:26:36.000 --> 00:26:56.000]   And, you know, that's pretty understandable, because the Western legal tradition is the expression of political and economic power by the Western countries.
+[00:26:56.000 --> 00:27:04.000]   And the Western legal tradition is rooted into the Roman legal experience.
+[00:27:04.000 --> 00:27:08.000]   Think about the terminology, even in English.
+[00:27:08.000 --> 00:27:23.000]   We are talking in English, but we are talking about property, which comes from propietà, contractus, and so on and so forth.
+[00:27:23.000 --> 00:27:42.000]   That's quite interesting, because Latin legal expressions penetrated into the English tradition, because William de Conquerer was actually speaking French.
+[00:27:42.000 --> 00:27:47.000]   And French is a neo-Latin language.
+[00:27:47.000 --> 00:28:04.000]   So the root of the so-called common law tradition is basically rooted in the French language.
+[00:28:04.000 --> 00:28:08.000]   William was speaking French.
+[00:28:08.000 --> 00:28:11.000]   Judges were speaking French.
+[00:28:11.000 --> 00:28:23.000]   And then later on, English started to emerge as the language of the now United Kingdom.
+[00:28:23.000 --> 00:28:33.000]   We can start discussing about the importance of the language when talking about the legal culture.
+[00:28:33.000 --> 00:28:37.000]   This is outside the boundaries of our course.
+[00:28:37.000 --> 00:28:55.000]   Still, we should keep in mind that usually when we are using a specific word to describe a legal institution, that word also carries a tradition made of rules.
+[00:28:55.000 --> 00:29:23.000]   So another way
+[00:29:23.000 --> 00:29:42.000]   to put it, to describe a property, is to use that expression, d'itore auf, that could be translated into a real rite.
+[00:29:42.000 --> 00:30:06.000]   I don't actually like that expression very much, but you will see that, no, you will not see it because you are not lawyer, but if you start studying American law for instance, you will see that there is a very common expression
+[00:30:06.000 --> 00:30:15.000]   which is used by American lawyers in rem.
+[00:30:15.000 --> 00:30:22.000]   Now, property is a real rite.
+[00:30:22.000 --> 00:30:27.000]   And what does real mean?
+[00:30:27.000 --> 00:30:31.000]   What does real mean?
+[00:30:31.000 --> 00:30:43.000]   Well, real comes from the Latin word res.
+[00:30:43.000 --> 00:30:55.000]   And that Latin word means things, material things, in Italian, cossi.
+[00:30:55.000 --> 00:31:18.000]   If we read the Italian definition of property, we would read that property is a right, a masculine right, over things, less cossi.
+[00:31:18.000 --> 00:31:28.000]   So property is not a right over non-material things, traditionally.
+[00:31:28.000 --> 00:31:44.000]   Property is a right over an object like this one, a piece of land, an apartment, and stuff like that.
+[00:31:44.000 --> 00:31:56.000]   And until very recently, we didn't have any notion of inter-letter property.
+[00:31:56.000 --> 00:32:13.000]   Inter-letter property, as I said, is a contradiction because if property refers to material things, and inter-letter property refers to non-material things, I shouldn't be using the word property.
+[00:32:13.000 --> 00:32:37.000]   But we are not philosophers, we are not language teachers, and we need to cope with the fact that the legislators around the world started using the word inter-letter property to describe that stuff.
+[00:32:37.000 --> 00:32:40.000]   And that's it.
+[00:32:40.000 --> 00:33:00.000]   Moreover, we have a global institution, which is called World Inter-letter Property Organization, which is managing the development of inter-letter property at the global level.
+[00:33:00.000 --> 00:33:02.000]   And we need to take that into account.
+[00:33:02.000 --> 00:33:15.000]   So traditionally, I would say that inter-letter property is a contradiction in terms, but instead I have to cope with the fact that inter-letter property has become part of the legal discourse.
+[00:33:15.000 --> 00:33:20.000]   So what is inter-letter property? Any idea?
+[00:33:21.000 --> 00:33:24.000]   Any other questions?
+[00:33:25.000 --> 00:33:27.000]   Okay.
+[00:33:28.000 --> 00:33:30.000]   Okay.
+[00:33:31.000 --> 00:33:33.000]   Okay.
+[00:33:34.000 --> 00:33:36.000]   Okay.
+[00:33:37.000 --> 00:33:39.000]   Okay.
+[00:33:39.000 --> 00:33:41.000]   Okay.
+[00:34:07.000 --> 00:34:09.000]   This is the...
+[00:34:09.000 --> 00:34:11.000]   Well, yes.
+[00:34:11.000 --> 00:34:13.000]   Yes.
+[00:34:13.000 --> 00:34:16.000]   If you have an answer, that would be great.
+[00:34:36.000 --> 00:34:39.000]   Well, that's not...
+[00:34:39.000 --> 00:34:44.000]   I wouldn't say that that's a real difference.
+[00:34:44.000 --> 00:34:55.000]   Because if you think about it, if you have an exclusive right over an idea, you can sell that exclusive right to someone else, and you get value out of it.
+[00:34:55.000 --> 00:35:05.000]   Well, yes, but that's value.
+[00:35:05.000 --> 00:35:10.000]   So I wouldn't say that.
+[00:35:10.000 --> 00:35:20.000]   Well, I understand your point, but it doesn't make much difference in my perspective.
+[00:35:20.000 --> 00:35:22.000]   But yes.
+[00:35:22.000 --> 00:35:27.000]   But I would say that...
+[00:35:27.000 --> 00:35:34.000]   Well, that there is a problem with our definition of inter-letter property, that that's the problem.
+[00:35:34.000 --> 00:35:49.000]   Because if you look at what the word inter-letter property is doing, you will see that there are three major areas of action by the Y-POP.
+[00:35:49.000 --> 00:35:55.000]   Copyright, patents, and trademarks.
+[00:35:58.000 --> 00:36:13.000]   And usually we believe that those three legal institutions are part of what we call inter-letter property.
+[00:36:13.000 --> 00:36:28.000]   But what does copyright have in common with patents, and what do patents and copyright have in common with trademarks?
+[00:36:28.000 --> 00:36:30.000]   That's the problem.
+[00:36:30.000 --> 00:36:48.000]   Because when I'm talking about a legal institution, usually I'm talking about a set of rules that are managing or governing a given social phenomenon.
+[00:36:48.000 --> 00:36:51.000]   Property, for instance.
+[00:36:51.000 --> 00:36:59.000]   Property relates to the relationship between individuals and the resources.
+[00:36:59.000 --> 00:37:02.000]   But also between individuals.
+[00:37:02.000 --> 00:37:06.000]   I have a right of resource, I can trade it.
+[00:37:06.000 --> 00:37:14.000]   So I can start negotiating and creating relationships.
+[00:37:14.000 --> 00:37:30.000]   And property is a set of rules governing the relationship between an individual and a piece of the physical world.
+[00:37:30.000 --> 00:37:41.000]   We will see that copyright is very different from patents.
+[00:37:41.000 --> 00:37:51.000]   We will see that copyright protects the expression of an idea.
+[00:37:51.000 --> 00:37:58.000]   Think about a plot.
+[00:37:58.000 --> 00:38:09.000]   A young man, a young woman, falling in love, belonging to different families, and those different families having a conflict between them,
+[00:38:09.000 --> 00:38:14.000]   and prohibiting that relationship to take place.
+[00:38:14.000 --> 00:38:22.000]   And those young men and young women, at the end, will commit suicide.
+[00:38:22.000 --> 00:38:24.000]   That's a plot.
+[00:38:24.000 --> 00:38:28.000]   Very simple plot.
+[00:38:28.000 --> 00:38:32.000]   Quite a common plot, actually.
+[00:38:32.000 --> 00:38:44.000]   But you know, there is a guy who writes a tragedy, titled Romeo and Juliet.
+[00:38:44.000 --> 00:38:59.000]   And the tragedy becomes a masterpiece of dramatic works.
+[00:38:59.000 --> 00:39:02.000]   Copyright does not protect the plot.
+[00:39:02.000 --> 00:39:07.000]   Everyone can use that plot.
+[00:39:07.000 --> 00:39:27.000]   But copyright protects the specific expression of that plot made by William Shakespeare.
+[00:39:27.000 --> 00:39:48.000]   And that's one of the ways to make the final goal of copyright compatible with the means through which that final goal is achieved.
+[00:39:48.000 --> 00:40:14.000]   I just protect the expression. But you can read Shakespeare. You can get knowledge, information, and use that knowledge and information to write another dramatic piece of literature.
+[00:40:14.000 --> 00:40:27.000]   We will see instead that patents are going to protect ideas, but not their expressions.
+[00:40:27.000 --> 00:40:33.000]   We will be talking about that when talking about software patents.
+[00:40:33.000 --> 00:40:59.000]   Think about a status bar. A graphical widget showing you how much of a task has been performed, and how much still is missing to the end of the task.
+[00:40:59.000 --> 00:41:15.000]   Well, you can write that widget in many different languages, programming languages, using different libraries.
+[00:41:15.000 --> 00:41:34.000]   According to copyright, each different implementation of a status bar written in different languages or with different specific instructions are different.
+[00:41:34.000 --> 00:41:53.000]   Because copyright protects the expression, not the idea. But you can patent a status bar, a way of displaying on the screen the progress of a given task.
+[00:41:53.000 --> 00:42:09.000]   And that patent will cover any possible implementation in any possible programming language of that idea, of that algorithm. But an algorithm is an idea.
+[00:42:09.000 --> 00:42:21.000]   So we will come back to that. But I just want to stress the fact that copyright and patents are very different.
+[00:42:21.000 --> 00:42:38.000]   So how can we bring them together and think about them in terms of a single institution, intellectual property? That doesn't work.
+[00:42:38.000 --> 00:42:54.000]   So why do we call intellectual property patents and copyrights and trademarks? Because they have something in common, and they have something in common with property too.
+[00:42:54.000 --> 00:43:09.000]   The rights to exclude, the exclusive right, the exclusiveness of the legal situation of the owner.
+[00:43:09.000 --> 00:43:28.000]   But that's the only thing that those three different legal institutions have in common. Think about trademarks. You know what a trademark is?
+[00:43:28.000 --> 00:43:39.000]   What is the goal of a trademark and a trademark protection?
+[00:43:39.000 --> 00:43:42.000]   To exclude everyone else to use that specific design?
+[00:43:42.000 --> 00:43:50.000]   Yes, but why? And think about that.
+[00:43:50.000 --> 00:44:08.000]   You're Italian? Yes, okay. So you should be able to relate to my exam. I don't know if non-Italians are capable, but I will try to explain it.
+[00:44:08.000 --> 00:44:12.000]   What is that?
+[00:44:12.000 --> 00:44:21.000]   Well, that's a Latin word, but it also is a trademark.
+[00:44:21.000 --> 00:44:41.000]   "Fabrica Italiana automobi Torino" "Fiat" "A car maker" It has not existed anymore, they call themselves "Stellantis", but "Fiat" is still a trademark of Stellantis.
+[00:44:41.000 --> 00:45:10.000]   Okay, are you sure that "Fiat" relates to that? Let me show you something.
+[00:45:10.000 --> 00:45:22.000]   "Cremino alla no chola" "Fiat"
+[00:45:22.000 --> 00:45:44.000]   So "Fiat" is not just "Fabrica Italiana automobi Torino", a trademark of the car owner, it is also the name of a chocolate maker.
+[00:45:44.000 --> 00:45:52.000]   So it is not true that you have an exclusive right of the name, which is a trademark.
+[00:45:52.000 --> 00:45:55.000]   Is it the name or the logo that is trademarked?
+[00:45:55.000 --> 00:45:59.000]   Well, the name. The name of the product.
+[00:45:59.000 --> 00:46:21.000]   The point I would like to come to is that the ultimate goal of a trademark is to make it possible for a consumer to know what he is buying, or she is buying, or they are buying.
+[00:46:21.000 --> 00:46:29.000]   Is this allowed because it is a completely different industry? So you are able to distinguish that anyways?
+[00:46:29.000 --> 00:46:36.000]   Exactly. But you know that there is a problem if you think about that.
+[00:46:36.000 --> 00:47:01.000]   Okay, let's bring this stuff into the digital environment. Domain names. I want to use "Fiat.it". Who is entitled to use that domain name?
+[00:47:01.000 --> 00:47:25.000]   That is not a problem any longer, but in the early days of the social penetration of digital technologies, I am talking about the end of the 90s, last century, there was a problem of awarding domain names.
+[00:47:25.000 --> 00:47:48.000]   And one of the approaches adopted by judges was to use trademark law in order to regulate the domain name issue.
+[00:47:48.000 --> 00:47:56.000]   I think it was called the "Siber squatting", but I don't remember.
+[00:47:56.000 --> 00:48:12.000]   Because this is not a real problem any longer, because we do have, at that time, first level domain names like .eat, .com, were very few.
+[00:48:12.000 --> 00:48:18.000]   Now we have plenty of them, so that is not a problem any longer.
+[00:48:18.000 --> 00:48:40.000]   So trademarks before the digital environment could coexist even if they were the same, as long as the trademark, those similar or identical trademarks, were referring to different industries.
+[00:48:40.000 --> 00:48:51.000]   No one is going to make confusion between a piece of chocolate and a car. That is not a problem.
+[00:48:51.000 --> 00:48:59.000]   But obviously, when we are talking about domain names, you may make confusion.
+[00:48:59.000 --> 00:49:13.000]   So what I would like to stress is that unlike copyright and patents, the goal of trademark regulation is totally different.
+[00:49:13.000 --> 00:49:23.000]   Trademark regulation is a protection of an entrepreneur, but it is also a protection of consumers.
+[00:49:23.000 --> 00:49:48.000]   So that consumers may be confident that what they are buying is actually what they are looking for.
+[00:49:48.000 --> 00:50:06.000]   Anyway, let's go back to the early stages of the original intellectual property, and specifically of copyright.
+[00:50:06.000 --> 00:50:20.000]   I'm sorry about that, but I told you that I believe intellectual property may be seen as a contradiction in terms, but still I have to use that expression, because that's the expression we commonly use.
+[00:50:20.000 --> 00:50:29.000]   Our course is titled "Privacy and Intellectual Property Rights".
+[00:50:29.000 --> 00:50:37.000]   We will not be talking about trademarks. Anyway, we will be talking about copyright and patents.
+[00:50:37.000 --> 00:50:58.000]   So, I said intellectual property and specifically copyrighted is believed to be the consequence of a technological revolution, the invention of the printing press.
+[00:50:58.000 --> 00:51:06.000]   But as I said, the invention of the printing press happens in the mid-15th century.
+[00:51:06.000 --> 00:51:24.000]   The creation of copyright instead takes place at the beginning of the 18th century, two and a half centuries later.
+[00:51:24.000 --> 00:51:39.000]   Well, if copyright is a reaction to a technological revolution, obviously that reaction was not very quick to appear.
+[00:51:39.000 --> 00:52:07.000]   But actually, and so we have to understand why it took 255 years, from the publication to the Bible, with the printing press by Gutenberg, to the enactment of the State Institute of the Fund by the Parliament of Westminster.
+[00:52:07.000 --> 00:52:19.000]   And moreover, we have to understand why the State Institute of the Fund is not for the encouragement of learning.
+[00:52:19.000 --> 00:52:48.000]   [Pause]
+[00:52:48.000 --> 00:52:58.000]   Let's see if we can...
+[00:52:58.000 --> 00:53:06.000]   You see, an act for the encouragement of learning by best in the copies of printed books in the author and so on and so forth.
+[00:53:06.000 --> 00:53:24.000]   Let me go back to my slides.
+[00:53:24.000 --> 00:53:36.000]   So you see, this is the title and...
+[00:53:36.000 --> 00:53:53.000]   This is the general description of the State Institute of the Fund, which I transcribed here.
+[00:53:53.000 --> 00:53:56.000]   Let's read it.
+[00:53:56.000 --> 00:54:21.000]   "Whereas booksellers and other persons have oblate frequently taken the liberty of printing, reprinting, or publishing, and so on and so forth, books and other writings without the consent of the authors or proprietors of such books and writings,
+[00:54:21.000 --> 00:54:47.000]   to their very great treatment and too often to the ruin of them and their families, for preventing their forces' practices for the future, and for the encouragement of learned men to compose and write useful books, may it please your majesty that it may be enacted a State Institute of the Fund."
+[00:54:47.000 --> 00:55:15.000]   So, who are the bad guys? And who are the good guys? Well, the bad guys are printers and booksellers. The good guys are authors and learned men. We must be encouraged to compose and write useful books.
+[00:55:15.000 --> 00:55:39.000]   That's the way we promote. We encourage learning by creating incentives for authors to write and publish and to share their knowledge.
+[00:55:39.000 --> 00:56:04.000]   Why? Why booksellers and printers were bad guys at the beginning of the 17th century, when they were the inventors of that new technology that changed the way of disseminating ideas and culture?
+[00:56:04.000 --> 00:56:10.000]   Why?
+[00:56:10.000 --> 00:56:18.000]   Well, I know why. And I'm going to tell you.
+[00:56:18.000 --> 00:56:43.000]   I didn't discover the truth. Someone else did. Historians, mostly. Legal historians, who have been trying to understand what was going on from the creation of the printing press to the enactment of the State Institute of the Fund.
+[00:56:43.000 --> 00:56:55.000]   And that's the story. Everything starts in the mid 16th century, in 1565.
+[00:56:55.000 --> 00:57:19.000]   Oh, 1556, sorry. When Mary, the Queen Mary, who was the daughter of Harry VIII,
+[00:57:19.000 --> 00:57:42.000]   but unlike his father, she was Catholic, she became Queen and she decided to adopt and grant to the stationers company their charter.
+[00:57:42.000 --> 00:58:02.000]   What is the stationers company? You know, society in the Middle Ages was organizing corporations and guilds.
+[00:58:02.000 --> 00:58:30.000]   They were associations of people basically doing the same job. Carpenters, printers, doctors, teachers, and so on and so forth.
+[00:58:30.000 --> 00:58:54.000]   Those were basically private associations, but sometimes those private associations were granted the power by the state to regulate their professional activities of their members.
+[00:58:54.000 --> 00:59:16.000]   And then what happened in 1556? The private association, the stationers company, the associations of the London printers, the guys in London who were running printing presses.
+[00:59:16.000 --> 00:59:32.000]   With the adoption of that, with the granting of that chapter, the stationers company became a sort of public agency.
+[00:59:32.000 --> 00:59:42.000]   The charter gave the stationers the power to make ordinances, provisions, and statements. Rules.
+[00:59:42.000 --> 00:59:49.000]   Those rules were binding for the members of the stationers company.
+[00:59:49.000 --> 00:59:59.000]   But since only the members of the stationers company were allowed to run a printing press,
+[00:59:59.000 --> 01:00:18.000]   the rules created by the stationers company was regulating the printing press.
+[01:00:18.000 --> 01:00:33.000]   If you wanted to print a book, you needed to be a member of the stationers company. If you wanted to be a member of the stationers company, you had to abide by the rules set by the stationers company.
+[01:00:33.000 --> 01:00:43.000]   Otherwise you were out of it, and if you were out of it, you could not run the press.
+[01:00:43.000 --> 01:01:03.000]   So the stationers company became the powerful corporation regulating that new industry, that new technology. Why?
+[01:01:03.000 --> 01:01:31.000]   Why?
+[01:01:31.000 --> 01:01:47.000]   Why is that working?
+[01:01:47.000 --> 01:01:58.000]   I would like to show you something.
+[01:01:58.000 --> 01:02:26.000]   Oh, I have to look in.
+[01:02:26.000 --> 01:02:34.000]   You know what Henry the eighth did.
+[01:02:34.000 --> 01:02:42.000]   He wanted to get married. The Pope didn't allow him, so he decided to create his own church.
+[01:02:42.000 --> 01:03:00.000]   And that was pretty common during that period of time. Luther, the beginning of the 15th century, started the so-called reform.
+[01:03:00.000 --> 01:03:12.000]   So during that period of time, Europe was devastated by religious wars.
+[01:03:12.000 --> 01:03:38.000]   Catholic against the Protestants, and so on and so forth. Well, at some point, the press started to become a weapon, a weapon in those wars.
+[01:03:38.000 --> 01:03:48.000]   I will show you something.
+[01:03:48.000 --> 01:03:58.000]   These are two flyers of the mid 16th century.
+[01:03:58.000 --> 01:04:20.000]   I took those flyers from a book printed by, sorry, written by
+[01:04:20.000 --> 01:04:28.000]   a group of people calling themselves Luther Blissey. That's the book.
+[01:04:28.000 --> 01:04:36.000]   It should be available online for free if you want to read it. There is an Italian, but also in English.
+[01:04:36.000 --> 01:04:56.000]   That's a very nice book. It is a historical novel set in the first half of the 17th, 16th century, describing those religious wars.
+[01:04:56.000 --> 01:05:10.000]   And at the very end of the book, they decided to show how the printing press was affecting the war. Why?
+[01:05:10.000 --> 01:05:21.000]   Well, because if you think about it, many people at that time were not able to read.
+[01:05:21.000 --> 01:05:47.000]   And in order to spread new ideas among people not capable of reading, stuff like that became very popular.
+[01:05:47.000 --> 01:06:03.000]   And the political power started to understand that in order to control the dissemination of new ideas, they had to control the technology through which those new ideas could be disseminated.
+[01:06:03.000 --> 01:06:16.000]   And the printing press was the technology. That's the reason why.
+[01:06:16.000 --> 01:06:42.000]   That's the reason why Mary decided to grant the charter to the stationers' company in order to make the stationers' company an ally for fighting the dissemination of ideas that Mary didn't like.
+[01:06:42.000 --> 01:06:50.000]   You know, Mary was called also Bloody Mary. You know the name of the cocktail?
+[01:06:50.000 --> 01:07:00.000]   Because she was a Catholic after two kings that were not Catholic.
+[01:07:00.000 --> 01:07:14.000]   And while those two kings were persecuting Catholics in England, she started persecuting Protestants in England.
+[01:07:14.000 --> 01:07:37.000]   And you see, a way of controlling the technology was to control the corporation of the members using and developing that technology.
+[01:07:37.000 --> 01:07:50.000]   And you know, the stationers' company had the power of sizing, taking, borrowing books, prohibited books and things, and so on and so forth.
+[01:07:50.000 --> 01:07:59.000]   Sensorship. That was the idea. That was not the only idea actually.
+[01:07:59.000 --> 01:08:26.000]   Mary knew that her government knew that that new technology had a strategic impact in the cultural growth of that national state.
+[01:08:26.000 --> 01:08:47.000]   So, she gave the stationers' company a normative power, the power to create rules to govern the use of the new technology.
+[01:08:47.000 --> 01:09:04.000]   But she also wanted to have through the stationers' company control over what was published in the kingdom.
+[01:09:04.000 --> 01:09:24.000]   And the company's staff were carried out with the help of the Star Chamber. The Star Chamber was sort of a secret court of justice, but also a secret police.
+[01:09:24.000 --> 01:09:43.000]   That was used indeed to control what was going on in the kingdom in order not to have the adversary party take power.
+[01:09:43.000 --> 01:10:09.000]   Ray Patterson, who is the probably most important legal scholar and historian, who analyzed the early development of copyright, said that what Mary created was the so-called stationers' copyright.
+[01:10:09.000 --> 01:10:28.000]   Why? Well, basically because the stationers, by having their normative power, started to create a set of rules in order to make it possible for them to get monopolistic profits.
+[01:10:28.000 --> 01:10:49.000]   But they created an internal rule according to which, if you wanted to print a book, you needed to register the title of that book with the stationers' company.
+[01:10:49.000 --> 01:11:04.000]   And by registering the title of the book, basically no other stationer was allowed to print that book.
+[01:11:04.000 --> 01:11:11.000]   Do you want to print Caesar's The Belogale Lico?
+[01:11:11.000 --> 01:11:27.000]   You go to the stationers' company, you register the title, you are allowed to print that book, no one else is allowed to print that book in England.
+[01:11:27.000 --> 01:11:31.000]   That's the very first creation of copyright.
+[01:11:31.000 --> 01:11:42.000]   That registration gave you the power, the exclusive right of the printing of that title forever.
+[01:11:42.000 --> 01:11:44.000]   Forever.
+[01:11:44.000 --> 01:11:49.000]   And it didn't matter when the book was written.
+[01:11:49.000 --> 01:11:59.000]   Caesar's The Belogale has been written, you know, two thousand years ago.
+[01:11:59.000 --> 01:12:05.000]   The stationers' copyright was not really related to the authors.
+[01:12:05.000 --> 01:12:10.000]   Outers were not taken into account.
+[01:12:10.000 --> 01:12:16.000]   Copyright nowadays is the authors' copyright.
+[01:12:16.000 --> 01:12:21.000]   At that time it was the printers' copyright.
+[01:12:21.000 --> 01:12:31.000]   And as Patterson said, the stationers' company became in turn the instrument of the sewers against the Puritans in the early 17th century.
+[01:12:31.000 --> 01:12:50.000]   The instruments of the Puritans against the royalist enemies when the Puritans came to power, so on and so forth.
+[01:12:50.000 --> 01:13:04.000]   What?
+[01:13:04.000 --> 01:13:09.000]   What's going on? Oh, okay.
+[01:13:09.000 --> 01:13:20.000]   Now you can understand the description made by the State Department of itself. Yes?
+[01:13:20.000 --> 01:13:34.000]   But if systems are for publishers and state owners, how are we helping people create more books than increase the science if we're not helping authors?
+[01:13:34.000 --> 01:13:38.000]   Sorry, I think I do understand.
+[01:13:38.000 --> 01:13:48.000]   If this copyright protects the publishers, how are we helping writers write more than supposed to use them?
+[01:13:48.000 --> 01:13:55.000]   Well, that's the very reason why at the beginning of the 18th century the city of Havana was enacted.
+[01:13:55.000 --> 01:14:01.000]   And the city of Havana said, you remember, printers and booksellers are the bad guys.
+[01:14:01.000 --> 01:14:07.000]   We need to protect our viewers. That's the very reason.
+[01:14:07.000 --> 01:14:11.000]   So that's the point.
+[01:14:11.000 --> 01:14:20.000]   The state of Havana, the creation of modern copyright, was a reaction against the stationers' copyright.
+[01:14:20.000 --> 01:14:26.000]   Because the stationers' copyright was a way of exercising censorship,
+[01:14:26.000 --> 01:14:33.000]   but it was also a way of controlling culture.
+[01:14:33.000 --> 01:14:47.000]   What is changing at the beginning of the 17th century, enlightenment is coming to appear.
+[01:14:47.000 --> 01:14:59.000]   Enlightenment means a strong fight against censorship, but also a strong fight against monopolies.
+[01:14:59.000 --> 01:15:10.000]   John Locker wrote about the stationers' company, stating that the stationers' company was allowed to control culture.
+[01:15:10.000 --> 01:15:23.000]   Because with the registration rule, since no one could print a title, a registered title, competition was prohibited.
+[01:15:23.000 --> 01:15:37.000]   And everyone was charging for a book, the price she wanted, without any restraint, without any...
+[01:15:37.000 --> 01:15:45.000]   From the enlightenment perspective, that was not bearable any longer.
+[01:15:45.000 --> 01:15:56.000]   So what I'm trying to stress is the fact that copyright, modern copyright, was not the reaction to a technological revolution.
+[01:15:56.000 --> 01:16:09.000]   Modern copyright was a reaction against the early regulation of that new technology.
+[01:16:09.000 --> 01:16:15.000]   The early regulation of that new technology was made by private individuals,
+[01:16:15.000 --> 01:16:19.000]   for private individuals in order to protect their interests.
+[01:16:19.000 --> 01:16:29.000]   And in protecting their interests, they were also protecting her majesty's interests.
+[01:16:29.000 --> 01:16:34.000]   That's the basic misconception.
+[01:16:34.000 --> 01:16:40.000]   The stationers' copyright was the reaction to the new technology.
+[01:16:40.000 --> 01:16:59.000]   The authors' copyright was the reaction to the stationers' copyright.
+[01:16:59.000 --> 01:17:24.000]   Now, if you remember, if the state you define is an encouragement of learned men to compose and write useful books,
+[01:17:24.000 --> 01:17:36.000]   if we think about that, do we need to encourage that guy to write useful books?
+[01:17:36.000 --> 01:17:51.000]   There is no need to do that. There is no need to protect Caesar or Plato or whoever is dead.
+[01:17:51.000 --> 01:17:59.000]   The encouragement is only useful for leaving learned men.
+[01:17:59.000 --> 01:18:05.000]   Well, I would like to stress the fact that we see men and not women.
+[01:18:05.000 --> 01:18:13.000]   Legal...
+[01:18:13.000 --> 01:18:22.000]   The legal language is not very gender-inclusive, so to speak. Keep that in mind.
+[01:18:22.000 --> 01:18:31.000]   Well, that's related to the root of our tradition, Roman law.
+[01:18:31.000 --> 01:18:41.000]   In Roman law, women didn't have any rights. Only men had rights.
+[01:18:41.000 --> 01:18:58.000]   Well, only married men had rights over their wives and over their children.
+[01:18:58.000 --> 01:19:07.000]   I will try to be more gender-inclusive, but keep that in mind.
+[01:19:07.000 --> 01:19:31.000]   So, if we do not have to encourage dead guys to write books, we can also say that there is no need to protect books written by dead guys.
+[01:19:31.000 --> 01:19:50.000]   That's the public domain. That is what Locke was meaning when complaining about the title registration requirements set by the stationers' company,
+[01:19:50.000 --> 01:20:08.000]   which gave to the register, to the registering printer, the perpetual right to print that book forever.
+[01:20:08.000 --> 01:20:22.000]   If we switch, if we change perspective and we start protecting outdoors in order to make them write new books,
+[01:20:22.000 --> 01:20:31.000]   then we can start thinking about the time limitation of copyright,
+[01:20:31.000 --> 01:20:40.000]   after which the book becomes part of the public domain. Everyone can use it, everyone can publish it,
+[01:20:40.000 --> 01:20:51.000]   everyone can do whatever she or he wants with that book.
+[01:20:51.000 --> 01:21:00.000]   The State of Tafane is important because it created the idea of public domain.
+[01:21:00.000 --> 01:21:12.000]   It is a sort of common property, common to everyone, to humanity.
+[01:21:12.000 --> 01:21:24.000]   And that was achieved by limiting the time span of the exclusive right.
+[01:21:24.000 --> 01:21:32.000]   When the State of Tafane was adopted, the protection given to outdoors was lasting for just 14 years,
+[01:21:32.000 --> 01:21:41.000]   plus another 14 years' term if at the end of the first one the outdoors was still alive.
+[01:21:41.000 --> 01:21:46.000]   So, the maximum protection was 28 years.
+[01:21:46.000 --> 01:21:54.000]   Stationers were not happy with that, as you may understand.
+[01:21:54.000 --> 01:21:58.000]   They wanted a perpetual monopoly.
+[01:21:58.000 --> 01:22:07.000]   Well, keep in mind that while we read in the trope of the State of Tafane,
+[01:22:07.000 --> 01:22:14.000]   that booksellers and printers were the bad guys, still the State of Tafane was compromised
+[01:22:14.000 --> 01:22:28.000]   because the stationers knew that the outdoors didn't have the financial possibility of printing their own books.
+[01:22:28.000 --> 01:22:38.000]   So they knew that the outdoors should be going to the stationers to have their books printed.
+[01:22:38.000 --> 01:22:46.000]   What they didn't like was the fact that the outdoors could not give them an exclusive right,
+[01:22:46.000 --> 01:22:50.000]   which was longer than 28 years.
+[01:22:50.000 --> 01:23:01.000]   So the stationers knew that after 28 years, after the publication of the first book publication of the book,
+[01:23:01.000 --> 01:23:08.000]   they didn't have any longer any right and every other stationer was allowed to print that book.
+[01:23:08.000 --> 01:23:13.000]   And obviously they didn't like it because they were not used to that.
+[01:23:13.000 --> 01:23:18.000]   They were used to have a perpetual monopoly over a title.
+[01:23:18.000 --> 01:23:24.000]   So they started to fight against the State of Tafane,
+[01:23:24.000 --> 01:23:34.000]   in order to have a court of law to say that their right was not based on the State of Tafane,
+[01:23:34.000 --> 01:23:37.000]   but their right was based on property.
+[01:23:37.000 --> 01:23:42.000]   And like property, property is forever.
+[01:23:42.000 --> 01:23:51.000]   Unless I sell this stuff, I will be the owner of this stuff forever.
+[01:23:51.000 --> 01:23:58.000]   And I will be able to give that when I will be dying to my daughters.
+[01:23:58.000 --> 01:24:15.000]   So, stationers said, "Well, there is no authors copy, right? There is just a property over books,
+[01:24:15.000 --> 01:24:25.000]   over the ideas, the immaterial stuff, which is transmitted with books."
+[01:24:25.000 --> 01:24:28.000]   But they didn't succeed.
+[01:24:28.000 --> 01:24:36.000]   The King's Bench, the higher court of the United Kingdom said,
+[01:24:36.000 --> 01:24:41.000]   "No, there is no property over books.
+[01:24:41.000 --> 01:24:46.000]   There is only that right which is given by the State of Tafane,
+[01:24:46.000 --> 01:24:51.000]   and that right is limited in time."
+[01:24:51.000 --> 01:25:04.000]   That's the reason why in the U.S. Constitution, adopted at the end of the 18th century,
+[01:25:04.000 --> 01:25:16.000]   we see that the exclusive right is granted for limited times.
+[01:25:16.000 --> 01:25:25.000]   Keep that in mind, because we will be talking about the Sony Bono copyright term extension act,
+[01:25:25.000 --> 01:25:34.000]   also called the Mickey Mouse Act, that the constitutional clause will come into play again.
+[01:25:34.000 --> 01:25:46.000]   So, after the Declaration of Independence by the United States
+[01:25:46.000 --> 01:25:52.000]   and the adoption of their new constitution, in 1790,
+[01:25:52.000 --> 01:26:02.000]   the United States adopted their copyright act, which was basically a copy of the State of Tafane.
+[01:26:02.000 --> 01:26:14.000]   So, I would like you to keep that in mind.
+[01:26:14.000 --> 01:26:25.000]   The origin of modern copyright legislation is a reaction not to the deployment of any technology,
+[01:26:25.000 --> 01:26:34.000]   but it is a reaction to deregulation of that in technology, right after the invention of it.
+[01:26:36.000 --> 01:26:44.000]   Author's copyright is the reaction to the stationary's copyright.
+[01:26:44.000 --> 01:26:52.000]   I would like you to keep that in mind. I'm sorry, you know,
+[01:26:52.000 --> 01:26:56.000]   we should be talking about digital technologies, instead we are talking about history,
+[01:26:56.000 --> 01:27:02.000]   but you will see that's important, because I will try to show you at the end of our journey,
+[01:27:02.000 --> 01:27:12.000]   talking about copyright, that the most recent developments seems to be bringing us back to the stationary's copyright.
+[01:27:12.000 --> 01:27:24.000]   With private created rules, sorry, privately created rules governing access to intellectual works.
+[01:27:27.000 --> 01:27:34.000]   A Bistationers company time it was through rules. Now it is through technology,
+[01:27:34.000 --> 01:27:41.000]   digital rights management system, trusted computing and stuff like that. Anyway.
+[01:27:50.000 --> 01:27:57.000]   What happens next? Well, the State of Tafane was covered in books.
+[01:27:57.000 --> 01:28:09.000]   But then, legislator, at Westminster, started to understand that
+[01:28:13.000 --> 01:28:21.000]   there were other types of intellectual works that needed the same protection.
+[01:28:21.000 --> 01:28:27.000]   Engraving, you know what engraving is, you know?
+[01:28:27.000 --> 01:28:39.000]   Music.
+[01:28:42.000 --> 01:28:52.000]   Then, sculpture. Dramatic works, which were not published in books, but were, you know, performed.
+[01:28:52.000 --> 01:28:57.000]   Fine arts, and so on and so forth.
+[01:28:57.000 --> 01:29:09.000]   So, right after the State of Tafane, slowly we see a growing number of intellectual works being covered by copyright protection.
+[01:29:10.000 --> 01:29:19.000]   So, we have sort of an extension of copyright protection to other expressions, other artistic expressions.
+[01:29:19.000 --> 01:29:25.000]   Still, there is a problem.
+[01:29:35.000 --> 01:29:41.000]   Because culture doesn't stop at the border of the State.
+[01:29:41.000 --> 01:29:51.000]   Think about Dickens.
+[01:29:51.000 --> 01:29:59.000]   It was not just an English author.
+[01:30:01.000 --> 01:30:06.000]   It was an author who was translated into other languages.
+[01:30:06.000 --> 01:30:10.000]   Or could be rather in the United States.
+[01:30:10.000 --> 01:30:16.000]   But in the United States, the State of Tafane was not
+[01:30:16.000 --> 01:30:23.000]   unforced.
+[01:30:23.000 --> 01:30:28.000]   Because, Dickens was English, not American.
+[01:30:30.000 --> 01:30:35.000]   The United States, the United States, were protecting American authors.
+[01:30:35.000 --> 01:30:40.000]   The United Kingdom was protecting English authors.
+[01:30:40.000 --> 01:30:46.000]   France was protecting French authors.
+[01:30:46.000 --> 01:30:48.000]   And so on and so forth.
+[01:30:53.000 --> 01:31:03.000]   But, as you may understand, given the fact that culture is a global phenomenon, you cannot protect your author within your boundaries
+[01:31:03.000 --> 01:31:14.000]   and let everyone else outside your country to make copies or to translate the author into other languages, stuff like that.
+[01:31:14.000 --> 01:31:22.000]   Because if we want the author to be able to get paid,
+[01:31:23.000 --> 01:31:29.000]   then we need to protect it internationally, globally.
+[01:31:29.000 --> 01:31:49.000]   In the United Kingdom, in 1844, the inter-national copyright that was adopted,
+[01:31:49.000 --> 01:32:03.000]   according to which a foreign author could be protected by copyright only if an English author was protected in the country of the foreign author.
+[01:32:03.000 --> 01:32:05.000]   Reciprocity.
+[01:32:05.000 --> 01:32:13.000]   But that was not enough. There was the need of an inter-national regulation of copyright.
+[01:32:15.000 --> 01:32:19.000]   And that took place at the end of the 19th century.
+[01:32:19.000 --> 01:32:27.000]   First, there was the creation of the International Library Association.
+[01:32:27.000 --> 01:32:33.000]   I think Victor Hugo had quite a role in that story.
+[01:32:36.000 --> 01:32:44.000]   In 1883, there was the first draft of an international copyright agreement.
+[01:32:44.000 --> 01:32:52.000]   And finally, in 1886, the Bergen Convention for the Protection of Literary--
+[01:32:52.000 --> 01:33:00.000]   Literary, obviously, here--and artistic work was signed.
+[01:33:04.000 --> 01:33:11.000]   Later on, there was the creation of the Bureau for the Protection of Inter-national Property,
+[01:33:11.000 --> 01:33:15.000]   which became the World Inter-national Property Organization.
+[01:33:15.000 --> 01:33:33.000]   The Bergen Convention and the World Inter-national Property Organization started to play a global role in the evolution of copyright in every country of the world.
+[01:33:34.000 --> 01:33:37.000]   Well, many were outside of it.
+[01:33:37.000 --> 01:33:51.000]   You know, who is the most important country who has been outside the Bergen Convention for the great part of the history of the Bergen Convention?
+[01:33:54.000 --> 01:34:03.000]   U.S. in the United States. They didn't sign the Bergen Commission.
+[01:34:03.000 --> 01:34:08.000]   And you know when they signed it in 1988?
+[01:34:08.000 --> 01:34:17.000]   Less than 30 years ago. No, less than 40 years ago. 35 years ago.
+[01:34:17.000 --> 01:34:21.000]   Why? What do you think?
+[01:34:23.000 --> 01:34:29.000]   They didn't have any major authors or anything worth protecting.
+[01:34:29.000 --> 01:34:39.000]   Exactly. You know, during the 19th century, from a cultural perspective, the United States was a desert.
+[01:34:39.000 --> 01:34:48.000]   And they wanted to import intellectual property for cheap.
+[01:34:50.000 --> 01:35:02.000]   During the 20th century, they started to develop a very huge cultural industry.
+[01:35:02.000 --> 01:35:10.000]   Jazz music, movies, rock and roll, and stuff like that.
+[01:35:10.000 --> 01:35:17.000]   And that changed their perspective of global copyright protection.
+[01:35:19.000 --> 01:35:24.000]   But still they were not part of the Bergen Convention until 1888.
+[01:35:24.000 --> 01:35:29.000]   We will see why later on.
+[01:35:29.000 --> 01:35:37.000]   But they were a huge economic power.
+[01:35:37.000 --> 01:35:48.000]   And there was another organization. They played a big role in the World Trade Organization.
+[01:35:48.000 --> 01:36:01.000]   Well, actually the World Trade Organization was created in 1994 because before 1994, that organization was actually called the General Agreement on Tariffs and Trade.
+[01:36:03.000 --> 01:36:27.000]   Which was created in 1944, at the end of the war, in order to create an organization for facilitating international trade.
+[01:36:28.000 --> 01:36:36.000]   Protectionism, stuff like that, was seen as one of the major causes of the Second World War.
+[01:36:36.000 --> 01:36:47.000]   The United States had a big role in the general agreement of tariffs and trade because they have a very high negotiating power.
+[01:36:48.000 --> 01:36:53.000]   They wanted me to reduce the tariffs on your imports.
+[01:36:53.000 --> 01:37:03.000]   Well, they should be giving something back.
+[01:37:04.000 --> 01:37:18.000]   So they started using that forum for protecting their intellectual property industry.
+[01:37:19.000 --> 01:37:34.000]   And that's the reason why in 1994 there was a trade agreement within the World Trade Organization which was titled the Trade-related aspects of intellectual property rights.
+[01:37:34.000 --> 01:37:47.000]   The last bit of information I would like you to have refers to the 1986 WIPO Copyright Treaty.
+[01:37:48.000 --> 01:38:04.000]   That's a very important treaty because it is the foundation of the digital millennium copyright act in the United States and it is the basis of the European Directive No. 29 of 2001.
+[01:38:05.000 --> 01:38:19.000]   Those two pieces of legislation and the WIPO Copyright Treaty above them created illegal protection of technological measures for protecting intellectual wars.
+[01:38:19.000 --> 01:38:22.000]   Digital rights management system and stuff like that.
+[01:38:22.000 --> 01:38:27.000]   I will be talking about that later on, of course.
+[01:38:27.000 --> 01:38:30.000]   Do you have any questions?
+[01:38:32.000 --> 01:38:35.000]   Is it clear? Hopefully.
+[01:38:35.000 --> 01:38:48.000]   Okay, so I think my time is over and I will meet you tomorrow.
+[01:38:48.000 --> 01:39:00.000]   I would like to ask you, because I didn't talk about data with Professor Van Veyer, do you have an agreement on the

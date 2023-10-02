@@ -1,0 +1,268 @@
+[00:00:00.000 --> 00:00:27.000]   [ Background noise ]
+[00:00:27.000 --> 00:00:35.800]   >> Since there is an overlapping between the, our Friday class and some other lectures,
+[00:00:35.800 --> 00:00:42.720]   together with Professor Dandrea we are trying to find sort of an obvious solution,
+[00:00:42.720 --> 00:00:47.960]   maybe by providing you with the videos of the last year or something like that.
+[00:00:47.960 --> 00:00:56.240]   But we are trying to work everything out so we will let you know as soon as possible, okay?
+[00:00:56.240 --> 00:01:03.360]   So I already have loaded the next slide about the legal protection of computer programs.
+[00:01:03.360 --> 00:01:10.240]   So I don't know whether today we will be able to start it, but anyway it is there.
+[00:01:10.240 --> 00:01:16.920]   [ Background noise ]
+[00:01:16.920 --> 00:01:25.680]   I'm really sorry because today I'm very tired, I had a headache and I have to speak English.
+[00:01:25.680 --> 00:01:32.960]   So probably I will be more boring than usual, which is quite bad for you I think.
+[00:01:32.960 --> 00:01:36.680]   Anyway I will try to do my best.
+[00:01:36.680 --> 00:01:43.160]   Okay, last time we were talking about the basic principles of copyright law
+[00:01:43.160 --> 00:01:52.920]   and we were trying to understand the two types of limitations to the exclusive rights
+[00:01:52.920 --> 00:01:58.200]   in order to make the exclusive rights compatible with the scope of copyright legislation,
+[00:01:58.200 --> 00:02:07.720]   that is to say the promotion of science, the encouragement of learning and so on and so forth.
+[00:02:07.720 --> 00:02:18.240]   So if you remember we started talking about originality and the expression idea that I encountered, okay?
+[00:02:18.240 --> 00:02:33.440]   The third, you remember we were talking about basically four limitations of the extension
+[00:02:33.440 --> 00:02:38.760]   of the copyright, of the exclusive rights represented by copyright.
+[00:02:38.760 --> 00:02:45.720]   And on the other side we were talking about another dimension of limitation
+[00:02:45.720 --> 00:02:51.320]   which is time duration or time limit of copyright protection.
+[00:02:51.320 --> 00:02:59.600]   So we have been talking about originality, we have been talking about expression idea dichotomy.
+[00:02:59.600 --> 00:03:08.520]   You remember we said that copyright does protect only expressions and not ideas.
+[00:03:08.520 --> 00:03:17.720]   So basically you understand that this is quite at the core of copyright legislation
+[00:03:17.720 --> 00:03:29.320]   because basically we can see copyright as a form of exchange between authors and society.
+[00:03:29.320 --> 00:03:39.120]   Authors are going to provide new ideas or make old ideas better or stuff like that
+[00:03:39.120 --> 00:03:48.120]   and in exchange of that contribution we are going to protect the expression of those improved ideas or new ideas.
+[00:03:48.120 --> 00:03:57.920]   So it's a sort of balance between society and authors.
+[00:03:57.920 --> 00:04:08.720]   And as you may understand that's the very reason of copyright protection.
+[00:04:08.720 --> 00:04:20.320]   We want to have new ideas, better ideas in order to have society grow culturally.
+[00:04:20.320 --> 00:04:28.720]   So that's the reason why we are protecting only the expression and not the ideas.
+[00:04:28.720 --> 00:04:36.920]   We will see that instead when talking about patents probably the contrary applies.
+[00:04:36.920 --> 00:04:48.120]   With patents basically we protect ideas, ideas that may be more or less abstract.
+[00:04:48.120 --> 00:04:57.920]   Think about a switch, we can imagine many different ways of creating a switch.
+[00:04:57.920 --> 00:05:08.720]   The analogical type that you see there but we can also just up and just above the analogical switches
+[00:05:08.720 --> 00:05:12.920]   there is a digital switch.
+[00:05:12.920 --> 00:05:21.320]   Well they are doing the same stuff but they can be perceived as different.
+[00:05:21.320 --> 00:05:32.120]   So we will see that when talking about patents basically we are talking about ideas that can be more concrete.
+[00:05:32.120 --> 00:05:47.120]   So we may make a distinction and grant to different patents for analogical switch or a digital switch.
+[00:05:47.120 --> 00:05:57.520]   Or we could say that since the functions performed by these objects are the same, well they are a switch.
+[00:05:57.520 --> 00:06:07.320]   And so one could be patenting a switch and the general idea of turning on and off a given signal
+[00:06:07.320 --> 00:06:17.120]   regardless of the way that machinery is implemented.
+[00:06:17.120 --> 00:06:21.920]   In patent law this is called the doctrine of equivalence.
+[00:06:21.920 --> 00:06:37.720]   So usually judges are going to try to understand whether two ideas covered by patents are equivalent or not.
+[00:06:37.720 --> 00:06:39.120]   If they are.
+[00:06:39.120 --> 00:06:50.520]   But obviously in order to appreciate the equivalence you need to take a given level of a structure.
+[00:06:50.520 --> 00:06:59.120]   So at a very low level a digital switch and an analogical switch are two different things.
+[00:06:59.120 --> 00:07:06.520]   But if you judge the problem at a higher level of a structure they are both a switch.
+[00:07:06.520 --> 00:07:16.920]   And so judges are quite free when determining whether two inventions are equivalent or not.
+[00:07:16.920 --> 00:07:22.120]   But this doesn't apply to copyright. Copyright does not protect ideas.
+[00:07:22.120 --> 00:07:32.320]   It only protects the very low level expression of an idea.
+[00:07:32.320 --> 00:07:40.320]   The third important limitation we started talking about it the last time if you remember.
+[00:07:40.320 --> 00:07:54.320]   But the third important limitation on the extension of the exclusive right is represented by the fair use principle.
+[00:07:54.320 --> 00:08:04.120]   Well actually I'm calling it the fair use principle because I'm mostly referring to the US approach.
+[00:08:04.120 --> 00:08:11.520]   And you know this is paragraph 107 of the title 17 of the US code.
+[00:08:11.520 --> 00:08:23.720]   Well I didn't say that but keep in mind that title 17 of the US code is the collection of all the legislation in force in the United States attending even time.
+[00:08:23.720 --> 00:08:34.320]   Title 17 is the part of the code dedicated to copyright protection. Basically the copyright.
+[00:08:34.320 --> 00:08:38.320]   So remember that title 17 means copyright.
+[00:08:38.320 --> 00:09:01.920]   So section 107 has a very long article and we will see that basically it incorporates a general principle.
+[00:09:01.920 --> 00:09:20.120]   We can read it notwithstanding the provision of section 106 and 106a the fair use of the copyrighted work including such use by reproduction in copies of the phone records or by any other means specified by that section.
+[00:09:20.120 --> 00:09:45.120]   For purposes such as you see such as means this is not a closed list. This is just a list of example such as criticism comment that news reported teaching including multiple copies for classroom use scholarship or research is not an infringement of copyright.
+[00:09:45.120 --> 00:09:50.720]   Okay. That's the general principle.
+[00:09:50.720 --> 00:10:08.120]   Everything that falls in that list of examples so criticism comment and news reporting teaching scholarship or search.
+[00:10:08.120 --> 00:10:36.120]   Okay. Everything can be copied without asking the authors permission but you know it generally closed like that would open the possibility for judges to be to use a huge amount of discretion.
+[00:10:36.120 --> 00:10:46.120]   A huge amount of personal judgment in classifying a given use as fair use or not.
+[00:10:46.120 --> 00:11:10.120]   And so the second part of the article of section 107 sets some guidelines some factors judges might take must take into account in order to discriminate between fairy and with the end copyright infringement.
+[00:11:10.120 --> 00:11:25.120]   Those factors are one the purpose and characters of the use including whether such use is a is a is a is a commercial major or is for non-profit educational purposes.
+[00:11:25.120 --> 00:11:31.120]   Second the nature of copyrighted war.
+[00:11:31.120 --> 00:11:48.120]   I mean suppose that I would like to teach you something about a is no white or a knock your if I bring here the movie by Disney.
+[00:11:48.120 --> 00:11:57.120]   There's no why. And I project that movie here the entire movie.
+[00:11:57.120 --> 00:12:16.120]   Am I doing that for educational purposes. Maybe yes. But what is the nature of the copyrighted work is that.
+[00:12:16.120 --> 00:12:29.120]   Is that a work of scholarship something which should be you know a use a usual teaching material.
+[00:12:29.120 --> 00:12:40.120]   Now it is not. So the purpose of the use educational but also the nature of copyrighted war.
+[00:12:40.120 --> 00:12:48.120]   If I start playing pop music in this classroom.
+[00:12:48.120 --> 00:12:58.120]   Well the nature of the copyrighted work is not related to the stuff I'm teaching. I'm trying to teach you.
+[00:12:58.120 --> 00:13:14.120]   So that's the second factor.
+[00:13:14.120 --> 00:13:26.120]   Sorry the third factor is the amount and the substantiality of the portion used in relation to the copyrighted work as a wall.
+[00:13:26.120 --> 00:13:37.120]   Same example if I'm showing you some pieces of a movie.
+[00:13:37.120 --> 00:13:47.120]   Maybe a little trailer. That could be related to what I'm doing in this classroom.
+[00:13:47.120 --> 00:13:59.120]   If I just show you a movie in order not to lecture. Well that's a totally different story.
+[00:13:59.120 --> 00:14:15.120]   And third the effect of the use of the potential market for or value of the copyrighted work.
+[00:14:15.120 --> 00:14:34.120]   What does it mean that judges must take into account those four factors in understanding whether criticism news report in teaching comment scholarship and research is not an infringement.
+[00:14:34.120 --> 00:14:52.120]   But it is fair use. Well basically what judges must do is analyze the specific use and to describe that specific use in the light of those factors.
+[00:14:52.120 --> 00:15:07.120]   So they have to write in their court decision why according to those four factors something is fair use of copyright infringement.
+[00:15:07.120 --> 00:15:30.120]   So as you understand this is a very general concept very broad definition of fair use with a huge amount of discretion by by by judges in order to evaluate the specific situation.
+[00:15:30.120 --> 00:15:48.120]   So that's also something which is troublesome for us because as you may understand it is very difficult by reading just section one hundred and seven to understand whether we're giving you is this fair use of copyright infringement.
+[00:15:48.120 --> 00:16:09.120]   What we have to do is to dig into court decisions in order to see how judges are going to classify that use that that specific use.
+[00:16:09.120 --> 00:16:28.120]   As you may understand these arises the level of complexity of complexity of legal analysis when when trying to understand each specific situation.
+[00:16:28.120 --> 00:16:49.120]   On the other side it makes fair use in the United States quite a flexible concept which can be adapted to new kinds of intellectual works to new kind of situations and so on and so forth.
+[00:16:49.120 --> 00:17:01.120]   But generally speaking I would say that fair use is a much broader concept in the US as we're going to see right now than in Europe.
+[00:17:01.120 --> 00:17:19.120]   Well my personal experience was that when I was a student I was studying at the City University of New York my professors used to prepare the reading material as you know sort of a booklet.
+[00:17:19.120 --> 00:17:42.120]   So I had just to go to the specific office ask for a copy pay you know the physical cost of making the copies of the xyroxine the materials and then I had everything I needed for the course.
+[00:17:42.120 --> 00:17:50.120]   You know this is not your experience usually in Italy professors are not allowed to do that. Why?
+[00:17:50.120 --> 00:17:58.120]   Because in Italy we do not add a general concept of fair use.
+[00:17:58.120 --> 00:18:12.120]   Instead I would say that in Italy we have a specific list of fair uses what are called liberi utilizatione free uses.
+[00:18:12.120 --> 00:18:34.120]   OK. And if we read article 65 and the following articles of Italian copyright law we will see that there is a very narrow definition of each specific free use or fair use.
+[00:18:34.120 --> 00:18:56.120]   You are allowed to make copies of a book after to 15 percent of the pages and if in the pages there are advertising advertisements you are allowed to skip from counting those pages in the total amount of pages of the book.
+[00:18:56.120 --> 00:19:08.120]   Then there are other articles about you know the possibility of making copies of a speech delivered in public.
+[00:19:08.120 --> 00:19:26.120]   You know I'm a politician I'm talking in front of an audience and my speech can be recorded and as the author of that speech I do not have any possibility to object.
+[00:19:26.120 --> 00:19:51.120]   And then there are other different uses which are specifically regulated by the Italian copyright law and each specific use has that specific regulation which is a very strict regulation which can which actually limits the possibility of the judge of interpreting
+[00:19:51.120 --> 00:20:00.120]   creatively the extension of the fair use principle.
+[00:20:00.120 --> 00:20:28.120]   OK. So that's quite an important difference between the limitations of the exclusive rights in the US and in Europe and specifically in Italy but other European legislations in you know continental Europe are basically very similar to the Italian legislation.
+[00:20:28.120 --> 00:20:37.120]   Third sorry fourth. Oh everything is clear about fair use and free uses.
+[00:20:37.120 --> 00:20:49.120]   I would like to stress one fact about that difference. Think about translating the very use principle into technology.
+[00:20:49.120 --> 00:21:01.120]   That is to say to develop a digital rights management system that allows free uses or fair use.
+[00:21:01.120 --> 00:21:15.120]   While the Italian approach can be easily translated you can create an e-book that can be printed only up to 15 percent of the pages.
+[00:21:15.120 --> 00:21:38.120]   It's not difficult. On the other side translating into technology into digital technology a general principle like fair use it's impossible because fair uses a moving target which relies on the interpretation by judges.
+[00:21:38.120 --> 00:21:49.120]   And because being it a general concept it cannot be translated into specific rules.
+[00:21:49.120 --> 00:22:10.120]   How much is it. See here. The substantiality of the portion used in relationship to the copyrighted work as a whole.
+[00:22:10.120 --> 00:22:36.120]   It's not possible to the fire. Well we may start digging into court decisions and find that for instance in the movie domain usually fair uses allowed to I don't know 20 percent of the movie the projection of 20 percent of the movie or 10 to 5 percent.
+[00:22:36.120 --> 00:22:46.120]   But then when it comes to music that percentage may be different.
+[00:22:46.120 --> 00:22:58.120]   So coding translating data into a digital infrastructure is not possible. Or it's very difficult. It's very challenging.
+[00:22:58.120 --> 00:23:22.120]   And we need to keep that in mind because later on during this course we will be talking about digital digital rights management system and we will see that you know implementing the digital rights management system which is a translation of the copyright legislation is far from being a simple task.
+[00:23:22.120 --> 00:23:40.120]   And indeed we will see that actually the real implementation is far from being the translation of copyright legislation and copyright legal principles into technology.
+[00:23:40.120 --> 00:23:54.120]   First say doctrine. I understand that this is quite an obscure limitation.
+[00:23:54.120 --> 00:24:16.120]   But as I said already I think it plays quite an interesting role in shaping in the network works in the digital domain.
+[00:24:16.120 --> 00:24:20.120]   Well let's read.
+[00:24:20.120 --> 00:24:36.120]   Title 17 yes code paragraph one hundred and nine limitations on the exclusive rights effect of transfer of a particular copy or for the record.
+[00:24:36.120 --> 00:25:03.120]   Not we stand in the provision of section one and six number three the owner of a particular copy or phone or record the law fully made under this title or any person authorized by such owner is entitled without the authority of the copyright owner to sell or otherwise dispose of the possession of that copy or for the record.
+[00:25:03.120 --> 00:25:11.120]   Do you understand what that means.
+[00:25:11.120 --> 00:25:13.120]   Any idea.
+[00:25:13.120 --> 00:25:22.120]   Yes that I buy a CD from an artist I am allowed to sell it.
+[00:25:22.120 --> 00:25:24.120]   Yes.
+[00:25:24.120 --> 00:25:36.120]   The same for a book if you buy a book you're allowed to burn it to land it to borrow it to sell it.
+[00:25:36.120 --> 00:25:40.120]   You own the physical copy.
+[00:25:40.120 --> 00:25:47.120]   But you know we have been talking about the difference between the physical copy and the content.
+[00:25:47.120 --> 00:25:54.120]   Copyright protects the content and all the physical copy.
+[00:25:54.120 --> 00:26:08.120]   But basically what these articles say is that keep in mind that when talking about I mean I've been talking about the exclusive right.
+[00:26:08.120 --> 00:26:15.120]   Assuming that you're talking about one right copyright.
+[00:26:15.120 --> 00:26:23.120]   Actually if we look at the copyright the legislation we see that copyright is not just one right.
+[00:26:23.120 --> 00:26:34.120]   There are many rights connected to copyright distribution right broadcasting rights.
+[00:26:34.120 --> 00:26:38.120]   Performing rights.
+[00:26:38.120 --> 00:26:42.120]   Think about the song.
+[00:26:42.120 --> 00:26:48.120]   Maybe you know broadcasted song.
+[00:26:48.120 --> 00:26:54.120]   In a radio station I will have to pay royalties.
+[00:26:54.120 --> 00:27:02.120]   If I play that song in a concert in a live concert I will have to pay royalties.
+[00:27:02.120 --> 00:27:12.120]   If I.
+[00:27:12.120 --> 00:27:29.120]   So what I'm trying to say we can see copyright as a single right made up of different possible faculties connected powers connected to that.
+[00:27:29.120 --> 00:27:45.120]   And those powers may be traveling through different parts. Yes.
+[00:27:45.120 --> 00:27:50.120]   Under the first say doctrine yes you're allowed to.
+[00:27:50.120 --> 00:27:58.120]   Obviously as long as you can eat the original software on your machine otherwise you would have made a legal copy.
+[00:27:58.120 --> 00:28:05.120]   But yes but that's the very nature of the first say doctrine.
+[00:28:05.120 --> 00:28:09.120]   When you acquire a copy.
+[00:28:09.120 --> 00:28:11.120]   You.
+[00:28:11.120 --> 00:28:16.120]   Acquire the right to redistribute that copy.
+[00:28:16.120 --> 00:28:27.120]   Single copy.
+[00:28:27.120 --> 00:28:30.120]   Not using it anymore.
+[00:28:30.120 --> 00:28:34.120]   Letting someone use it.
+[00:28:34.120 --> 00:28:41.120]   That can be read specifically in the European.
+[00:28:41.120 --> 00:28:50.120]   Warding of the directive ninety one twenty two two two one hundred and fifty.
+[00:28:50.120 --> 00:28:55.120]   Of ninety ninety one on the legal protection of computer programs.
+[00:28:55.120 --> 00:29:04.120]   Directly this being repeated and substituted by another director we will be talking about that.
+[00:29:04.120 --> 00:29:10.120]   The legal protection of software anyway the warden is the same.
+[00:29:10.120 --> 00:29:25.120]   The new directive so I wanted to give you to propose you that the first legislation about first aid doctrine with regards to computer programs.
+[00:29:25.120 --> 00:29:29.120]   This is article four C of European directive.
+[00:29:29.120 --> 00:29:48.120]   Of the protection of computer on legal protection of computer programs which reads the first say we make it in the community of the copy of the program by the right owner older or we this can say that she had exeau the distribution right within the community of that copy.
+[00:29:48.120 --> 00:29:56.120]   With the exception of the right to control father father rental of the program or a copy.
+[00:29:56.120 --> 00:30:17.120]   You see what I was told in telling you right before so you cannot rent because the rent is you know a different expression of copyright distribution and renting are to be.
+[00:30:17.120 --> 00:30:22.120]   Now what is the problem.
+[00:30:22.120 --> 00:30:37.120]   Well if we look at that legislation we see that that legislation was adopted enacted when.
+[00:30:37.120 --> 00:31:00.120]   So I told you I'm really sorry.
+[00:31:00.120 --> 00:31:19.120]   Those rules were written when computer programs for instance and the letter works more generally were distributed on physical media.
+[00:31:19.120 --> 00:31:32.120]   CD ROMs floppy disk I belong to the generation who remembers floppy disks you know even the huge one.
+[00:31:32.120 --> 00:31:34.120]   And so on and so forth.
+[00:31:34.120 --> 00:31:43.120]   Well right now I don't think anyone is buying software in any distributed in any physical medium.
+[00:31:43.120 --> 00:31:48.120]   That's not our experience any longer.
+[00:31:48.120 --> 00:31:57.120]   So what is going to happen to the first saved up training in a digital in a totally digital environment.
+[00:31:57.120 --> 00:32:01.120]   Well according to the legislation this is nothing.
+[00:32:01.120 --> 00:32:10.120]   This is not relevant to so the first day doctoring applies to the digital domain too.
+[00:32:10.120 --> 00:32:30.120]   So if you download the last version of Microsoft war and you buy a license you use some sort of activation key I don't know Microsoft the war war the war works anyway.
+[00:32:30.120 --> 00:32:49.120]   That's a copy and the copyright owner Microsoft the exo listed the distribution right over that copy by selling that copy to you by licensing that copy to you.
+[00:32:49.120 --> 00:33:00.120]   On the other side we will see that specifically digital rights management systems can basically jeopardize the first saved up training. Yes.
+[00:33:00.120 --> 00:33:17.120]   I have a question so if I make an account for example and I try to sell the account with the digital copy on it to many companies considered that illegal but it's kind of the only way to to apply the first sale.
+[00:33:17.120 --> 00:33:21.120]   Yes. That's challenging.
+[00:33:21.120 --> 00:33:36.120]   Well that's a very interesting question because it lets me let me dig into you know the practical machinery of the legal system.
+[00:33:36.120 --> 00:33:55.120]   Now suppose you buy an account when you see you buy an account actually you're signing a contract and that contract is based on the terms and condition of use of that resource.
+[00:33:55.120 --> 00:34:14.120]   Usually if you read it you will see that giving your credential for someone else to look into your account is an infringement is a branch of contract you sign sign set.
+[00:34:14.120 --> 00:34:25.120]   So the problem is whether that contract is compatible with the first to say doctor.
+[00:34:25.120 --> 00:34:37.120]   Well but how can we discover if it is compatible or not.
+[00:34:37.120 --> 00:34:48.120]   What is the practical facts you have to do in order to read the contract in order to do this.
+[00:34:48.120 --> 00:35:02.120]   Yes. Suppose you read the contract and the contract says that transmitting your account to someone or transferring your account to someone else for beaten.
+[00:35:02.120 --> 00:35:16.120]   Well that's the contract. You believe that contract is a branch violation of Article 4C of European directive.
+[00:35:16.120 --> 00:35:22.120]   What do you do. What do you do.
+[00:35:22.120 --> 00:35:31.120]   You branch to contract. You transfer your account.
+[00:35:31.120 --> 00:35:42.120]   The other part of that account will bring you in front of the court.
+[00:35:42.120 --> 00:36:05.120]   What I'm trying to say is that well we can read the account and see that sorry we can read the contract and see that the contract is not compatible with the first say doctor.
+[00:36:05.120 --> 00:36:15.120]   That's enough. That's not enough. You need to raise the question before a court and raising the question before a court is costly.
+[00:36:15.120 --> 00:36:22.120]   You have to pay attorney. Maybe you're going to lose. So it's risky.
+[00:36:22.120 --> 00:36:27.120]   And if you are going to lose you're going to lose a lot of money. You have to pay your attorney.
+[00:36:27.120 --> 00:36:35.120]   In Italy you have to pay also the attorney of the other party which was a resisting party.
+[00:36:35.120 --> 00:36:45.120]   The plaintiff is called the English legal terminology.
+[00:36:45.120 --> 00:36:58.120]   Are you going to accept that risk. Oh well you know that's your decision.
+[00:36:58.120 --> 00:37:11.120]   But what I'm trying to say is that the legislation every piece of legislation is not automatically enforced by you reading it.
+[00:37:11.120 --> 00:37:28.120]   The only way to enforce a legal rule is to have a charge state that that legal rules applies to the controversies is dealing with.
+[00:37:28.120 --> 00:37:39.120]   And that legal rule or better the meaning of that legal rule is this and that.
+[00:37:39.120 --> 00:37:54.120]   So when they were we are talking about the enforcement of a legal rule we are talking about an institutional framework.
+[00:37:54.120 --> 00:38:01.120]   Which is which has the task of enforcing the rule.
+[00:38:01.120 --> 00:38:11.120]   But that institutional framework that mechanism that machinery is not without costs.
+[00:38:11.120 --> 00:38:17.120]   And so there are many times where.
+[00:38:17.120 --> 00:38:33.120]   You may believe that taking the risk is not worth it because it is cheaper to buy a new account.
+[00:38:33.120 --> 00:38:46.120]   You remember last time I was talking about the Edison wonderland published by Adobe in 1996 and I remember I wasn't able to find a picture of the page.
+[00:38:46.120 --> 00:39:03.120]   The title of permissions and in that page there was something belonging to the permission as a way to read in that book allowed was not allowed allowed in the law.
+[00:39:03.120 --> 00:39:16.120]   The same pronunciation I think allowed means not allowed means prohibited allowed means allowed.
+[00:39:16.120 --> 00:39:20.120]   Something today is not capable of.
+[00:39:20.120 --> 00:39:23.120]   That situation was different.
+[00:39:23.120 --> 00:39:31.120]   Because you wanted to read everything wonderland allowed to your children.
+[00:39:31.120 --> 00:39:34.120]   You do it.
+[00:39:34.120 --> 00:39:43.120]   Because it's up to Adobe to current and see discover that you're reading the book allow.
+[00:39:43.120 --> 00:39:54.120]   And then bring you to court and then have a challenge stating whether that permission is compatible with copyright law or not.
+[00:39:54.120 --> 00:40:01.120]   And we knew that anything wonderland is a book which belongs to the public domain.
+[00:40:01.120 --> 00:40:07.120]   So your chances are big of a big three are very high.
+[00:40:07.120 --> 00:40:11.120]   And I'm pretty sure that you're going to take the risk.
+[00:40:11.120 --> 00:40:15.120]   You are inside your apartment and nobody listen to you.
+[00:40:15.120 --> 00:40:16.120]   Who cares.
+[00:40:16.120 --> 00:40:19.120]   The risk is so low.
+[00:40:19.120 --> 00:40:23.120]   But there are situations in which instead of the risk is not so low.
+[00:40:23.120 --> 00:40:30.120]   And you have to take into account the cost of the risk and the cost of buying a different company.
+[00:40:30.120 --> 00:40:46.120]   What I'm trying to suggest is that you know the effectiveness of the first say doctrine in the digital environment is very questionable.
+[00:40:46.120 --> 00:41:00.120]   And I wouldn't be able to provide you with the rules with the rule that applies in every possible circumstances.
+[00:41:00.120 --> 00:41:09.120]   Whether you should violate something that you believe is in contrast with the legislation about first say doctrine or not.
+[00:41:09.120 --> 00:41:20.120]   So that's the reason why the first say doctrine is quite interesting when talking about the digital domain.
+[00:41:20.120 --> 00:41:30.120]   Because the first say doctrine has been stressed by the digital revolution.
+[00:41:30.120 --> 00:41:35.120]   More than fair use or other limitations. Yes.
+[00:41:35.120 --> 00:41:45.120]   Speaking about software buying software or digital media.
+[00:41:45.120 --> 00:41:51.120]   Are we allowed to make copies of software?
+[00:41:51.120 --> 00:41:53.120]   You will see.
+[00:41:53.120 --> 00:41:57.120]   Yes. We will be studying that when talking about the legal protection of software.
+[00:41:57.120 --> 00:42:00.120]   I can read this you can view that. Yes.
+[00:42:00.120 --> 00:42:03.120]   You're allowed to make it a Capcom.
+[00:42:03.120 --> 00:42:07.120]   And we will see that that specific.
+[00:42:07.120 --> 00:42:11.120]   Harder limitation to the extension of yesterday right.
+[00:42:11.120 --> 00:42:15.120]   Dictate it specifically for something.
+[00:42:15.120 --> 00:42:17.120]   Title. Sorry.
+[00:42:17.120 --> 00:42:20.120]   Paragraph 117.
+
+
+[00:00:00.000 --> 00:00:14.640]   Encoders, James Boyle, Lawrence Lesser. I know those names mean nothing to you, but
+[00:00:14.640 --> 00:00:24.520]   believe me, at that time those were the most prominent legal scholars in the US academic
+[00:00:24.520 --> 00:00:36.760]   world. They are known all over the world in the academic community of lawyers, obviously.
+[00:00:36.760 --> 00:00:50.800]   So Andrew dead, good arguments, excellent lawyers, everyone was thinking he was going
+[00:00:50.800 --> 00:01:04.240]   to win. And he's lost. The US Supreme Court said no. The limitation after the adoption
+[00:01:04.240 --> 00:01:15.160]   of the sonic on the copyright term extension is not only is still limited. So the Congress
+[00:01:15.160 --> 00:01:33.000]   may extend as long as the final extension is limited. Among those big lawyers, Lawrence
+[00:01:33.000 --> 00:01:44.640]   Lesser instead was proposing a different approach of copyright. He said, why do not we
+[00:01:44.640 --> 00:02:00.200]   get rid of the time limitation altogether? And instead provided the exclusive right for
+[00:02:00.200 --> 00:02:14.600]   free for a given time, for a given amount of years. After that, the author must start
+[00:02:14.600 --> 00:02:22.520]   paying a tax for getting the protection. And as you may understand, if you are the author
+[00:02:22.520 --> 00:02:29.560]   of a book which says no market any longer, you're not going to pay a tax to get the protection.
+[00:02:29.560 --> 00:02:36.680]   That would be wasted money. Maybe you can do that for a few years because you may be
+[00:02:36.680 --> 00:02:46.160]   open that sometimes your book will start circulating again. But when you see that that is not going
+[00:02:46.160 --> 00:02:53.120]   to happen, you stop paying taxation and your book becomes part of the public domain. Instead,
+[00:02:53.120 --> 00:03:01.720]   if you have an intellectual asset that is providing profits and profits over the years,
+[00:03:01.720 --> 00:03:12.080]   and those profits are greater, equal or greater of the taxation you have to pay to get the
+[00:03:12.080 --> 00:03:20.920]   exclusive right, you will pay taxation forever. It doesn't really matter. It's up to you.
+[00:03:20.920 --> 00:03:29.920]   I believe that these approaches is better. Anyway,
+[00:03:29.920 --> 00:03:36.600]   Lorslasek didn't have the power to have his approach approved and adopted by the US Congress.
+[00:03:36.600 --> 00:03:47.080]   So we must stick with the Sony Bono Copyright Hermit section. Still, why I wanted to tell
+[00:03:47.080 --> 00:04:12.600]   you about the Eldred versus Ashcroft. Ashcroft was the attorney general of the Clinton administration.
+[00:04:12.600 --> 00:04:33.080]   So after the last, those lawyers started to take action. They were lawyers and they decided to
+[00:04:33.080 --> 00:04:44.840]   take action by writing licenses. And they created the Creative Commons. Do you know something about
+[00:04:44.840 --> 00:04:59.000]   Creative Commons? Have you heard about it? All of you? So Creative Commons was born out of that
+[00:04:59.000 --> 00:05:20.280]   rejection by the US Supreme Court of the arguments made by Eldred and Lorslasek, and you know,
+[00:05:20.280 --> 00:05:32.120]   sometimes I think that actually the fact that they lost before the US Supreme Court was not
+[00:05:32.120 --> 00:05:44.120]   without good consequences because the Creative Commons initiative was very successful, and we
+[00:05:44.120 --> 00:05:52.040]   will talk a bit about it. And it provided a legal framework for people wanting to share their
+[00:05:52.040 --> 00:06:12.360]   intellectual works by using very simple legal code in a configurable way. Okay, do you have any
+[00:06:12.360 --> 00:06:24.760]   question? I'm sorry I was so boring, so slow and so on and so forth. I will try to do better next
+[00:06:24.760 --> 00:06:33.000]   time. I will see you tomorrow at 13, 13.30. Yes?
+[00:06:33.000 --> 00:06:50.840]   So you are not, you cannot come. It is tomorrow that there is some
