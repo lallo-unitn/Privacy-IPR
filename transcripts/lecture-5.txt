@@ -1,0 +1,567 @@
+[00:00:00.000 --> 00:00:26.000]   [ Silence ]
+[00:00:26.000 --> 00:00:32.000]   >> So, last time we have been looking at the--
+[00:00:32.000 --> 00:00:41.000]   [ Noise ]
+[00:00:41.000 --> 00:00:51.000]   [ Noise ]
+[00:00:51.000 --> 00:01:01.000]   [ Noise ]
+[00:01:01.000 --> 00:01:11.000]   [ Noise ]
+[00:01:11.000 --> 00:01:21.000]   [ Noise ]
+[00:01:21.000 --> 00:01:29.000]   [ Noise ]
+[00:01:29.000 --> 00:01:39.000]   [ Noise ]
+[00:01:39.000 --> 00:01:49.000]   [ Noise ]
+[00:01:49.000 --> 00:01:53.000]   [ Noise ]
+[00:01:53.000 --> 00:02:03.000]   [ Noise ]
+[00:02:03.000 --> 00:02:13.000]   [ Noise ]
+[00:02:13.000 --> 00:02:23.000]   [ Noise ]
+[00:02:23.000 --> 00:02:33.000]   [ Noise ]
+[00:02:33.000 --> 00:02:38.000]   >> The MIT decided to change the devices of version 7
+[00:02:38.000 --> 00:02:40.000]   of the UNIX operating system in order
+[00:02:40.000 --> 00:02:45.000]   to have a trade secrecy protection of the read.
+[00:02:45.000 --> 00:02:47.000]   And obviously that meant
+[00:02:47.000 --> 00:02:49.000]   that the source code could not be used
+[00:02:49.000 --> 00:02:52.000]   in universities any longer.
+[00:02:52.000 --> 00:02:57.000]   I think that we could look at that date as the starting point
+[00:02:57.000 --> 00:03:02.000]   of the creation of a real software industry which was
+[00:03:02.000 --> 00:03:06.000]   independent from the hardware industry
+[00:03:06.000 --> 00:03:10.000]   which dominated information technologies at that time.
+[00:03:10.000 --> 00:03:11.000]   And--
+[00:03:11.000 --> 00:03:14.000]   [ Noise ]
+[00:03:14.000 --> 00:03:15.000]   >> And--
+[00:03:15.000 --> 00:03:19.000]   [ Noise ]
+[00:03:19.000 --> 00:03:20.000]   >> And--
+[00:03:20.000 --> 00:03:24.000]   [ Noise ]
+[00:03:24.000 --> 00:03:26.000]   >> That separation between hardware
+[00:03:26.000 --> 00:03:29.000]   and software was basically made possible
+[00:03:29.000 --> 00:03:32.000]   by a technological innovation.
+[00:03:32.000 --> 00:03:36.000]   The creation of a nine-level language program--
+[00:03:36.000 --> 00:03:42.000]   of a nine-level programming language which made it possible
+[00:03:42.000 --> 00:03:46.000]   to write the same piece of software and run it
+[00:03:46.000 --> 00:03:48.000]   on different hardware architecture.
+[00:03:48.000 --> 00:03:53.000]   And as you know, right after ADMT was splitting
+[00:03:53.000 --> 00:03:58.000]   to be so-called belly bells, local telephone companies,
+[00:03:58.000 --> 00:04:04.000]   ADMT was able to enter the software industry.
+[00:04:04.000 --> 00:04:07.000]   And starting from 1982,
+[00:04:07.000 --> 00:04:10.000]   they created the UNIX system laboratories
+[00:04:10.000 --> 00:04:15.000]   and they started selling as I told you last time,
+[00:04:15.000 --> 00:04:19.000]   many different-- well, they were selling the code base
+[00:04:19.000 --> 00:04:23.000]   but each software house was using that code base
+[00:04:23.000 --> 00:04:28.000]   for basically creating their own flavor
+[00:04:28.000 --> 00:04:31.000]   of UNIX operating system.
+[00:04:31.000 --> 00:04:35.000]   The nice thing-- the nice side effect--
+[00:04:35.000 --> 00:04:39.000]   well, at first it was a mess as you may understand
+[00:04:39.000 --> 00:04:44.000]   because every flavor was departing from the code base
+[00:04:44.000 --> 00:04:48.000]   and so the program written for AIX,
+[00:04:48.000 --> 00:04:54.000]   the IBM version was not run directly on the Ultrix version
+[00:04:54.000 --> 00:04:56.000]   and so on and so forth.
+[00:04:56.000 --> 00:05:00.000]   And so there was the need to create a standard library--
+[00:05:00.000 --> 00:05:05.000]   well, not a standard library, a standard system calls
+[00:05:05.000 --> 00:05:10.000]   so that every piece of software could be compiled
+[00:05:10.000 --> 00:05:17.000]   on different UNIXes flavor but with the, you know,
+[00:05:17.000 --> 00:05:22.000]   [ Pause ]
+[00:05:22.000 --> 00:05:27.000]   certainty that the system calls were always the same
+[00:05:27.000 --> 00:05:32.000]   so if we were assessing the R disk or the visual monitor,
+[00:05:32.000 --> 00:05:36.000]   it was just a matter of having different driver
+[00:05:36.000 --> 00:05:40.000]   but the code could be the same.
+[00:05:40.000 --> 00:05:44.000]   As far as I know, the projects went even further
+[00:05:44.000 --> 00:05:50.000]   and they created a level of compatibility
+[00:05:50.000 --> 00:05:54.000]   between different flavors of the UNIX operating system
+[00:05:54.000 --> 00:05:58.000]   at run time, okay?
+[00:05:58.000 --> 00:06:03.000]   So you could compile a piece of code on AIX
+[00:06:03.000 --> 00:06:09.000]   and run the object code on another operating system
+[00:06:09.000 --> 00:06:11.000]   without any problems.
+[00:06:11.000 --> 00:06:15.000]   [ Pause ]
+[00:06:15.000 --> 00:06:18.000]   Which led the possibility to distribute so--
+[00:06:18.000 --> 00:06:22.000]   to distribute computer programs in object code
+[00:06:22.000 --> 00:06:25.000]   without having to rely on the source code.
+[00:06:25.000 --> 00:06:28.000]   So you may allow-- you were allowed
+[00:06:28.000 --> 00:06:32.000]   to keep the source code secret and that's it.
+[00:06:32.000 --> 00:06:35.000]   You were just distributing the binary form
+[00:06:35.000 --> 00:06:38.000]   and as you know, the binary form cannot be studied,
+[00:06:38.000 --> 00:06:43.000]   cannot be modified well to a certain extent.
+[00:06:43.000 --> 00:06:48.000]   I don't know, I grew up in a generation of video gamers
+[00:06:48.000 --> 00:06:55.000]   where video game copy protection were easily circumvented by,
+[00:06:55.000 --> 00:07:01.000]   you know, writing some piece of assembly code and that's it.
+[00:07:01.000 --> 00:07:06.000]   Right now, it's not possible any longer because as far
+[00:07:06.000 --> 00:07:10.000]   as you know, video games are playing online
+[00:07:10.000 --> 00:07:16.000]   so video games are typical example of software research.
+[00:07:16.000 --> 00:07:24.000]   Anyway, so we-- at the end of the '70s, beginning of the '80s,
+[00:07:24.000 --> 00:07:27.000]   we see the emergence of a new industry
+[00:07:27.000 --> 00:07:32.000]   which is the software industry which probably right now is one
+[00:07:32.000 --> 00:07:39.000]   of the most economically powerful soft industry in the world.
+[00:07:39.000 --> 00:07:42.000]   I mean, as far as I understand,
+[00:07:42.000 --> 00:07:50.000]   the video games sell far more than movies, okay.
+[00:07:50.000 --> 00:07:59.000]   So a huge part of the entertainment economy is based
+[00:07:59.000 --> 00:08:01.000]   on software.
+[00:08:01.000 --> 00:08:04.000]   More over right now, software is running anywhere
+[00:08:04.000 --> 00:08:10.000]   so there is really no need to dig
+[00:08:10.000 --> 00:08:12.000]   into the reasons why software--
+[00:08:12.000 --> 00:08:15.000]   the software industry is now so important.
+[00:08:15.000 --> 00:08:20.000]   But as you may understand, well, yes,
+[00:08:20.000 --> 00:08:28.000]   now you have a digital infrastructure which allows you
+[00:08:28.000 --> 00:08:31.000]   to run an object code on every--
+[00:08:31.000 --> 00:08:36.000]   on almost every piece of hardware out there.
+[00:08:36.000 --> 00:08:41.000]   But still, and then we need to go back to the legal system.
+[00:08:41.000 --> 00:08:45.000]   Object code was not copyrightable.
+[00:08:45.000 --> 00:08:49.000]   You know, you remember I told you couple of guys belonging
+[00:08:49.000 --> 00:08:53.000]   to the law faculty of the Columbia University
+[00:08:53.000 --> 00:08:56.000]   and Harvard University tried to register
+[00:08:56.000 --> 00:09:01.000]   with the Copyright Office, US Copyright Office,
+[00:09:01.000 --> 00:09:05.000]   couple of programs in object code and source code.
+[00:09:05.000 --> 00:09:09.000]   They were successful with the source code but they were not
+[00:09:09.000 --> 00:09:14.000]   with the object code because I told you the famous
+[00:09:14.000 --> 00:09:19.000]   the White Smith Music Publishing Company versus a whole
+[00:09:19.000 --> 00:09:23.000]   local company, the Naked Eye, W.
+[00:09:23.000 --> 00:09:27.000]   And so that's the reason why in 1876,
+[00:09:27.000 --> 00:09:35.000]   the US Congress getting aware of the fact
+[00:09:35.000 --> 00:09:39.000]   that the software industry was becoming a big part
+[00:09:39.000 --> 00:09:43.000]   of their economy, decided to change the copyright act
+[00:09:43.000 --> 00:09:47.000]   in order to include software among protected works.
+[00:09:47.000 --> 00:09:54.000]   But still there was the perception that the software was
+[00:09:54.000 --> 00:09:57.000]   a specific type of literary work.
+[00:09:57.000 --> 00:10:07.000]   And so it needed some more different kind of limitations
+[00:10:07.000 --> 00:10:12.000]   to the exclusive rule, to the exclusive right of authors
+[00:10:12.000 --> 00:10:23.000]   in order to make the software industry economically available.
+[00:10:23.000 --> 00:10:30.000]   I don't know whether I told you but there was a huge debate
+[00:10:30.000 --> 00:10:39.000]   in the US because many of the more prominent legal scholars
+[00:10:39.000 --> 00:10:44.000]   believed that copyright was not a suitable tool
+[00:10:44.000 --> 00:10:47.000]   for protecting software.
+[00:10:47.000 --> 00:10:52.000]   Given the very nature of software, I told you,
+[00:10:52.000 --> 00:10:55.000]   painting is something you enjoy.
+[00:10:55.000 --> 00:10:58.000]   A word processing is something you use.
+[00:10:58.000 --> 00:11:04.000]   And you get pretty upset if after writing the final sentence
+[00:11:04.000 --> 00:11:07.000]   of your long dissertation, you see that the bag
+[00:11:07.000 --> 00:11:15.000]   of the word processing makes it crash and lose all your work.
+[00:11:15.000 --> 00:11:19.000]   There was a problem of liability, a problem of who's
+[00:11:19.000 --> 00:11:23.000]   going to pay the damages of bags.
+[00:11:23.000 --> 00:11:25.000]   And the decision of the legislations
+[00:11:25.000 --> 00:11:32.000]   was very similar to, I would say, the chapter
+[00:11:32.000 --> 00:11:34.000]   of the statistical family you remember.
+[00:11:34.000 --> 00:11:37.000]   No liability.
+[00:11:37.000 --> 00:11:39.000]   Why no liability?
+[00:11:39.000 --> 00:11:42.000]   Because there was the perception that writing software
+[00:11:42.000 --> 00:11:44.000]   was error prone.
+[00:11:44.000 --> 00:11:48.000]   I mean, bags were inevitable.
+[00:11:48.000 --> 00:11:51.000]   Inevitable.
+[00:11:51.000 --> 00:11:58.000]   I remember the matrix, the sound of inability.
+[00:11:58.000 --> 00:12:11.000]   So who has to bear the economic consequences of software
+[00:12:11.000 --> 00:12:13.000]   failures?
+[00:12:13.000 --> 00:12:15.000]   Well, as we understand, there are situations
+[00:12:15.000 --> 00:12:26.000]   where software failure is not-- how can I say-- allowed.
+[00:12:26.000 --> 00:12:31.000]   Think about the machinery run by a piece of software that
+[00:12:31.000 --> 00:12:40.000]   keeps you alive because it helps the circulation of your blood.
+[00:12:40.000 --> 00:12:43.000]   It's not possible to have that software fail
+[00:12:43.000 --> 00:12:48.000]   because failure of software means that you're going to die.
+[00:12:48.000 --> 00:12:51.000]   So software in mission critical situations,
+[00:12:51.000 --> 00:12:57.000]   as you may understand, is subject to different rules.
+[00:12:57.000 --> 00:13:00.000]   But those rules are not imposed by the law.
+[00:13:00.000 --> 00:13:08.000]   They are just the result of agreements between parties.
+[00:13:08.000 --> 00:13:11.000]   And we will see that this is true in proprietary software.
+[00:13:11.000 --> 00:13:15.000]   This is true in free software.
+[00:13:15.000 --> 00:13:21.000]   Software comes with a very strong limitation of liability.
+[00:13:21.000 --> 00:13:25.000]   That's the fourth rule.
+[00:13:25.000 --> 00:13:28.000]   And that's the fourth rule that is made
+[00:13:28.000 --> 00:13:32.000]   possible by the legal system.
+[00:13:32.000 --> 00:13:37.000]   So if you want a warranty, if you want to-- you
+[00:13:37.000 --> 00:13:40.000]   need to pay extra money.
+[00:13:40.000 --> 00:13:46.000]   So you can understand that by letting software coders,
+[00:13:46.000 --> 00:13:55.000]   software writers, or sellers, or producers to be-- how can I
+[00:13:55.000 --> 00:14:07.000]   say-- to feel free to write every piece of-- I would like
+[00:14:07.000 --> 00:14:14.000]   to say the word shit, but you know what I mean.
+[00:14:14.000 --> 00:14:21.000]   If you want them to be free to don't care about bugs and stuff
+[00:14:21.000 --> 00:14:28.000]   like that, you just let them waive their liability.
+[00:14:28.000 --> 00:14:32.000]   Did you ever read the end users license agreement
+[00:14:32.000 --> 00:14:38.000]   about the Microsoft operating system or the Microsoft world
+[00:14:38.000 --> 00:14:40.000]   or office suite?
+[00:14:40.000 --> 00:14:43.000]   I don't know how they call it anymore.
+[00:14:43.000 --> 00:14:47.000]   Well, have a read it, because it's quite interesting.
+[00:14:47.000 --> 00:14:51.000]   You will see that the very same wording is used in free software.
+[00:14:51.000 --> 00:14:54.000]   But at least you know that free software is something
+[00:14:54.000 --> 00:14:57.000]   you usually do not pay for.
+[00:14:57.000 --> 00:14:59.000]   And when you pay for it, usually you
+[00:14:59.000 --> 00:15:05.000]   pay because you want a warranty in case a software failure.
+[00:15:05.000 --> 00:15:08.000]   And that's basically the business model
+[00:15:08.000 --> 00:15:12.000]   behind the free and open source software.
+[00:15:12.000 --> 00:15:19.000]   There is no such possibility in the proprietary software
+[00:15:19.000 --> 00:15:28.000]   industry, because it's not mandated by the law.
+[00:15:28.000 --> 00:15:35.000]   And software houses have very high contracting power
+[00:15:35.000 --> 00:15:40.000]   compared to your contracting power.
+[00:15:40.000 --> 00:15:55.000]   Try to ask Microsoft a warranty for every crash
+[00:15:55.000 --> 00:16:05.000]   your computer may experience by running a Microsoft operating
+[00:16:05.000 --> 00:16:06.000]   system.
+[00:16:06.000 --> 00:16:10.000]   I don't know whether that's not true any longer.
+[00:16:10.000 --> 00:16:16.000]   I stopped using Microsoft stuff, well, almost 30 years ago.
+[00:16:16.000 --> 00:16:22.000]   I remember at that time we called it the blue screen of death.
+[00:16:22.000 --> 00:16:27.000]   Sometimes a blue screen appears, saying that you have to press
+[00:16:27.000 --> 00:16:28.000]   Control-Alt-Delete.
+[00:16:28.000 --> 00:16:40.000]   It's not made experience any longer.
+[00:16:40.000 --> 00:16:47.000]   By Control-Alt-Delete, a combination of keys does nothing.
+[00:16:47.000 --> 00:16:59.000]   Anyway, you remember still there are limitations
+[00:16:59.000 --> 00:17:03.000]   we must take into account given the practical nature
+[00:17:03.000 --> 00:17:07.000]   of software uses.
+[00:17:07.000 --> 00:17:13.000]   Translation, backup copy, adaptation.
+[00:17:13.000 --> 00:17:20.000]   Well, those are quite interesting and nice principles.
+[00:17:20.000 --> 00:17:23.000]   But they are just principles.
+[00:17:23.000 --> 00:17:28.000]   Well, no, the backup copy can be done, or at least it
+[00:17:28.000 --> 00:17:29.000]   could be done.
+[00:17:29.000 --> 00:17:31.000]   Probably right now when you buy the software
+[00:17:31.000 --> 00:17:35.000]   and you download it from somewhere,
+[00:17:35.000 --> 00:17:39.000]   well, there is no need of the backup copy any longer,
+[00:17:39.000 --> 00:17:45.000]   because if the software gets corrupted or your hard drive
+[00:17:45.000 --> 00:17:49.000]   fries up, you probably should be able-- I don't know,
+[00:17:49.000 --> 00:17:51.000]   I'm not sure about it-- but you probably
+[00:17:51.000 --> 00:17:56.000]   should be able to obtain another copy since you
+[00:17:56.000 --> 00:18:01.000]   paid for the first one and the first one is gone.
+[00:18:01.000 --> 00:18:06.000]   So in 1980, when the US Congress adopted the rule
+[00:18:06.000 --> 00:18:11.000]   that the user is allowed to make a backup copy regardless
+[00:18:11.000 --> 00:18:16.000]   of the author's consent, that was due to the fact
+[00:18:16.000 --> 00:18:19.000]   that at that time, software was distributed
+[00:18:19.000 --> 00:18:25.000]   with material media that could be corrupted,
+[00:18:25.000 --> 00:18:33.000]   tapes, floppy disks, CD-ROM, hard drive, and stuff like that.
+[00:18:33.000 --> 00:18:41.000]   At some point, we started to think that our technology was
+[00:18:41.000 --> 00:18:47.000]   developing so well that the persistence of data
+[00:18:47.000 --> 00:18:51.000]   on those type of medium was going to last forever.
+[00:18:51.000 --> 00:18:58.000]   Did you ever try to use a CD-ROM you burned wide 10,
+[00:18:58.000 --> 00:19:00.000]   15 years ago?
+[00:19:00.000 --> 00:19:04.000]   No, 10, 15 years ago.
+[00:19:04.000 --> 00:19:06.000]   Were you successful?
+[00:19:06.000 --> 00:19:21.000]   I have a huge container of those CD-ROMs
+[00:19:21.000 --> 00:19:26.000]   I should be just throwing away or using them for decorating
+[00:19:26.000 --> 00:19:29.000]   my Christmas tree.
+[00:19:29.000 --> 00:19:35.000]   I don't like Christmas trees, so we just threw them away.
+[00:19:35.000 --> 00:19:38.000]   The possibility that that software for personal need,
+[00:19:38.000 --> 00:19:41.000]   that's very nice.
+[00:19:41.000 --> 00:19:43.000]   It's really very nice.
+[00:19:43.000 --> 00:19:47.000]   But as long as you start giving protection
+[00:19:47.000 --> 00:19:53.000]   to computer programs in binary object code,
+[00:19:53.000 --> 00:19:58.000]   is it really possible to exercise this right?
+[00:19:58.000 --> 00:20:03.000]   Would you be able to implement well?
+[00:20:03.000 --> 00:20:07.000]   Right now, software comes to a certain degree
+[00:20:07.000 --> 00:20:19.000]   of modularity and composability and configurability.
+[00:20:19.000 --> 00:20:25.000]   I'm not really familiar with the script
+[00:20:25.000 --> 00:20:29.000]   in language you may be using with word processing
+[00:20:29.000 --> 00:20:32.000]   for Microsoft.
+[00:20:32.000 --> 00:20:42.000]   I've done something with LibreOffice.
+[00:20:42.000 --> 00:20:48.000]   It's pretty amazing because basically the main way
+[00:20:48.000 --> 00:20:53.000]   to code for LibreOffice is writing basic code, which
+[00:20:53.000 --> 00:20:59.000]   reminds me of my youth when I was very young, 11, 12 years old,
+[00:20:59.000 --> 00:21:05.000]   and I was writing this piece of basic code on a piece of paper
+[00:21:05.000 --> 00:21:10.000]   in order to go over to my friend in the afternoon
+[00:21:10.000 --> 00:21:12.000]   and write and run the program.
+[00:21:18.000 --> 00:21:24.000]   LibreOffice basic sucks as basic used to suck.
+[00:21:24.000 --> 00:21:31.000]   Anyway, unfortunately now it is possible to code
+[00:21:31.000 --> 00:21:41.000]   for LibreOffice in Python, which is a nicer programming language.
+[00:21:41.000 --> 00:21:43.000]   I don't know whether you use it.
+[00:21:43.000 --> 00:21:45.000]   I don't like it very much, actually,
+[00:21:45.000 --> 00:21:50.000]   but I don't like object-oriented programming.
+[00:21:50.000 --> 00:21:55.000]   Python has a very nice function of features.
+[00:21:55.000 --> 00:21:58.000]   So I don't know still if you can use
+[00:21:58.000 --> 00:22:01.000]   Python to code for Microsoft.
+[00:22:01.000 --> 00:22:03.000]   Could you?
+[00:22:03.000 --> 00:22:04.000]   Could you?
+[00:22:04.000 --> 00:22:06.000]   Yeah, is it possible?
+[00:22:06.000 --> 00:22:10.000]   With the last integration of Excel, you can write code.
+[00:22:10.000 --> 00:22:16.000]   In Excel, but also in Word, the Word processor.
+[00:22:16.000 --> 00:22:17.000]   I don't know.
+[00:22:17.000 --> 00:22:18.000]   Yes.
+[00:22:18.000 --> 00:22:20.000]   Yes, possible.
+[00:22:20.000 --> 00:22:23.000]   Because for instance, my daughter,
+[00:22:23.000 --> 00:22:27.000]   she studied ancient Greek.
+[00:22:27.000 --> 00:22:29.000]   And you know, ancient Greek is a mess
+[00:22:29.000 --> 00:22:34.000]   because it is called polytonic Greek.
+[00:22:34.000 --> 00:22:41.000]   And you may have three different diatrices, as they call it,
+[00:22:41.000 --> 00:22:43.000]   over a single letter.
+[00:22:43.000 --> 00:22:47.000]   Writing them is a real mess.
+[00:22:47.000 --> 00:22:53.000]   And so I was not able to find a way to do that in Word
+[00:22:53.000 --> 00:23:00.000]   while instead by using Python in LibreOffice,
+[00:23:00.000 --> 00:23:07.000]   the Java was pretty trivial anyway.
+[00:23:07.000 --> 00:23:10.000]   So yeah, a possibility to adapt it,
+[00:23:10.000 --> 00:23:12.000]   but usually the possibility to adapt it
+[00:23:12.000 --> 00:23:18.000]   is confined within the boundaries decided by the coders.
+[00:23:18.000 --> 00:23:22.000]   Unfortunately, you know, modularity,
+[00:23:22.000 --> 00:23:33.000]   the fact that most of the programs have included now
+[00:23:33.000 --> 00:23:38.000]   an interpreter of a high-level programming language like Python,
+[00:23:38.000 --> 00:23:45.000]   Lua, that's a nice programming language.
+[00:23:45.000 --> 00:23:47.000]   I like it.
+[00:23:47.000 --> 00:23:53.000]   Too object-oriented for my taste, but you know, I like it.
+[00:23:53.000 --> 00:23:59.000]   Lua can be easily integrated in any piece of software.
+[00:23:59.000 --> 00:24:06.000]   JavaScript, JavaScript is a wonderful programming language,
+[00:24:06.000 --> 00:24:10.000]   even though the best one is ASCII, believe me.
+[00:24:10.000 --> 00:24:14.000]   There is nothing like ASCII.
+[00:24:14.000 --> 00:24:22.000]   So what's written in title 17, paragraph 117,
+[00:24:22.000 --> 00:24:39.000]   are just nice words that do not have a very strong possibility
+[00:24:39.000 --> 00:24:42.000]   of enforcement.
+[00:24:42.000 --> 00:24:46.000]   Anyway, that's the situation.
+[00:24:46.000 --> 00:24:52.000]   I'm sorry because now I'm showing you those slides.
+[00:24:52.000 --> 00:24:55.000]   I'm sorry, I forgot to--
+[00:24:55.000 --> 00:24:58.000]   because I wrote the Italian slide for that part,
+[00:24:58.000 --> 00:25:03.000]   but I didn't translate it into English.
+[00:25:03.000 --> 00:25:06.000]   I will show you.
+[00:25:06.000 --> 00:25:08.000]   I find it.
+[00:25:08.000 --> 00:25:36.000]   [ Pause ]
+[00:25:36.000 --> 00:26:05.000]   [ Pause ]
+[00:26:05.000 --> 00:26:09.000]   Oh, sorry.
+[00:26:09.000 --> 00:26:13.000]   I locked with a--
+[00:26:13.000 --> 00:26:26.000]   [ Pause ]
+[00:26:26.000 --> 00:26:38.000]   Did you see that?
+[00:26:38.000 --> 00:26:57.000]   Give me just one second.
+[00:26:57.000 --> 00:27:26.000]   [ Pause ]
+[00:27:26.000 --> 00:27:48.000]   [ Pause ]
+[00:27:48.000 --> 00:28:03.000]   Oh, I don't find it.
+[00:28:03.000 --> 00:28:14.000]   Why?
+[00:28:14.000 --> 00:28:25.000]   Okay, anyway.
+[00:28:25.000 --> 00:28:35.000]   Sorry, a couple of days, I'm just losing my stuff.
+[00:28:35.000 --> 00:28:45.000]   Let's do it like this.
+[00:28:45.000 --> 00:29:04.000]   [ Pause ]
+[00:29:04.000 --> 00:29:14.000]   [ Pause ]
+[00:29:14.000 --> 00:29:19.000]   No, I didn't--
+[00:29:19.000 --> 00:29:21.000]   I'm really sorry.
+[00:29:21.000 --> 00:29:29.000]   I did, after all, have locked the right slide.
+[00:29:29.000 --> 00:29:35.000]   What is it, Bob?
+[00:29:35.000 --> 00:29:37.000]   Sorry.
+[00:29:37.000 --> 00:29:49.000]   I'm really tired and my cold is still present and sorry, sorry.
+[00:29:49.000 --> 00:29:55.000]   So, forget what I said, okay?
+[00:29:55.000 --> 00:29:59.000]   This is the right slide.
+[00:29:59.000 --> 00:30:00.000]   What's the problem?
+[00:30:00.000 --> 00:30:07.000]   The problem was that the European Union adopted a--
+[00:30:07.000 --> 00:30:13.000]   Directly on the legal protection of computer program, which was very--
+[00:30:13.000 --> 00:30:25.000]   Was basically based on the result of the Compt Commission, which led in the US to the adoption of the--
+[00:30:25.000 --> 00:30:27.000]   What was the name?
+[00:30:27.000 --> 00:30:33.000]   The Computer Software Copyright Act of 1980, okay?
+[00:30:33.000 --> 00:30:39.000]   The commission adopted that directive in 1991.
+[00:30:39.000 --> 00:30:49.000]   And I didn't remember that before in my slides about the legal protection of software.
+[00:30:49.000 --> 00:30:54.000]   In Europe, I was using that directive.
+[00:30:54.000 --> 00:31:05.000]   But that directive was later changed by a new directive, 2009 number 24, okay?
+[00:31:05.000 --> 00:31:09.000]   The wording is the same, everything is the same.
+[00:31:09.000 --> 00:31:13.000]   I didn't understand why they wanted to adopt a new directive.
+[00:31:13.000 --> 00:31:23.000]   Anyway, I forgot that I already updated my slide in order to take into account that new directive, okay?
+[00:31:23.000 --> 00:31:27.000]   So, that was my mistake, sorry.
+[00:31:27.000 --> 00:31:32.000]   So, let's go back.
+[00:31:32.000 --> 00:31:45.000]   So, the United States were the first one to adopt a new specific legislation for extending copyright to computer programs.
+[00:31:45.000 --> 00:31:48.000]   And that took place in two steps.
+[00:31:48.000 --> 00:31:58.000]   The first one was the '76 New Copyright Act, which extended the notion of copy.
+[00:31:58.000 --> 00:32:25.000]   And the second step was the adoption of Section 117 of the Title 17 of the S Code to set further limitations on the extension of the exclusive right in regard to computer programs.
+[00:32:25.000 --> 00:32:28.000]   So, the United States were the first one in the world.
+[00:32:28.000 --> 00:32:30.000]   Why?
+[00:32:30.000 --> 00:32:40.000]   Well, because they were a couple of steps ahead in respect to every other country in the world.
+[00:32:40.000 --> 00:32:55.000]   And if we look at two or three other countries that adopted early legislation to protect software with copyright,
+[00:32:55.000 --> 00:33:04.000]   you will see that those countries are countries with a highly developed hardware industry.
+[00:33:04.000 --> 00:33:23.000]   France and UK in Europe.
+[00:33:23.000 --> 00:33:27.000]   And the third one was Japan.
+[00:33:27.000 --> 00:33:42.000]   I remember Japan adopted the legislation on the protection of computer programs in 1885 too.
+[00:33:42.000 --> 00:33:45.000]   Let's stick with the European Union, okay?
+[00:33:45.000 --> 00:33:52.000]   So, we have France and the UK adopting a legislation.
+[00:33:52.000 --> 00:34:02.000]   And even though Italy was quite advanced in the production of computers, you remember Olivetti?
+[00:34:02.000 --> 00:34:04.000]   It's Italian.
+[00:34:04.000 --> 00:34:07.000]   Olivetti was one of the first to produce a personal computer.
+[00:34:07.000 --> 00:34:09.000]   It was very competitive.
+[00:34:09.000 --> 00:34:15.000]   Then, you know, it was destroyed by, it doesn't matter what.
+[00:34:15.000 --> 00:34:22.000]   Anyway, the fact that two different European countries added two different legislations for computer programs
+[00:34:22.000 --> 00:34:24.000]   led to a mess.
+[00:34:24.000 --> 00:34:28.000]   And you know, one of the major objectives of the European Union,
+[00:34:28.000 --> 00:34:35.000]   well, at that time it was not called European Union, it was called the European Economic Communities.
+[00:34:35.000 --> 00:34:39.000]   But, you know, let me refer to the Union, okay?
+[00:34:39.000 --> 00:34:46.000]   The fact that we added two different legislations made a common internal market very difficult
+[00:34:46.000 --> 00:34:54.000]   because, you know, the rules applied in the UK were different from the rules applied in France.
+[00:34:54.000 --> 00:35:03.000]   Well, today it wouldn't matter since the UK is no longer part of the European Union.
+[00:35:03.000 --> 00:35:06.000]   And we like that new situation actually.
+[00:35:06.000 --> 00:35:13.000]   But at that time, being the UK is still part of the European Union,
+[00:35:13.000 --> 00:35:22.000]   and since the other countries were, you know, getting the press from the economic environment
+[00:35:22.000 --> 00:35:27.000]   to adopt legislation for protecting computer programs,
+[00:35:27.000 --> 00:35:37.000]   and that's funny, you know, but one of the major forces pushing for new legislation,
+[00:35:37.000 --> 00:35:43.000]   it was not a word processor or an operating system.
+[00:35:43.000 --> 00:35:46.000]   You know what it was.
+[00:35:46.000 --> 00:35:50.000]   Fratiguise.
+[00:35:55.000 --> 00:35:59.000]   Video games. Video games.
+[00:35:59.000 --> 00:36:07.000]   One of the first Italian court decisions about the legal status of computer programs
+[00:36:07.000 --> 00:36:10.000]   was a case about video games.
+[00:36:10.000 --> 00:36:21.000]   There was a foreign, a software house producing one of those stupid, you know, Mario Bros style video games,
+[00:36:21.000 --> 00:36:24.000]   arcade I think they call it,
+[00:36:24.000 --> 00:36:31.000]   and an Italian software house made legal copies,
+[00:36:31.000 --> 00:36:36.000]   and they started signing it since, you know, there was no rule.
+[00:36:36.000 --> 00:36:44.000]   But the real producer got upset and so decided to bring the case to court,
+[00:36:44.000 --> 00:36:54.000]   and the court was very, you know, very puzzled,
+[00:36:54.000 --> 00:37:06.000]   because the usual idea was that a computer program was like a scientific work,
+[00:37:06.000 --> 00:37:16.000]   like a textbook or something like that, that you use to perform or to get knowledge better,
+[00:37:16.000 --> 00:37:20.000]   since you're a student, you know what you're using textbook for,
+[00:37:20.000 --> 00:37:28.000]   for performing possibly well during an examination.
+[00:37:28.000 --> 00:37:32.000]   So for you, textbook has a practical use.
+[00:37:34.000 --> 00:37:42.000]   And so that court was facing a computer program
+[00:37:42.000 --> 00:37:48.000]   that was conceived as a scientific piece of work,
+[00:37:48.000 --> 00:37:52.000]   but that computer program was used for creating a video game.
+[00:37:52.000 --> 00:37:55.000]   Sure.
+[00:37:55.000 --> 00:37:58.000]   Sorry, are we speaking about Italian court or?
+[00:37:58.000 --> 00:38:00.000]   Italian court.
+[00:38:00.000 --> 00:38:05.000]   So this is an Italian court decision as far as I remember,
+[00:38:05.000 --> 00:38:10.000]   it was adopted at the end of the 80s, beginning of the 90s,
+[00:38:10.000 --> 00:38:17.000]   before the adoption of the European directive on the legal protection of software.
+[00:38:17.000 --> 00:38:26.000]   So keep in mind, UK, France had their own legislation.
+[00:38:26.000 --> 00:38:28.000]   Italy did not.
+[00:38:28.000 --> 00:38:35.000]   And unfortunately, I don't know, the only way to give protection to a computer program
+[00:38:35.000 --> 00:38:39.000]   was to use the general principle of the Berne Convention.
+[00:38:39.000 --> 00:38:51.000]   Any work of an artistic nature is protected by, or scientific nature,
+[00:38:51.000 --> 00:39:00.000]   but is a video game something which can be related to an artistic or scientific or literary works?
+[00:39:00.000 --> 00:39:07.000]   You remember I told you Article 2 of the Berne Convention is just a list of examples,
+[00:39:07.000 --> 00:39:11.000]   so judges are allowed to extend that list.
+[00:39:11.000 --> 00:39:17.000]   The problem judges were facing, is computer program something that,
+[00:39:17.000 --> 00:39:23.000]   for its very nature, can be included in that list.
+[00:39:23.000 --> 00:39:31.000]   Well, since there were no other tools, judges say, well yes,
+[00:39:31.000 --> 00:39:36.000]   we apply copyright.
+[00:39:36.000 --> 00:39:44.000]   A video game, after all, has some kind of artistic nature.
+[00:39:46.000 --> 00:39:53.000]   I can doubt you, you know.
+[00:39:54.000 --> 00:40:17.000]   [silence]
+[00:40:17.000 --> 00:40:20.000]   [sighs]
+[00:40:20.000 --> 00:40:31.000]   Do you remember this stuff?
+[00:40:31.000 --> 00:40:38.000]   Did you play with this stuff? Yes? Great.
+[00:40:40.000 --> 00:40:48.000]   So you don't remember any movie before the 2010,
+[00:40:48.000 --> 00:40:54.000]   but you remember a game that was played in 1872. Great.
+[00:40:54.000 --> 00:41:01.000]   Well, you're a computer scientist, so you're a cheeky, I can understand that.
+[00:41:01.000 --> 00:41:07.000]   Does it have an artistic nature? I don't really know.
+[00:41:07.000 --> 00:41:11.000]   But, you know, that's it.
+[00:41:11.000 --> 00:41:20.000]   This one was nice, but...
+[00:41:20.000 --> 00:41:25.000]   What was that? That's not that one.
+[00:41:25.000 --> 00:41:30.000]   That stuff is...
+[00:41:32.000 --> 00:41:37.000]   You may understand, I don't like video games. I find them so boring.
+[00:41:37.000 --> 00:41:44.000]   But that's just my taste. I don't want to claim any intellectual superiority.
+[00:41:44.000 --> 00:41:53.000]   It's just that I get bored. I'm so bad at playing them, so I cannot enjoy myself.
+[00:41:53.000 --> 00:41:55.000]   Anyway.
+[00:41:56.000 --> 00:42:03.000]   That were the controversies of the first court decisions.
+[00:42:03.000 --> 00:42:15.000]   So, at a certain point in the European Union, I understand they had to, you know, adapt...
+[00:42:24.000 --> 00:42:30.000]   ...to the common legislation because...
+[00:42:30.000 --> 00:42:42.000]   ...because that was the requirement for making possible market possible.
+[00:42:42.000 --> 00:42:47.000]   Sorry. A single market possible.
+[00:42:47.000 --> 00:42:50.000]   You know...
+[00:42:52.000 --> 00:42:58.000]   Keep in mind, one of the reasons, and we will see that when talking about privacy...
+[00:42:58.000 --> 00:43:09.000]   ...one of the reasons of the existence of the European Union is to create common rules that can apply to every market actor within the European Union.
+[00:43:11.000 --> 00:43:30.000]   And having a common rule about computer programs was the only way to have a single market of computer programs.
+[00:43:33.000 --> 00:43:52.000]   So, the directive was adopted in 1991, 11 years after the adoption of the computer program copyright tax by the United States.
+[00:43:52.000 --> 00:43:59.000]   But that directive was later on repealed by the directive 2009 number 24.
+[00:43:59.000 --> 00:44:18.000]   Which actually has the same title. I believe in the same rules. I didn't change very much. I didn't see very much change.
+[00:44:18.000 --> 00:44:27.000]   Sorry. Today my English sucks far more than usual. Be patient. I'm really sorry.
+[00:44:28.000 --> 00:44:39.000]   That happens when I'm tired. I shouldn't be tired. I should go to bed to work in order to be fresh.
+[00:44:39.000 --> 00:44:43.000]   But that's what happened yesterday.
+[00:44:44.000 --> 00:45:02.000]   Article 1 of the European directive. In accordance with the provision of this directive, member states should protect computer programs by copyright as literary work within the meaning of the Berne Convention of Protection of Literary Artistic Work.
+[00:45:02.000 --> 00:45:11.000]   For the purpose of this directive, the term computer program shall include their preparatory design material.
+[00:45:12.000 --> 00:45:20.000]   You know, a clear, specific decision. The legal tool you're going to use to protect computer programs is copyright.
+[00:45:20.000 --> 00:45:35.000]   You know, I remember Pamela Samuelson, she was a very brilliant American legal scholar, who wrote a huge number of contributions trying to explain to everyone,
+[00:45:36.000 --> 00:45:48.000]   "Look, copyright is not the right tool. We should be creating a specific tool, a specific legal tool for protecting software."
+[00:45:49.000 --> 00:46:11.000]   To let people, you know, decompile, create derivative programs, to create an environment where software, yes, is an asset, an economic asset, but it is also the basis for the creation for something more.
+[00:46:13.000 --> 00:46:21.000]   But she has a democratic idea of what the internet should have become, you know, she lost.
+[00:46:21.000 --> 00:46:41.000]   Because the industry had the money to lobby Congress, European Parliament, and get the legislation they wanted.
+[00:46:42.000 --> 00:46:55.000]   You remember copyright is going to last 70 years after the author's death. What is the value of a piece of software 70 years after the death of the author?
+[00:46:55.000 --> 00:46:58.000]   History.
+[00:47:05.000 --> 00:47:14.000]   Protection in accordance with this directive shall apply to the extraction in any form of the computer program.
+[00:47:15.000 --> 00:47:43.000]   The principles which underline any element of the computer program, including those which underline these interfaces, are not protected by copyright under this directive. You remember the importance in that specific domain of the distinction between ideas and expression.
+[00:47:43.000 --> 00:48:04.000]   That is the reason why LibreOffice and Microsoft Office have a very similar user interface. Even though LibreOffice is a serious program, Microsoft Word is not.
+[00:48:05.000 --> 00:48:23.000]   Microsoft Word is the basic principles of what you see is what you get. And usually you get a mess. While LibreOffice is meant to be a yes, what you see, what you get.
+[00:48:25.000 --> 00:48:53.000]   Based on structure. And indeed no one, or no one. I'm sure you are very proficient in using LibreOffice, but I keep seeing, I keep watching people who do not know how to use LibreOffice because they think it is the same piece of trash like Microsoft Office.
+[00:48:54.000 --> 00:49:11.000]   Sorry if I keep talking about my personal ideas, but you know I have a strong sentiment on computer science, unfortunately. I shouldn't be teaching it. I should state the legal system.
+[00:49:12.000 --> 00:49:28.000]   Anyway, article two. Another important article. In respect of computer programs created by a group of national persons jointly, the exclusive right shall be owned jointly.
+[00:49:28.000 --> 00:49:37.000]   Do you have any idea why I'm reading this rule?
+[00:49:41.000 --> 00:49:47.000]   Because now every piece of major software is done by multiple people.
+[00:49:50.000 --> 00:50:18.000]   Yes, you are right, but do you remember a difference between what we said about the US and European copyright legislation? No. So, 12. Agree? Sorry. Just kidding.
+[00:50:19.000 --> 00:50:35.000]   If you remember, I told you that in the US copyright is basically related to the economic domain. You remember we were talking about Gaster writing.
+[00:50:37.000 --> 00:50:54.000]   So you can get rid of your copyright ownership if we want to call it like this. In Europe you said that is not possible. Do you remember we were talking about moral right?
+[00:50:55.000 --> 00:51:21.000]   The fact that you have the right to claim a path of authorship and that right cannot be taken away from you. This is the reason why in Europe we do not have Gaster writers while we do that.
+[00:51:22.000 --> 00:51:45.000]   They are not protected by the law. You remember that is a point. Now, think about a huge free software project. I know the biggest one I may be thinking of is the Linux camera.
+[00:51:47.000 --> 00:51:59.000]   Do you have any idea of the organization of the Linux camera? Kind of. You know what I am talking about right?
+[00:52:00.000 --> 00:52:23.000]   A thousand thousand people contributing code. Sometimes just bad reports, but sometimes big chunk of code. According to that article, the Linux camera is not just a piece of code by a mean store.
+[00:52:24.000 --> 00:52:44.000]   It is jointly owned by every contributor. Suppose that I steal the code of the Linux camera and I make it a proprietary version. That is copyright infringement. Do you agree?
+[00:52:46.000 --> 00:53:06.000]   Can you assume it? In many jurisdictions you could, but for instance in Italy, if you sue someone for protecting something which is commonly owned by different people,
+[00:53:07.000 --> 00:53:33.000]   suppose someone is going to steal the car I jointly owned with my wife. In Italy, I cannot sue without the participation of my wife.
+[00:53:34.000 --> 00:53:54.000]   Protecting a joint ownership requires the action of every member of the joint ownership. Clear? Move that to the Linux camera.
+[00:53:55.000 --> 00:54:11.000]   If you want the Linux camera to be protected in an Italian court, you need to bring to that court everyone that contributed some substantial piece of software to the Linux camera.
+[00:54:12.000 --> 00:54:29.000]   Do you think that this is possible from a practical perspective? It is not. And you know why the Free Software Foundation has a different approach. And you know what is the different approach of the Free Software Foundation.
+[00:54:30.000 --> 00:54:55.000]   Did you ever contribute some code to the Free Software Foundation for the Linux project? If you want to contribute even a single line of code to a project within the umbrella of the Free Software Foundation, you need to decide what is called an FRA.
+[00:54:55.000 --> 00:55:22.000]   FRA, which stands for a Fiduciary License Agreement, according to which you are transferring the ownership of every piece of code you wrote to the Free Software Foundation.
+[00:55:23.000 --> 00:55:42.000]   The GNU project is owned, the copyright over the GNU project is owned only by the Free Software Foundation and not by the single authors. Why? Because of that.
+[00:55:43.000 --> 00:55:53.000]   Because there are jurisdictions where something jointly written must be jointly protected.
+[00:55:58.000 --> 00:56:27.000]   Obviously there is an exception. Whereas a computer program is created by an employee in execution of his duties or following the instructions given by his employer, the employer exclusively shall be entitled to exercise all economic rights in the program.
+[00:56:27.000 --> 00:56:40.000]   So created, unless otherwise provided by contract. Now you understand, if you are working for Microsoft everything goes to Microsoft.
+[00:56:40.000 --> 00:56:49.000]   If you are working for, I don't know, in a software house, everything goes to the software house.
+[00:56:50.000 --> 00:57:06.000]   Unlike there is a specific contract. The Linux kernel is outside of that. And this is the reason why...
+[00:57:08.000 --> 00:57:20.000]   Ready, Moon?
+[00:57:20.000 --> 00:57:40.000]   [ Pause ]
+[00:57:41.000 --> 00:58:04.000]   I wrote this. Maybe. Even Wikipedia.
+[00:58:05.000 --> 00:58:22.000]   Raymond wrote that book in order to describe the different organizational structure that divide the Linux kernel development and the GNU project.
+[00:58:23.000 --> 00:58:35.000]   And you probably know that Richard Stanford who was the founder of the GNU project is very upset about that.
+[00:58:35.000 --> 00:58:45.000]   Indeed he wants to call what we are usually calling the Linux operating system the GNU Linux operating system.
+[00:58:46.000 --> 00:59:00.000]   Linux without GNU would not work. Linux doesn't have a standard library. You cannot run on the Linux kernel unless you are using the GNU C standard library.
+[00:59:03.000 --> 00:59:32.000]   While Linux is a very distributed informal form of cooperation which falls within paragraph 2 of article 2 of the Linux kernel.
+[00:59:32.000 --> 00:59:48.000]   The new project falls within paragraph 3. That is a legal difference.
+[00:59:48.000 --> 00:59:57.000]   Did I answer your question? You had a question?
+[00:59:57.000 --> 01:00:03.000]   [ Pause ]
+[01:00:03.000 --> 01:00:20.000]   Limitations. We see that paragraph 117 of title 17 of the S code basically set two limitations to the extension of the S closing write.
+[01:00:21.000 --> 01:00:30.000]   The possibility to make a copy and the possibility to make adaptation to the code as long as they are needed by the user.
+[01:00:30.000 --> 01:00:44.000]   And we criticize the ability of the better possibility to use that second limitation.
+[01:00:45.000 --> 01:00:52.000]   Instead in Europe we have something more. Let's read it.
+[01:00:53.000 --> 01:01:22.000]   Subject to the provision of article 5 and 6 the exclusive right of the right holder within the meaning of article 2 shall include the right to do otherwise the permanent or temporary reproduction of the computer program by any means and in any form in part or in any form.
+[01:01:22.000 --> 01:01:31.000]   In so far as loading, displaying, learning, this is the stuff you can do.
+[01:01:32.000 --> 01:01:54.000]   But you can also translate, adapt, arrange and make any alteration of the computer program by reading letter B and the reproduction of the results thereof without prejudice to the rights of the person who alters the program.
+[01:01:55.000 --> 01:02:05.000]   That's a more penetrative possibility of adaptation.
+[01:02:05.000 --> 01:02:17.000]   And any form of distribution to the poor public including the rental and the original computer program or copies thereof.
+[01:02:18.000 --> 01:02:26.000]   So this is the extension of the exclusive right.
+[01:02:26.000 --> 01:02:47.000]   The owner can prohibit you from reproducing, loading, displaying, running, transmitting, storing, translate, adapt, arrange, distribute.
+[01:02:47.000 --> 01:02:55.000]   Rent up. These are protected exclusive rights.
+[01:02:55.000 --> 01:02:59.000]   But then there are the limitations.
+[01:03:00.000 --> 01:03:18.000]   First, the first sale doctrine. The first sale in a community of the copy of the program by the right holder or with this incentive that exhausts the distribution of right within the community of that copy.
+[01:03:18.000 --> 01:03:25.000]   With the exception of the right to control for the rental of the program or a copy thereof.
+[01:03:26.000 --> 01:03:31.000]   I'm trying to see that. You remember when talking about the first sale doctrine.
+[01:03:31.000 --> 01:03:35.000]   But that's the interesting part.
+[01:03:35.000 --> 01:03:44.000]   Article 5. Article 5.
+[01:03:46.000 --> 01:04:15.000]   In the absence of a specific contractual provision, the acts referred to in points A and B of Article 4 shall not require by the right holder, the authorization by the right holder where they are necessary for the use of the computer program by the lawful acquirer in accordance with the intended purposes including for error of the actions.
+[01:04:15.000 --> 01:04:21.000]   Remember Article 4.
+[01:04:21.000 --> 01:04:24.000]   For 1.
+[01:04:24.000 --> 01:04:26.000]   Sorry.
+[01:04:26.000 --> 01:04:30.000]   For 1A and B.
+[01:04:30.000 --> 01:04:33.000]   For 1A and B.
+[01:04:34.000 --> 01:04:53.000]   So unless there is a contract which prohibits some of those uses, those uses do not need the...
+[01:04:53.000 --> 01:04:59.000]   Shall not require the authorization by the right holder.
+[01:05:00.000 --> 01:05:06.000]   Still the right holder with a contract may limit those rights.
+[01:05:06.000 --> 01:05:12.000]   Execution, explain, offer.
+[01:05:12.000 --> 01:05:18.000]   Number 2.
+[01:05:19.000 --> 01:05:32.000]   The same limitation we find in US Copyright Office. The backup copy.
+[01:05:33.000 --> 01:05:52.000]   The making of the copy by a person having the right to use the computer program may not be prevented by contract insofar as it is necessary for that use.
+[01:05:53.000 --> 01:06:15.000]   There is a weird word in that sentence. We should be finishing by 13.15, right? So you have time to read. Is that right? I will. I promise.
+[01:06:17.000 --> 01:06:37.000]   If someone can find that word and you will get or she will get a 30 at the exam, I will give her the maximum read loud.
+[01:06:42.000 --> 01:06:48.000]   You know, there are not many words, so you have a big chance to win.
+[01:06:48.000 --> 01:06:59.000]   3.
+[01:06:59.000 --> 01:07:01.000]   2.
+[01:07:01.000 --> 01:07:06.000]   Necessary? Necessary?
+[01:07:06.000 --> 01:07:08.000]   Wrong.
+[01:07:10.000 --> 01:07:13.000]   You won't have any penalty, do you?
+[01:07:13.000 --> 01:07:15.000]   Could you repeat the question, sir?
+[01:07:15.000 --> 01:07:16.000]   What?
+[01:07:16.000 --> 01:07:18.000]   Could you repeat the question?
+[01:07:18.000 --> 01:07:37.000]   If you can find a weird word in this sentence, I will give you maximum cloud if you are able to reach 30.
+[01:07:39.000 --> 01:07:42.000]   Isn't "me" the weird word?
+[01:07:42.000 --> 01:07:50.000]   Program?
+[01:07:50.000 --> 01:07:56.000]   Correct order.
+[01:08:04.000 --> 01:08:14.000]   Okay, time over. The word is contract. The word is contract.
+[01:08:14.000 --> 01:08:19.000]   And why is it a weird word?
+[01:08:20.000 --> 01:08:35.000]   Because usually we talk about software licenses and we will see, well, it's funny because there was the first draft of the version 3 of the general public license.
+[01:08:35.000 --> 01:08:38.000]   You know the general public license we will be talking about.
+[01:08:38.000 --> 01:08:47.000]   And version 3 has a clause, a paragraph titled "Not a contract".
+[01:08:49.000 --> 01:08:56.000]   We will see that in the US a license is not a contract. It doesn't need to be a contract.
+[01:08:56.000 --> 01:09:04.000]   A license is just a defense you may be using in a copyright infringement claim.
+[01:09:04.000 --> 01:09:09.000]   Because you don't sign it.
+[01:09:11.000 --> 01:09:20.000]   You do not even accept it, but it is the license that gives you the power to use the program.
+[01:09:20.000 --> 01:09:25.000]   But when you start using a software, do you accept the term "not a agreement"?
+[01:09:25.000 --> 01:09:27.000]   Do you have a contract?
+[01:09:29.000 --> 01:09:43.000]   Well, that's an interesting question because it brings me within the misery of contract law in the US.
+[01:09:43.000 --> 01:09:49.000]   Usually in the US in order to have a valid contract you need to have consideration.
+[01:09:49.000 --> 01:09:53.000]   Which is a way of concluding the contract.
+[01:09:54.000 --> 01:10:13.000]   There has been discussion on whether breaking the wrap of the box which contains the software is a consideration.
+[01:10:13.000 --> 01:10:17.000]   I believe it is not, but it doesn't matter.
+[01:10:19.000 --> 01:10:25.000]   The fact is that in the US you do not need the contract to use the defense.
+[01:10:25.000 --> 01:10:41.000]   Since the contract requires consideration, if you want to enforce a contract in the courtroom you need to prove that there was consideration.
+[01:10:42.000 --> 01:10:54.000]   Instead, since the license is a defense, you don't need to give evidence on everything but the fact that you have the license.
+[01:10:54.000 --> 01:10:57.000]   It's easier, it's cheaper.
+[01:10:57.000 --> 01:11:09.000]   And that's the reason why the Free Software Foundation decided to write in that draft that that license was not a contract.
+[01:11:10.000 --> 01:11:13.000]   Because you didn't sign it, because they are made.
+[01:11:13.000 --> 01:11:37.000]   But European lawyers said, "Well, be careful because we have paragraph 2 of article 5 of the European Directing which says that...
+[01:11:37.000 --> 01:11:41.000]   ...it's a contract.
+[01:11:41.000 --> 01:11:54.000]   There is no need to write that it's a contract, but they could have written by the license and that's it."
+[01:11:54.000 --> 01:11:59.000]   Anyway, that's the reason why I wrote this year.
+[01:12:00.000 --> 01:12:07.000]   First, the last one, give me two seconds, okay?
+[01:12:07.000 --> 01:12:13.000]   There are no others. Yes, there is another slide. Okay, I will finish tomorrow.
+[01:12:13.000 --> 01:12:15.000]   Thank you.
+[01:12:15.000 --> 01:12:19.000]   Have a nice lunch and enjoy the argument.
