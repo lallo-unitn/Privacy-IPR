@@ -1,0 +1,114 @@
+\documentclass[epsfig,a4paper,11pt,titlepage,twoside,openany]{book}
+\usepackage{plain}
+\usepackage{setspace}
+\usepackage[paperheight=29.7cm,paperwidth=21cm,outer=1.5cm,inner=2.5cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{verbatim}
+\usepackage{pgf-pie}
+\usepackage{wrapfig}
+\usepackage{amsthm}
+\usepackage{biblatex}
+
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{pgf-pie}
+\usepackage{graphicx}
+\usepackage{ifthen}
+\usepackage{caption}
+
+\usepackage{listings}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{mdframed}
+\usepackage{subcaption,graphicx,trimclip,hyperref,cleveref}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definizione}[section]
+\newcommand{\blueEmph}[1]{\textcolor{blue}{\emph{#1}}}
+\definecolor{codeBackground}{rgb}{0.9, 0.9, 0.9}
+
+\titlespacing*{\chapter}{0pt}{0pt}{2em}
+\lstnewenvironment{code}[1]{
+    \mdframed[%
+        backgroundcolor=codeBackground,
+        shadow=false,
+        linecolor=black!40,
+        linewidth=2pt,
+        topline=false,
+        rightline=false,
+        leftline=false
+    ]%
+    \lstset{%
+        moredelim=**[is][\color{blue}]{**}{**},
+        moredelim=**[is][\color{teal}]{.-}{-.},
+        moredelim=**[is][\color{gray}]{||}{||},
+        frame=single,
+        framerule=0pt,
+        basicstyle=\ttfamily,
+        columns=fullflexible
+    }
+}{
+    \vspace{-1em}
+    \endmdframed
+    \vspace{-0.5em}
+    \captionsetup{type=lstlisting}
+    \caption{#1}
+    \vspace{1.5em}
+    \ignorespaces
+}
+
+
+\usepackage[utf8x]{inputenc}
+
+\singlespacing
+
+\usepackage[english]{babel}
+
+\addbibresource{biblio.bib}
+
+
+\begin{document}
+
+  \pagenumbering{gobble}
+  \input{I-initFolder/pagina_iniziale}
+
+  \cleardoublepage
+
+  %%\input{II-ackFolder/ringraziamenti}
+  \clearpage
+  \pagestyle{plain}
+  \mainmatter
+
+\renewcommand{\baselinestretch}{0.935}\normalsize
+	%\tableofcontents
+\renewcommand{\baselinestretch}{1}\normalsize
+
+    \clearpage
+
+    \begingroup
+      \renewcommand{\cleardoublepage}{}
+      \renewcommand{\clearpage}{}
+
+      \titleformat{\chapter}
+        {\normalfont\Huge\bfseries}{\thechapter}{1em}{}
+
+      \titlespacing*{\chapter}{0pt}{0.59in}{0.02in}
+      \titlespacing*{\section}{0pt}{0.20in}{0.02in}
+      \titlespacing*{\subsection}{0pt}{0.10in}{0.02in}
+
+      
+      \input{01-target/target}
+      \newpage
+
+    \endgroup
+
+    %%\titleformat{\chapter}
+        %%{\normalfont\Huge\bfseries}{Attachment \thechapter}{1em}{}
+    %%\appendix
+    %%\input{Z-Allegati/allegati}
+
+\end{document}
