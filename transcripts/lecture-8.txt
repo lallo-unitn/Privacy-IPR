@@ -1,0 +1,977 @@
+[00:00:00.000 --> 00:00:15.000]   [ Inaudible ]
+[00:00:15.000 --> 00:00:17.000]   >> All okay?
+[00:00:17.000 --> 00:00:18.000]   Questions, general questions, problems?
+[00:00:19.000 --> 00:00:33.000]   [ Inaudible ]
+[00:00:33.000 --> 00:00:35.000]   >> All right.
+[00:00:35.000 --> 00:00:41.000]   So today we -- I will try to describe you some issues related to price sharing.
+[00:00:41.000 --> 00:00:43.000]   It's sort of a case study.
+[00:00:43.000 --> 00:00:46.000]   Talking about several different cases actually.
+[00:00:48.000 --> 00:00:51.000]   Let's see if there's a lot of thoughts about cases.
+[00:00:51.000 --> 00:00:54.000]   So I guess you --
+[00:00:54.000 --> 00:01:03.000]   [ Inaudible ]
+[00:01:03.000 --> 00:01:05.000]   >> No. Yeah. I don't think --
+[00:01:06.000 --> 00:01:21.000]   [ Inaudible ]
+[00:01:21.000 --> 00:01:28.000]   >> So the -- price sharing I guess is something which is familiar to you.
+[00:01:28.000 --> 00:01:34.000]   But we start by defining a little bit what we mean by sharing.
+[00:01:35.000 --> 00:01:45.000]   So sharing is when you have something which you can divide between different people.
+[00:01:45.000 --> 00:01:52.000]   This is one common meaning of the word -- of the verb sharing, of the verb.
+[00:01:52.000 --> 00:01:59.000]   So we share the same room.
+[00:01:59.000 --> 00:02:01.000]   We share an apple.
+[00:02:03.000 --> 00:02:07.000]   And then we can also say that we share a fire.
+[00:02:07.000 --> 00:02:11.000]   But there are some key differences.
+[00:02:11.000 --> 00:02:16.000]   But first of all, the definition, the technical definition of what does it mean to share
+[00:02:16.000 --> 00:02:22.000]   and how sharing is actually performed is very broad.
+[00:02:22.000 --> 00:02:25.000]   There are several different variations of this definition.
+[00:02:26.000 --> 00:02:36.000]   And how this can be supported and the different kind of models that can be applied to sharing are quite varied.
+[00:02:36.000 --> 00:02:41.000]   But sharing is very different from transferring.
+[00:02:41.000 --> 00:02:45.000]   I can -- I have this piece of chalk.
+[00:02:45.000 --> 00:02:47.000]   I can share this piece of chalk with somebody.
+[00:02:47.000 --> 00:02:50.000]   I can -- everybody's a piece.
+[00:02:50.000 --> 00:02:52.000]   But I can transfer.
+[00:02:52.000 --> 00:02:54.000]   So it's no longer sharing.
+[00:02:55.000 --> 00:02:56.000]   It's more like sharing with somebody.
+[00:02:56.000 --> 00:03:10.000]   And then with -- so it's -- and then once we share a piece of chalk, we can use it whenever we want.
+[00:03:10.000 --> 00:03:15.000]   At the same time or in different moments.
+[00:03:15.000 --> 00:03:18.000]   And the same applies when we share a file.
+[00:03:19.000 --> 00:03:25.000]   Share a file that, again, can be different models for this.
+[00:03:25.000 --> 00:03:33.000]   But this can be normally done both using the file, whatever using that means.
+[00:03:33.000 --> 00:03:37.000]   At the same time or in different moments.
+[00:03:37.000 --> 00:03:46.000]   [ Applause ]
+[00:03:47.000 --> 00:04:01.000]   [ Inaudible ]
+[00:04:01.000 --> 00:04:04.000]   So let's give some examples.
+[00:04:05.000 --> 00:04:16.000]   For instance, when you share -- we use the word sharing for when we upload a document.
+[00:04:16.000 --> 00:04:18.000]   We create a document in Google Drive.
+[00:04:18.000 --> 00:04:23.000]   And we share this document with several different people.
+[00:04:23.000 --> 00:04:25.000]   Two, more, whatever.
+[00:04:25.000 --> 00:04:27.000]   Everybody.
+[00:04:28.000 --> 00:04:40.000]   And this applies both to being allowed -- but the people that are sharing the file in the sense that they can view the content.
+[00:04:40.000 --> 00:04:45.000]   Or they share the file in the sense they can modify the content.
+[00:04:45.000 --> 00:04:51.000]   Different permissions apply with the same terminology.
+[00:04:52.000 --> 00:04:58.000]   We say that the file is shared in both cases.
+[00:04:58.000 --> 00:05:06.000]   So there is a -- when I say there is a variety of different models that can be applied, I mean this kind of thing.
+[00:05:06.000 --> 00:05:08.000]   There are different ways.
+[00:05:09.000 --> 00:05:24.000]   If you look at Google Drive and Dropbox, there is a very different way between these two platforms in how they count space consumption.
+[00:05:24.000 --> 00:05:34.000]   This consumption is -- the term disk, talking about Drive or Dropbox or this kind of service is a bit oversimplifying.
+[00:05:35.000 --> 00:05:45.000]   But let's say there is a disk where our material is stored and we are built according to the amount of space we consume in that disk.
+[00:05:45.000 --> 00:05:51.000]   Google Drive is for free up to 15 gigabytes.
+[00:05:51.000 --> 00:05:55.000]   Dropbox is free, I don't remember how much.
+[00:05:55.000 --> 00:05:57.000]   It doesn't matter really.
+[00:05:57.000 --> 00:05:59.000]   But what happens when we share a file?
+[00:06:00.000 --> 00:06:07.000]   When we share a file, there are two different ways to count for it, to account for it.
+[00:06:07.000 --> 00:06:11.000]   I share a file with everybody in this room.
+[00:06:11.000 --> 00:06:17.000]   There are, let's say, a dozen people.
+[00:06:17.000 --> 00:06:20.000]   So I use Google Drive.
+[00:06:20.000 --> 00:06:26.000]   Each of you can access the file and edit the content.
+[00:06:27.000 --> 00:06:30.000]   I share with all the possibilities.
+[00:06:30.000 --> 00:06:32.000]   I allow you to do everything.
+[00:06:32.000 --> 00:06:38.000]   We basically are using the same copy of the file.
+[00:06:38.000 --> 00:06:47.000]   And I build, most likely it will be my free quota of using the file.
+[00:06:47.000 --> 00:06:53.000]   I build for the number of megabytes or kilobytes that the file is.
+[00:06:54.000 --> 00:06:59.000]   And the number is not big. For you, the consumption in your space for this file is zero.
+[00:06:59.000 --> 00:07:01.000]   For each of you.
+[00:07:01.000 --> 00:07:11.000]   If we do the same thing with Dropbox, and we all have a Dropbox account, and we add, as Dropbox says, add this file to your Dropbox.
+[00:07:11.000 --> 00:07:13.000]   They really mean this.
+[00:07:14.000 --> 00:07:24.000]   In Dropbox, if we share a file, if I share a file with everybody of you, everybody will be accounted for the consumption of the space of the file.
+[00:07:24.000 --> 00:07:29.000]   So the file is half a megabyte.
+[00:07:29.000 --> 00:07:38.000]   Everyone will have one half a megabyte less of free space, or will be billed for the consumption of the space.
+[00:07:38.000 --> 00:07:41.000]   We count for everybody.
+[00:07:42.000 --> 00:07:46.000]   It's a very different model.
+[00:07:46.000 --> 00:07:48.000]   And this is...
+[00:07:48.000 --> 00:07:55.000]   We will go back to this kind of thing toward the end of the class.
+[00:07:56.000 --> 00:08:12.000]   There is some connection with the way copyright can be managed, or should be managed by platforms which are offering this kind of service.
+[00:08:12.000 --> 00:08:17.000]   Space, disk space, and sharing space, sharing files and so on.
+[00:08:17.000 --> 00:08:20.000]   I'll just stay for a moment with this initial definition.
+[00:08:21.000 --> 00:08:27.000]   These are two very different models for how to organize the space.
+[00:08:27.000 --> 00:08:40.000]   Clearly, in both cases, if I edit the file, or anyone of you edits the file, everybody will see the modification in real time.
+[00:08:40.000 --> 00:08:43.000]   So there is only one copy of the file.
+[00:08:43.000 --> 00:08:45.000]   Attention.
+[00:08:45.000 --> 00:08:49.000]   There are two very different ways.
+[00:08:50.000 --> 00:08:57.000]   So I guess that you have an idea already.
+[00:08:57.000 --> 00:09:05.000]   I think you did discuss the difference between rival and non-rival goods with Andrea Rossato.
+[00:09:05.000 --> 00:09:07.000]   Did you?
+[00:09:07.000 --> 00:09:11.000]   I don't think...
+[00:09:11.000 --> 00:09:14.000]   No? No? Okay.
+[00:09:14.000 --> 00:09:17.000]   It's not very complicated.
+[00:09:18.000 --> 00:09:20.000]   Do you have an idea of what does it mean?
+[00:09:20.000 --> 00:09:23.000]   Rival goods and non-rival goods?
+[00:09:23.000 --> 00:09:27.000]   I forgot. I don't think I remember.
+[00:09:27.000 --> 00:09:29.000]   Okay.
+[00:09:29.000 --> 00:09:39.000]   I can try maybe. It's like, you know, you have an object and you, you know, let's just consider the case I'm stealing something.
+[00:09:39.000 --> 00:09:46.000]   So if I steal from you that box, that box is not anymore there and you can't use it.
+[00:09:47.000 --> 00:09:54.000]   But if I steal a file, I can make a copy and still use it, I can use it and you also can use it.
+[00:09:54.000 --> 00:09:57.000]   So it's a non-rival good.
+[00:09:57.000 --> 00:10:05.000]   Yeah, more or less. It doesn't require stealing, but in general, rival and non-rival goods are...
+[00:10:05.000 --> 00:10:11.000]   Rival is both related to use of the good.
+[00:10:12.000 --> 00:10:17.000]   So an example of a rival good is an object, food, an apple.
+[00:10:17.000 --> 00:10:22.000]   If I eat the apple, you can no longer eat the apple.
+[00:10:22.000 --> 00:10:26.000]   It's a rival consumption, rival use of the good.
+[00:10:26.000 --> 00:10:29.000]   Non-rival good, an example is a file.
+[00:10:30.000 --> 00:10:44.000]   If I give you a file, whatever that means, it doesn't mean that your use of the file is forbidding my use of the file.
+[00:10:44.000 --> 00:10:48.000]   Movie, non-rival good.
+[00:10:51.000 --> 00:10:54.000]   And actually even a movie projected in a cinema is a non-rival good.
+[00:10:54.000 --> 00:11:03.000]   As long as there are seats, we can all use that movie, view the movie, sit there and enjoy.
+[00:11:03.000 --> 00:11:14.000]   Okay, so rival and non-rival goods are also, this also applies to sharing because in information technology,
+[00:11:15.000 --> 00:11:24.000]   in general, sharing something is also related to the fact that the sharing, the act of sharing, is not meaning transferring,
+[00:11:24.000 --> 00:11:35.000]   is not meaning reducing the amount of good that I have, but it is just providing somebody else the same opportunities that I have.
+[00:11:35.000 --> 00:11:41.000]   I have a file, I share the file with you, sharing means that we both have the file.
+[00:11:42.000 --> 00:11:46.000]   I don't need to transfer the file to you, it's basically the same.
+[00:11:46.000 --> 00:11:56.000]   I have an apple, if I share the apple to you, it means that we split the apple in two or whatever parts we agree to do.
+[00:11:56.000 --> 00:12:03.000]   And it's a partial transfer, so I can no longer eat the part of the apple that you are eating.
+[00:12:04.000 --> 00:12:20.000]   So this is somehow a very important distinction between the real, physical goods and the real, intangible goods, like information and everything related to it.
+[00:12:24.000 --> 00:12:37.000]   Okay, so when we speak of files, we could take into account the several different ways to store files.
+[00:12:38.000 --> 00:12:53.000]   And this changed quite a bit, until some time ago, and we still use this kind of sharing, files were actually duplicated and transferred.
+[00:12:53.000 --> 00:12:56.000]   Create a copy and transfer the copy.
+[00:12:57.000 --> 00:13:07.000]   That was the only way to share a file, basically, until, let's see, how much is it?
+[00:13:07.000 --> 00:13:15.000]   When this was no longer the only way to share files, more or less.
+[00:13:15.000 --> 00:13:19.000]   How many years ago? Or in which decade?
+[00:13:20.000 --> 00:13:29.000]   Do we take into account streaming services? Because you know you don't make a copy, so maybe the early 2000s.
+[00:13:29.000 --> 00:13:35.000]   I mean, YouTube, something like that, 2006.
+[00:13:36.000 --> 00:13:46.000]   So we can get the notion of a file as a document stored in a hard disk, what we now mean as file.
+[00:13:46.000 --> 00:14:01.000]   But this file, which is also a file, but a file in the sense of a document stored in a hard disk, or something similar, is constantly to the 60s.
+[00:14:02.000 --> 00:14:19.000]   So for, I would say, half of the life of what we think as a file, half of the history of files, sharing was only possible by duplicating and physically transferring to a physical object,
+[00:14:19.000 --> 00:14:24.000]   which is then given to someone else, which is a copy, so transferring.
+[00:14:25.000 --> 00:14:31.000]   It was not really sharing in the sense that we attach to this term today.
+[00:14:31.000 --> 00:14:41.000]   If I put a file still today on a USB stick, and I give you the stick to make a copy, that's a copy, transferring to your copy.
+[00:14:41.000 --> 00:14:52.000]   So we need to distinguish a little bit between these two ways, because once we have independent copies, the files are two,
+[00:14:53.000 --> 00:15:04.000]   there could be a movie, and so we don't really want to modify possibly the content of the file, or it could be a document.
+[00:15:04.000 --> 00:15:12.000]   If it's a document, the difference between sharing a document in a platform, Google Drive, Dropbox, or similar ones,
+[00:15:12.000 --> 00:15:21.000]   or sharing a document in a USB stick, which I give you, or in an e-mail that I send you, basically it's the same.
+[00:15:22.000 --> 00:15:32.000]   It has a very fundamental difference, because when we change this, when we edit the content of this document, we have two different things.
+[00:15:32.000 --> 00:15:38.000]   Then reconciling the two different things is possibly very difficult.
+[00:15:39.000 --> 00:15:55.000]   I guess you are, I don't need to go much further into this distinction, but it's very clear that if we want to connect the,
+[00:15:55.000 --> 00:16:08.000]   let's say that we are organizing a common purchase of sports goods between a group of friends, or a sport team, or an association,
+[00:16:08.000 --> 00:16:19.000]   and I give to everybody a Excel file, a spreadsheet, with all the list of goods, prices, and the different variations,
+[00:16:19.000 --> 00:16:25.000]   everybody is filling in how many items they want for this particular shoes, and so on.
+[00:16:25.000 --> 00:16:32.000]   Then I collect all this, and then I have quite a bit of work in reconciling, combining all this.
+[00:16:33.000 --> 00:16:45.000]   If I do the same with a unique document, a shared spreadsheet in Google Drive or similar services, it's a completely different story.
+[00:16:45.000 --> 00:16:52.000]   Because maybe I need a little bit more work in setting up the shared document,
+[00:16:52.000 --> 00:17:01.000]   maybe I want to give carefully chosen permissions for modifying the content, and so on.
+[00:17:02.000 --> 00:17:06.000]   Then I don't have to do the work of reconciling all the different permissions.
+[00:17:06.000 --> 00:17:19.000]   So the difference between these two is quite complicated, and it can create several complications, several organizational models in other things.
+[00:17:20.000 --> 00:17:32.000]   So in IT, in general, when we talk about file sharing, let's say that we talk about allowing somebody, guaranteeing the use to somebody,
+[00:17:32.000 --> 00:17:37.000]   for using non-rival materials, so files in general.
+[00:17:38.000 --> 00:17:50.000]   What we will focus more today is when this is implying, involving some copyrighted material,
+[00:17:50.000 --> 00:17:57.000]   rather than a document we can share because we are writing a report together or something like this.
+[00:17:57.000 --> 00:18:07.000]   We talk about copyrighted material, and sharing copyrighted material, even a document we author together is copyrighted material, of course.
+[00:18:07.000 --> 00:18:16.000]   But I want to discuss the sharing of copyrighted material without the consent of the copyright owner.
+[00:18:16.000 --> 00:18:30.000]   And in particular, let's think of the music case, because it has a longer tradition, so to say, there are more things to say,
+[00:18:31.000 --> 00:18:41.000]   but this applies to anything, could be videos, could be images, could be text, could be anything.
+[00:18:41.000 --> 00:18:53.000]   So I assume, I know, because you already discussed copyright with Professor Rossato,
+[00:18:54.000 --> 00:19:07.000]   I assume you understand that copyright owners normally don't allow the permission of sharing something unless explicitly provided.
+[00:19:07.000 --> 00:19:12.000]   Explicitly allowed, sorry.
+[00:19:12.000 --> 00:19:17.000]   So there are two ways for infringing copyrights.
+[00:19:17.000 --> 00:19:23.000]   One way is the direct infringement.
+[00:19:24.000 --> 00:19:39.000]   So I am giving you something which is violating, I give you a copy, I have a book,
+[00:19:39.000 --> 00:19:43.000]   and I tell you, okay, I will make you a copy of this book.
+[00:19:44.000 --> 00:19:59.000]   I have a file, I have a movie, I have a song in my computer, and I give you that song or that movie without the consent of the copyright owner and so on.
+[00:19:59.000 --> 00:20:09.000]   This is a direct infringement by myself and by whoever is receiving that material.
+[00:20:10.000 --> 00:20:18.000]   I am the one who is allowing to access the material without having the permission of the copyright owner,
+[00:20:18.000 --> 00:20:27.000]   and the one of you that is receiving it is receiving the material without the consent of the copyright owner.
+[00:20:27.000 --> 00:20:32.000]   And this is the direct infringement.
+[00:20:33.000 --> 00:20:40.000]   The direct infringement is whoever provides the infrastructure for this.
+[00:20:40.000 --> 00:20:51.000]   So if it is a physical copy of a book and I go to the zeroes machine here which is not managed by anyone,
+[00:20:51.000 --> 00:20:58.000]   I buy a car, a prepaid car, and I do the copy, there is no mediation.
+[00:20:59.000 --> 00:21:07.000]   I go with this book to a printing service and I give the book to them and I tell them,
+[00:21:07.000 --> 00:21:13.000]   please make ten copies for me, and they do it without making sure that I,
+[00:21:13.000 --> 00:21:18.000]   this is clearly copyrighted material, it is written in page two, right?
+[00:21:18.000 --> 00:21:27.000]   In summary, the first page is always, you know, the copyright 2002, I didn't publish it.
+[00:21:28.000 --> 00:21:34.000]   The printing service is violating copyright as much as me.
+[00:21:34.000 --> 00:21:43.000]   I am asking, so I am directly violating copyright, whoever is getting one of these ten copies is violating directly copyright.
+[00:21:43.000 --> 00:21:52.000]   The printing service is an indirect violation, it is liable for an indirect violation of copyright.
+[00:21:53.000 --> 00:22:00.000]   It is a matter of fact, they are. They are punished by the owners in a different way if they do this kind of things.
+[00:22:00.000 --> 00:22:05.000]   And similarly for digital material.
+[00:22:05.000 --> 00:22:17.000]   So if I am using a service which is created for sharing documents, for sharing material,
+[00:22:18.000 --> 00:22:24.000]   and I am using this service for providing you a scan of this book,
+[00:22:24.000 --> 00:22:32.000]   and I am giving you this scanned version of the book, and without the permission of, you know,
+[00:22:32.000 --> 00:22:40.000]   for instance I could give you, if I am not mistaken, 15% of this book for study purposes,
+[00:22:40.000 --> 00:22:45.000]   for educational purposes, because we are in the university environment and so on.
+[00:22:46.000 --> 00:22:50.000]   I cannot give you the full book unless I have the permission.
+[00:22:50.000 --> 00:23:03.000]   And so this violation of copyright is also implying some responsibility of whoever is providing the infrastructure.
+[00:23:03.000 --> 00:23:10.000]   And this, you know, regardless of the fact that they are aware of the fact,
+[00:23:11.000 --> 00:23:20.000]   I don't necessarily ask Google the permission to upload a movie in my drive space
+[00:23:20.000 --> 00:23:24.000]   and then providing people the possibility to download the movie.
+[00:23:24.000 --> 00:23:35.000]   They are liable also if there is the possibility for them to check for this and they don't do it.
+[00:23:36.000 --> 00:23:41.000]   Or even worse, they are more liable if, let's say, the copyright owner,
+[00:23:41.000 --> 00:23:56.000]   the production company for the movie, is notifying Google that somebody, me,
+[00:23:56.000 --> 00:24:00.000]   is sharing that document in that way and people are allowed to,
+[00:24:00.000 --> 00:24:03.000]   because they know, because they posted in the blog, because whatever.
+[00:24:04.000 --> 00:24:10.000]   They are notified and they don't remove the file I am sharing,
+[00:24:10.000 --> 00:24:14.000]   or they don't remove the possibility for me to share the file,
+[00:24:14.000 --> 00:24:18.000]   they don't act in reaction to this communication.
+[00:24:18.000 --> 00:24:23.000]   They are more liable than the controller.
+[00:24:23.000 --> 00:24:30.000]   Even worse, if there is a promotion of this kind of infringement of copyright.
+[00:24:31.000 --> 00:24:38.000]   A service is promoting copyright infringement in different ways.
+[00:24:38.000 --> 00:24:43.000]   I am advertising the possibility of using it in this way.
+[00:24:43.000 --> 00:24:51.000]   Or supporting it with whatever kind of way.
+[00:24:52.000 --> 00:25:02.000]   One way for platforms like Google Drive and so on,
+[00:25:02.000 --> 00:25:07.000]   for avoiding responsibility, is making sure as much as they can,
+[00:25:07.000 --> 00:25:18.000]   they cannot view the content, they cannot know the content that users upload and share using their platforms.
+[00:25:19.000 --> 00:25:29.000]   So if the content is encrypted in a way which is technically impossible to decrypt
+[00:25:29.000 --> 00:25:33.000]   by the platform provider, by the service provider,
+[00:25:33.000 --> 00:25:42.000]   they can say, they can claim that they cannot check the content,
+[00:25:42.000 --> 00:25:46.000]   so they are not responsible because they have no knowledge.
+[00:25:47.000 --> 00:25:51.000]   If I am sharing some copyrighted material with each of you,
+[00:25:51.000 --> 00:25:59.000]   and you use a platform like Google, which has this sort of infringement,
+[00:25:59.000 --> 00:26:03.000]   and they don't know that I am sharing the document,
+[00:26:03.000 --> 00:26:08.000]   so they can claim, if accused of secondary infringement,
+[00:26:08.000 --> 00:26:12.000]   they can claim they have no idea, they cannot check the content,
+[00:26:13.000 --> 00:26:19.000]   and if they wanted, they cannot because they don't have the way for technically decrypting the material.
+[00:26:19.000 --> 00:26:30.000]   This is not completely true, because it's questionable that they really don't,
+[00:26:30.000 --> 00:26:34.000]   but anyway, that's the idea.
+[00:26:34.000 --> 00:26:41.000]   It's a different story if I am posting in public, advertising publicly,
+[00:26:42.000 --> 00:26:48.000]   the availability of this document, of this copyright protected document that they share.
+[00:26:48.000 --> 00:27:01.000]   Okay, so in general, secondary infringement is punished by laws.
+[00:27:01.000 --> 00:27:06.000]   In Italy, for instance, there is the liability of intermediary service providers
+[00:27:07.000 --> 00:27:13.000]   if they are involved in sharing copyrighted material.
+[00:27:13.000 --> 00:27:25.000]   Okay, in general, Internet service providers are not taken as,
+[00:27:25.000 --> 00:27:33.000]   not considered responsible for the use of the Internet service for Internet access,
+[00:27:34.000 --> 00:27:39.000]   for transferring, for sending, for sharing copyrighted material.
+[00:27:39.000 --> 00:27:49.000]   So the ISP is normally not responsible, but again, if they are asked,
+[00:27:49.000 --> 00:27:59.000]   if an ISP is asked, for instance, I have a website where I place copyrighted material,
+[00:28:00.000 --> 00:28:08.000]   my website is outside of the county jurisdiction, because my website is in another county,
+[00:28:08.000 --> 00:28:21.000]   but if an Italian judge asks or tells, orders the Italian Internet service providers
+[00:28:21.000 --> 00:28:27.000]   to block access to that website, even if it is not in Italy,
+[00:28:28.000 --> 00:28:39.000]   are required to use technical ways for blocking access to my website, even if it is my website.
+[00:28:39.000 --> 00:28:47.000]   There is no action against my website directly, but Italian users will be forbidden by ISP
+[00:28:47.000 --> 00:28:54.000]   to access that particular website. Clearly this technical measure is partially successful
+[00:28:55.000 --> 00:29:02.000]   because there are not so difficult ways for CIP preventing this kind of measure, using proxies and so on,
+[00:29:02.000 --> 00:29:12.000]   but still, for the majority of the users that will be affected and they will not be able to access that particular website.
+[00:29:12.000 --> 00:29:21.000]   ISP that don't comply to this request from the judge are liable for secondary infringement.
+[00:29:21.000 --> 00:29:38.000]   Is it bad to share? Yes, but not necessarily, always.
+[00:29:38.000 --> 00:29:49.000]   There are several studies from economists which are saying very different things.
+[00:29:50.000 --> 00:29:59.000]   So uploading and downloading secondary infringement is a violation of the law.
+[00:29:59.000 --> 00:30:04.000]   So it is bad in terms of violating the law.
+[00:30:04.000 --> 00:30:07.000]   So it is a crime.
+[00:30:07.000 --> 00:30:14.000]   And it does affect the artists' revenue.
+[00:30:15.000 --> 00:30:29.000]   So artists do claim in general that the possibility of sharing without the cost,
+[00:30:29.000 --> 00:30:36.000]   without paying somebody, a publisher or collecting money for the artist,
+[00:30:37.000 --> 00:30:45.000]   the amount which is attached to the use of, the consumption of, the possession of that particular piece of art,
+[00:30:45.000 --> 00:30:54.000]   book, movie, song, is affecting the artists.
+[00:30:54.000 --> 00:31:02.000]   And yes, it is difficult to counter as an argument,
+[00:31:03.000 --> 00:31:14.000]   but somehow, questionable, and there are studies questioning that this affects really sales,
+[00:31:14.000 --> 00:31:29.000]   especially in the case of music, because it was the amount of users that do download,
+[00:31:30.000 --> 00:31:33.000]   and they do not use copyrighted material illegally,
+[00:31:33.000 --> 00:31:39.000]   is not necessarily the same amount of people that if not allowed to do,
+[00:31:39.000 --> 00:31:45.000]   if the download was not possible, would buy that music.
+[00:31:45.000 --> 00:31:54.000]   So it is very different in terms of the effort for doing an action,
+[00:31:55.000 --> 00:32:02.000]   the amount of effort between downloading a protected document,
+[00:32:02.000 --> 00:32:09.000]   the effort is that I need to find the information where it is,
+[00:32:09.000 --> 00:32:24.000]   and be ready to pay for the responsibility of doing this illegal action.
+[00:32:24.000 --> 00:32:29.000]   If they catch me, if I care, if I think about this,
+[00:32:29.000 --> 00:32:34.000]   but in general, the effort is very limited in some art.
+[00:32:34.000 --> 00:32:40.000]   On the other hand, it is the same song, the same movie, whatever,
+[00:32:40.000 --> 00:32:46.000]   I can buy, I go to a store and buy a CD,
+[00:32:47.000 --> 00:32:56.000]   or I buy the digital version of the song,
+[00:32:56.000 --> 00:33:01.000]   I buy it from the producer, from the record company,
+[00:33:01.000 --> 00:33:05.000]   or from the company that sells the music.
+[00:33:05.000 --> 00:33:11.000]   If I have to pay directly for the music,
+[00:33:12.000 --> 00:33:17.000]   the action is very similar, so I have to click on a button,
+[00:33:17.000 --> 00:33:24.000]   but before I pay some amount of money for getting this music,
+[00:33:24.000 --> 00:33:29.000]   I need to be more convinced.
+[00:33:29.000 --> 00:33:40.000]   There are studies that are saying that the vast majority of material
+[00:33:41.000 --> 00:33:43.000]   which is downloaded illegally,
+[00:33:43.000 --> 00:33:47.000]   now it is no longer so huge,
+[00:33:47.000 --> 00:33:51.000]   was not really material that people would buy.
+[00:33:51.000 --> 00:33:55.000]   So it was not really affecting the sales.
+[00:33:55.000 --> 00:34:01.000]   On the other hand, there are other studies which were saying different things,
+[00:34:01.000 --> 00:34:05.000]   which makes it very questionable, these statements.
+[00:34:06.000 --> 00:34:12.000]   For instance, there were studies saying that taking into account
+[00:34:12.000 --> 00:34:17.000]   the revenues of box office for movie theaters,
+[00:34:17.000 --> 00:34:23.000]   were measuring an increase in time of a significant percentage,
+[00:34:23.000 --> 00:34:35.000]   10%, in the same period when movies were allowed
+[00:34:35.000 --> 00:34:40.000]   and available for download after 2010, 2015.
+[00:34:40.000 --> 00:34:46.000]   So, yes or no?
+[00:34:46.000 --> 00:34:50.000]   There are these kinds of critics.
+[00:34:50.000 --> 00:34:58.000]   There is another critique,
+[00:34:58.000 --> 00:35:02.000]   which is the fact that copyright is a legal tool,
+[00:35:03.000 --> 00:35:05.000]   as it is with the stuff,
+[00:35:05.000 --> 00:35:12.000]   but it has lost most of the original motivation,
+[00:35:12.000 --> 00:35:17.000]   encouraging learning, encouraging the creation of content,
+[00:35:17.000 --> 00:35:20.000]   encouraging the production of knowledge.
+[00:35:20.000 --> 00:35:26.000]   It is more an economical tool for supporting the business
+[00:35:26.000 --> 00:35:30.000]   of a huge amount of actors,
+[00:35:31.000 --> 00:35:34.000]   including the author of the copyrighted material,
+[00:35:34.000 --> 00:35:40.000]   but also including production companies, publishers, printers,
+[00:35:40.000 --> 00:35:45.000]   the technological infrastructure for the streaming and so on.
+[00:35:45.000 --> 00:35:54.000]   So, there are even more subtle things,
+[00:35:54.000 --> 00:35:58.000]   like the difference that we, in our brain,
+[00:35:59.000 --> 00:36:06.000]   the different position that we have in terms of human beings,
+[00:36:06.000 --> 00:36:13.000]   when we face physical goods and intangible goods,
+[00:36:13.000 --> 00:36:17.000]   so physical and intangible things.
+[00:36:17.000 --> 00:36:21.000]   So, there are neuroscience studies,
+[00:36:22.000 --> 00:36:29.000]   probably because our brain is involved in a physical world,
+[00:36:29.000 --> 00:36:35.000]   we are not really trained as a species
+[00:36:35.000 --> 00:36:41.000]   in giving the same status, as you say,
+[00:36:41.000 --> 00:36:49.000]   to a physical book or to a file of the scanned version of this book.
+[00:36:50.000 --> 00:36:55.000]   If I leave this book here,
+[00:36:55.000 --> 00:37:00.000]   probably most of you wouldn't take it.
+[00:37:00.000 --> 00:37:04.000]   You would consider stealing it.
+[00:37:04.000 --> 00:37:11.000]   And if I leave, let's give an example,
+[00:37:11.000 --> 00:37:16.000]   if by mistake I send you a message with Moodle
+[00:37:17.000 --> 00:37:21.000]   telling you that there is a variation of time of this class,
+[00:37:21.000 --> 00:37:25.000]   it is starting one hour later, or something like this,
+[00:37:25.000 --> 00:37:28.000]   or we change the room, or something like this,
+[00:37:28.000 --> 00:37:33.000]   and by mistake I leave a link for downloading,
+[00:37:33.000 --> 00:37:36.000]   because I copy and paste something,
+[00:37:36.000 --> 00:37:39.000]   there is a link for downloading the copy of this book,
+[00:37:39.000 --> 00:37:42.000]   and you click on the link, you download the book,
+[00:37:43.000 --> 00:37:47.000]   and you are taking a scanned version of this book,
+[00:37:47.000 --> 00:37:50.000]   and it was not supposed to do, and you delete it.
+[00:37:50.000 --> 00:37:56.000]   Probably the majority of you,
+[00:37:56.000 --> 00:38:00.000]   of us, I could do the same, possibly,
+[00:38:00.000 --> 00:38:04.000]   would say, "Ok, I will copy the book."
+[00:38:04.000 --> 00:38:08.000]   Fine, no problem, because it is a copy,
+[00:38:08.000 --> 00:38:12.000]   I am not removing the possibility for other people to edit and so on,
+[00:38:12.000 --> 00:38:15.000]   because physical things, tangible things,
+[00:38:15.000 --> 00:38:18.000]   with rival goods, no rival goods,
+[00:38:18.000 --> 00:38:25.000]   and our cultural, biological setting.
+[00:38:25.000 --> 00:38:34.000]   Ok, but let's talk now a little bit about music.
+[00:38:35.000 --> 00:38:42.000]   Music, somehow, even before sharing,
+[00:38:42.000 --> 00:38:45.000]   music is something which is shared.
+[00:38:45.000 --> 00:38:52.000]   When music is produced, it is produced for somebody to listen.
+[00:38:52.000 --> 00:38:55.000]   When a writer is writing a book,
+[00:38:55.000 --> 00:39:00.000]   when an artist, a composer, is composing some music,
+[00:39:01.000 --> 00:39:03.000]   a musician is composing some music,
+[00:39:03.000 --> 00:39:07.000]   they most often do it for somebody to listen.
+[00:39:07.000 --> 00:39:13.000]   It is for sharing, for having some shared experience of the music.
+[00:39:13.000 --> 00:39:17.000]   So it was always a social experience,
+[00:39:17.000 --> 00:39:20.000]   it was born as a social experience.
+[00:39:20.000 --> 00:39:25.000]   Something that the two people doing things together,
+[00:39:25.000 --> 00:39:29.000]   and one of the things to do together is to produce and listen to music.
+[00:39:30.000 --> 00:39:34.000]   And it is a very, very, very old story, the story of music.
+[00:39:34.000 --> 00:39:37.000]   More than 40,000 years ago,
+[00:39:37.000 --> 00:39:43.000]   there are traces of production and consumption of music, sharing music.
+[00:39:43.000 --> 00:39:49.000]   But only very recently,
+[00:39:49.000 --> 00:39:52.000]   compared to the 40,000,
+[00:39:53.000 --> 00:40:05.000]   there were huge economic values attached to music production and consumption.
+[00:40:05.000 --> 00:40:10.000]   So it is when something that we call music industry now,
+[00:40:10.000 --> 00:40:13.000]   is what started it.
+[00:40:13.000 --> 00:40:16.000]   When music industry was started,
+[00:40:16.000 --> 00:40:20.000]   when there were something physical associated with music,
+[00:40:21.000 --> 00:40:25.000]   it was a way to sell and buy.
+[00:40:25.000 --> 00:40:38.000]   The first vinyls were more or less around 1900, 1890 something.
+[00:40:38.000 --> 00:40:41.000]   The first vinyl records were created,
+[00:40:41.000 --> 00:40:45.000]   the first gramophones for playing vinyl records were created.
+[00:40:45.000 --> 00:40:48.000]   The first experiment, I would say.
+[00:40:49.000 --> 00:40:53.000]   And then in the first half of 1900,
+[00:40:53.000 --> 00:40:58.000]   there was the evolution of the vinyl production and sale,
+[00:40:58.000 --> 00:41:01.000]   the creation of the market basically.
+[00:41:01.000 --> 00:41:05.000]   The 33, what we now call a vinyl,
+[00:41:05.000 --> 00:41:09.000]   is the large piece,
+[00:41:09.000 --> 00:41:15.000]   which has a particular rotation speed,
+[00:41:16.000 --> 00:41:19.000]   which different vinyl sizes, different vinyl production,
+[00:41:19.000 --> 00:41:23.000]   they went across different speed of rotation.
+[00:41:23.000 --> 00:41:31.000]   The speed affects somehow the quality of the technical stuff in music production,
+[00:41:31.000 --> 00:41:37.000]   but the kind of thing, the kind of artifact that we call vinyl,
+[00:41:37.000 --> 00:41:42.000]   the large things made of this kind of plastic material,
+[00:41:43.000 --> 00:41:46.000]   is dated from 1950 more or less.
+[00:41:46.000 --> 00:41:49.000]   The first ones.
+[00:41:49.000 --> 00:41:54.000]   Then in 1980s the CDs were created,
+[00:41:54.000 --> 00:41:58.000]   and then more recently,
+[00:41:58.000 --> 00:42:06.000]   in 1990, slightly earlier than 2000,
+[00:42:06.000 --> 00:42:10.000]   there was another completely different situation
+[00:42:11.000 --> 00:42:18.000]   where the compression algorithms were reaching a level
+[00:42:18.000 --> 00:42:26.000]   for which it was possible to compress a lot of material like music,
+[00:42:26.000 --> 00:42:30.000]   data like music, and that was changing.
+[00:42:30.000 --> 00:42:33.000]   But before talking about this,
+[00:42:33.000 --> 00:42:38.000]   I want to stress that before the start of the music industry,
+[00:42:39.000 --> 00:42:44.000]   the way for making money with music was by producing musical instruments.
+[00:42:44.000 --> 00:42:48.000]   If I create a guitar and I sell the guitar,
+[00:42:48.000 --> 00:42:52.000]   I am making money with music, so to say, infrastructure.
+[00:42:52.000 --> 00:42:55.000]   But the other way was for an artist to play,
+[00:42:55.000 --> 00:43:01.000]   and being paid by the people who are listening to the music.
+[00:43:01.000 --> 00:43:05.000]   Either somebody is paying me
+[00:43:06.000 --> 00:43:12.000]   because they give me a salary for producing music,
+[00:43:12.000 --> 00:43:22.000]   like the composers that were supported by kings or emperors in the past.
+[00:43:22.000 --> 00:43:25.000]   They were living in the court.
+[00:43:25.000 --> 00:43:29.000]   Mozart was living in Vienna at the emperor's place,
+[00:43:30.000 --> 00:43:36.000]   and he was supported by somebody who was paying him for producing music.
+[00:43:36.000 --> 00:43:42.000]   Or in concerts, people are paying because they go to a concert,
+[00:43:42.000 --> 00:43:45.000]   they go to a concert hall, and they want to dance,
+[00:43:45.000 --> 00:43:48.000]   and they pay with a ticket,
+[00:43:48.000 --> 00:43:53.000]   and the dance hall manager, the dance hall owner,
+[00:43:53.000 --> 00:43:57.000]   is paying the musician for performing the music.
+[00:43:58.000 --> 00:44:05.000]   So, on the one hand, live performance was the only way to enjoy music,
+[00:44:05.000 --> 00:44:07.000]   to listen to music,
+[00:44:07.000 --> 00:44:13.000]   before the possibility to store music in things like digital artifacts.
+[00:44:13.000 --> 00:44:25.000]   But also, it was the only way for creating some little bit of business.
+[00:44:25.000 --> 00:44:32.000]   So, at some point, when the music industry started,
+[00:44:32.000 --> 00:44:37.000]   the role of concerts were somehow changed,
+[00:44:37.000 --> 00:44:45.000]   except for the small minority of the artists
+[00:44:45.000 --> 00:44:51.000]   who can really attract several thousands of people to a concert,
+[00:44:52.000 --> 00:44:59.000]   while the others, making a concert in a bar or in a disco
+[00:44:59.000 --> 00:45:02.000]   for a couple of dozen people,
+[00:45:02.000 --> 00:45:08.000]   is a way for selling maybe one or two copies of their CDs,
+[00:45:08.000 --> 00:45:12.000]   or creating some marketing for their name, basically,
+[00:45:12.000 --> 00:45:17.000]   being known by more people that will buy their music.
+[00:45:18.000 --> 00:45:24.000]   So, one way for using music performance is very different
+[00:45:24.000 --> 00:45:27.000]   from being the only way for enjoying music.
+[00:45:27.000 --> 00:45:31.000]   One way for promoting the sale of some art.
+[00:45:31.000 --> 00:45:43.000]   Ok, and this was somehow intersecting the possibility to copy music,
+[00:45:44.000 --> 00:45:48.000]   because once we have a physical artifact for music,
+[00:45:48.000 --> 00:45:52.000]   it's easier to copy that music.
+[00:45:52.000 --> 00:45:59.000]   And then, it was easier, especially with the evolution of technology,
+[00:45:59.000 --> 00:46:03.000]   it was somehow going together,
+[00:46:03.000 --> 00:46:07.000]   the easiness of producing the physical artifacts,
+[00:46:07.000 --> 00:46:10.000]   the artifacts which are stored in the music,
+[00:46:11.000 --> 00:46:15.000]   with the easiness of duplicating these.
+[00:46:15.000 --> 00:46:32.000]   Nowadays, recording music with an acceptable quality is,
+[00:46:32.000 --> 00:46:35.000]   if you go to a performance,
+[00:46:36.000 --> 00:46:43.000]   the amount of money, investment, the amount of effort that you have to do
+[00:46:43.000 --> 00:46:46.000]   for recording somebody with a guitar playing,
+[00:46:46.000 --> 00:46:49.000]   maybe you buy a microphone,
+[00:46:49.000 --> 00:46:54.000]   and then maybe you buy a program for it,
+[00:46:54.000 --> 00:46:58.000]   which was very good, free programs for doing that,
+[00:46:58.000 --> 00:47:01.000]   you connect the microphone to your computer,
+[00:47:01.000 --> 00:47:05.000]   you create a copy of the music.
+[00:47:05.000 --> 00:47:10.000]   You create a copy of the music for the musician,
+[00:47:10.000 --> 00:47:13.000]   because you want the musician, or you are the musician,
+[00:47:13.000 --> 00:47:17.000]   you record your music, your production.
+[00:47:17.000 --> 00:47:20.000]   At the same time, duplicating the copy.
+[00:47:20.000 --> 00:47:23.000]   One click, duplicate.
+[00:47:23.000 --> 00:47:31.000]   Click on the right button, choose from the list of possibility copy,
+[00:47:32.000 --> 00:47:35.000]   and you can duplicate the copy, or the file, whatever you want to store.
+[00:47:35.000 --> 00:47:41.000]   Before this, it was quite different,
+[00:47:41.000 --> 00:47:45.000]   but there is a long story of unauthorized copying of music.
+[00:47:45.000 --> 00:47:49.000]   Even when there was no digital storage of music,
+[00:47:49.000 --> 00:47:52.000]   when music was stored in hard or hard devices,
+[00:47:52.000 --> 00:47:55.000]   like video or audio tapes,
+[00:47:55.000 --> 00:47:59.000]   it was possible to, for market reasons,
+[00:48:00.000 --> 00:48:07.000]   I will not go into market reasons in a moment,
+[00:48:07.000 --> 00:48:10.000]   but it was possible very easily to duplicate,
+[00:48:10.000 --> 00:48:15.000]   relatively easily, to duplicate the content of a video
+[00:48:15.000 --> 00:48:18.000]   into an audio cassette.
+[00:48:18.000 --> 00:48:21.000]   Have you ever seen audio cassettes?
+[00:48:22.000 --> 00:48:29.000]   The audio cassettes are magnetic tape,
+[00:48:29.000 --> 00:48:35.000]   if you have the right device, you can write the tape,
+[00:48:35.000 --> 00:48:38.000]   as much as you want to read the tape.
+[00:48:38.000 --> 00:48:47.000]   So the amount of effort of duplicating a video,
+[00:48:48.000 --> 00:48:56.000]   creating an audio cassette, was relatively easy from the technical point of view,
+[00:48:56.000 --> 00:48:59.000]   but the amount of time it takes to duplicate a video
+[00:48:59.000 --> 00:49:02.000]   by recording it into an audio cassette,
+[00:49:02.000 --> 00:49:05.000]   I doubt you have ever tried,
+[00:49:05.000 --> 00:49:10.000]   but trust me, it takes the time of listening.
+[00:49:10.000 --> 00:49:13.000]   You need to play the video,
+[00:49:14.000 --> 00:49:18.000]   and while the video is played, it is recorded,
+[00:49:18.000 --> 00:49:22.000]   the suitable connections are not very difficult,
+[00:49:22.000 --> 00:49:25.000]   but it is recorded into the audio cassette.
+[00:49:25.000 --> 00:49:30.000]   If you want to duplicate an audio cassette,
+[00:49:30.000 --> 00:49:37.000]   there are devices which allow this kind of duplication
+[00:49:37.000 --> 00:49:42.000]   at double speed, with a small reduction in quality,
+[00:49:43.000 --> 00:49:45.000]   which is possible,
+[00:49:45.000 --> 00:49:48.000]   but still it takes some time.
+[00:49:48.000 --> 00:49:56.000]   Creating large numbers of copies of a video record
+[00:49:56.000 --> 00:49:59.000]   by duplicating it into an audio cassette,
+[00:49:59.000 --> 00:50:02.000]   requires either an investment in money,
+[00:50:02.000 --> 00:50:09.000]   or by dozens of devices which can record cassettes,
+[00:50:09.000 --> 00:50:12.000]   cassette recorders,
+[00:50:12.000 --> 00:50:15.000]   and I create all the connections,
+[00:50:15.000 --> 00:50:18.000]   so that the signal is not distorted,
+[00:50:18.000 --> 00:50:21.000]   all the electrical connections which are needed,
+[00:50:21.000 --> 00:50:24.000]   all the audio infrastructure,
+[00:50:24.000 --> 00:50:27.000]   and I duplicate it, so I don't have money.
+[00:50:27.000 --> 00:50:30.000]   Or I have a lot of time.
+[00:50:30.000 --> 00:50:33.000]   If I want to make a hundred copies,
+[00:50:33.000 --> 00:50:37.000]   I need a hundred times the time for listening to the video,
+[00:50:37.000 --> 00:50:39.000]   possibly one hour.
+[00:50:40.000 --> 00:50:42.000]   It is quite a lot.
+[00:50:42.000 --> 00:50:45.000]   You know how many...
+[00:50:45.000 --> 00:50:48.000]   which fraction of an hour you need
+[00:50:48.000 --> 00:50:52.000]   for creating one hundred copies of a file.
+[00:50:52.000 --> 00:50:58.000]   Even if you do the click way,
+[00:50:58.000 --> 00:51:01.000]   it is a little bit boring,
+[00:51:01.000 --> 00:51:04.000]   but if it is not because you are bored,
+[00:51:04.000 --> 00:51:07.000]   clicking two buttons one hundred times
+[00:51:08.000 --> 00:51:10.000]   takes a second,
+[00:51:10.000 --> 00:51:14.000]   if you want,
+[00:51:14.000 --> 00:51:17.000]   CTRL+C, and then you press CTRL+V,
+[00:51:17.000 --> 00:51:19.000]   you stay there for a while,
+[00:51:19.000 --> 00:51:22.000]   until possibly ten seconds.
+[00:51:22.000 --> 00:51:25.000]   There are even faster ways, but...
+[00:51:25.000 --> 00:51:32.000]   Anyway, so this is a huge difference.
+[00:51:32.000 --> 00:51:35.000]   The digital version of music
+[00:51:36.000 --> 00:51:39.000]   is a huge difference
+[00:51:39.000 --> 00:51:42.000]   in the possibility of copying something.
+[00:51:42.000 --> 00:51:44.000]   The digital version of anything,
+[00:51:44.000 --> 00:51:46.000]   basically, but from analog,
+[00:51:46.000 --> 00:51:48.000]   is creating a huge difference
+[00:51:48.000 --> 00:51:50.000]   in the possibility of duplicating
+[00:51:50.000 --> 00:51:53.000]   and creating multiple copies.
+[00:51:53.000 --> 00:51:55.000]   Before talking about this,
+[00:51:55.000 --> 00:52:00.000]   I want to tell you something about the audio cassettes.
+[00:52:00.000 --> 00:52:05.000]   It was technically perfectly possible
+[00:52:05.000 --> 00:52:09.000]   for the producer of devices
+[00:52:09.000 --> 00:52:13.000]   to create devices that were only able
+[00:52:13.000 --> 00:52:16.000]   to play audio cassettes,
+[00:52:16.000 --> 00:52:23.000]   and not set devices capable of recording audio cassettes.
+[00:52:23.000 --> 00:52:27.000]   That was perfectly possible.
+[00:52:27.000 --> 00:52:30.000]   It was a market choice for the producers
+[00:52:30.000 --> 00:52:34.000]   of devices to create devices
+[00:52:34.000 --> 00:52:37.000]   that were more attractive for the people,
+[00:52:37.000 --> 00:52:40.000]   for the consumers to buy,
+[00:52:40.000 --> 00:52:45.000]   because they were allowing the possibility to record audio cassettes.
+[00:52:45.000 --> 00:52:48.000]   Clearly, yes, people were also buying
+[00:52:48.000 --> 00:52:53.000]   music cassettes for recording their own sounds.
+[00:52:53.000 --> 00:52:59.000]   I record the baby first word,
+[00:53:00.000 --> 00:53:04.000]   I record the party,
+[00:53:04.000 --> 00:53:06.000]   I record myself singing,
+[00:53:06.000 --> 00:53:10.000]   I record... sure, but no.
+[00:53:10.000 --> 00:53:16.000]   Many people were buying cassette recorders with this intent.
+[00:53:16.000 --> 00:53:20.000]   For most people, the reason for buying a cassette recorder
+[00:53:20.000 --> 00:53:24.000]   was the possibility to copy,
+[00:53:24.000 --> 00:53:27.000]   bring it to the sets.
+[00:53:29.000 --> 00:53:33.000]   So it was somehow driven by market.
+[00:53:33.000 --> 00:53:38.000]   And it was a conflicting course
+[00:53:38.000 --> 00:53:43.000]   between the ones who were producing the music industry
+[00:53:43.000 --> 00:53:49.000]   and the ones who were producing the audio cassette recorder and ears.
+[00:53:49.000 --> 00:53:56.000]   But the impact was really minimal,
+[00:53:57.000 --> 00:54:02.000]   because it was not really significant in terms of how much it would affect.
+[00:54:02.000 --> 00:54:07.000]   Nobody was saying that the duplication of billions by audio cassettes
+[00:54:07.000 --> 00:54:16.000]   was putting at risk the existence of the music industry.
+[00:54:16.000 --> 00:54:24.000]   That was instead said when the possibility of creating copies of digital music
+[00:54:25.000 --> 00:54:28.000]   was there.
+[00:54:28.000 --> 00:54:34.000]   Because of three things.
+[00:54:34.000 --> 00:54:39.000]   One is the fact that with digital artifacts
+[00:54:39.000 --> 00:54:43.000]   we have plenty of tools for manipulating, duplicating,
+[00:54:43.000 --> 00:54:46.000]   the system is allowing us to duplicate,
+[00:54:46.000 --> 00:54:51.000]   but there are a huge variety of tools for doing it.
+[00:54:52.000 --> 00:54:56.000]   For recording a CD, for...
+[00:54:56.000 --> 00:54:59.000]   So on.
+[00:54:59.000 --> 00:55:02.000]   The use of compression algorithms, as I said before.
+[00:55:02.000 --> 00:55:08.000]   The fact that one piece of music, which would take...
+[00:55:08.000 --> 00:55:15.000]   Roughly speaking, how much is...
+[00:55:15.000 --> 00:55:21.000]   One song.
+[00:55:22.000 --> 00:55:24.000]   How much?
+[00:55:24.000 --> 00:55:29.000]   It depends on the quality.
+[00:55:29.000 --> 00:55:31.000]   Ok.
+[00:55:31.000 --> 00:55:38.000]   In a CD, how much is...
+[00:55:38.000 --> 00:55:42.000]   No compression, basically.
+[00:55:42.000 --> 00:55:46.000]   Digitalization, of course, but the quantization of the signal is there,
+[00:55:47.000 --> 00:55:51.000]   the quality, how much is the...
+[00:55:51.000 --> 00:55:57.000]   Really? One song, kilobytes?
+[00:55:57.000 --> 00:55:59.000]   In a CD?
+[00:55:59.000 --> 00:56:02.000]   How much data is in a CD?
+[00:56:02.000 --> 00:56:09.000]   Depends on?
+[00:56:09.000 --> 00:56:13.000]   In a CD, not a DVD.
+[00:56:14.000 --> 00:56:19.000]   A CD is a standard, so the amount of data is defined by the standard.
+[00:56:19.000 --> 00:56:26.000]   No idea?
+[00:56:26.000 --> 00:56:29.000]   How much data is in a DVD?
+[00:56:29.000 --> 00:56:34.000]   Standards, the maximum amount of compression.
+[00:56:34.000 --> 00:56:39.000]   A DVD varies quite a bit.
+[00:56:40.000 --> 00:56:45.000]   In a CD, 600...
+[00:56:45.000 --> 00:56:52.000]   650 to 700 megabytes for CDs.
+[00:56:52.000 --> 00:56:58.000]   700, let's take the maximum amount, 700 megabytes.
+[00:56:58.000 --> 00:57:02.000]   How many songs are in a standard album?
+[00:57:02.000 --> 00:57:05.000]   Take it easy.
+[00:57:05.000 --> 00:57:07.000]   Ten.
+[00:57:08.000 --> 00:57:09.000]   Ten songs.
+[00:57:09.000 --> 00:57:17.000]   So how much memory is required for CD quality?
+[00:57:17.000 --> 00:57:21.000]   Storage of that song.
+[00:57:21.000 --> 00:57:24.000]   700 megabytes.
+[00:57:24.000 --> 00:57:27.000]   700 divided by 10, sorry.
+[00:57:27.000 --> 00:57:30.000]   700 megabytes.
+[00:57:30.000 --> 00:57:34.000]   So let's say 100 megabytes.
+[00:57:35.000 --> 00:57:39.000]   But then, if you think to the...
+[00:57:39.000 --> 00:57:49.000]   20 years ago, the internet of 20 years ago, of 2000, of 1995...
+[00:57:49.000 --> 00:57:52.000]   Let's say 2000.
+[00:57:52.000 --> 00:57:56.000]   How fast was the internet at that time?
+[00:57:56.000 --> 00:57:59.000]   In the 90s?
+[00:57:59.000 --> 00:58:02.000]   Late 90s, in the year 2000.
+[00:58:03.000 --> 00:58:04.000]   It was not really fast.
+[00:58:04.000 --> 00:58:09.000]   If we want to use an objective related to speed of internet at that time,
+[00:58:09.000 --> 00:58:13.000]   speed of data transfer on the internet, we would say slow.
+[00:58:13.000 --> 00:58:16.000]   How slow was it at that time?
+[00:58:16.000 --> 00:58:20.000]   So transferring, if I want to transfer illegally,
+[00:58:20.000 --> 00:58:25.000]   give you a copy of a song in CD quality,
+[00:58:25.000 --> 00:58:31.000]   I have to send you 70 megabytes of data.
+[00:58:32.000 --> 00:58:35.000]   If I want to give you the full CD, the full album,
+[00:58:35.000 --> 00:58:40.000]   this is transferring 700 megabytes of data.
+[00:58:40.000 --> 00:58:43.000]   At that time, that was really a lot.
+[00:58:43.000 --> 00:58:52.000]   We were planning on it, an effort in terms of time needed, the cost, and so on.
+[00:58:52.000 --> 00:59:00.000]   Flat use, flat subscription to the internet were not so common,
+[00:59:01.000 --> 00:59:06.000]   but in general it was much impacted this kind of sharing.
+[00:59:06.000 --> 00:59:09.000]   So what was creating a lot of change?
+[00:59:09.000 --> 00:59:12.000]   The use of compression algorithms.
+[00:59:12.000 --> 00:59:22.000]   When I ask you how much space does a song take in your hard disk,
+[00:59:22.000 --> 00:59:26.000]   you would answer, "Well, it depends on the quality."
+[00:59:26.000 --> 00:59:29.000]   You just said, "It depends on the quality."
+[00:59:30.000 --> 00:59:35.000]   Why? Because compression algorithms can do a compression
+[00:59:35.000 --> 00:59:40.000]   and reduce the data used for storing that particular piece of music
+[00:59:40.000 --> 00:59:43.000]   by reducing the quality.
+[00:59:43.000 --> 00:59:51.000]   So the very effective compression algorithms that we have nowadays...
+[00:59:51.000 --> 01:00:01.000]   [inaudible]
+[01:00:01.000 --> 01:00:04.000]   ...are lossy algorithms.
+[01:00:04.000 --> 01:00:08.000]   Do you know the difference between lossy and lossless algorithms for compression?
+[01:00:08.000 --> 01:00:11.000]   Please tell me yes.
+[01:00:11.000 --> 01:00:13.000]   Clear to everybody?
+[01:00:13.000 --> 01:00:15.000]   Not really?
+[01:00:15.000 --> 01:00:17.000]   Not really?
+[01:00:17.000 --> 01:00:19.000]   Okay.
+[01:00:20.000 --> 01:00:21.000]   Interesting.
+[01:00:21.000 --> 01:00:30.000]   There is not much space.
+[01:00:30.000 --> 01:00:35.000]   Let me give you an example.
+[01:00:35.000 --> 01:00:40.000]   Okay.
+[01:00:40.000 --> 01:00:48.000]   If I have this image that I want to show you, to share with you,
+[01:00:49.000 --> 01:00:56.000]   I have an easy task because I can give you this image.
+[01:00:56.000 --> 01:01:01.000]   If I take a picture, maybe the picture is taking one megabyte.
+[01:01:01.000 --> 01:01:07.000]   And I need to share with you one megabyte of data for giving you this picture.
+[01:01:07.000 --> 01:01:11.000]   But this picture is most of the data. This picture is empty.
+[01:01:11.000 --> 01:01:16.000]   So I can give you these two points, the coordinates of these two points,
+[01:01:17.000 --> 01:01:23.000]   and maybe the width of the line, with three numbers, we are done.
+[01:01:23.000 --> 01:01:25.000]   We save a lot of space.
+[01:01:25.000 --> 01:01:29.000]   And you can reconstruct the line as it was here.
+[01:01:29.000 --> 01:01:32.000]   You can have a copy of this image.
+[01:01:32.000 --> 01:01:36.000]   But this image is much more complicated.
+[01:01:36.000 --> 01:01:39.000]   There are things here, there are things here.
+[01:01:39.000 --> 01:01:41.000]   It's basically...
+[01:01:44.000 --> 01:01:48.000]   I want to do the same thing.
+[01:01:48.000 --> 01:01:50.000]   No way.
+[01:01:50.000 --> 01:01:52.000]   That's not feasible.
+[01:01:52.000 --> 01:01:56.000]   This image is very complicated.
+[01:01:56.000 --> 01:01:58.000]   So what do I do?
+[01:01:58.000 --> 01:02:06.000]   I say, look, if you look at this image from here, you don't need all this data.
+[01:02:06.000 --> 01:02:09.000]   If you were looking at the image from here,
+[01:02:10.000 --> 01:02:20.000]   maybe we can take only some points in the image.
+[01:02:20.000 --> 01:02:28.000]   And we take some...
+[01:02:28.000 --> 01:02:30.000]   More than this, of course.
+[01:02:30.000 --> 01:02:33.000]   With some points, with only parts of the image,
+[01:02:33.000 --> 01:02:36.000]   I can reconstruct something which is not a real image,
+[01:02:37.000 --> 01:02:43.000]   but is a relatively good quality, if you want.
+[01:02:43.000 --> 01:02:49.000]   But it's not possible to reconstruct the original image from this sort of image.
+[01:02:49.000 --> 01:02:53.000]   That's a way of reducing...
+[01:02:53.000 --> 01:02:58.000]   I lose some coordinates, but I compress the data.
+[01:02:58.000 --> 01:03:05.000]   With the compression algorithms, which are more effective,
+[01:03:06.000 --> 01:03:08.000]   it is done similar things.
+[01:03:08.000 --> 01:03:13.000]   It is done similarly because these compression algorithms are...
+[01:03:13.000 --> 01:03:18.000]   We de-imaged it, but JPEG and GIF is not...
+[01:03:18.000 --> 01:03:22.000]   The JPEG algorithm is doing this kind of stuff.
+[01:03:22.000 --> 01:03:24.000]   With music, similarly...
+[01:03:24.000 --> 01:03:30.000]   I don't have to draw, but in general,
+[01:03:31.000 --> 01:03:35.000]   the lossy algorithms are algorithms which do...
+[01:03:35.000 --> 01:03:41.000]   are creating, accepting the fact that the quality will be reduced in a way which is not recoverable.
+[01:03:41.000 --> 01:03:46.000]   So if you receive the compressed version of something,
+[01:03:46.000 --> 01:03:48.000]   which was compressed using a lossy algorithm,
+[01:03:48.000 --> 01:03:52.000]   it will be not possible to reconstruct the original.
+[01:03:52.000 --> 01:03:57.000]   So, you say, "Okay, everybody's good."
+[01:03:58.000 --> 01:04:03.000]   I give only the initials of the names of a bunch of people.
+[01:04:03.000 --> 01:04:09.000]   I use one letter for a person, but this is user information.
+[01:04:09.000 --> 01:04:12.000]   But with sound, for instance,
+[01:04:12.000 --> 01:04:19.000]   there is some advantage which relates to how our brain,
+[01:04:19.000 --> 01:04:22.000]   our hearing system works.
+[01:04:23.000 --> 01:04:29.000]   We are only able to distinguish a certain range of frequencies
+[01:04:29.000 --> 01:04:36.000]   between a few hertz to, roughly speaking, 20,000 hertz.
+[01:04:36.000 --> 01:04:43.000]   And the streams, our ear is not much sensitive to the streams,
+[01:04:43.000 --> 01:04:48.000]   and the quality can be reduced a lot if these are cut.
+[01:04:49.000 --> 01:04:58.000]   So there are a number of heuristics based on knowledge about the human hearing system,
+[01:04:58.000 --> 01:05:06.000]   which are used by compression algorithms for creating an algorithm which is losing some data.
+[01:05:06.000 --> 01:05:10.000]   So it will be not possible to reconstruct the data.
+[01:05:12.000 --> 01:05:23.000]   By taking advantage of the knowledge of how our ears work.
+[01:05:23.000 --> 01:05:30.000]   So, accept a reduction in quality, which will be, for most people,
+[01:05:30.000 --> 01:05:35.000]   for most kinds of use, will be not really relevant.
+[01:05:35.000 --> 01:05:40.000]   It is like if you listen to a song using your phone,
+[01:05:41.000 --> 01:05:46.000]   or if you listen to the same song, putting a CD player,
+[01:05:46.000 --> 01:05:54.000]   and you have a Hi-Fi device with good loudspeakers,
+[01:05:54.000 --> 01:05:59.000]   and you use this device, you will listen to a different quality of the song.
+[01:05:59.000 --> 01:06:04.000]   But the quality is the quality of the compression of the data, basically.
+[01:06:05.000 --> 01:06:13.000]   If you connect the device to the Hi-Fi system, and you have the CD and the device,
+[01:06:13.000 --> 01:06:16.000]   you will perceive a difference.
+[01:06:16.000 --> 01:06:18.000]   If you pay attention, you can perceive a difference.
+[01:06:18.000 --> 01:06:30.000]   If you use your preferred streaming service, and you connect your phone to your Hi-Fi stereo,
+[01:06:31.000 --> 01:06:37.000]   you will hear the difference between this and using the CD.
+[01:06:37.000 --> 01:06:41.000]   And the CD is already a reduction from the game.
+[01:06:41.000 --> 01:06:54.000]   Another way to talk about the compression algorithms,
+[01:06:55.000 --> 01:07:01.000]   if I look at this text, I could have a compression algorithm
+[01:07:01.000 --> 01:07:06.000]   which is using the repetitions of the text.
+[01:07:06.000 --> 01:07:10.000]   Here, there is not much, because these texts are a little bit difficult.
+[01:07:10.000 --> 01:07:19.000]   Ways for compressing are also taking...
+[01:07:19.000 --> 01:07:31.000]   Let's use this.
+[01:07:31.000 --> 01:07:39.000]   It's a little bit difficult to figure out.
+[01:07:39.000 --> 01:07:43.000]   Okay, I can do the same with this here.
+[01:07:44.000 --> 01:07:51.000]   One way to use a little bit of quality is to use repetitions.
+[01:07:51.000 --> 01:08:00.000]   So instead of sampling, use repetitions like I'm storing and compressing this data.
+[01:08:01.000 --> 01:08:16.000]   So this is an empty area, a filled area, an empty area, a filled area, an empty area, a filled area, an empty area, and so on.
+[01:08:16.000 --> 01:08:29.000]   I'm using only maybe 2, 3, 4, 5, 6 times 2 numbers for the length of these areas.
+[01:08:30.000 --> 01:08:37.000]   And the hypothesis is that I will have an image which is like this.
+[01:08:37.000 --> 01:08:40.000]   This, this.
+[01:08:40.000 --> 01:08:49.000]   This way, the quality is decreased.
+[01:08:50.000 --> 01:09:02.000]   If you do this for a lot of lines, a lot of columns, you have a granularity, a density of this sampling which is high enough,
+[01:09:02.000 --> 01:09:07.000]   you can compress this image with a reasonable quality.
+[01:09:12.000 --> 01:09:24.000]   So, for instance, if you have a granularity of the pixels and the image is black and white, you can have a looseness compression in this way.
+[01:09:24.000 --> 01:09:30.000]   You have basically the same image repeated, but with a different quality.
+[01:09:30.000 --> 01:09:35.000]   If you have the same sampling, you can have a number of pixels in rows and columns.
+[01:09:36.000 --> 01:09:43.000]   If you draw a line, you will have a sort of a pixelated image, and you see small squares.
+[01:09:43.000 --> 01:09:48.000]   But if you look at the image from a distance, you don't notice the difference.
+[01:09:48.000 --> 01:09:52.000]   So this is lossy compression.
+[01:09:53.000 --> 01:10:06.000]   Anyway, this lossy compression algorithm was something which was allowing people to transfer music even with slow connection, mental connections.
+[01:10:06.000 --> 01:10:19.000]   If you reduce by 10 times, the reduction of 10 times is not really affecting quality in a percentable way for most use.
+[01:10:21.000 --> 01:10:25.000]   So this was creating the possibility for online sharing.
+[01:10:25.000 --> 01:10:34.000]   The first platform for sharing, historically, is Napster, which was created around the year 2000, 1999.
+[01:10:35.000 --> 01:10:56.000]   Napster was, as you can see, these images from Wikimedia, you can guess the date by looking at the kind of aesthetics of the interface.
+[01:10:57.000 --> 01:11:09.000]   It was basically an index of songs which could be shared by people, which could be accessed by people.
+[01:11:09.000 --> 01:11:13.000]   Somebody was sharing and somebody was accessing.
+[01:11:13.000 --> 01:11:19.000]   Uploading and downloading. Not really uploading, but allowing for download and downloading.
+[01:11:21.000 --> 01:11:30.000]   So I have in my computer some files, which are music songs, and I allow people to download these files from my computer.
+[01:11:30.000 --> 01:11:35.000]   And Napster was providing the infrastructure for this.
+[01:11:36.000 --> 01:11:56.000]   It became very famous very quickly because there were songs which were shared using Napster before the official release in the stores, or by the radios.
+[01:11:57.000 --> 01:12:09.000]   Or together with the release in the radios, because the DJ from the radio was also using Napster and sharing the files received, and so allowing people to access.
+[01:12:09.000 --> 01:12:21.000]   But there were also strange effects, because Radiohead were not a famous band at the time.
+[01:12:22.000 --> 01:12:46.000]   And they became, the first album that was hitting the top 20 sales in the US, was an album which was illegally released in Napster, like three months before the opening of actual sales.
+[01:12:47.000 --> 01:13:00.000]   So it was somehow having the effect of promoting an album of a relatively unknown band, making it available to a huge amount of people.
+[01:13:00.000 --> 01:13:07.000]   So it has the effect of increasing their sales, maybe.
+[01:13:07.000 --> 01:13:12.000]   It was the first album that was, it was the best album they made.
+[01:13:13.000 --> 01:13:30.000]   It was also, and for this there were also other bands that did actually use this service for promoting their newly released album.
+[01:13:31.000 --> 01:13:45.000]   So, from the point of view of how it was organized, it was a centralized index for peer-to-peer distribution of illegal copyrighted material, basically.
+[01:13:46.000 --> 01:14:03.000]   It was not required that the material was copyrighted, of course, but it was not forbidden, there was no control by the platform, no measure from the platform provider, or maybe there was no illegal file sharing.
+[01:14:03.000 --> 01:14:14.000]   So it is, nowadays it is seen as a milestone, marking the start of illegal file sharing in general.
+[01:14:15.000 --> 01:14:23.000]   It was very successful, 70 million registered users, up to 70 million registered users, so quite a bit.
+[01:14:23.000 --> 01:14:40.000]   And because of this, it was also really scrutinized and really under the attention of the music industry.
+[01:14:41.000 --> 01:14:55.000]   There is supposed damage for some artists, the ones who had some release prior to actual sale, and supposed benefit, as I said, for some others, like the Red Yard.
+[01:14:56.000 --> 01:15:11.000]   It was sued by the music industry, by the music companies. In 2000 they lost the trial, and basically declined.
+[01:15:12.000 --> 01:15:27.000]   The people owning it had to pay a huge amount of money to reimburse for the cost of the trial.
+[01:15:28.000 --> 01:15:41.000]   And at the end of the day, after various sales, the company, the name of Napster is owned by a company called Rhapsody.
+[01:15:42.000 --> 01:15:59.000]   And Rhapsody was even changing the name of the company, and now the name of Rhapsody is Napster, and they provide a streaming music service, a streaming music company.
+[01:15:59.000 --> 01:16:06.000]   So you can subscribe to Napster for a $10 promotion.
+[01:16:07.000 --> 01:16:21.000]   At the same time, the Digital Millennium Copyright Act, which you heard about by Andrea, was created more or less at the same time.
+[01:16:22.000 --> 01:16:39.000]   Napster was one of the first times for the application of the DNCA. And Napster tried to say, "Okay, but we are only indexing material."
+[01:16:40.000 --> 01:16:58.000]   So this is an online service, and if somebody tells us that we have to remove from our index a particular item because it's violating copyright of somebody,
+[01:16:58.000 --> 01:17:05.000]   and we receive a notification from this copyright holder, we do comply. We need to comply.
+[01:17:06.000 --> 01:17:22.000]   Clearly, that was not really possible to... it was too explicit, so to say, for being able to claim that there was this not knowledge by Napster.
+[01:17:32.000 --> 01:17:50.000]   So the DNCA is addressing also all the infrastructure, all the technological tools, even the icons that can be used for violating copyright protection or copyrighted material.
+[01:17:51.000 --> 01:18:09.000]   So, for instance, in... I don't remember the date, but when the first DVDs were released, the DVD had a kind of VRM, a kind of protection of the material,
+[01:18:10.000 --> 01:18:35.000]   and not allowing to duplicate the DVD. But the DVD, the highway for circumventing this protection was discovered by... I think it was a Swedish guy.
+[01:18:36.000 --> 01:18:47.000]   He is a Swedish guy. He had one or two years... not even two years, but one year or so after the release of the protection for DVDs,
+[01:18:47.000 --> 01:18:54.000]   he designed a hybrid for circumventing this protection.
+[01:18:55.000 --> 01:19:07.000]   So, for... he was liable of violation of the VRM because he created... he didn't even create a program. He created the hybrid for...
+[01:19:08.000 --> 01:19:25.000]   So, there were cases of researchers studying the use of hybrids for protecting copyrighted material and discovering that the hybrid was not robust enough
+[01:19:26.000 --> 01:19:38.000]   because they found a flaw in the design of the protecting hybrid and their work was subject to violation of the NCA.
+[01:19:38.000 --> 01:19:49.000]   Because they were making known... they were sharing the information that would allow circumventing the protection of copyrighted material.
+[01:19:50.000 --> 01:20:06.000]   It's a very broad legislation and it's somehow telling something about the power of the industry,
+[01:20:07.000 --> 01:20:22.000]   which is supported or affected by the violation of copyrighted material or copyrighted for... done by usage of digital tools.
+[01:20:22.000 --> 01:20:27.000]   Music industry and cinema, movie industry.
+[01:20:31.000 --> 01:20:44.000]   Ok, what happens after Napster's failure? After... you know, then the idea of having a centralized index was clearly problematic in terms of legal responsibility.
+[01:20:44.000 --> 01:20:57.000]   So, the people creating infrastructures for the possibility to share copyrighted material were using another approach.
+[01:20:58.000 --> 01:21:07.000]   They started to use a fully decentralized indexing system, so without a central index.
+[01:21:07.000 --> 01:21:16.000]   Encrypting all the communication, replicating the material between peers, maybe, you know, the torrent system works.
+[01:21:17.000 --> 01:21:29.000]   You can think that there are two ways for making it more difficult to have a strong legal liability.
+[01:21:29.000 --> 01:21:44.000]   One is that, let's say, a song, the file containing a song is split in several pieces and the several pieces are allowed to be downloaded piece by piece.
+[01:21:45.000 --> 01:21:57.000]   And then, as soon as I download one piece of that song, these downloaded pieces on my computer are by default available for others to access and download.
+[01:21:57.000 --> 01:22:06.000]   So, if we all use this torrent system, I have a song and some of you download this song,
+[01:22:07.000 --> 01:22:15.000]   and as soon as they start downloading it, the piece they download will be available on their computer for others to download.
+[01:22:15.000 --> 01:22:30.000]   So, there will be multiple sources, each source will have, unless a few, but you know, for most of the time will be illegal distributing only a portion of a file, only a slice, so to say, only a part of a file.
+[01:22:31.000 --> 01:22:42.000]   So, the legal responsibility is somehow more limited. The ones providing the infrastructure are not really knowing anything about this because they need more central index.
+[01:22:42.000 --> 01:22:48.000]   So, they only provide a way for knowing where the sources could be.
+[01:22:48.000 --> 01:23:00.000]   And then, what is really provided, distributed by each source, is known only at the time of interrogation of that source.
+[01:23:00.000 --> 01:23:08.000]   So, all this is reducing the legal responsibility of the infrastructure provider.
+[01:23:08.000 --> 01:23:20.000]   Okay, so, but then, yeah, still there is the need for the possibility to create an index of this material.
+[01:23:21.000 --> 01:23:30.000]   And clearly, having an index is very useful. So, there was another initiative that was catching a lot of attention, which was Pirate Bay. It still exists.
+[01:23:30.000 --> 01:23:38.000]   Pirate Bay is a website which is providing a directory of links to torrent files provided by others.
+[01:23:39.000 --> 01:23:53.000]   So, they don't have a, they don't put in connection the directory like with Appservo doing, they provide the consumer, the broader.
+[01:23:53.000 --> 01:24:02.000]   But they only provide, they only do a search and they collect an index of what is available.
+[01:24:03.000 --> 01:24:15.000]   But still, they are basically providing an infrastructure for making it easier to download and violate copyright by the ones who are downloading and the ones who are uploading.
+[01:24:15.000 --> 01:24:20.000]   They don't have anything but some information which is collected on the fly.
+[01:24:20.000 --> 01:24:27.000]   But doing this intermediation is already a violation of copyright.
+[01:24:28.000 --> 01:24:35.000]   So, there is a violation of the DNCA, but there is a violation of copyright in many countries.
+[01:24:35.000 --> 01:24:40.000]   And so, they actually faced several legal issues.
+[01:24:40.000 --> 01:24:50.000]   They were even sentenced to prison, the founders, to be sentenced to prison for a few months, for 10 months.
+[01:24:51.000 --> 01:25:00.000]   Millions of Euros of fines paid, but they are still, they are blocked by ISP, several countries including Italy.
+[01:25:00.000 --> 01:25:06.000]   Periodically, it is impossible to access this website.
+[01:25:06.000 --> 01:25:14.000]   They changed the internet address, the IP of the website.
+[01:25:14.000 --> 01:25:16.000]   They changed the domain periodically.
+[01:25:16.000 --> 01:25:19.000]   So, they still compare this kind of blocking.
+[01:25:20.000 --> 01:25:28.000]   They are blocked by search engines and so on, by services like social networks, Facebook.
+[01:25:28.000 --> 01:25:33.000]   They filter in many ways, but they still exist.
+[01:25:33.000 --> 01:25:44.000]   And they still make money with a business model which is mainly based on an invitation to users to donate money.
+[01:25:44.000 --> 01:25:47.000]   I think they don't get much time on this.
+[01:25:48.000 --> 01:25:51.000]   But, advertisement, basically they live on advertisement.
+[01:25:51.000 --> 01:25:58.000]   And they make enough money for making it reasonable to face all the issues of this status.
+[01:25:58.000 --> 01:26:10.000]   A couple of words about the situation in Italy.
+[01:26:11.000 --> 01:26:19.000]   There was a decree here in 2004 by a minister whose name was Urbani.
+[01:26:19.000 --> 01:26:24.000]   So, it was under the label Urbani decree.
+[01:26:25.000 --> 01:26:45.000]   And this was, as it happened sometimes, this part related to copyright and copyright violation in terms of distribution of audio and video of movies and music using information technology.
+[01:26:46.000 --> 01:27:02.000]   This was part of a law which was mainly aimed, and most of it was, most of the text of the law was aiming at supporting creating funds for sport and cinema.
+[01:27:02.000 --> 01:27:08.000]   So, it was a strange thing to put also a part, an additional part related to this.
+[01:27:08.000 --> 01:27:13.000]   But, this part was modifying the Italian law on the right.
+[01:27:14.000 --> 01:27:35.000]   And it was interesting because it was, first of all, the first action was creating some confusion because of the use of two terms which have an illegal difference between the meaning they have, lucro and confitto.
+[01:27:36.000 --> 01:27:46.000]   So, lucro means to gain some money by an activity, selling something.
+[01:27:46.000 --> 01:27:51.000]   Confitto is having some benefit from an action.
+[01:27:51.000 --> 01:28:00.000]   So, I have a benefit. So, what is downloading a song?
+[01:28:00.000 --> 01:28:02.000]   Am I making money?
+[01:28:02.000 --> 01:28:04.000]   Not really.
+[01:28:05.000 --> 01:28:06.000]   Am I benefiting?
+[01:28:06.000 --> 01:28:17.000]   Am I getting some enjoyment of the music because I play the music and I benefit from this?
+[01:28:17.000 --> 01:28:27.000]   But this is not something which is immediately related to money.
+[01:28:28.000 --> 01:28:37.000]   If I'm selling, the possibility for downloading a song is related to making money.
+[01:28:37.000 --> 01:28:41.000]   So, there was this confusion between the usage of these terms.
+[01:28:41.000 --> 01:28:47.000]   And then there was a very strong punishment for non-personal use, whatever that means.
+[01:28:48.000 --> 01:28:56.000]   Even one to three years of prison and sent out to 15,000 euros.
+[01:28:56.000 --> 01:29:02.000]   So, it was really quite a real change in terms of what was the previous provision by copyright law.
+[01:29:03.000 --> 01:29:16.000]   There was also some issue with privacy because it was allowing the possibility of intercepting internet traffic,
+[01:29:16.000 --> 01:29:25.000]   also forcing the service provider to allow the sniffing basically of the traffic content.
+[01:29:26.000 --> 01:29:33.000]   So, which is very problematic in terms of privacy violation.
+[01:29:33.000 --> 01:29:44.000]   And also the requirements for writing the permission of obtaining this kind of data was quite lowered.
+[01:29:44.000 --> 01:29:52.000]   So, not necessarily the copyright owner, but also people having some interest in this would be allowed.
+[01:29:53.000 --> 01:29:59.000]   So, there were several revisions because of the large debate that was originated by this debate.
+[01:29:59.000 --> 01:30:06.000]   And then the last thing I want to mention,
+[01:30:06.000 --> 01:30:15.000]   this is another very significant case, which is mega upload.
+[01:30:16.000 --> 01:30:26.000]   So, mega upload is basically the same as Dropbox, it's a file sharing website.
+[01:30:26.000 --> 01:30:31.000]   Dropbox, it had before, it was free to transfer files.
+[01:30:31.000 --> 01:30:36.000]   So, they had two ways.
+[01:30:37.000 --> 01:30:48.000]   So, there was free usage for both uploading files and downloading files.
+[01:30:48.000 --> 01:30:51.000]   So, there was no payment.
+[01:30:51.000 --> 01:30:58.000]   But they did business model into the premium account for faster download.
+[01:30:59.000 --> 01:31:09.000]   And as a matter of fact, they were somehow playing with this because the standard download speed was very artificially lowered,
+[01:31:09.000 --> 01:31:17.000]   so that every user was somehow pushed to buy premium account.
+[01:31:17.000 --> 01:31:27.000]   And they also were relying on advertisement as well.
+[01:31:28.000 --> 01:31:31.000]   So, they closed in 2012.
+[01:31:31.000 --> 01:31:35.000]   They survived for maybe a couple of years.
+[01:31:35.000 --> 01:31:41.000]   They were extremely successful.
+[01:31:41.000 --> 01:31:53.000]   They were very successful because the premium account were more or less $8 per month.
+[01:31:54.000 --> 01:32:01.000]   And the, so between 5 and 10, I don't remember exactly, it was 6, 7, something like this.
+[01:32:01.000 --> 01:32:09.000]   But the model was very smart because it was free to upload material.
+[01:32:09.000 --> 01:32:15.000]   And the uploading was providing some benefit to the uploader.
+[01:32:16.000 --> 01:32:24.000]   And then the download was providing money for the content.
+[01:32:24.000 --> 01:32:33.000]   And clearly, in the interest of the uploader was also the fact that they were sharing something and they wanted people to download it.
+[01:32:33.000 --> 01:32:42.000]   So, people were publishing in blogs and so on the list of links for downloading movies or whatever.
+[01:32:43.000 --> 01:32:51.000]   And I upload a movie and I share the link so that when people download the movie and pay the premium account,
+[01:32:51.000 --> 01:32:56.000]   I am getting some benefits, a free premium account from the main upload.
+[01:32:56.000 --> 01:33:02.000]   So, I get some percentage of the advertisement.
+[01:33:03.000 --> 01:33:15.000]   So, this clearly was creating a lot of traffic, a lot of users, a lot of spotlight on the company.
+[01:33:15.000 --> 01:33:20.000]   And so, they were closed in 2012.
+[01:33:20.000 --> 01:33:26.000]   And it was a very famous case.
+[01:33:27.000 --> 01:33:40.000]   I thought it really hit the news because the founder of the company, I think, he was and is still incorporated in Hong Kong.
+[01:33:40.000 --> 01:33:44.000]   But the founder lives in New Zealand.
+[01:33:45.000 --> 01:34:06.000]   And the house of the founder and the company site were raided by the police in 2012 after a request from an American judge,
+[01:34:07.000 --> 01:34:20.000]   which was originated by claims by movie industry, film industry and record industry.
+[01:34:20.000 --> 01:34:31.000]   So, it was an international case with a request for extradition, which is still ongoing after more than 10 years.
+[01:34:31.000 --> 01:34:34.000]   The request has not been yet fulfilled.
+[01:34:35.000 --> 01:34:42.000]   But several years, the New Zealand court approved the extradition,
+[01:34:42.000 --> 01:34:53.000]   but then the founder, his name is Kim Dotcom, applied against this, up to the Supreme Court.
+[01:34:53.000 --> 01:34:58.000]   But it is still ongoing, still the case.
+[01:34:59.000 --> 01:35:14.000]   The claims of the movie industry is that the service was costing more than 500 million dollars to the movie industry.
+[01:35:14.000 --> 01:35:21.000]   Because they lose tickets, they lose sales of the movies, they lose...
+[01:35:22.000 --> 01:35:34.000]   And they also calculated that this service, which was the service provided by Megaupload,
+[01:35:34.000 --> 01:35:43.000]   which was costing them 500 million for producing, was more than almost 200 million in revenues to Megaupload.
+[01:35:43.000 --> 01:35:48.000]   So basically, they were selling these two.
+[01:35:49.000 --> 01:35:56.000]   So, there is one interesting point in this case, which is deduplication.
+[01:35:56.000 --> 01:36:06.000]   So, deduplication is a very interesting connection between technical and legal issues.
+[01:36:06.000 --> 01:36:11.000]   Because I upload a movie.
+[01:36:11.000 --> 01:36:16.000]   Then you download the movie that I uploaded in Megaupload.
+[01:36:17.000 --> 01:36:22.000]   Then you re-upload the movie in Megaupload, because then you want to share also.
+[01:36:22.000 --> 01:36:29.000]   Because you want to have a free premium account, or you want to have traffic on your blog,
+[01:36:29.000 --> 01:36:35.000]   because you publish the link to the movies that can be freely downloaded, so people will visit your blog,
+[01:36:35.000 --> 01:36:38.000]   and see the money from the advertisement.
+[01:36:38.000 --> 01:36:42.000]   So you re-upload the movie. It is the same file.
+[01:36:43.000 --> 01:36:50.000]   What was the smart technical idea that Megaupload had?
+[01:36:50.000 --> 01:36:53.000]   Okay, we will use deduplication.
+[01:36:53.000 --> 01:37:01.000]   So, when the second, third, fourth, fifth, tenth user re-upload the same file,
+[01:37:01.000 --> 01:37:05.000]   they will just create a link to the recent material.
+[01:37:05.000 --> 01:37:09.000]   In the first one, upload it, and then everybody in the Zoom download the movie,
+[01:37:10.000 --> 01:37:16.000]   and then when you re-upload the movie, you will get one copy, but a thousand links to the file.
+[01:37:16.000 --> 01:37:19.000]   Everybody has a different link.
+[01:37:19.000 --> 01:37:30.000]   Now the Sony discover, who is the producer of the movie,
+[01:37:30.000 --> 01:37:36.000]   discovered that I published the link to the file in my blog,
+[01:37:37.000 --> 01:37:41.000]   and they sent a letter to me, but I don't care,
+[01:37:41.000 --> 01:37:53.000]   to Megaupload saying, "Okay, look, there is this link, which appears in the blog of Mr. Vincenzo Andrea,
+[01:37:53.000 --> 01:38:01.000]   and the link is this, and it is allowing people to download that particular movie, which is our copy.
+[01:38:01.000 --> 01:38:06.000]   We ask you to remove the link, to remove the material."
+[01:38:06.000 --> 01:38:12.000]   Then, what they did, they removed my link, leaving all the other links alive.
+[01:38:12.000 --> 01:38:23.000]   They didn't remove the content of the link, claiming that maybe one of you was Sony,
+[01:38:23.000 --> 01:38:30.000]   was using it for their own reason, with the permission of Sony, or Sony itself,
+[01:38:31.000 --> 01:38:40.000]   using the service for uploading legitimately the file that is your own file.
+[01:38:40.000 --> 01:38:46.000]   Here it can stand as an argument.
+[01:38:46.000 --> 01:38:56.000]   And the deduplication was the problem that was causing the service to close down,
+[01:38:57.000 --> 01:39:03.000]   and then they reappear, they are now known in the name of Megaupload,
+[01:39:03.000 --> 01:39:07.000]   but they are still offering the service.
+[01:39:07.000 --> 01:39:14.000]   One thing which is also interesting, aside from the role of deduplication,
+[01:39:14.000 --> 01:39:26.000]   is the fact that somehow the premium service of Megaupload was suggesting the fact that
+[01:39:26.000 --> 01:39:38.000]   there were quite a lot of people which were willing to pay between 5 and 10 dollars per month
+[01:39:38.000 --> 01:39:45.000]   for being able to download music for free, for a subscription.
+[01:39:45.000 --> 01:39:49.000]   Is this, you know, remembering you something?
+[01:39:49.000 --> 01:39:53.000]   You have something in mind which is similar to this?
+[01:39:54.000 --> 01:39:59.000]   After a few years, legitimate streaming services appear.
+[01:39:59.000 --> 01:40:01.000]   What do they do?
+[01:40:01.000 --> 01:40:07.000]   They reach an agreement with the music industry, with music companies,
+[01:40:07.000 --> 01:40:15.000]   negotiating the amount of money that Spotify has to pay to the owner of the copyright,
+[01:40:15.000 --> 01:40:23.000]   to the production companies, and asking people to pay for the usage of the service
+[01:40:23.000 --> 01:40:39.000]   or using the advertisement for getting money even from the people who don't pay the premium account.
+[01:40:39.000 --> 01:40:45.000]   They offer a few features with the premium account,
+[01:40:45.000 --> 01:40:49.000]   the possibility to download the music from the device,
+[01:40:50.000 --> 01:40:53.000]   and a few others, but nothing else.
+[01:40:53.000 --> 01:40:58.000]   And they protect the content with a relatively strong DRM,
+[01:40:58.000 --> 01:41:09.000]   which is at least not well known for being circumvented, as far as I know.
+[01:41:09.000 --> 01:41:19.000]   There are ways to partially circumvent this protection, but they are not really so effective.
+[01:41:20.000 --> 01:41:29.000]   Now, that was a very successful model for several other companies nowadays,
+[01:41:29.000 --> 01:41:33.000]   which are offering similar services, Amsterd for instance.
+[01:41:33.000 --> 01:41:45.000]   And they are, you know, this is between 2016 and 2023,
+[01:41:46.000 --> 01:41:49.000]   they have quarterly revenues, every line is a quarter,
+[01:41:49.000 --> 01:41:52.000]   this data is provided by the government, you can see that today,
+[01:41:52.000 --> 01:41:58.000]   revenue is reaching 3,000 millions.
+[01:41:58.000 --> 01:42:02.000]   3,000 millions, sorry.
+[01:42:02.000 --> 01:42:05.000]   No, 3 billions.
+[01:42:05.000 --> 01:42:09.000]   So, it's quite a bit of money,
+[01:42:09.000 --> 01:42:14.000]   quite a bit of users,
+[01:42:15.000 --> 01:42:24.000]   they have more than 500 millions active users per month,
+[01:42:24.000 --> 01:42:30.000]   they have more than 200 millions paying users,
+[01:42:30.000 --> 01:42:36.000]   they have more than 300 millions,
+[01:42:36.000 --> 01:42:39.000]   are supported by advertisement.
+[01:42:39.000 --> 01:42:42.000]   So, this data is transported.
+[01:42:43.000 --> 01:42:45.000]   So, very successful, very successful.
+[01:42:45.000 --> 01:42:48.000]   They negotiated agreements with the record companies,
+[01:42:48.000 --> 01:42:51.000]   and one of the agreements they negotiated with the record companies
+[01:42:51.000 --> 01:42:54.000]   is that, okay, we give you like the radio,
+[01:42:54.000 --> 01:42:57.000]   the radio plays a song,
+[01:42:57.000 --> 01:43:00.000]   if the radio is broadcasting a song,
+[01:43:00.000 --> 01:43:04.000]   they have to pay a small amount to the copywriter,
+[01:43:04.000 --> 01:43:07.000]   and this is what also Spotify is doing.
+[01:43:07.000 --> 01:43:11.000]   But they negotiate for being more attractive to the record company,
+[01:43:12.000 --> 01:43:18.000]   and we also offer you the possibility to buy a share of the company.
+[01:43:18.000 --> 01:43:23.000]   You buy 1% of the company's share.
+[01:43:23.000 --> 01:43:26.000]   So, if the company makes profit,
+[01:43:26.000 --> 01:43:29.000]   because you, record company, give us the catalog,
+[01:43:29.000 --> 01:43:33.000]   so we became more attractive for the people,
+[01:43:33.000 --> 01:43:37.000]   then they will download your music, but also music from other companies,
+[01:43:37.000 --> 01:43:40.000]   you will get 1% of this.
+[01:43:41.000 --> 01:43:45.000]   So, the intercept is a smart idea,
+[01:43:45.000 --> 01:43:51.000]   so that the record companies are more willing to reach an agreement
+[01:43:51.000 --> 01:43:55.000]   that allows Spotify to have access to the music.
+[01:43:55.000 --> 01:43:59.000]   Yes, but, if you are the musician,
+[01:43:59.000 --> 01:44:08.000]   the relationship with the company which is producing a set of your music
+[01:44:09.000 --> 01:44:11.000]   is normally bound to a contract,
+[01:44:11.000 --> 01:44:16.000]   the contract is related to how many copies of the CDs are sold,
+[01:44:16.000 --> 01:44:19.000]   how many digital copies are downloaded by people
+[01:44:19.000 --> 01:44:23.000]   that are directly from the company where they store.
+[01:44:23.000 --> 01:44:30.000]   So, the percentage of what the music company is receiving,
+[01:44:30.000 --> 01:44:37.000]   the producer, is receiving when the music is broadcasted by a radio station,
+[01:44:38.000 --> 01:44:39.000]   is received by Spotify.
+[01:44:39.000 --> 01:44:46.000]   Fine, great, but it's very difficult that this contract is saying
+[01:44:46.000 --> 01:44:52.000]   that the artist is getting some portion of what the music company is getting
+[01:44:52.000 --> 01:45:00.000]   from Spotify, for instance, because the music company has 1% of Spotify's shares.
+[01:45:01.000 --> 01:45:08.000]   Because the music company could be buying a hotel,
+[01:45:08.000 --> 01:45:13.000]   or investing some money, and getting some percent, some revenues from the money,
+[01:45:13.000 --> 01:45:16.000]   from the hotel, and the artist has nothing to do with this.
+[01:45:16.000 --> 01:45:20.000]   So, the contract of the artist normally don't include this.
+[01:45:20.000 --> 01:45:27.000]   So, Spotify is making some money, sharing some money with the music company,
+[01:45:28.000 --> 01:45:32.000]   except for the broadcasting of the music of the artist,
+[01:45:32.000 --> 01:45:37.000]   it's not really going into the pockets of the artist.
+[01:45:37.000 --> 01:45:43.000]   So, this is a problem, and also the fact that this is affecting more
+[01:45:43.000 --> 01:45:49.000]   the smaller, independent, unknown artists, rather than the famous ones.
+[01:45:49.000 --> 01:45:53.000]   Because the famous ones, clearly not a problem,
+[01:45:54.000 --> 01:45:59.000]   because the famous ones, not even the artist, but the agent of the artist,
+[01:45:59.000 --> 01:46:03.000]   the agent, calls the company and says, "Ok, we want to negotiate again the contract
+[01:46:03.000 --> 01:46:07.000]   and get you some money from the shares you get from Spotify,
+[01:46:07.000 --> 01:46:11.000]   otherwise we break the contract, we pay the fine,
+[01:46:11.000 --> 01:46:15.000]   and we go to another music label."
+[01:46:15.000 --> 01:46:22.000]   In the end, for a very famous artist, it's relatively easy to do something.
+[01:46:23.000 --> 01:46:29.000]   For the unknown ones, they have no way to force a negotiation.
+[01:46:29.000 --> 01:46:41.000]   Ok, so there are also problems with this kind of streaming services,
+[01:46:41.000 --> 01:46:44.000]   and there is another factor from several years,
+[01:46:44.000 --> 01:46:48.000]   Spotify has this program, Spotify for Artists,
+[01:46:49.000 --> 01:46:53.000]   which is somehow trying to support independent artists,
+[01:46:53.000 --> 01:46:58.000]   even people who don't have a record company, they could upload.
+[01:46:58.000 --> 01:47:02.000]   If you do music, you can upload your own music to Spotify,
+[01:47:02.000 --> 01:47:06.000]   or they use their service for distributing.
+[01:47:06.000 --> 01:47:09.000]   So they are trying to address this issue.
+[01:47:09.000 --> 01:47:13.000]   Ok, sorry it's a bit late.
+[01:47:18.000 --> 01:47:21.000]   We can extend the lunch.
+[01:47:21.000 --> 01:47:23.000]   Thank you.
+[01:47:23.000 --> 01:47:25.320]   (footsteps)

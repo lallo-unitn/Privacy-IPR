@@ -1,0 +1,547 @@
+Part 1
+
+[00:00:00.000 --> 00:00:07.000]   [ Silence ]
+[00:00:07.000 --> 00:00:17.000]   [ Noise ]
+[00:00:17.000 --> 00:00:27.000]   [ Noise ]
+[00:00:27.000 --> 00:00:37.000]   [ Noise ]
+[00:00:55.000 --> 00:01:05.000]   [ Noise ]
+[00:01:13.000 --> 00:01:23.000]   [ Noise ]
+[00:01:37.000 --> 00:01:43.000]   [ Noise ]
+[00:01:43.000 --> 00:01:53.000]   [ Inaudible Remark ]
+[00:01:53.000 --> 00:01:55.000]   >> The summaries.
+[00:01:55.000 --> 00:02:02.000]   So, by today you should be uploading that.
+[00:02:02.000 --> 00:02:06.000]   As far as I remember you need two summaries in order to apply
+[00:02:06.000 --> 00:02:08.000]   as an attendee student.
+[00:02:08.000 --> 00:02:10.000]   OK? Even this one.
+[00:02:10.000 --> 00:02:15.000]   [ Noise ]
+[00:02:15.000 --> 00:02:18.000]   And yesterday we were talking about the legal protection
+[00:02:18.000 --> 00:02:20.000]   of software.
+[00:02:20.000 --> 00:02:25.000]   [ Noise ]
+[00:02:25.000 --> 00:02:35.000]   I just wanted to finish by mentioning Article 6
+[00:02:35.000 --> 00:02:43.000]   of the European Directive Number 24 of 2009.
+[00:02:43.000 --> 00:02:54.000]   [ Inaudible Remark ]
+[00:02:54.000 --> 00:02:58.000]   >> You had a question about what you explained yesterday.
+[00:02:58.000 --> 00:03:03.000]   You, I think in Article 5, there was the distinction
+[00:03:03.000 --> 00:03:08.000]   between software developed by a person, a normal person
+[00:03:08.000 --> 00:03:11.000]   and software developed by a person under contract,
+[00:03:11.000 --> 00:03:13.000]   for example, by an enterprise.
+[00:03:13.000 --> 00:03:16.000]   >> Or higher, it is called, yes.
+[00:03:16.000 --> 00:03:20.000]   >> And what about like independent contractors?
+[00:03:20.000 --> 00:03:23.000]   Are they treated the same as employees
+[00:03:23.000 --> 00:03:26.000]   for a big enterprise or?
+[00:03:26.000 --> 00:03:30.000]   >> That's entirely depend on the contract.
+[00:03:30.000 --> 00:03:31.000]   >> OK.
+[00:03:31.000 --> 00:03:35.000]   >> So you may have very different,
+[00:03:35.000 --> 00:03:38.000]   very different approaches.
+[00:03:38.000 --> 00:03:43.000]   >> Think about the UNIX operating system, right?
+[00:03:43.000 --> 00:03:46.000]   It was owned by AT&T.
+[00:03:46.000 --> 00:03:51.000]   And AT&T made a contract with IBM, Microsoft,
+[00:03:51.000 --> 00:03:56.000]   the Sun Microsystem, et cetera, et cetera, et cetera,
+[00:03:56.000 --> 00:04:03.000]   to let them develop the software.
+[00:04:03.000 --> 00:04:09.000]   And usually, most of those contracts are undisclosed
+[00:04:09.000 --> 00:04:15.000]   and are secret so we don't actually know what's going on.
+[00:04:15.000 --> 00:04:22.000]   But basically, we have a reason to believe that basically,
+[00:04:22.000 --> 00:04:30.000]   the version of IBM of the UNIX operating system was at least
+[00:04:30.000 --> 00:04:37.000]   with regard to the modification made by IBM were owned by IBM,
+[00:04:37.000 --> 00:04:43.000]   OK, and not transferred back to AT&T.
+[00:04:43.000 --> 00:04:47.000]   But that's just an assumption because we do not read.
+[00:04:47.000 --> 00:04:50.000]   We didn't read the contract.
+[00:04:50.000 --> 00:04:55.000]   But usually that-- that's actually a very interesting
+[00:04:55.000 --> 00:05:02.000]   question because there are some piece of software--
+[00:05:02.000 --> 00:05:05.000]   [ Pause ]
+[00:05:05.000 --> 00:05:09.000]   Well, let me put it this way.
+[00:05:09.000 --> 00:05:19.000]   I'm buying a copy of Microsoft Office Suite, OK?
+[00:05:19.000 --> 00:05:25.000]   And I buy the right to run it, to use it on my computer
+[00:05:25.000 --> 00:05:28.000]   with a license.
+[00:05:28.000 --> 00:05:40.000]   Another hypothesis, Microsoft sells me the Office Suite
+[00:05:40.000 --> 00:05:45.000]   but gives me also the source code so I can develop it
+[00:05:45.000 --> 00:05:49.000]   and make a derivative work of it.
+[00:05:49.000 --> 00:05:53.000]   Do you think those two licenses are the same?
+[00:05:53.000 --> 00:05:55.000]   They are not.
+[00:05:55.000 --> 00:06:02.000]   In Italy specifically, we are in contract law.
+[00:06:02.000 --> 00:06:08.000]   We have some defined types of contract.
+[00:06:08.000 --> 00:06:13.000]   Contract of sale, if I sell a car, if I sell a lunch,
+[00:06:13.000 --> 00:06:17.000]   that's a contract which is highly regulated with regard
+[00:06:17.000 --> 00:06:23.000]   to all these product effects and stuff like that.
+[00:06:23.000 --> 00:06:26.000]   We call it sale.
+[00:06:26.000 --> 00:06:30.000]   It's a specific contract with a specific set of rules.
+[00:06:30.000 --> 00:06:37.000]   Then we have another contract which is rent-- renting, OK?
+[00:06:37.000 --> 00:06:47.000]   If I rent you my apartment, I give you the right to use it
+[00:06:47.000 --> 00:06:51.000]   for living, usually I don't give you the right to use it
+[00:06:51.000 --> 00:06:54.000]   to sublet it, OK?
+[00:06:54.000 --> 00:06:59.000]   That's another type of contract with very specific regulation.
+[00:06:59.000 --> 00:07:04.000]   It specifies when I have to pay the rent, how I have
+[00:07:04.000 --> 00:07:08.000]   to keep the apartment and stuff like that.
+[00:07:08.000 --> 00:07:17.000]   Now, Italian court system didn't have a specific discipline
+[00:07:17.000 --> 00:07:21.000]   of software licenses, OK?
+[00:07:21.000 --> 00:07:27.000]   So at one point in time in the mid '90s,
+[00:07:27.000 --> 00:07:33.000]   they had to decide which type software licenses
+[00:07:33.000 --> 00:07:40.000]   to perform in order to apply the specific rules that are dictated
+[00:07:40.000 --> 00:07:43.000]   for renting or saving.
+[00:07:43.000 --> 00:07:48.000]   And the distinction they made was that if I give you a program
+[00:07:48.000 --> 00:07:53.000]   and a source code and I let you modify it,
+[00:07:53.000 --> 00:07:58.000]   maybe even sell the modification or the modified version,
+[00:07:58.000 --> 00:08:01.000]   that's a sale.
+[00:08:01.000 --> 00:08:06.000]   And the rules of sales are going to be applied.
+[00:08:06.000 --> 00:08:10.000]   On the other side, if you have a software license
+[00:08:10.000 --> 00:08:14.000]   for using the program but not developing it,
+[00:08:14.000 --> 00:08:19.000]   that's a rent, sort of rental.
+[00:08:19.000 --> 00:08:24.000]   That was-- technicality is used by Italian judges in order
+[00:08:24.000 --> 00:08:30.000]   to understand which rules related to those specific types
+[00:08:30.000 --> 00:08:35.000]   of contract applied in those different situations, OK?
+[00:08:35.000 --> 00:08:42.000]   So what I'm trying to say is the fact that it is a mess.
+[00:08:42.000 --> 00:08:44.000]   Unless you read the contract,
+[00:08:44.000 --> 00:08:48.000]   you don't know actually what's going on, OK?
+[00:08:48.000 --> 00:08:54.000]   So in your example, it's very difficult
+[00:08:54.000 --> 00:08:59.000]   to understand the boundaries between renting and selling.
+[00:08:59.000 --> 00:09:04.000]   OK? I don't know whether this answers your question.
+[00:09:04.000 --> 00:09:05.000]   Not entirely.
+[00:09:05.000 --> 00:09:09.000]   >> Yes. I took-- like there was going to be--
+[00:09:09.000 --> 00:09:15.000]   >> What I'm trying to say is that when you are writing software
+[00:09:15.000 --> 00:09:21.000]   for someone else, OK, that activity is regulated
+[00:09:21.000 --> 00:09:26.000]   by the contract or labor contract.
+[00:09:26.000 --> 00:09:30.000]   So the general rule set by--
+[00:09:30.000 --> 00:09:42.000]   -- Article 2, Number 3 is that generally speaking,
+[00:09:42.000 --> 00:09:48.000]   every piece of software written by an employee belongs
+[00:09:48.000 --> 00:09:50.000]   to the employer.
+[00:09:50.000 --> 00:09:53.000]   Keep in mind that there is also the more--
+[00:09:53.000 --> 00:09:57.000]   the so-called moral right that's not related
+[00:09:57.000 --> 00:10:00.000]   to the economic exploitation of the program.
+[00:10:00.000 --> 00:10:03.000]   But that's just the general rule.
+[00:10:03.000 --> 00:10:09.000]   So your specific contract, labor contract, may be different
+[00:10:09.000 --> 00:10:13.000]   and may allow you to keep the software.
+[00:10:13.000 --> 00:10:18.000]   So you have to see that rule as the default.
+[00:10:18.000 --> 00:10:24.000]   But that can be configured in order to change it.
+[00:10:24.000 --> 00:10:29.000]   So generally speaking, every work of hire belongs
+[00:10:29.000 --> 00:10:34.000]   to the employer but there are situations
+[00:10:34.000 --> 00:10:41.000]   where the employer buys the final product
+[00:10:41.000 --> 00:10:46.000]   which still belongs to the employee.
+[00:10:46.000 --> 00:10:49.000]   Is that clear?
+[00:10:49.000 --> 00:10:50.000]   Not entirely?
+[00:10:50.000 --> 00:10:55.000]   >> Yes, because for example if I am an employee for an enterprise
+[00:10:55.000 --> 00:10:58.000]   and I do-- and I write a program--
+[00:10:58.000 --> 00:11:00.000]   >> Let me add something more.
+[00:11:00.000 --> 00:11:02.000]   >> OK.
+[00:11:02.000 --> 00:11:07.000]   >> In the US and the Anglo-Saxon tradition, the relationship
+[00:11:07.000 --> 00:11:11.000]   between the employer and the employee was called master
+[00:11:11.000 --> 00:11:17.000]   and servant, OK, and that master and servant relationship is
+[00:11:17.000 --> 00:11:20.000]   highly regulated by the law.
+[00:11:20.000 --> 00:11:23.000]   We call it law or law indeed.
+[00:11:23.000 --> 00:11:29.000]   Nowadays instead, we have very different types of relationships
+[00:11:29.000 --> 00:11:34.000]   between enterprises and individuals.
+[00:11:34.000 --> 00:11:40.000]   We call them contractor but they are not employees, OK.
+[00:11:40.000 --> 00:11:44.000]   So in order to understand the relationship,
+[00:11:44.000 --> 00:11:49.000]   you need to read the contract because we have such a variety
+[00:11:49.000 --> 00:11:52.000]   of possible different relationships
+[00:11:52.000 --> 00:12:00.000]   that it's not possible to assume them into a single framework.
+[00:12:00.000 --> 00:12:05.000]   So traditionally, we had the master and servant relationship
+[00:12:05.000 --> 00:12:09.000]   in which case, paragraph 3 of article 2
+[00:12:09.000 --> 00:12:13.000]   of the European directive applies.
+[00:12:13.000 --> 00:12:18.000]   But you can also outsource the creation of the software
+[00:12:18.000 --> 00:12:22.000]   to someone else to an independent coder,
+[00:12:22.000 --> 00:12:27.000]   in which case the ownership of the coder written
+[00:12:27.000 --> 00:12:31.000]   by that independent coder may be very different
+[00:12:31.000 --> 00:12:36.000]   and usually it is specified by the contract.
+[00:12:36.000 --> 00:12:43.000]   I would say that practically every time someone
+[00:12:43.000 --> 00:12:50.000]   hires an independent contractor to write a piece of code,
+[00:12:50.000 --> 00:12:56.000]   the coder will belong to the person hiring the coder.
+[00:12:56.000 --> 00:13:01.000]   But that's not written in the law.
+[00:13:01.000 --> 00:13:04.000]   The only thing that is written in the law is that
+[00:13:04.000 --> 00:13:07.000]   if you have a stable relationship which
+[00:13:07.000 --> 00:13:11.000]   is called the master and servant, employer, employee,
+[00:13:11.000 --> 00:13:17.000]   then the general rule is article 2, letter, section 3
+[00:13:17.000 --> 00:13:19.000]   of the European directive.
+[00:13:19.000 --> 00:13:27.000]   I don't know whether you are satisfied with my answer.
+[00:13:27.000 --> 00:13:30.000]   I still have a couple of doubts but I'll ask later.
+[00:13:30.000 --> 00:13:32.000]   Well, no, probably that's it.
+[00:13:32.000 --> 00:13:35.000]   I don't know, that may be interesting for everyone.
+[00:13:35.000 --> 00:13:39.000]   The first thing is, let's suppose I am an employee
+[00:13:39.000 --> 00:13:44.000]   for a company and I am writing a program for this company
+[00:13:44.000 --> 00:13:49.000]   but I'm also writing the same program but in my free time,
+[00:13:49.000 --> 00:13:55.000]   anonymizing all of the, for example, API keys and things like that.
+[00:13:55.000 --> 00:13:58.000]   It's the exact same program but in my free time
+[00:13:58.000 --> 00:14:02.000]   and without any company resources, would that be mine
+[00:14:02.000 --> 00:14:04.000]   or would that belong to the company?
+[00:14:04.000 --> 00:14:08.000]   Well, that's a difficult situation because probably
+[00:14:08.000 --> 00:14:11.000]   you are branching your neighbour contract.
+[00:14:11.000 --> 00:14:16.000]   That is to say, usually when you sign a contract,
+[00:14:16.000 --> 00:14:21.000]   a master and servant relationship, you are also
+[00:14:21.000 --> 00:14:29.000]   assuming the obligation not to compete with your employer.
+[00:14:29.000 --> 00:14:35.000]   In your case, in the example you made, instead you are competing
+[00:14:35.000 --> 00:14:41.000]   and you are also cheating actually because you are trying to,
+[00:14:41.000 --> 00:14:50.000]   you know, use the same job to get paid twice
+[00:14:50.000 --> 00:14:54.000]   and usually that's covered by the contract.
+[00:14:54.000 --> 00:15:02.000]   So, you won't be finding any specific regulation
+[00:15:02.000 --> 00:15:05.000]   in the legal system that allows you to do that
+[00:15:05.000 --> 00:15:12.000]   but usually there are contractual clauses that prohibit you to do that.
+[00:15:12.000 --> 00:15:17.000]   But that depends on the contract and the contract, you know,
+[00:15:17.000 --> 00:15:25.000]   is written by private entities, private parties, so that's it.
+[00:15:25.000 --> 00:15:28.000]   Is it fine?
+[00:15:28.000 --> 00:15:36.000]   What about the same example but after that I am away from the company?
+[00:15:36.000 --> 00:15:41.000]   Like I am no longer an employee for the same company?
+[00:15:41.000 --> 00:15:52.000]   Well, that's an interesting point because usually when you get fired
+[00:15:52.000 --> 00:15:59.000]   or you decide not to work for a company any longer,
+[00:15:59.000 --> 00:16:05.000]   usually you will be asked to sign a disclosure agreement
+[00:16:05.000 --> 00:16:11.000]   so that you will prohibit it from competing with your former employee
+[00:16:11.000 --> 00:16:16.000]   for a given period of time, usually it's five years.
+[00:16:16.000 --> 00:16:21.000]   So that would be a breach of the no disclosure agreement
+[00:16:21.000 --> 00:16:26.000]   you signed with your previous employer.
+[00:16:26.000 --> 00:16:35.000]   But once again, we do have a general rule in Italy
+[00:16:35.000 --> 00:16:43.000]   according to which after stopping to work with a given employer,
+[00:16:43.000 --> 00:16:52.000]   you are still obliged to keep secret what you learned with your employer
+[00:16:52.000 --> 00:16:58.000]   and not to compete with him for a given period of time.
+[00:16:58.000 --> 00:17:04.000]   As far as I remember, the court decisions in interpreting the rule
+[00:17:04.000 --> 00:17:10.000]   said that the maximum amount of time you are not allowed to compete
+[00:17:10.000 --> 00:17:15.000]   is five years, after that you are free.
+[00:17:15.000 --> 00:17:24.000]   I have a friend, he's not a coder but he's a very specified technician,
+[00:17:24.000 --> 00:17:29.000]   machinery staff, very complicated staff.
+[00:17:29.000 --> 00:17:36.000]   He decided to quit the job he was doing but before quitting
+[00:17:36.000 --> 00:17:41.000]   he was required to sign a disclosure agreement
+[00:17:41.000 --> 00:17:48.000]   and a competition agreement that lasted, as far as I remember, three years.
+[00:17:48.000 --> 00:17:54.000]   So he could not work in the same industry for three years
+[00:17:54.000 --> 00:17:58.000]   and he had to leave and go abroad in order to do so
+[00:17:58.000 --> 00:18:04.000]   because that contract was not a line of road.
+[00:18:04.000 --> 00:18:06.000]   Is it fine?
+[00:18:06.000 --> 00:18:12.000]   But at the same time, if you try to reuse the code you previously wrote at the company
+[00:18:12.000 --> 00:18:16.000]   and then you left, wouldn't the Regus Empereus sue you
+[00:18:16.000 --> 00:18:19.000]   because you're using a code that's in the organization?
+[00:18:19.000 --> 00:18:26.000]   Definitely, because according to section three of paragraph two,
+[00:18:26.000 --> 00:18:31.000]   if you do not have an exception in your contract,
+[00:18:31.000 --> 00:18:35.000]   you're bound by that rules so that every piece of code you write
+[00:18:35.000 --> 00:18:41.000]   is not yours, it belongs to the employer.
+[00:18:41.000 --> 00:18:48.000]   So if you're reusing that code, you're basically stealing.
+[00:18:48.000 --> 00:18:51.000]   It's not stealing, it is copyright infringement.
+[00:18:51.000 --> 00:18:57.000]   But they are infringing copyright of your former employee, yes.
+[00:18:57.000 --> 00:19:00.000]   And there is no way out.
+[00:19:00.000 --> 00:19:11.000]   If you plan to do something like that, you must be sure to write it in the contract
+[00:19:11.000 --> 00:19:17.000]   at the very beginning of your working for the lawyer.
+[00:19:17.000 --> 00:19:27.000]   That's the only way because the legal rules are pretty strict, so it's not allowed.
+[00:19:27.000 --> 00:19:33.000]   So unless you have a specific contract that allows you to do that,
+[00:19:33.000 --> 00:19:42.000]   and there is no way out, so you need a contract specifying that you have the right to do that.
+[00:19:42.000 --> 00:19:52.000]   I don't get whether this non-disclosure agreement covers what you learned in the company
+[00:19:52.000 --> 00:19:56.000]   like a patent does or like a copyright does.
+[00:19:56.000 --> 00:20:04.000]   It covers the ideas, the concepts, the techniques that you learned in a company
+[00:20:04.000 --> 00:20:06.000]   or the way those are applied.
+[00:20:06.000 --> 00:20:14.000]   Well, that's an even more complicated question I will try to answer.
+[00:20:14.000 --> 00:20:24.000]   First you need to remember that you are not allowed to patent something
+[00:20:24.000 --> 00:20:30.000]   if that something has been disclosed.
+[00:20:30.000 --> 00:20:40.000]   Outside the boundaries of another research group that is working on the invention,
+[00:20:40.000 --> 00:20:47.000]   you have to file for the patent before any disclosure.
+[00:20:47.000 --> 00:20:54.000]   That's an issue in the software industry as we will see right now talking about free software.
+[00:20:54.000 --> 00:21:01.000]   Because that means that if someone asks you something about what you are doing
+[00:21:01.000 --> 00:21:10.000]   and what you are doing is something that could be patentable, but not yet patented,
+[00:21:10.000 --> 00:21:18.000]   if you disclose you lose the possibility to get a patent.
+[00:21:18.000 --> 00:21:26.000]   That's the legal regulation of patents.
+[00:21:26.000 --> 00:21:36.000]   The other problem I think you were rising is whether do the disclosure agreement covers
+[00:21:36.000 --> 00:21:45.000]   what you have been learning during your working for your employee.
+[00:21:45.000 --> 00:21:46.000]   Is that correct?
+[00:21:46.000 --> 00:21:47.000]   Yes.
+[00:21:47.000 --> 00:21:52.000]   That depends on the disclosure agreement.
+[00:21:52.000 --> 00:21:58.000]   There are disclosure agreements that are very, very strict
+[00:21:58.000 --> 00:22:06.000]   and do not allow you to discuss anything or to use anything you learn.
+[00:22:06.000 --> 00:22:12.000]   But instead there are non-disclosure agreements that are more flexible
+[00:22:12.000 --> 00:22:18.000]   and allows you to use the knowledge but not to use the code.
+[00:22:18.000 --> 00:22:31.000]   So you may look at those non-disclosure agreements as like a spectrum with different level of liabilities,
+[00:22:31.000 --> 00:22:36.000]   different level of possible disclosure and so on and so forth.
+[00:22:36.000 --> 00:22:46.000]   It is not possible to judge without reading the contract.
+[00:22:46.000 --> 00:22:53.000]   Usually contract law and copyright regulation, patent regulation,
+[00:22:53.000 --> 00:23:01.000]   I mean the legal system gives broad powers to the parties.
+[00:23:01.000 --> 00:23:03.000]   Why?
+[00:23:03.000 --> 00:23:09.000]   Because the legal system is aware, while I'm talking about the legal system as a person,
+[00:23:09.000 --> 00:23:18.000]   which is not what I'm trying to say is that rules are aware of the fact that there may be very different situations
+[00:23:18.000 --> 00:23:25.000]   and those rules must apply to everyone, every specific situation.
+[00:23:25.000 --> 00:23:34.000]   So it's not possible to judge ex ante how strict a non-disclosure agreement is.
+[00:23:34.000 --> 00:23:44.000]   Usually Italian judges are more strict in interpreting the power of the employer
+[00:23:44.000 --> 00:23:50.000]   in imposing a non-disclosure agreement to their employee.
+[00:23:50.000 --> 00:24:01.000]   Instead in the United States there is that principle which is called freedom of contract
+[00:24:01.000 --> 00:24:15.000]   according to which the legal system should create the minimum level of limitations.
+[00:24:15.000 --> 00:24:26.000]   So usually you will find that in the US the non-disclosure agreement may be far stricter
+[00:24:26.000 --> 00:24:31.000]   than a non-disclosure agreement covering the same issue in Italy.
+[00:24:31.000 --> 00:24:49.000]   Because in Italy judges will use the concept of your freedom of creating new relationships with other employers
+[00:24:49.000 --> 00:24:57.000]   and Italian judges will value that freedom more than the freedom of contract.
+[00:24:57.000 --> 00:24:59.000]   But that's the general principle.
+[00:24:59.000 --> 00:25:07.000]   Then you have to dig into the specific contract and see what is the specific contract.
+[00:25:07.000 --> 00:25:15.000]   For instance, in Italy it would be prohibited to have it or better.
+[00:25:15.000 --> 00:25:27.000]   The non-disclosure agreement would be valid if it would be a period of time that is longer than five years.
+[00:25:27.000 --> 00:25:38.000]   In the US I'm not an expert but I'm pretty sure that in the US a non-disclosure agreement may last far longer than five years.
+[00:25:38.000 --> 00:25:47.000]   So there are details that are different but the rules are basically the same.
+[00:25:47.000 --> 00:25:57.000]   But I understand that details are very important and the details can be found only by evaluating the contract
+[00:25:57.000 --> 00:26:06.000]   and by evaluating the court decisions.
+[00:26:06.000 --> 00:26:09.000]   Other questions?
+[00:26:09.000 --> 00:26:12.000]   No?
+[00:26:12.000 --> 00:26:19.000]   Interesting questions.
+[00:26:19.000 --> 00:26:32.000]   Well, you remember that Article 5 of the European Directing is basically a copy of Section 117 of Title 17 of the US Code.
+[00:26:32.000 --> 00:26:40.000]   The copy and some form of adaptation for personal uses of the software.
+[00:26:40.000 --> 00:26:43.000]   What's different?
+[00:26:43.000 --> 00:26:48.000]   I'm sorry it's Friday afternoon for me too.
+[00:26:48.000 --> 00:26:51.000]   I'm reading my... I'm reading.
+[00:26:51.000 --> 00:27:01.000]   I'm drinking my tea but it doesn't work very much today.
+[00:27:01.000 --> 00:27:06.000]   Article 6 is more interesting.
+[00:27:06.000 --> 00:27:09.000]   You see, we read it.
+[00:27:09.000 --> 00:27:18.000]   The authorization of the right holders shall not be required where reproduction of the code and translation of its form
+[00:27:18.000 --> 00:27:30.000]   within the meaning of points A and B of Article 4.1 are indispensable to obtain the information necessary
+[00:27:30.000 --> 00:27:38.000]   to achieve the interoperability of an independently created computer program with other programs
+[00:27:38.000 --> 00:27:43.000]   provided that the following conditions are met.
+[00:27:43.000 --> 00:27:54.000]   Those acts are performed by the licensees, the licensee or by another person having the right to use a copy of the program
+[00:27:54.000 --> 00:28:00.000]   or on their behalf by a person authorized to do so.
+[00:28:00.000 --> 00:28:11.000]   The information necessary to achieve the interoperability has not previously been readily available to the person
+[00:28:11.000 --> 00:28:14.000]   referred to in point A and C.
+[00:28:14.000 --> 00:28:24.000]   Those acts are confined to the parts of the original program which are necessary in order to achieve the interoperability.
+[00:28:24.000 --> 00:28:36.000]   I know that my English reading sucks but did you understand what that stuff talks about?
+[00:28:36.000 --> 00:28:42.000]   I think you didn't.
+[00:28:42.000 --> 00:28:46.000]   So I will give you an example.
+[00:28:46.000 --> 00:28:50.000]   You know LibreOffice?
+[00:28:50.000 --> 00:28:56.000]   LibreOffice before changing the name was called OpenOffice.
+[00:28:56.000 --> 00:28:59.000]   Actually OpenOffice is still there.
+[00:28:59.000 --> 00:29:05.000]   And before it was called StarOffice.
+[00:29:05.000 --> 00:29:18.000]   StarOffice was the program of a software house based in Germany that at some point decided to release the code
+[00:29:18.000 --> 00:29:25.000]   and to make the code open source, free software, call it what you want.
+[00:29:25.000 --> 00:29:36.000]   In order to get the contribution by the community.
+[00:29:36.000 --> 00:29:47.000]   It was written in C++ which is a whole programming language if you know what I mean.
+[00:29:47.000 --> 00:29:52.000]   Sometimes you have to write C++ nonetheless.
+[00:29:52.000 --> 00:30:04.000]   Anyway, at that time Microsoft Word was dominating the market of word processing.
+[00:30:04.000 --> 00:30:16.000]   And if you wanted to have any success in creating a competitor, you needed to be able to read and write
+[00:30:16.000 --> 00:30:27.000]   texts written in the proprietary format developed by Microsoft.
+[00:30:27.000 --> 00:30:39.000]   Fortunately that's not true any longer because as you know even Microsoft at some point decided that an open format
+[00:30:39.000 --> 00:30:43.000]   was superior to a proprietary format.
+[00:30:43.000 --> 00:30:45.000]   Why?
+[00:30:45.000 --> 00:30:49.000]   Because of the public administration.
+[00:30:49.000 --> 00:31:04.000]   The public administration stores its information in digital form and they want to have a format which is long-living.
+[00:31:04.000 --> 00:31:18.000]   They want to be able to read whatever they are writing in 20 years time.
+[00:31:18.000 --> 00:31:31.000]   And you need an open format otherwise the close proprietary format you are using belongs to a format which is not longer existent.
+[00:31:31.000 --> 00:31:35.000]   You just lost your documents.
+[00:31:35.000 --> 00:31:53.000]   So that's the reason why today we have open document which is an XML type of format used by LibreOffice, OpenOffice,
+[00:31:53.000 --> 00:31:56.000]   but even by Microsoft Word.
+[00:31:56.000 --> 00:32:09.000]   When you have a specific version of XML format by Microsoft, even that one is fully documented.
+[00:32:09.000 --> 00:32:21.000]   If you want to write a program that reads documents created with Microsoft Word, you can do that.
+[00:32:21.000 --> 00:32:26.000]   I believe that format is a mess actually.
+[00:32:26.000 --> 00:32:32.000]   I strongly prefer open document but this is just my taste.
+[00:32:32.000 --> 00:32:46.000]   Also because I do not use a Microsoft Word maybe the internal of Microsoft Word requires that type of open format.
+[00:32:46.000 --> 00:32:51.000]   I'm not able to judge.
+[00:32:51.000 --> 00:33:09.000]   But before open document was created and before Microsoft decided to switch to that open format too,
+[00:33:09.000 --> 00:33:23.000]   Microsoft was using a proprietary object code representation of a text document.
+[00:33:23.000 --> 00:33:33.000]   Moreover, if you read the end user's license agreement of Microsoft Word,
+[00:33:33.000 --> 00:33:39.000]   and I think that is the license agreement you may read today too,
+[00:33:39.000 --> 00:33:51.000]   you saw that you were not allowed to decompile or extract information about the proprietary format
+[00:33:51.000 --> 00:33:57.000]   Word was using for saving its file.
+[00:33:57.000 --> 00:34:21.000]   And if you remember, there are no exceptions related to the compilation in section 117 of title 17 of this EOS code.
+[00:34:21.000 --> 00:34:42.000]   So the end user's license agreement of Microsoft Word was binding in the US but it is not in the world.
+[00:34:42.000 --> 00:34:52.000]   So what happened? What happened was the guy at the Open Source Foundation started Office Foundation,
+[00:34:52.000 --> 00:35:01.000]   or I don't remember how they called them when they decided to release the source code.
+[00:35:01.000 --> 00:35:12.000]   They were not allowed to decompile, I'm using the word decompile just to give you an example,
+[00:35:12.000 --> 00:35:15.000]   it's not a compilation actually, you know.
+[00:35:15.000 --> 00:35:28.000]   They were not allowed to reverse, that is better, to reverse engineer the format of Microsoft Word documents
+[00:35:28.000 --> 00:35:36.000]   because the end user's license agreement of Word didn't allow them to do.
+[00:35:36.000 --> 00:35:49.000]   But that close of the end user's license agreement was not binding in Europe because it was contrary to article 6 of the European directive.
+[00:35:49.000 --> 00:35:56.000]   I don't remember, I think it was article 5 of the previous directive but the wording was the same, yes.
+[00:35:56.000 --> 00:36:05.000]   How does the end user's agreement applies if I for example send a file to you?
+[00:36:05.000 --> 00:36:08.000]   I mean I have signed an agreement with Microsoft for example.
+[00:36:08.000 --> 00:36:15.000]   Oh well, reading the file is not enough, I need to read the code of the program writing the file.
+[00:36:15.000 --> 00:36:22.000]   I can't reverse engineer the file because I have accepted that end user agreement,
+[00:36:22.000 --> 00:36:26.000]   but if I just pass the file to you, you can…
+[00:36:26.000 --> 00:36:34.000]   Well, you cannot send me a copy of Word without me signing the license agreement, that would be copyright infringement.
+[00:36:34.000 --> 00:36:38.000]   And Microsoft would sue me.
+[00:36:38.000 --> 00:36:44.000]   Is there anyone here with Microsoft installed or with Word installed?
+[00:36:44.000 --> 00:36:46.000]   Can you search…
+[00:36:46.000 --> 00:36:49.000]   I don't have Word installed, I just have it.
+[00:36:49.000 --> 00:36:54.000]   So you don't have a copy of the end user's license agreement.
+[00:36:54.000 --> 00:36:58.000]   Let me see if I can find it online, so I can read it.
+[00:36:58.000 --> 00:37:19.000]   Microsoft Word and blog, let's see, I think this could be the one.
+[00:37:19.000 --> 00:37:44.000]   [Silence]
+[00:37:44.000 --> 00:37:58.000]   [Silence]
+[00:37:58.000 --> 00:38:00.000]   Can you read it?
+[00:38:00.000 --> 00:38:06.000]   Limitations on reverse engineering, the compilation and disassembly.
+[00:38:06.000 --> 00:38:24.000]   You may not reverse engineer the compiled or disassembled software except and only to be extended that such activity is expressly permitted by applicable law notwithstanding these limitations.
+[00:38:24.000 --> 00:38:27.000]   Is that clear?
+[00:38:27.000 --> 00:38:45.000]   In the US, that activity is not permitted by applicable law.
+[00:38:45.000 --> 00:38:56.000]   But Article 6 of the European Directive expressly permitted that activity.
+[00:38:56.000 --> 00:39:01.000]   And Microsoft knows that.
+[00:39:01.000 --> 00:39:14.000]   This is the reason why they wrote to the extent that such activity is expressly permitted by applicable law notwithstanding these limitations.
+[00:39:14.000 --> 00:39:33.000]   Because the right holder shall not be required.
+[00:39:33.000 --> 00:39:38.000]   Not withstanding these limitations.
+[00:39:38.000 --> 00:39:43.000]   So is it clear?
+[00:39:43.000 --> 00:39:50.000]   The end user's license agreement doesn't allow you to reverse engineer the software.
+[00:39:50.000 --> 00:40:03.000]   And I mean reverse engineering may also mean that I write a letter on the word processing, I save it and I read what's coming out.
+[00:40:03.000 --> 00:40:06.000]   That's reverse engineering.
+[00:40:06.000 --> 00:40:08.000]   Very simply.
+[00:40:08.000 --> 00:40:18.000]   And so what did the guys of the Open Office Foundation did?
+[00:40:18.000 --> 00:40:28.000]   They did to the European guys, listen by a copy of Microsoft Word, reverse engineer.
+
+
+Part 2
+
+
+[00:00:00.000 --> 00:00:05.000]   What I call "eckiness" anyway.
+[00:00:05.000 --> 00:00:16.000]   Three years in freedom, a paper job at MIT AI artificial intelligence laboratory printer,
+[00:00:16.000 --> 00:00:26.000]   a non-disclosure agreement in computer science, and then a weird guy, Richard Stalin.
+[00:00:26.000 --> 00:00:31.000]   Did you ever meet him?
+[00:00:31.000 --> 00:00:46.000]   I had the honor, it was not an honor, it was a dreadful experience.
+[00:00:46.000 --> 00:00:57.000]   Because once he went here in Trento to deliver a conference and he asked me to make the translator.
+[00:00:57.000 --> 00:01:05.000]   I said, you know Richard, everyone talks and speaks English in our, well I don't care,
+[00:01:05.000 --> 00:01:13.000]   I will tell you what I want to say in your ear and you will translate it.
+[00:01:13.000 --> 00:01:17.000]   That was dreadful, I hate that kind of stuff.
+[00:01:17.000 --> 00:01:25.000]   The guy who was just, we were in the faculty, at that time it was the faculty of sociology.
+[00:01:25.000 --> 00:01:36.000]   And the time he was drinking his coffee and chewing his toes.
+[00:01:36.000 --> 00:01:39.000]   That's the guy.
+[00:01:39.000 --> 00:01:46.000]   Still the guy is a brilliant coder.
+[00:01:46.000 --> 00:01:48.000]   Did you have a question?
+[00:01:48.000 --> 00:01:52.000]   I'll show you your eyes.
+[00:01:52.000 --> 00:01:59.000]   But personally he's a mess.
+[00:01:59.000 --> 00:02:05.000]   We went to Verona to pick him up and we spent lunch with him.
+[00:02:05.000 --> 00:02:14.000]   And during the lunch he opened his laptop and didn't talk to us.
+[00:02:14.000 --> 00:02:17.000]   Anyway, that's the guy.
+[00:02:17.000 --> 00:02:22.000]   He wrote a compiler all alone, a C compiler.
+[00:02:22.000 --> 00:02:26.000]   I don't know whether you have been writing compilers yourself,
+[00:02:26.000 --> 00:02:35.000]   but I think that writing a compiler is quite a top level achievement for a coder.
+[00:02:35.000 --> 00:02:41.000]   And something I would like in my life to be able to achieve,
+[00:02:41.000 --> 00:02:48.000]   but I think I'm too old, so I will not try to.
+[00:02:48.000 --> 00:02:59.000]   Anyway, Stahman, this weird guy was working.
+[00:02:59.000 --> 00:03:03.000]   You know what autism is?
+[00:03:03.000 --> 00:03:06.000]   It's a spectrum.
+[00:03:06.000 --> 00:03:13.000]   It started with the syndrome of Asperger or something like that.
+[00:03:13.000 --> 00:03:18.000]   Probably the software or something like that.
+[00:03:18.000 --> 00:03:25.000]   Anyway, I just wanted to point out that dealing, talking with him
+[00:03:25.000 --> 00:03:30.000]   is not necessarily a nice experience.
+[00:03:30.000 --> 00:03:34.000]   Anyway, he's an amazing coder.
+[00:03:34.000 --> 00:03:48.000]   There are reports online of people who spent a couple of days coding with him.
+[00:03:48.000 --> 00:03:55.000]   They were mesmerized by his approach.
+[00:03:55.000 --> 00:04:00.000]   I don't know whether he had such experience with someone.
+[00:04:00.000 --> 00:04:15.000]   I had it with David Ruby, who was the author of the Darks version revision system.
+[00:04:15.000 --> 00:04:19.000]   I don't know what.
+[00:04:19.000 --> 00:04:22.000]   Do you know Darks?
+[00:04:22.000 --> 00:04:24.000]   Anyone using Darks?
+[00:04:24.000 --> 00:04:26.000]   No? It's old stuff.
+[00:04:26.000 --> 00:04:29.000]   But I'm still using it.
+[00:04:29.000 --> 00:04:32.000]   I like it. I prefer it to every...
+[00:04:32.000 --> 00:04:38.000]   I'm pretty sure every one of you uses Git, right?
+[00:04:38.000 --> 00:04:41.000]   Git sucks.
+[00:04:41.000 --> 00:04:44.000]   Darks is nice.
+[00:04:44.000 --> 00:04:48.000]   And every time I have to write something and use Git,
+[00:04:48.000 --> 00:04:58.000]   I open up a cheat sheet to see how to do in Git
+[00:04:58.000 --> 00:05:02.000]   what I know I can do in Darks.
+[00:05:02.000 --> 00:05:12.000]   So, Darks is nice. Git is well.
+[00:05:12.000 --> 00:05:17.000]   And I had the opportunity to code with a guy who invented Darks.
+[00:05:17.000 --> 00:05:21.000]   And he was a brilliant, brilliant coder.
+[00:05:21.000 --> 00:05:26.000]   I learned a lot.
+[00:05:26.000 --> 00:05:34.000]   So, I can understand those reports about people coding with Richard Stallman.
+[00:05:34.000 --> 00:05:39.000]   And reporting their, well, on one side dreadful experience,
+[00:05:39.000 --> 00:05:48.000]   and on the other side such as opening, mind-opening, mind-blowing experience
+[00:05:48.000 --> 00:05:58.000]   to code with someone who can come up with ideas that you would never think about.
+[00:05:58.000 --> 00:06:02.000]   I'm passionate with coding too, okay?
+[00:06:02.000 --> 00:06:04.000]   Not just a lot.
+[00:06:04.000 --> 00:06:06.000]   I would say that I...
+[00:06:06.000 --> 00:06:09.000]   Well, I'm not saying what I'm going to say.
+[00:06:09.000 --> 00:06:17.000]   Anyway, Stallman was a researcher, a fellow researcher,
+[00:06:17.000 --> 00:06:26.000]   but he was also a technician at the Laboratory of Artificial Intelligence at MIT.
+[00:06:26.000 --> 00:06:38.000]   And I know, I look at that place as, you know,
+[00:06:38.000 --> 00:06:44.000]   the temple of knowledge when it comes to computer science.
+[00:06:44.000 --> 00:06:53.000]   Some of the most intriguing concepts came out from that laboratory.
+[00:06:53.000 --> 00:07:00.000]   The list of programming language, do you know it?
+[00:07:00.000 --> 00:07:04.000]   You don't. You do.
+[00:07:04.000 --> 00:07:08.000]   You should be knowing the list.
+[00:07:08.000 --> 00:07:20.000]   Scheme, eLisp, which is a list dialect for the Emacs editor.
+[00:07:20.000 --> 00:07:25.000]   Emacs, which was written by Stallman.
+[00:07:25.000 --> 00:07:31.000]   You love Emacs? Or do you prefer Veeam?
+[00:07:31.000 --> 00:07:34.000]   Veeam.
+[00:07:34.000 --> 00:07:38.000]   That's bad. That's bad.
+[00:07:38.000 --> 00:07:44.000]   There was a joke that for Emacs user, user,
+[00:07:44.000 --> 00:08:00.000]   using Veeam is like dependence.
+[00:08:00.000 --> 00:08:04.000]   Just because you do not know the joy of using Emacs.
+[00:08:04.000 --> 00:08:08.000]   But I'm kidding. I'm just kidding.
+[00:08:08.000 --> 00:08:13.000]   You know there is this war between the Emacs and the Veeam users.
+[00:08:13.000 --> 00:08:15.000]   So I'm just kidding.
+[00:08:15.000 --> 00:08:18.000]   But I don't like Veeam.
+[00:08:18.000 --> 00:08:21.000]   And I love Emacs.
+[00:08:21.000 --> 00:08:25.000]   So the guy was working there.
+[00:08:25.000 --> 00:08:30.000]   At that time they had that operating system which was called the
+[00:08:30.000 --> 00:08:35.000]   Incompatible Time Sharing Operating System.
+[00:08:35.000 --> 00:08:42.000]   They used to do jokes and stuff that are, you know this book.
+[00:08:42.000 --> 00:09:02.000]   Why not Veeam?
+[00:09:02.000 --> 00:09:24.000]   Do you know this book? No one.
+[00:09:24.000 --> 00:09:35.000]   It should be reading. It's a joke.
+[00:09:35.000 --> 00:09:42.000]   Do you know this one ER Coder? I'm pretty sure you're a very proficient coder.
+[00:09:42.000 --> 00:10:00.000]   But still.
+[00:10:00.000 --> 00:10:12.000]   This is another book you should be reading but I would like to show you
+[00:10:12.000 --> 00:10:22.000]   the course.
+[00:10:22.000 --> 00:10:31.000]   Did you take that course, Structuring Interpretation of Computer Programs?
+[00:10:31.000 --> 00:10:33.000]   No one?
+[00:10:33.000 --> 00:10:37.000]   Well I don't know. You don't know Lisp.
+[00:10:37.000 --> 00:10:44.000]   So I get upset. I'm kidding.
+[00:10:44.000 --> 00:10:54.000]   It's a long course. 40, 90 years, hours.
+[00:10:54.000 --> 00:10:57.000]   There is an introduction to Lisp.
+[00:10:57.000 --> 00:11:06.000]   And then there is an introduction on writing a compiler for Lisp in Lisp.
+[00:11:06.000 --> 00:11:13.000]   Amazing stuff.
+[00:11:13.000 --> 00:11:28.000]   Did you ever study stuff like implementation of programming languages?
+[00:11:28.000 --> 00:11:33.000]   Would you know how to implement a programming language?
+[00:11:33.000 --> 00:11:36.000]   Yes? No? Maybe?
+[00:11:36.000 --> 00:11:41.000]   We did something like that in formal languages and compilers.
+[00:11:41.000 --> 00:11:47.000]   The basis. There is a course on formal languages and compilers.
+[00:11:47.000 --> 00:11:52.000]   Okay.
+[00:11:52.000 --> 00:11:57.000]   If you like that kind of stuff, go and...
+[00:11:57.000 --> 00:12:01.000]   Well I spent a month following that course.
+[00:12:01.000 --> 00:12:03.000]   It changed my mind.
+[00:12:03.000 --> 00:12:05.000]   Literally.
+[00:12:05.000 --> 00:12:15.000]   And I started involving functional programming languages and 18 non-functional programming languages.
+[00:12:15.000 --> 00:12:19.000]   Anyway.
+[00:12:19.000 --> 00:12:31.000]   This course gives you the idea of the atmosphere you were experiencing
+[00:12:31.000 --> 00:12:38.000]   in the laboratory of artificial intelligence of the Massachusetts Institute of Technology.
+[00:12:38.000 --> 00:12:41.000]   This book gives you the same feeling.
+[00:12:41.000 --> 00:12:53.000]   This book is about artificial intelligence as we conceived it in the late 70s, early 80s.
+[00:12:53.000 --> 00:13:09.000]   It's amazing because it tries to combine the result of the Godel incompleteness theorem with the artistic work of Escher.
+[00:13:09.000 --> 00:13:11.000]   You know what Escher is?
+[00:13:11.000 --> 00:13:20.000]   Escher. This guy.
+[00:13:20.000 --> 00:13:27.000]   Escher. Escher.
+[00:13:27.000 --> 00:13:35.000]   You know the guy who painted this stuff?
+[00:13:35.000 --> 00:13:37.000]   Okay?
+[00:13:37.000 --> 00:13:44.000]   Amazing, impossible spaces.
+[00:13:44.000 --> 00:13:49.000]   But you know, I know you know back.
+[00:13:49.000 --> 00:14:06.000]   And the guy that was the instructor, this is the result of the PhD obtained at the Massachusetts Institute of Technology in the late 70s.
+[00:14:06.000 --> 00:14:20.000]   If you want to have a great background, a cultural background of what I will be talking about, talking about your regional free software, please have a look at that kind of stuff.
+[00:14:20.000 --> 00:14:25.000]   If you like that kind of stuff, you don't like it, it doesn't matter.
+[00:14:25.000 --> 00:14:31.000]   I will not be asking you about that during the course examination.
+[00:14:31.000 --> 00:14:46.000]   Richard Stavrun was a member of that community, was working there, he was doing research, he was helping to create the schema programming language.
+[00:14:46.000 --> 00:14:48.000]   Do you know the schema programming language?
+[00:14:48.000 --> 00:14:55.000]   It's a dialect of least, a purely functional programming language.
+[00:14:55.000 --> 00:14:59.000]   Great stuff.
+[00:14:59.000 --> 00:15:19.000]   He was working on the POSIC, you know, I told you about the POSIC, the idea of creating a standard set of system calls so that you could run the same program on any possible Unix flavors.
+[00:15:19.000 --> 00:15:25.000]   So he was there working on times, living there, I mean.
+[00:15:25.000 --> 00:15:35.000]   Once, it's very difficult to understand why because Stavrun is very confused about dates and stuff like that.
+[00:15:35.000 --> 00:15:48.000]   But once, Xerox, another important, you know, Xerox was the owner of the Palo Alto Research Center.
+[00:15:48.000 --> 00:16:05.000]   Do you know the Palo Alto Research Center?
+[00:16:05.000 --> 00:16:09.000]   They were the first ones to develop the graphical interface.
+[00:16:09.000 --> 00:16:29.000]   Yes. Did you watch the periods of Silicon Valley?
+[00:16:29.000 --> 00:16:38.000]   Not in Italian, why?
+[00:16:38.000 --> 00:16:44.000]   Do you know who those two guys are?
+[00:16:44.000 --> 00:16:47.000]   Well, they are actors.
+[00:16:47.000 --> 00:16:55.000]   Do you know who do they represent?
+[00:16:55.000 --> 00:17:05.000]   In the foreground there is Steve Jobs, in the background, Biggens.
+[00:17:05.000 --> 00:17:09.000]   Watch that movie, please.
+[00:17:09.000 --> 00:17:15.000]   If you like a bit of history of computer science.
+[00:17:15.000 --> 00:17:25.000]   Because we believe those are two genius that created, you know, personal computing.
+[00:17:25.000 --> 00:17:27.000]   Far from it.
+[00:17:27.000 --> 00:17:43.000]   They just went to Palo Alto, at the park, at the Palo Alto Research Center, where the, you know, the mouse, the graphical user interface and stuff like that were created.
+[00:17:43.000 --> 00:17:53.000]   They got licenses that put those stuff they didn't create and made a huge amount of money.
+[00:17:53.000 --> 00:18:01.000]   I mean, Biggens didn't write the basic interpreter neither.
+[00:18:01.000 --> 00:18:12.000]   They stole it from a guy who wrote it and, but that's not the story, it's not important.
+[00:18:12.000 --> 00:18:33.000]   Just to, you know, make you understand that commercial computer science is just the result of people making money on people's real world.
+[00:18:33.000 --> 00:18:39.000]   Done by guys like them. Anyway.
+[00:18:39.000 --> 00:19:01.000]   So, if you want to have, you know, cultural understanding of what created the possibility of using those machines, you shouldn't be looking, stay, fool, stay angry, stuff.
+[00:19:01.000 --> 00:19:06.000]   You should be looking to see your stuff, okay?
+[00:19:06.000 --> 00:19:10.000]   Anyway, let's go back.
+[00:19:10.000 --> 00:19:28.000]   A park, the Palo Center Research Center by Serox, they were working on a new revolutionary machinery, the laser printer.
+[00:19:28.000 --> 00:19:46.000]   And what they did was to, as a gift, give one of those prototypes of a laser printer to the laboratory of artificial intelligence of MIT.
+[00:19:46.000 --> 00:20:08.000]   There was a problem though because the original style man with the old printer brought a driver which was very nice because, you know, even the best printing machine sometimes has some type of failures, paper jumps and stuff like that.
+[00:20:08.000 --> 00:20:21.000]   And, you know, there was one printer, everyone was sending jobs to the printer but sometimes a job was stopping for a paper jump and no one didn't care.
+[00:20:21.000 --> 00:20:40.000]   The pipes of jobs were, you know, rising and rising and some guy had to go there, you know, know that the first job messed everything up and anything else was printed.
+[00:20:40.000 --> 00:21:08.000]   So what someone did was arriving the driver that when the paper jump was blocking the machine, the writer itself was sending an email to everyone in the queue of, with a job in the queue in the machine to let them know that the machine was not printed anymore.
+[00:21:08.000 --> 00:21:19.000]   So someone who had to step up, go to the printer machine and fix the problem. Very easy, very efficient.
+[00:21:19.000 --> 00:21:46.000]   The problem was that with the new printer machine given by Xerox, Xerox also gave to the AI lab a driver but the driver was just an object code.
+[00:21:46.000 --> 00:22:06.000]   Well, Stalman didn't actually care very much because he said, "Well, sometime the source code of the driver will show up and I will fix it."
+[00:22:06.000 --> 00:22:18.000]   But still time was passing by and the source code of the driver didn't show up.
+[00:22:18.000 --> 00:22:36.000]   So once Stalman met the author of the driver at the conference and said, "Well, please give me the driver so I can implement my stuff in your driver and everyone is happy."
+[00:22:36.000 --> 00:23:00.000]   The guy said, "Well, I cannot give you the source code of the driver because I signed a non-disclosure agreement with Xerox. If I give you the source code of the driver, you may gain some information about the internal working of the laser printer and the guy at Xerox don't want you to do that."
+[00:23:00.000 --> 00:23:09.000]   So that was the meeting, the first meeting, the first day between Stalman and non-disclosure agreement.
+[00:23:09.000 --> 00:23:16.000]   Which led to the creation of the idea of free software.
+[00:23:16.000 --> 00:23:36.000]   But I'm tired, you look tired too. That's not true but let's pretend you're tired too. And so there is an article of the Italian Constitution that says that silence is free and free is teaching it.
+[00:23:36.000 --> 00:23:53.000]   So I'm free to do whatever I want. So if you don't mind I will stop my lecture here and I will wish you a very nice and resting weekend.
+[00:23:53.000 --> 00:23:57.000]   I will meet you next
