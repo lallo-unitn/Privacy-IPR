@@ -11,3 +11,23 @@ After the introduction of the Computer Software Copyright Act of 1980, also the 
 \end{itemize}
 
 \subsection*{Free and Open Software}
+
+The definition of free software given by Richard Stallman in a 2007 interview is articulated in four points
+
+\begin{itemize}
+    \item "freedom to run the program as you wish": no exclusive rights on the usage of the program;
+    \item "freedom to study the source code and then change it so that the program does what you wish": no exclusive rights on accessing the source code;
+    \item "freedom to distribute copies to others": users can make copies and distribute them freely;
+    \item "the freedom to distribute copies of your modified versions"; users can modify and distributes copies of that modification.
+\end{itemize}
+
+This principles were firstly implemented in the General Public License Version 1 (GPLv1) in 1989. In this version, the implementation of the fourth principle defined a derivative work as a piece of code containing a GPLed work or using a GPLed library. This became a problem when the GNU C library was to be released. In fact, since the GPL is a copyleft license, every project that used the GNU C library has a linked library was required to ship under the GPL. This meant that no copyrighted C-written software that used the GNU C library could be made.
+Strategically, to promote the the usage of this library, in 1991 the FSF decided to release the Lesser GPL (LGPL), a copyleft license that redefined the concept of derivative work. Under the LGPL a piece of code that used a linked GPLed library was not to be considered a derivative work anymore.
+
+The same year of the LGPL release, the first largely adopted free kernel was released. In fact, 1991 was the year in which Linus Torvalds released the first version of the Linux monolithic kernel with no license. Only in 1992, with version 0.12 the Linux kernel shipped under the GPL.
+
+But the Linux kernel is not the only free kernel that has been released. By aggregating more then ten years of work, starting from the TCP/IP implementation for UNIX OS commissioned by DARPA in 1979, the Berkeley Software Distribution (BSD) released in 1992 the BSD kernel. Unfortunately, since BSD entered in a legal battle with AT\&T for trademark and copyright infringement over the usage of the name UNIX OS, the development of this kernel fell behind the Linux one. This caused BSD to never enter mainstream usage. A peculiarity of the BSD OSs is that this family of operating systems ship with the BSD license, which is non-copyleft.
+
+Nowadays, more than 60 free-software licenses exist and are approved by the Open Source Initiative (OSI). The problem of conflicting licenses, i.e. copyleft vs. non-copyleft, persists.
+
+\subsection*{File sharing}
