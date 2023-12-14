@@ -1,0 +1,750 @@
+[00:00:00.000 --> 00:00:29.000]   [ Background Sounds ]
+[00:00:29.000 --> 00:00:49.000]   [ Background Sounds ]
+[00:00:50.000 --> 00:01:07.000]   [ Background Sounds ]
+[00:01:08.000 --> 00:01:37.000]   [ Background Sounds ]
+[00:01:37.000 --> 00:02:04.000]   [ Background Sounds ]
+[00:02:05.000 --> 00:02:34.000]   [ Background Sounds ]
+[00:02:34.000 --> 00:03:03.000]   [ Background Sounds ]
+[00:03:03.000 --> 00:03:23.000]   [ Background Sounds ]
+[00:03:24.000 --> 00:03:53.000]   [ Background Sounds ]
+[00:03:53.000 --> 00:04:22.000]   [ Background Sounds ]
+[00:04:22.000 --> 00:04:38.000]   [ Background Sounds ]
+[00:04:39.000 --> 00:04:59.000]   [ Background Sounds ]
+[00:04:59.000 --> 00:05:04.000]   >> Okay. Ready to start.
+[00:05:04.000 --> 00:05:11.000]   So today we discuss the connections and implication
+[00:05:11.000 --> 00:05:14.000]   of software as a service with privacy
+[00:05:14.000 --> 00:05:17.000]   and interpretive property rights.
+[00:05:17.000 --> 00:05:21.000]   What does it mean to think about software as a service
+[00:05:21.000 --> 00:05:25.000]   in the context of this course?
+[00:05:25.000 --> 00:05:32.000]   First of all, we need to define what is software
+[00:05:32.000 --> 00:05:36.000]   as a service in general.
+[00:05:36.000 --> 00:05:43.000]   So let's consider traditional information technology
+[00:05:43.000 --> 00:05:48.000]   when it's managed within an organization,
+[00:05:48.000 --> 00:05:50.000]   within a company for instance.
+[00:05:50.000 --> 00:05:54.000]   So it is called normally in-house.
+[00:05:54.000 --> 00:06:01.000]   There are some drawbacks of managing an IT infrastructure
+[00:06:01.000 --> 00:06:04.000]   internally, completely internally.
+[00:06:04.000 --> 00:06:07.000]   First of all, the cost.
+[00:06:07.000 --> 00:06:12.000]   If you want to establish a new organization,
+[00:06:12.000 --> 00:06:15.000]   then you have to face the cost for the infrastructure
+[00:06:15.000 --> 00:06:19.000]   in terms of hardware, software, equipment, infrastructure,
+[00:06:19.000 --> 00:06:27.000]   and also the cost of personnel for establishing
+[00:06:27.000 --> 00:06:29.000]   and managing the infrastructure,
+[00:06:29.000 --> 00:06:33.000]   the information technology inside.
+[00:06:33.000 --> 00:06:41.000]   This course is then, the initial cost can be rather high,
+[00:06:41.000 --> 00:06:44.000]   but then there is the cost of maintenance.
+[00:06:44.000 --> 00:06:52.000]   So the continuing, updating, and changing,
+[00:06:52.000 --> 00:06:58.000]   and making sure that everything is working
+[00:06:58.000 --> 00:07:03.000]   and so on and so forth, which is not as high
+[00:07:03.000 --> 00:07:09.000]   in terms of unit of time as the initial cost,
+[00:07:09.000 --> 00:07:12.000]   which is a peak, but then the sustained cost
+[00:07:12.000 --> 00:07:19.000]   is relatively low, but the continuing aspects of this cost
+[00:07:19.000 --> 00:07:27.000]   is also having a relatively large impact on organizations.
+[00:07:27.000 --> 00:07:31.000]   Then there is the cost of the obsolescence,
+[00:07:31.000 --> 00:07:35.000]   which means that the software needs to be replaced,
+[00:07:35.000 --> 00:07:40.000]   hardware needs to be replaced because the new needs arise,
+[00:07:40.000 --> 00:07:46.000]   or simply because of technology obsolescence.
+[00:07:46.000 --> 00:07:53.000]   We need more powerful hardware for making it possible
+[00:07:53.000 --> 00:07:58.000]   to update the software with new versions, with new features,
+[00:07:58.000 --> 00:08:01.000]   with new functions and so on.
+[00:08:01.000 --> 00:08:07.000]   All this is a cost for a company.
+[00:08:07.000 --> 00:08:11.000]   Disaster management is also an aspect which is often negative,
+[00:08:11.000 --> 00:08:15.000]   but is quite important.
+[00:08:15.000 --> 00:08:20.000]   Disaster management is what to do
+[00:08:20.000 --> 00:08:24.000]   when there is an unexpected failure,
+[00:08:24.000 --> 00:08:30.000]   an unexpected interaction of the information technology infrastructure,
+[00:08:30.000 --> 00:08:34.000]   which could be caused by several causes,
+[00:08:34.000 --> 00:08:39.000]   for instance, natural disaster or external factors,
+[00:08:39.000 --> 00:08:45.000]   like attacks, malicious acts of various sorts, sabotage,
+[00:08:45.000 --> 00:08:56.000]   or acres, creating problems with the information technology infrastructure.
+[00:08:56.000 --> 00:09:01.000]   It could be power failure, which is interrupting the services.
+[00:09:01.000 --> 00:09:05.000]   It could be some human error.
+[00:09:05.000 --> 00:09:12.000]   This could be creating data loss, technical issues of various sorts,
+[00:09:12.000 --> 00:09:18.000]   the interruption in service, the interruption of business operations.
+[00:09:18.000 --> 00:09:28.000]   And then, of course, this affects the economical aspects of the company.
+[00:09:28.000 --> 00:09:36.000]   So, they need to replace equipment, they need to recover from loss of data,
+[00:09:36.000 --> 00:09:38.000]   and so on and so forth.
+[00:09:38.000 --> 00:09:42.000]   Quite a difficult cost.
+[00:09:42.000 --> 00:09:50.000]   Not so many organizations are able to put together a reasonable
+[00:09:50.000 --> 00:09:55.000]   and effective strategy for preventing such issues,
+[00:09:55.000 --> 00:09:58.000]   or for making it impossible.
+[00:09:58.000 --> 00:10:05.000]   For instance, prevention could be making sure that the system is secure enough,
+[00:10:05.000 --> 00:10:15.000]   or having a UPS for power failures, or otherwise.
+[00:10:15.000 --> 00:10:17.000]   And this is a cost.
+[00:10:17.000 --> 00:10:24.000]   Anticipation is also a significant cost,
+[00:10:24.000 --> 00:10:30.000]   because it needs to be able to detect possible disaster
+[00:10:30.000 --> 00:10:33.000]   right before they happen.
+[00:10:33.000 --> 00:10:41.000]   So, to identify disasters when they are almost happening,
+[00:10:41.000 --> 00:10:43.000]   just before they happen.
+[00:10:43.000 --> 00:10:49.000]   And then, mitigation, so that to minimize the impact of a disaster,
+[00:10:49.000 --> 00:10:56.000]   for instance, having multiple database, multiple copies of the data,
+[00:10:56.000 --> 00:11:00.000]   so that not only the periodical backup,
+[00:11:00.000 --> 00:11:07.000]   but for instance, to have the data which are saved in multiple locations,
+[00:11:07.000 --> 00:11:17.000]   for instance, for making sure that the data is never lost completely.
+[00:11:17.000 --> 00:11:22.000]   Companies that do have data which is quite available,
+[00:11:22.000 --> 00:11:27.000]   normally don't keep all the data in one location only.
+[00:11:27.000 --> 00:11:31.000]   A bank, for instance, the data center for a bank,
+[00:11:31.000 --> 00:11:37.000]   is never only placing the data in one physical location,
+[00:11:37.000 --> 00:11:42.000]   but rather in several different locations.
+[00:11:42.000 --> 00:11:47.000]   Far apart from them, if possible, is different cities, different regions,
+[00:11:47.000 --> 00:11:53.000]   different geographical areas, so that even in the case of a significant natural disaster,
+[00:11:53.000 --> 00:11:59.000]   like a earthquake, the service could be maybe interrupted,
+[00:11:59.000 --> 00:12:04.000]   but not, the data is not lost.
+[00:12:04.000 --> 00:12:07.000]   And, for instance, even the University of Trento,
+[00:12:07.000 --> 00:12:14.000]   we do have data centers both here and downtown,
+[00:12:14.000 --> 00:12:22.000]   so that the significant data is not too much at least.
+[00:12:22.000 --> 00:12:31.000]   So all these are motivations for outsourcing IT services.
+[00:12:31.000 --> 00:12:38.000]   Outsourcing means to have an external entity which is taking care of some of the activities.
+[00:12:38.000 --> 00:12:44.000]   It is a general term which is not only related to information technology,
+[00:12:44.000 --> 00:12:50.000]   so for instance, the University of Trento is outsourcing several services,
+[00:12:50.000 --> 00:12:52.000]   for instance, the cleaning service.
+[00:12:52.000 --> 00:13:02.000]   The people that you see here cleaning the rooms or the buildings here
+[00:13:02.000 --> 00:13:08.000]   are hired by an external entity, they are not agreed by the university,
+[00:13:08.000 --> 00:13:13.000]   because the university is outsourcing that service to external companies
+[00:13:13.000 --> 00:13:18.000]   which are taking care of this.
+[00:13:18.000 --> 00:13:21.000]   Which kind of service is normally outsourced?
+[00:13:21.000 --> 00:13:26.000]   Normally companies do outsource services which are not activities,
+[00:13:26.000 --> 00:13:30.000]   which are not in the core of the company.
+[00:13:30.000 --> 00:13:36.000]   So, for instance, it doesn't make sense for a university to outsource actually
+[00:13:36.000 --> 00:13:45.000]   the management and running of a course, like your master course.
+[00:13:45.000 --> 00:13:52.000]   It wouldn't make sense for the university to try to outsource to a different company.
+[00:13:52.000 --> 00:14:04.000]   But the cleaning is not the central service, so it could be outsourced.
+[00:14:04.000 --> 00:14:07.000]   On the other hand, for a cleaning company,
+[00:14:07.000 --> 00:14:13.000]   cleaning their own premises is something that doesn't make sense for them to outsource,
+[00:14:13.000 --> 00:14:16.000]   because they have a large number of employees who are able to clean,
+[00:14:16.000 --> 00:14:19.000]   and that's the main business.
+[00:14:19.000 --> 00:14:24.000]   But maybe they do outsource the training of these employees.
+[00:14:24.000 --> 00:14:32.000]   They outsource the managing the payments, the payroll of the employees,
+[00:14:32.000 --> 00:14:36.000]   so they could outsource the information technology services and so on and so forth,
+[00:14:36.000 --> 00:14:40.000]   which are not central core business of the company.
+[00:14:40.000 --> 00:14:43.000]   Another motivation for outsourcing is cost,
+[00:14:43.000 --> 00:14:46.000]   something which could be done internally,
+[00:14:46.000 --> 00:14:50.000]   and maybe it could make sense to run internally,
+[00:14:50.000 --> 00:14:56.000]   but is more economically effective to outsource.
+[00:14:56.000 --> 00:14:59.000]   Again, for the University of Toronto,
+[00:14:59.000 --> 00:15:09.000]   the university email system was internally managed until 2015,
+[00:15:09.000 --> 00:15:14.000]   I don't remember the exact date, but more or less 10 years ago.
+[00:15:14.000 --> 00:15:24.000]   Then at some point, the IT service of the university decided
+[00:15:24.000 --> 00:15:31.000]   and proposed to the university management to outsource email,
+[00:15:31.000 --> 00:15:36.000]   first for the students and then a couple of years after for everybody,
+[00:15:36.000 --> 00:15:46.000]   they did a search, they did a read for different vendors for providing that service,
+[00:15:46.000 --> 00:15:50.000]   and they finally chose, as you probably know,
+[00:15:50.000 --> 00:15:57.000]   Google as the service provider for email and related services.
+[00:15:57.000 --> 00:16:03.000]   For instance, they shared a document service in Google Drive,
+[00:16:03.000 --> 00:16:09.000]   which is part of the outsourcing service.
+[00:16:09.000 --> 00:16:19.000]   That's very common also in many, many other companies.
+[00:16:19.000 --> 00:16:26.000]   In general, what we talk about when we talk about this kind of thing is
+[00:16:26.000 --> 00:16:34.000]   cloud computing, which is the broad term for outsourcing IT services
+[00:16:34.000 --> 00:16:40.000]   using the internet as an infrastructure.
+[00:16:40.000 --> 00:16:46.000]   There are different ways, different models for using the cloud
+[00:16:46.000 --> 00:16:48.000]   as an outsourcing service.
+[00:16:48.000 --> 00:16:55.000]   One way which is what is the most seen kind of outsourcing
+[00:16:55.000 --> 00:17:00.000]   is the last in this list, which is the software,
+[00:17:00.000 --> 00:17:06.000]   which means that the overall service is outsource.
+[00:17:06.000 --> 00:17:13.000]   So the email service is outsource.
+[00:17:13.000 --> 00:17:19.000]   Or the customer relationship management, the CRM of a company is outsource.
+[00:17:19.000 --> 00:17:27.000]   Or the ERP, the information system for a company is outsource.
+[00:17:27.000 --> 00:17:29.000]   And so on.
+[00:17:29.000 --> 00:17:34.000]   A little bit different are the platform and the infrastructure.
+[00:17:34.000 --> 00:17:38.000]   The infrastructure is the kind of service which is similar to,
+[00:17:38.000 --> 00:17:42.000]   for instance, Amazon Web Services, if you are familiar with this.
+[00:17:42.000 --> 00:17:47.000]   What is outsource is basically a virtual machine.
+[00:17:47.000 --> 00:17:55.000]   You buy a virtual machine, which means that you buy a virtual version
+[00:17:55.000 --> 00:18:03.000]   or a computer, or even a physical computer, which is dedicated to the company,
+[00:18:03.000 --> 00:18:05.000]   but is summarized.
+[00:18:05.000 --> 00:18:12.000]   Someone is taking care of making that particular computer
+[00:18:12.000 --> 00:18:15.000]   or virtual machine up and running all the time
+[00:18:15.000 --> 00:18:21.000]   and selling the service for keeping this updated and up and running,
+[00:18:21.000 --> 00:18:27.000]   paying the bill for the air conditioning and the bill for the power,
+[00:18:27.000 --> 00:18:29.000]   and so on and so forth.
+[00:18:29.000 --> 00:18:32.000]   Taking care of all the little updates.
+[00:18:32.000 --> 00:18:37.000]   Or it could be a platform, which is in between, so to say.
+[00:18:37.000 --> 00:18:45.000]   For instance, platform outsourcing is when you buy a database
+[00:18:45.000 --> 00:18:51.000]   or you buy an instance of Next Cloud, for instance.
+[00:18:51.000 --> 00:18:57.000]   And in that case, you subscribe to a service which is not really defined
+[00:18:57.000 --> 00:19:06.000]   in the software, but it provides some infrastructure for creating applications
+[00:19:06.000 --> 00:19:11.000]   or creating a personal version of the software for the company.
+[00:19:11.000 --> 00:19:21.000]   These are the different kinds of infrastructure, which could be outsource.
+[00:19:21.000 --> 00:19:27.000]   When talking about software as a service,
+[00:19:27.000 --> 00:19:35.000]   so the third one of these possible models for outsource and IT services,
+[00:19:35.000 --> 00:19:44.000]   what you talk about is a model where the software we use
+[00:19:44.000 --> 00:19:48.000]   is managed and run by an external company.
+[00:19:48.000 --> 00:19:55.000]   What is provided as a service is the ability to use that software remotely
+[00:19:55.000 --> 00:20:05.000]   from within the organization, within an organizational sense,
+[00:20:05.000 --> 00:20:10.000]   not within the building where the organization is.
+[00:20:10.000 --> 00:20:15.000]   Is the software as a service a win?
+[00:20:15.000 --> 00:20:26.000]   I mean, can all of that, can all the applications run on the software as a service model?
+[00:20:26.000 --> 00:20:29.000]   What do you mean by the application?
+[00:20:29.000 --> 00:20:30.000]   Which application?
+[00:20:30.000 --> 00:20:32.000]   Which application?
+[00:20:32.000 --> 00:20:34.000]   Any application related to it.
+[00:20:34.000 --> 00:20:39.000]   Well, let's take the email as an example.
+[00:20:39.000 --> 00:20:45.000]   In the email case, the service provider, Google in our case,
+[00:20:45.000 --> 00:20:53.000]   is providing the ability for the members of the university,
+[00:20:53.000 --> 00:20:58.000]   in broad sense, students, professors, administration and so on,
+[00:20:58.000 --> 00:21:06.000]   to write and send and receive an email, manage their own email and so on.
+[00:21:06.000 --> 00:21:12.000]   Regardless of the platform, with some specific platform they use,
+[00:21:12.000 --> 00:21:15.000]   yes, they offer the possibility to use the browser
+[00:21:15.000 --> 00:21:20.000]   and with the browser to access a specific website,
+[00:21:20.000 --> 00:21:30.000]   a specific HTTP address where we all can manage our own email using webmail,
+[00:21:30.000 --> 00:21:33.000]   the standard, which has come away.
+[00:21:33.000 --> 00:21:41.000]   Also, it's possible to use, if you want, an email client on your computer
+[00:21:41.000 --> 00:21:46.000]   and manage your own email using your own computer,
+[00:21:46.000 --> 00:21:50.000]   download your email with the Bob, for instance, protocol,
+[00:21:50.000 --> 00:21:59.000]   and the service provider, Google, provides the ability to defeat the standard API,
+[00:21:59.000 --> 00:22:04.000]   so that your own program, your email client,
+[00:22:04.000 --> 00:22:08.000]   possibly one that you build yourself, if you want,
+[00:22:08.000 --> 00:22:12.000]   is able to, you in terms of organization,
+[00:22:12.000 --> 00:22:22.000]   to access your email using the agreed way with the service provider.
+[00:22:22.000 --> 00:22:28.000]   And this is part of the contract that you sign with the service provider.
+[00:22:28.000 --> 00:22:33.000]   Maybe some possibilities are more expensive than others.
+[00:22:33.000 --> 00:22:37.000]   So, for instance, Google, they don't, but they could say,
+[00:22:37.000 --> 00:22:43.000]   if you use the web interface that we provide for webmail,
+[00:22:43.000 --> 00:22:46.000]   the service is costing one.
+[00:22:46.000 --> 00:22:52.000]   If you also want to be able to use your own email client,
+[00:22:52.000 --> 00:22:59.000]   standard, your outlook, whatever, then you have to pay 50 more per user.
+[00:22:59.000 --> 00:23:04.000]   It's part of their limit, or they could say the opposite,
+[00:23:04.000 --> 00:23:07.000]   depending on the business model of the service provider,
+[00:23:07.000 --> 00:23:12.000]   what do they want in terms of which kind of service they think
+[00:23:12.000 --> 00:23:17.000]   is more available for them in terms of revenues,
+[00:23:17.000 --> 00:23:21.000]   in terms of problems in running the services,
+[00:23:21.000 --> 00:23:29.000]   how much it costs to run one or another kind of feature for assessing the service.
+[00:23:29.000 --> 00:23:37.000]   And there is not a specific rule which can be applied to,
+[00:23:37.000 --> 00:23:46.000]   clearly the possibilities are countless, so there are hybrid models.
+[00:23:46.000 --> 00:23:54.000]   For instance, spam management with an email could be run by the service provider,
+[00:23:54.000 --> 00:23:59.000]   which is filtering spam, or the organization could say,
+[00:23:59.000 --> 00:24:02.000]   no, we are not interested in you filtering your spam,
+[00:24:02.000 --> 00:24:08.000]   we want to receive all the emails, spam or non-spam, regardless of that,
+[00:24:08.000 --> 00:24:11.000]   and then we do the filtering here.
+[00:24:11.000 --> 00:24:18.000]   Or we found another service provider which is very effective in spam filtering,
+[00:24:18.000 --> 00:24:23.000]   so we receive all the emails, we give the email to that other service provider,
+[00:24:23.000 --> 00:24:27.000]   they feed the email only, and they give us the email.
+[00:24:27.000 --> 00:24:30.000]   And then we want to combine these different services.
+[00:24:30.000 --> 00:24:34.000]   I mean, there are really countless possibilities that you can create
+[00:24:34.000 --> 00:24:37.000]   in terms of what is done by whom.
+[00:24:37.000 --> 00:24:45.000]   You can have several different providers for creating what is perceived by the users,
+[00:24:45.000 --> 00:24:50.000]   by the people accessing the emails, as a unique service.
+[00:24:50.000 --> 00:24:57.000]   But it's not really, because it's a combination of several different ones.
+[00:24:57.000 --> 00:25:08.000]   The idea is that all this is proving the cost of the service,
+[00:25:08.000 --> 00:25:16.000]   of this one particular service, from an investment, I need to buy the equipment,
+[00:25:16.000 --> 00:25:24.000]   I need to buy the software, I need to hire people for doing it,
+[00:25:24.000 --> 00:25:30.000]   and that's an investment, with a lot of money immediately, and maintenance.
+[00:25:30.000 --> 00:25:34.000]   So to move from investment to operation,
+[00:25:34.000 --> 00:25:40.000]   operation is making sure that everything is running up and running all the time that is needed.
+[00:25:40.000 --> 00:25:47.000]   So instead of paying the money for buying all the equipment,
+[00:25:47.000 --> 00:25:54.000]   I think only, so to say, the cost of maintenance is to have only the cost of maintenance, basically.
+[00:25:54.000 --> 00:26:04.000]   Maintenance, in that case, may cost more, but is providing a service which is normally
+[00:26:04.000 --> 00:26:12.000]   of higher quality of what could be done by internal resources.
+[00:26:12.000 --> 00:26:17.000]   Another advantage is data protection, for instance.
+[00:26:17.000 --> 00:26:29.000]   So the access to the data could be protected by this external service provided,
+[00:26:29.000 --> 00:26:34.000]   which could be more resources for protecting the data,
+[00:26:34.000 --> 00:26:49.000]   and related to implementing many features for making sure that access is carefully managed
+[00:26:49.000 --> 00:26:56.000]   and rely on security.
+[00:26:56.000 --> 00:27:01.000]   Managing, for instance, a two-factor authentication like Google is doing,
+[00:27:01.000 --> 00:27:05.000]   is more expensive than just a user investment.
+[00:27:05.000 --> 00:27:14.000]   So is a single company able to create the needed infrastructure for managing a two-factor authentication
+[00:27:14.000 --> 00:27:18.000]   with Google needs to be in place?
+[00:27:18.000 --> 00:27:26.000]   It's quite more expensive than just a user investment for that purpose.
+[00:27:26.000 --> 00:27:32.000]   Just to give you an example, the university, once again, is currently,
+[00:27:32.000 --> 00:27:40.000]   if you want to log in to your university service, you provide your user name and password.
+[00:27:40.000 --> 00:27:47.000]   There is no two-factor authentication in accessing your MyUTN and so on.
+[00:27:47.000 --> 00:27:55.000]   Now they are moving to a system which, at least for the personnel,
+[00:27:55.000 --> 00:28:01.000]   I don't know about the students, but for the personnel they're moving to an external authentication.
+[00:28:01.000 --> 00:28:10.000]   So they want to use two-factor authentication, basically, with an external authorizing entity,
+[00:28:10.000 --> 00:28:18.000]   which is the smart card, so to say.
+[00:28:18.000 --> 00:28:27.000]   The Italian so-called speed or similar entities for providing an external authentication,
+[00:28:27.000 --> 00:28:38.000]   which is, again, increasing the security level.
+[00:28:38.000 --> 00:28:46.000]   This comes to a cost, of course, because the service with higher security is more expensive.
+[00:28:46.000 --> 00:28:52.000]   So you want to have, there could be bandwidth limitations.
+[00:28:52.000 --> 00:28:59.000]   For the service provider, having a connection with an internet service
+[00:28:59.000 --> 00:29:03.000]   which allows a certain bandwidth is more expensive.
+[00:29:03.000 --> 00:29:09.000]   So if you, as a customer, want to have a broader bandwidth,
+[00:29:09.000 --> 00:29:15.000]   a larger amount of data that can be transferred, then you pay more.
+[00:29:15.000 --> 00:29:17.000]   And so on and so forth.
+[00:29:17.000 --> 00:29:20.000]   How much data do you want to store?
+[00:29:20.000 --> 00:29:26.000]   And all this is paid.
+[00:29:26.000 --> 00:29:30.000]   There are several financial models.
+[00:29:30.000 --> 00:29:35.000]   One possible model is to subscribe.
+[00:29:35.000 --> 00:29:45.000]   You pay for a certain amount of money per month, per unit of time, per year, for instance.
+[00:29:45.000 --> 00:29:50.000]   Or the other way is that you pay per use.
+[00:29:50.000 --> 00:29:58.000]   A day, depending on how much of that service you use.
+[00:29:58.000 --> 00:30:07.000]   Google, again, is using this kind of mixed version of this, which is the freemium.
+[00:30:07.000 --> 00:30:10.000]   There is a set for individual users.
+[00:30:10.000 --> 00:30:18.000]   You have a free access up to a certain amount of data storage that you use.
+[00:30:18.000 --> 00:30:29.000]   If you want to exceed the 15 GB, if I'm not mistaken, of the free disk space,
+[00:30:29.000 --> 00:30:35.000]   you have to pay a subscription.
+[00:30:35.000 --> 00:30:40.000]   Dropbox is using the same model as several other providers.
+[00:30:40.000 --> 00:30:45.000]   So I'm using similar models.
+[00:30:45.000 --> 00:30:55.000]   I added the free in quotes, which is also done by Google.
+[00:30:55.000 --> 00:30:59.000]   The free version is free, so to say.
+[00:30:59.000 --> 00:31:11.000]   It says that you pay by allowing Google to use your data for creating an advertisement targeted at you.
+[00:31:11.000 --> 00:31:20.000]   What are the advantages?
+[00:31:20.000 --> 00:31:23.000]   I listed some of them here.
+[00:31:23.000 --> 00:31:26.000]   24/7 availability, normally.
+[00:31:26.000 --> 00:31:35.000]   These services are the availability and the reliability of these kinds of services is normally extremely high.
+[00:31:35.000 --> 00:31:50.000]   It seems so high that when the service is not available for a noticeable amount of time,
+[00:31:50.000 --> 00:31:59.000]   it can be something which is so unusual that it is mentioned in the news.
+[00:31:59.000 --> 00:32:10.000]   It's written in magazines and newspapers.
+[00:32:10.000 --> 00:32:13.000]   There is no maintenance cost, so to say.
+[00:32:13.000 --> 00:32:20.000]   You pay maintenance within the cost of the subscription to the service.
+[00:32:20.000 --> 00:32:23.000]   Data protection I already mentioned.
+[00:32:23.000 --> 00:32:27.000]   And what is the reliability I already mentioned.
+[00:32:27.000 --> 00:32:42.000]   There is an aspect which is of course not really in control of the two main actors of this story,
+[00:32:42.000 --> 00:32:50.000]   which is the customer willing to buy an external service and the service provider,
+[00:32:50.000 --> 00:32:53.000]   which is whatever happens in between.
+[00:32:53.000 --> 00:33:02.000]   Neither Google or the University of Trento can really control the network in between the University of Trento
+[00:33:02.000 --> 00:33:07.000]   and Google service is up and running all the time.
+[00:33:07.000 --> 00:33:20.000]   Luckily enough, the way the internet is organized is quite resilient to interruptions,
+[00:33:20.000 --> 00:33:24.000]   to outage of one or another particular node.
+[00:33:24.000 --> 00:33:31.000]   But some critical nodes can create noticeable failures in the network which affect the services,
+[00:33:31.000 --> 00:33:37.000]   not because the service is down, but because the service is not easily accessible.
+[00:33:37.000 --> 00:33:59.000]   So the other advantages, the cost is stable.
+[00:33:59.000 --> 00:34:09.000]   Before I mention the problems caused by so-called disasters in 2019,
+[00:34:09.000 --> 00:34:21.000]   in the case of an external service provider, the cost of preventing and recovering from a disaster
+[00:34:21.000 --> 00:34:32.000]   is on the shoulders of the service provider or the direct cost.
+[00:34:32.000 --> 00:34:45.000]   Clearly if Google storage space is destroyed, then this will affect the customers.
+[00:34:45.000 --> 00:34:55.000]   But the cost of this, to recreate the infrastructure is on the Google side.
+[00:34:55.000 --> 00:35:07.000]   If I lose data, all the impact of losing the data is on my side of course.
+[00:35:07.000 --> 00:35:16.000]   Depending on the contract, there could even be some request which can be sent to the service provider
+[00:35:16.000 --> 00:35:23.000]   for compensating the damage.
+[00:35:23.000 --> 00:35:38.000]   That's why most of the service providers do have a very resilient system.
+[00:35:38.000 --> 00:35:48.000]   As you probably know, your data stored in Google servers is not stored in one particular location.
+[00:35:48.000 --> 00:35:54.000]   So across several different locations, data is stored in redundant databases,
+[00:35:54.000 --> 00:36:00.000]   so several copies of each data are existing.
+[00:36:00.000 --> 00:36:05.000]   So whenever there is a problem, you don't even notice the problem normally.
+[00:36:05.000 --> 00:36:11.000]   They continuously replace, for instance, hard disks.
+[00:36:11.000 --> 00:36:21.000]   They continuously replace hardware because before they have an estimated lifetime of each hardware piece
+[00:36:21.000 --> 00:36:27.000]   and they replace the hardware before it's broken normally.
+[00:36:27.000 --> 00:36:33.000]   But you don't know if and when they do replace a piece of hardware where there is your data
+[00:36:33.000 --> 00:36:45.000]   because you do not experience any outage because of their do-dency.
+[00:36:45.000 --> 00:36:50.000]   Also, all the costs of management are included in the service.
+[00:36:50.000 --> 00:36:54.000]   So you pay for that, but it's included in the service.
+[00:36:54.000 --> 00:37:01.000]   The cost of all the updates, they need to update the system, they need to update the software,
+[00:37:01.000 --> 00:37:09.000]   they need to update the hardware, is all on the service provider side.
+[00:37:09.000 --> 00:37:19.000]   The cost of guaranteeing service availability is, again, something which is on the provider side.
+[00:37:19.000 --> 00:37:29.000]   All these kind of guarantees are on the side of the external provider
+[00:37:29.000 --> 00:37:34.000]   and also are part of the contact which is normally signed whenever you want to access a service.
+[00:37:34.000 --> 00:37:43.000]   You can agree on a specific service level that you want.
+[00:37:43.000 --> 00:37:49.000]   This is called service level agreement, as a matter of fact.
+[00:37:49.000 --> 00:37:59.000]   I also had an advantage on the customer side in the improved cooperation
+[00:37:59.000 --> 00:38:08.000]   because if you have an internal service, maybe it is very complicated
+[00:38:08.000 --> 00:38:17.000]   and also not much cost effective to have this particular software accessible
+[00:38:17.000 --> 00:38:22.000]   from whenever your employees are.
+[00:38:22.000 --> 00:38:32.000]   If you have part of your IT outsourced in the cloud,
+[00:38:32.000 --> 00:38:40.000]   then provided there are certain security aspects which are guaranteed,
+[00:38:40.000 --> 00:38:46.000]   everybody of the company can access that service regardless of where they are.
+[00:38:46.000 --> 00:38:55.000]   We think that everybody in the experience or indirectly
+[00:38:55.000 --> 00:39:04.000]   is when the pandemic was causing lockdown in 2020 and the following.
+[00:39:04.000 --> 00:39:15.000]   In that case, it was immediately or almost immediately to access IT services from outside.
+[00:39:15.000 --> 00:39:22.000]   Companies that had outsourced everything had a better life as opposed to companies
+[00:39:22.000 --> 00:39:26.000]   which were running internally.
+[00:39:26.000 --> 00:39:33.000]   Services which are now running internally for people who are within the company
+[00:39:33.000 --> 00:39:39.000]   and who are not in the company.
+[00:39:39.000 --> 00:39:46.000]   Services which are now running internally for people who are within the company premises
+[00:39:46.000 --> 00:39:50.000]   to have a certain level of security, maybe they are not accessible from outside.
+[00:39:50.000 --> 00:39:55.000]   Transforming this is something which can be accessed from everywhere.
+[00:39:55.000 --> 00:40:03.000]   It is not a task you can accomplish in one day.
+[00:40:03.000 --> 00:40:16.000]   While it is much easier if a service is normally accessible from the cloud.
+[00:40:16.000 --> 00:40:24.000]   I don't know if you were in the interest of trying to at the time of the lockdown,
+[00:40:24.000 --> 00:40:32.000]   but for people working and studying here, accessing for instance the email,
+[00:40:32.000 --> 00:40:38.000]   during the lockdown from the day before to the day after, it didn't change.
+[00:40:38.000 --> 00:40:44.000]   It didn't change anything because it was already available in that case.
+[00:40:44.000 --> 00:40:50.000]   Clearly other things like attending a class were completely different before and after,
+[00:40:50.000 --> 00:40:56.000]   but that's another story.
+[00:40:56.000 --> 00:41:10.000]   Of course there are a number of problems which could be connected to software as a service.
+[00:41:10.000 --> 00:41:17.000]   Yes, having everything online and accessible as a standard service,
+[00:41:17.000 --> 00:41:22.000]   as an online service has a lot of advantages,
+[00:41:22.000 --> 00:41:28.000]   which means that if for whatever reason you have to work offline,
+[00:41:28.000 --> 00:41:38.000]   if there is a problem with the connectivity, then this will affect the work of the activities.
+[00:41:38.000 --> 00:41:51.000]   So having everything online has advantages, but having also the offline is also sometimes needed.
+[00:41:51.000 --> 00:42:06.000]   Then the endpoint security is another problem.
+[00:42:06.000 --> 00:42:11.000]   Let's suppose that I work as an admin here in the university,
+[00:42:11.000 --> 00:42:19.000]   in one of the administration offices, and they manage orders, payments and so on.
+[00:42:19.000 --> 00:42:28.000]   So I work on my computer, the computer in the office, the computer in the office is in one office.
+[00:42:28.000 --> 00:42:35.000]   So that computer can have a relatively low level of security
+[00:42:35.000 --> 00:42:41.000]   because physical access to the computer is very difficult.
+[00:42:41.000 --> 00:42:54.000]   It's not a big problem to have high security in connection to the use of that particular system.
+[00:42:54.000 --> 00:43:01.000]   If I work from home, then the endpoint, the device I'm using,
+[00:43:01.000 --> 00:43:06.000]   if I work with my phone and I access the service with my phone,
+[00:43:06.000 --> 00:43:13.000]   then the endpoint security is much problematic because I can lose my phone,
+[00:43:13.000 --> 00:43:24.000]   I can lose my computer, my laptop, somebody in the family, for instance,
+[00:43:24.000 --> 00:43:29.000]   could access the computer or the phone, the endpoint for accessing the service.
+[00:43:29.000 --> 00:43:37.000]   I don't know if you remember, I think it was one year ago,
+[00:43:37.000 --> 00:43:41.000]   or maybe slightly more than one and a half years ago,
+[00:43:41.000 --> 00:43:50.000]   when the health services, so all the hospitals,
+[00:43:50.000 --> 00:44:02.000]   the service of the region of Lazio, where Rome is in Italy, was affected by an attack of ransomware.
+[00:44:02.000 --> 00:44:06.000]   Do you know what ransomware is?
+[00:44:06.000 --> 00:44:13.000]   So somebody was able to enter in the system of the Gione Lazio, the Lazio region,
+[00:44:13.000 --> 00:44:16.000]   for the part managing the health,
+[00:44:16.000 --> 00:44:28.000]   and they were able to lock all the data and ask for an answer to the region, to the public administration.
+[00:44:28.000 --> 00:44:44.000]   So one of the hypotheses which is very possible was that it was not a flow of the main system in security,
+[00:44:44.000 --> 00:44:53.000]   it was not even a problem within the organization of Gione Lazio health services,
+[00:44:53.000 --> 00:44:58.000]   it was a problem with a contractor, with an external company doing something,
+[00:44:58.000 --> 00:45:04.000]   some work related to information technology for the public administration.
+[00:45:04.000 --> 00:45:10.000]   And it was not even somebody working for the company which was causing the problem.
+[00:45:10.000 --> 00:45:18.000]   It was the child of an employee of the contractor using the father computer, father or mother computer,
+[00:45:18.000 --> 00:45:26.000]   for playing, for browsing the web, and falling into some trap.
+[00:45:26.000 --> 00:45:32.000]   And then creating a problem for that particular computer, the endpoint,
+[00:45:32.000 --> 00:45:35.000]   the endpoint security was broken in that case,
+[00:45:35.000 --> 00:45:45.000]   and that computer was then vulnerable, then from there email, and all the such,
+[00:45:45.000 --> 00:45:48.000]   email phishing and so on.
+[00:45:48.000 --> 00:45:59.000]   So the point of failure was an endpoint of a service provider,
+[00:45:59.000 --> 00:46:05.000]   which was using software as a service for their own employees,
+[00:46:05.000 --> 00:46:15.000]   and a little flow in endpoint security was creating all this problem.
+[00:46:15.000 --> 00:46:18.000]   Then there is the control of data.
+[00:46:18.000 --> 00:46:31.000]   The control of data is the protection of data. People normally have a very broad range of data,
+[00:46:31.000 --> 00:46:40.000]   they store in software as a service system, think of Google Drive or email and so on.
+[00:46:40.000 --> 00:46:50.000]   And then this data is managed by external entities, so you basically need to delegate to an external actor
+[00:46:50.000 --> 00:46:54.000]   the responsibility of managing this data.
+[00:46:54.000 --> 00:47:01.000]   And this is very controversial, especially when data related, for instance, to health,
+[00:47:01.000 --> 00:47:06.000]   is outsourced to an external company.
+[00:47:06.000 --> 00:47:15.000]   If your hospital is using a cloud service for storing their data,
+[00:47:15.000 --> 00:47:20.000]   let's say they use Google Drive, and there is a problem with this,
+[00:47:20.000 --> 00:47:26.000]   and then there is, it's very unlikely, but suppose that there is a security problem with Google Drive,
+[00:47:26.000 --> 00:47:33.000]   and then your health data is then available to the world.
+[00:47:33.000 --> 00:47:42.000]   It's very problematic for the hospital to make sure that the service providers they use
+[00:47:42.000 --> 00:47:52.000]   is reliable in terms of security of the data of their own users, of the patients.
+[00:47:52.000 --> 00:47:57.000]   These are rather controversial issues.
+[00:47:57.000 --> 00:48:07.000]   And then also, where is the data? So which country legislation do apply in privacy issues
+[00:48:07.000 --> 00:48:09.000]   related to this data, for instance?
+[00:48:09.000 --> 00:48:15.000]   If my data is managed by the data, for instance, of the local hospital,
+[00:48:15.000 --> 00:48:21.000]   is managed by a service provider which is selling their information system, for instance,
+[00:48:21.000 --> 00:48:30.000]   and that information, that provider is operating from Germany,
+[00:48:30.000 --> 00:48:39.000]   but they use Amazon Web Services for buying a virtual machine,
+[00:48:39.000 --> 00:48:43.000]   so the infrastructure system, and Amazon is in the US.
+[00:48:43.000 --> 00:48:56.000]   And the service that Amazon is using is in Iceland, because it's cold enough to have the service there.
+[00:48:56.000 --> 00:48:57.000]   And so on and so forth.
+[00:48:57.000 --> 00:49:01.000]   Who is responsible for the privacy of my data?
+[00:49:01.000 --> 00:49:09.000]   Who is responsible for a problem created by my data?
+[00:49:09.000 --> 00:49:18.000]   Multiple legislations could apply.
+[00:49:18.000 --> 00:49:28.000]   The control, the dark side of the advantage of not needing to keep taking care of the maintenance
+[00:49:28.000 --> 00:49:40.000]   is that maintenance is not decided at the organization base, or based on the organization needs and capabilities,
+[00:49:40.000 --> 00:49:45.000]   but on the service provider decision.
+[00:49:45.000 --> 00:49:50.000]   So I am using an information system which is cloud-based.
+[00:49:50.000 --> 00:49:58.000]   I don't have to update the system, but if the service provider is updating the system,
+[00:49:58.000 --> 00:50:03.000]   everybody in the company will need to learn the new features.
+[00:50:03.000 --> 00:50:12.000]   And maybe that's not the best time, or maybe I don't have the money for paying the time of my employees
+[00:50:12.000 --> 00:50:26.000]   to take the training for being able to use effectively the new version of the system.
+[00:50:26.000 --> 00:50:28.000]   This can be problematic as well.
+[00:50:28.000 --> 00:50:37.000]   That's why the service provider who offers better services,
+[00:50:37.000 --> 00:50:50.000]   they negotiate the updating with the customers, the timing of the update with the customers.
+[00:50:50.000 --> 00:50:59.000]   Another issue is that some useful feature could disappear in an update.
+[00:50:59.000 --> 00:51:08.000]   Some useless and confusing features could appear.
+[00:51:08.000 --> 00:51:15.000]   I don't know if you have been using Google Drive for enough time.
+[00:51:15.000 --> 00:51:32.000]   But recently, in the last few months, the organization of the features, of the activities that you can do,
+[00:51:32.000 --> 00:51:39.000]   we'll say one document in a drive folder, did slightly change.
+[00:51:39.000 --> 00:51:50.000]   It used to be that you click on the item and you have a menu providing you several options.
+[00:51:50.000 --> 00:51:55.000]   Rename, move, create a shortcut, and so on.
+[00:51:55.000 --> 00:52:03.000]   And all this was basically in a long list of possible actions.
+[00:52:03.000 --> 00:52:10.000]   Recently they reorganized this, so now the list is much shorter, but it's in two levels.
+[00:52:10.000 --> 00:52:20.000]   Nobody asked. Nobody was provided with the option for upgrading to the new version or not.
+[00:52:20.000 --> 00:52:30.000]   They used to have a move, which was possible for trying to share with you.
+[00:52:30.000 --> 00:52:39.000]   At some point, a couple of years ago, they transformed this into creating a shortcut,
+[00:52:39.000 --> 00:52:53.000]   which is somehow more consistent with the model they use for building the space, basically.
+[00:52:53.000 --> 00:52:58.000]   You remember we talked about the duplication a while ago, so it's connected with this.
+[00:52:58.000 --> 00:53:05.000]   So more consistent with the model, but then again, creating confusion with several people,
+[00:53:05.000 --> 00:53:09.000]   friends and family that were asking me, but what happened with the possibility to use it,
+[00:53:09.000 --> 00:53:11.000]   which is no longer that word, yes.
+[00:53:11.000 --> 00:53:20.000]   It is still the same, but people are often confused by the change of features.
+[00:53:20.000 --> 00:53:27.000]   Another point which is to be considered is the integration with in-house systems.
+[00:53:27.000 --> 00:53:36.000]   It's very rare that a company outsources everything to an external provider.
+[00:53:36.000 --> 00:53:48.000]   Most often it is the case where the services are outsourced, but still managing the in-house.
+[00:53:48.000 --> 00:53:53.000]   Or different providers are there.
+[00:53:53.000 --> 00:53:58.000]   Another example from the university environment.
+[00:53:58.000 --> 00:54:06.000]   One of the services which is included in Google offer is management of the calendar.
+[00:54:06.000 --> 00:54:18.000]   One of the services which is offered by S3 is filling the registry of classes.
+[00:54:18.000 --> 00:54:24.000]   So every professor has to fill the registry, where they say, in that particular class,
+[00:54:24.000 --> 00:54:28.000]   that was the topic from this time to this time, and to provide the registry,
+[00:54:28.000 --> 00:54:35.000]   which is then something which is used for creating your transcript at the end of your career.
+[00:54:35.000 --> 00:54:39.000]   How many hours, which topics, so on and so forth.
+[00:54:39.000 --> 00:54:51.000]   It would be very nice if I could place classes as events in my calendar, which I do,
+[00:54:51.000 --> 00:54:59.000]   so that I look at my calendar, if I'm free or not in a particular day,
+[00:54:59.000 --> 00:55:03.000]   for taking an appointment, having a meeting or whatever.
+[00:55:03.000 --> 00:55:12.000]   Then I click somewhere, and this is immediately transferred into the registry, provided that I use whatever.
+[00:55:12.000 --> 00:55:18.000]   Unfortunately this is not the case, because the service providers are two completely distinct entities,
+[00:55:18.000 --> 00:55:26.000]   and there is no possible integration of these two service providers.
+[00:55:26.000 --> 00:55:40.000]   I guess you know what is the meaning of exit cost or lock-in, which is a combined thing.
+[00:55:40.000 --> 00:55:48.000]   The lock-in is the consequence of having an high exit cost.
+[00:55:48.000 --> 00:56:00.000]   The exit cost is, how much does it cost in terms of time, money and impact to disengage from a particular service provider,
+[00:56:00.000 --> 00:56:03.000]   or from a particular provider in general.
+[00:56:03.000 --> 00:56:08.000]   Going back to the example about sourcing different things,
+[00:56:08.000 --> 00:56:17.000]   for the university, changing the cleaning service as an outsourcing service is relatively cheap.
+[00:56:17.000 --> 00:56:33.000]   It's only required to advertise the bid for the service, because the contact of the previous service provider is finishing,
+[00:56:33.000 --> 00:56:41.000]   and choosing another company for this really low, low impact.
+[00:56:41.000 --> 00:56:50.000]   Changing from Google services to any other service provider would be extremely expensive,
+[00:56:50.000 --> 00:56:56.000]   in terms of time needed, the effort needed, even for internal personnel,
+[00:56:56.000 --> 00:57:06.000]   and the impact on the activities, on the service, the cost for every individual worker of the university
+[00:57:06.000 --> 00:57:12.000]   to migrate from one to the other platform.
+[00:57:12.000 --> 00:57:18.000]   That would be terabytes of data to be transferred and downloaded,
+[00:57:18.000 --> 00:57:26.000]   if you don't want to lose all the emails that have been sent and received in the last ten years.
+[00:57:26.000 --> 00:57:45.000]   It took, I don't remember exactly, but it was approximately one year to activate Gmail services for the whole university.
+[00:57:45.000 --> 00:57:57.000]   That was for making everybody able to use that service, and also transferring the last few months of email.
+[00:57:57.000 --> 00:58:04.000]   Or now, because many departments choose not to transfer anything.
+[00:58:04.000 --> 00:58:12.000]   So that was relatively feasible, but if the opposite should be done,
+[00:58:12.000 --> 00:58:21.000]   and the decision would be not to lose all the emails, which is also required by law,
+[00:58:21.000 --> 00:58:26.000]   most of the emails could be thrown away, but a certain number of emails,
+[00:58:26.000 --> 00:58:32.000]   regarding, for instance, projects which are funded by external entities,
+[00:58:32.000 --> 00:58:38.000]   data related to teaching activities in the last few years, and so on and so forth,
+[00:58:38.000 --> 00:58:47.000]   must be kept for a while. So filtering what is to be kept and what is not is out of question, is not possible.
+[00:58:47.000 --> 00:58:54.000]   It is too demanding. So, transferring everything, just the fact of needing to transfer,
+[00:58:54.000 --> 00:58:58.000]   will take several months, more than one year for sure.
+[00:58:58.000 --> 00:59:03.000]   More than a long, you know, that's quite expensive.
+[00:59:03.000 --> 00:59:11.000]   So the lock-in is very effective, because the exit cost is huge.
+[00:59:11.000 --> 00:59:18.000]   And before I mention service level agreements, in terms of what is the kind of agreement
+[00:59:18.000 --> 00:59:23.000]   which is signed between the service consumer and the service provider,
+[00:59:23.000 --> 00:59:29.000]   but these kind of agreements are very complicated and obscure for many people,
+[00:59:29.000 --> 00:59:39.000]   because of the technical implications or because of the implication of the technical aspects on the service agreement.
+[00:59:39.000 --> 00:59:47.000]   So not everybody is able to figure out, for instance, what does it mean to have 95% reliability,
+[00:59:47.000 --> 00:59:52.000]   in terms of how much time in the year I could have.
+[00:59:52.000 --> 01:00:01.000]   So the implication, that kind of contracts are normally created by the service provider,
+[01:00:01.000 --> 01:00:08.000]   so not necessarily completely transparent for the service consumer.
+[01:00:08.000 --> 01:00:19.000]   And the compensation for the lack of service, for the fact that the service is not reliable and so on,
+[01:00:19.000 --> 01:00:25.000]   is not easy to determine and quantify.
+[01:00:25.000 --> 01:00:33.000]   And finally, talking about software as a service problem,
+[01:00:33.000 --> 01:00:39.000]   I am quoting here something that Richard Starmah, that you said that you heard recently,
+[01:00:39.000 --> 01:00:44.000]   when talking about pre-industrial software with Andrea Osato.
+[01:00:44.000 --> 01:00:54.000]   He said this is related to what he calls service as a software substitute,
+[01:00:54.000 --> 01:01:05.000]   so not software as a service, but service as a software substitute for underlining the point he is making.
+[01:01:05.000 --> 01:01:09.000]   So what he is saying is that with service as a software substitute,
+[01:01:09.000 --> 01:01:17.000]   the user does not have even the executable file that does the computing.
+[01:01:17.000 --> 01:01:28.000]   So it's even worse on the software because the user not only doesn't have the source code,
+[01:01:28.000 --> 01:01:33.000]   but not even the executable of the problem.
+[01:01:38.000 --> 01:01:45.000]   Which, if you look from the point of view of free software, is even worse.
+[01:01:45.000 --> 01:01:49.000]   Although this is not the main problem, I would say,
+[01:01:49.000 --> 01:01:57.000]   but the main problem related to if we connect with free software,
+[01:01:57.000 --> 01:02:09.000]   free local source software, is the meaning of software modification and distribution.
+[01:02:09.000 --> 01:02:20.000]   So as you know, the GPN is stating that, the buy run, the close of the GPN is stating that
+[01:02:20.000 --> 01:02:30.000]   if you modify or distribute the software, you are bound to release the modified version
+[01:02:30.000 --> 01:02:35.000]   with the same license of the original software.
+[01:02:35.000 --> 01:02:45.000]   Which is a way for the original software developer to make sure that if somebody else improves the software,
+[01:02:45.000 --> 01:02:52.000]   that improved version is also available to me, that I created the original version.
+[01:02:52.000 --> 01:03:03.000]   So I somehow guarantee that if my software, I think that my software is the same software for,
+[01:03:03.000 --> 01:03:12.000]   I create an information system for companies, for managing the bills and the payments.
+[01:03:12.000 --> 01:03:17.000]   And there it is with the free software, GPN for instance.
+[01:03:17.000 --> 01:03:28.000]   So, and I said, the two companies, the service of installing the software,
+[01:03:28.000 --> 01:03:40.000]   their premises and the configuring for them and training the employees for using that software.
+[01:03:40.000 --> 01:03:50.000]   Then somebody else, say one of you is creating their own version, improving a lot and twice as fast.
+[01:03:50.000 --> 01:03:55.000]   And with the double, doubling the number of features.
+[01:03:55.000 --> 01:04:04.000]   But then since I have, then you also release the software and you also run your own business
+[01:04:04.000 --> 01:04:13.000]   for installing your version of the software which is not much better than mine in companies providing services.
+[01:04:13.000 --> 01:04:20.000]   Then if I release this software with GPN, I'm relatively fine with this because I can,
+[01:04:20.000 --> 01:04:30.000]   if I want, take your improved version and use that version in my service to companies, install that software.
+[01:04:30.000 --> 01:04:38.000]   And possibly improve and create another version and so on. So that is what could happen with the GPN.
+[01:04:38.000 --> 01:04:47.000]   But if you are taking my information system and then you create an online version
+[01:04:47.000 --> 01:04:56.000]   and you sell the possibility for customer, for your customer to access that version online,
+[01:04:56.000 --> 01:05:04.000]   you are not distributing it in the sense that the GPN is using.
+[01:05:04.000 --> 01:05:09.000]   In the sense that normally used in software licenses. You are not distributing something.
+[01:05:09.000 --> 01:05:17.000]   You are only providing the possibility to access your own code, your own version to other people.
+[01:05:17.000 --> 01:05:24.000]   It could even be with no modification whatsoever or with slight modifications, whatever.
+[01:05:24.000 --> 01:05:34.000]   So it's not so nice for me the situation where somebody else is using my software
+[01:05:34.000 --> 01:05:43.000]   which I released for the benefit of the world for their own purpose, for their own benefit
+[01:05:43.000 --> 01:05:50.000]   without the possibility for me or other people to access and have benefits as well.
+[01:05:50.000 --> 01:06:00.000]   There is even one license which is the Affero GPL which was created just for addressing that issue.
+[01:06:00.000 --> 01:06:09.000]   And the only difference between the AGPL and the GPL is that they are the same condition,
+[01:06:09.000 --> 01:06:16.000]   free to use, access to code, free to distribute, free to modify and redistribute,
+[01:06:16.000 --> 01:06:20.000]   required to apply the same condition on the distributed version and so on and so forth.
+[01:06:20.000 --> 01:06:22.000]   But they added this.
+[01:06:22.000 --> 01:06:32.000]   So therefore public use of modified version on a public CSS server gives the public access to the source code of the modified version.
+[01:06:32.000 --> 01:06:45.000]   So that license is basically considering distribution, also making the software available on a public server.
+[01:06:45.000 --> 01:06:55.000]   That means that if you take my information system, you make it better and you set that as an online service,
+[01:06:55.000 --> 01:07:03.000]   you are required to release that as well, I mean the source code of the modified version.
+[01:07:03.000 --> 01:07:21.000]   And clearly this will reassure me as the original developer that I will not find myself in a situation where somebody is making money of my software without me having the possibility to benefit from this.
+[01:07:21.000 --> 01:07:36.000]   Because since you have to provide the modified version source code, I can access this source code and create my own version of the service,
+[01:07:36.000 --> 01:07:43.000]   also with the label managed by the original inventor of the system.
+[01:07:43.000 --> 01:07:46.000]   If I want to do that.
+[01:07:46.000 --> 01:08:01.000]   So when my colleagues or students are asking me, I would like to release this piece of software as free software or as free as a personal software,
+[01:08:01.000 --> 01:08:04.000]   which license do you suggest?
+[01:08:04.000 --> 01:08:19.000]   My response to this is asking them, can you conceive even the remote options that somebody could use this software as part of an online service?
+[01:08:19.000 --> 01:08:26.000]   If it's yes, then there is only one choice, basically, which is this.
+[01:08:26.000 --> 01:08:35.000]   If you are certain that there is no possibility that somebody will never use that software as part of an online service,
+[01:08:35.000 --> 01:08:42.000]   then you can choose, there are several different options, depending on your aspects and so on.
+[01:08:42.000 --> 01:08:51.000]   But if there is the possibility of your software being possibly included in an online system,
+[01:08:51.000 --> 01:08:57.000]   then there is little choice but the affair with the API.
+[01:08:57.000 --> 01:09:16.000]   Because that's the only one which is guaranteeing some control, basically, to the original developer.
+[01:09:16.000 --> 01:09:25.000]   You know that Google was running the Summer of Code, they're still running the Summer of Code.
+[01:09:25.000 --> 01:09:38.000]   And for some time, in the initial years, they had some requirements of the kind of license that could be used for releasing software development
+[01:09:38.000 --> 01:09:46.000]   under the Summer of Code program, which is funding the people who are part of this program.
+[01:09:46.000 --> 01:09:51.000]   So they rolled out this license.
+[01:09:51.000 --> 01:10:04.000]   Because one thing they did do in the past was taking part of the Linux system, the cabinet of the Linux system and some other parts,
+[01:10:04.000 --> 01:10:20.000]   modifying for being better included in their systems, making it better, basically, making it faster, making it a better part of their system.
+[01:10:20.000 --> 01:10:24.000]   But they were never required to release that modification.
+[01:10:24.000 --> 01:10:37.000]   They never released that modification because the license of the kernel and all the other parts of the Linux system did not force them to do so.
+[01:10:37.000 --> 01:10:52.000]   And they somehow saw the archipelago possibly, that's one of the problems, as a threat to that model.
+[01:10:52.000 --> 01:11:05.000]   Since then, they developed their own system, they are no longer using Linux, but for some time that was the case.
+[01:11:05.000 --> 01:11:29.000]   So one possible question that is now connected is, let's say that they want to create the service counterpart of Free Software.
+[01:11:29.000 --> 01:11:38.000]   So I want to release a service which has the same kind of ethic, attitude as Free Software.
+[01:11:38.000 --> 01:11:47.000]   I want to make it available to everybody as it is knowledge, as it is, you know, as a...
+[01:11:47.000 --> 01:12:09.000]   I want to release the source code, so on and so forth, what should I do for making sure that the service I release to the public is free, as freedom, as general is stated.
+[01:12:09.000 --> 01:12:12.000]   So what could be a free service?
+[01:12:12.000 --> 01:12:27.000]   Well, the Free Software model is not only working for the service because releasing the source code is, well, yes, useful, but not enough.
+[01:12:27.000 --> 01:12:36.000]   Because services most often are also aggregation of other services.
+[01:12:36.000 --> 01:12:56.000]   It's very difficult that one particular service is not a microservice, of course, but a service providing a relatively high level feature, a high level kind of service, is only one standalone provision.
+[01:12:56.000 --> 01:13:00.000]   Most often is an aggregation of other services.
+[01:13:00.000 --> 01:13:04.000]   And this aggregation can be run time chosen.
+[01:13:04.000 --> 01:13:28.000]   So the weather forecast model that I use for providing a service which is giving advice for using the bicycle tomorrow could be changing depending on the availability,
+[01:13:28.000 --> 01:13:47.000]   depending on any kind of parameter that I can decide to use for choosing at run time which forecasting service to include in my service for suggesting the use of bicycle tomorrow.
+[01:13:47.000 --> 01:13:52.000]   And so this could be not enough.
+[01:13:52.000 --> 01:13:57.000]   Then the data which is generated dynamically is also in fact in the service.
+[01:13:57.000 --> 01:14:08.000]   So a number of aspects in service provision are not easy to release as it is releasing source code.
+[01:14:08.000 --> 01:14:10.000]   Releasing source code is very easy.
+[01:14:10.000 --> 01:14:12.000]   Source code is there.
+[01:14:12.000 --> 01:14:18.000]   I modify source code every once in a while, not continuously.
+[01:14:18.000 --> 01:14:24.000]   This service is a configuration of software plus data plus other services continuously.
+[01:14:24.000 --> 01:14:34.000]   So making this available, freely available to everybody who wants to replicate and improve and so on is not an easy job.
+[01:14:34.000 --> 01:14:39.000]   And figuring out the license that could be attached to this is not an easy task.
+[01:14:39.000 --> 01:14:50.000]   That's why there's not such a counterpart of free software as a free service that sells software.
+[01:14:50.000 --> 01:15:01.000]   And all this is also what is completely changing the world, so to say, for free and open source software.
+[01:15:01.000 --> 01:15:16.000]   Because as times go by, people are less and less interested in software as something they own, so to say.
+[01:15:16.000 --> 01:15:26.000]   How many programs do you download to your computer and run to your computer as opposed to a few years ago?
+[01:15:26.000 --> 01:15:33.000]   Or as opposed to how many services you use online?
+[01:15:33.000 --> 01:15:55.000]   You need to reduce the size of a PDF because you need to upload your PDF in a platform which is giving you a limit of how many megabytes can be applied.
+[01:15:55.000 --> 01:15:58.000]   So you need to reduce the size of your PDF.
+[01:15:58.000 --> 01:16:04.000]   Do you download a program for doing that?
+[01:16:04.000 --> 01:16:06.000]   Most of the time you don't, right?
+[01:16:06.000 --> 01:16:13.000]   In most cases you don't. You just search for an online service which is doing it.
+[01:16:13.000 --> 01:16:19.000]   Possibly impacting the privacy of the data in the file and so on and so forth, but that's another story.
+[01:16:19.000 --> 01:16:33.000]   Do you care if you were downloading the software you could say, ok, as Rich assignment does, I only want free software in my computer.
+[01:16:33.000 --> 01:16:37.000]   But you're not downloading the software.
+[01:16:37.000 --> 01:16:40.000]   You're using it in a standard sense.
+[01:16:40.000 --> 01:16:44.000]   So what can you say in terms of this ethical stance?
+[01:16:44.000 --> 01:16:49.000]   Only free software you want to use.
+[01:16:49.000 --> 01:16:54.000]   It is not applicable basically.
+[01:16:54.000 --> 01:17:11.000]   So it is less and less relevant, the freedom or not of software in a world which is more interested in services, online services rather than software.
+[01:17:11.000 --> 01:17:22.000]   There is also another thing which I want to mention to you related to the implication of software as a service.
+[01:17:22.000 --> 01:17:27.000]   So did you ever encounter the Amazon Mechanical Tark?
+[01:17:27.000 --> 01:17:30.000]   Did you ever?
+[01:17:30.000 --> 01:17:33.000]   No? Never heard of this?
+[01:17:33.000 --> 01:17:37.000]   The Amazon Mechanical Tark is a very interesting idea.
+[01:17:37.000 --> 01:17:51.000]   Basically it's now I think...
+[01:17:51.000 --> 01:17:57.000]   I think more than ten years ago.
+[01:17:57.000 --> 01:18:13.000]   Now or even more at the time it was created, there were a number of tasks that are not doable, not easily doable by a computer rather than a unit.
+[01:18:13.000 --> 01:18:18.000]   But very easy for you.
+[01:18:18.000 --> 01:18:28.000]   For instance, translating a part or a poem.
+[01:18:28.000 --> 01:18:32.000]   You take a poem and you want to translate it into another language.
+[01:18:32.000 --> 01:18:37.000]   That's very difficult to automate.
+[01:18:37.000 --> 01:18:45.000]   Or identifying in an image, identifying a possible threat.
+[01:18:45.000 --> 01:18:57.000]   But still automatic systems are doing better but still it's complicated.
+[01:18:57.000 --> 01:19:06.000]   A camera with an attached system can detect if there is a person in the field of view.
+[01:19:06.000 --> 01:19:09.000]   But is this person a threat or not?
+[01:19:09.000 --> 01:19:14.000]   It's not so easy to detect.
+[01:19:14.000 --> 01:19:23.000]   And so many factors, the time of the day, the kind of movement that the person is doing and so on to support the situation.
+[01:19:23.000 --> 01:19:25.000]   Are there other people that are not?
+[01:19:25.000 --> 01:19:27.000]   So a number of factors.
+[01:19:27.000 --> 01:19:37.000]   For a human it's a task to possibly say, "Hmm, maybe there is a threat or not."
+[01:19:37.000 --> 01:19:51.000]   So the idea of the inventors of Amazon Mechanical Tap is, "Okay, clearly there are tasks which are easier to do for a human than for a computer."
+[01:19:51.000 --> 01:20:05.000]   But that particular task could be used further into a very much broader system.
+[01:20:05.000 --> 01:20:21.000]   I created a surveillance system which includes several different cameras, several different controls, several different communication systems.
+[01:20:21.000 --> 01:20:32.000]   And I miss just a piece of software for analyzing images when all the filtering has determined that there is something moving there.
+[01:20:32.000 --> 01:20:36.000]   This is something which is a human, this is something which is this and that.
+[01:20:36.000 --> 01:20:40.000]   And then I want a decision to be taken if this is possibly a threat.
+[01:20:40.000 --> 01:20:48.000]   But I cannot rely on an automated program for doing that.
+[01:20:48.000 --> 01:20:51.000]   I need to rely on a person.
+[01:20:51.000 --> 01:20:57.000]   So one possibility is of course to have somebody there paid for looking at the system.
+[01:20:57.000 --> 01:21:07.000]   When there is a red flag blinking, the light blinking looks at the screen and takes a decision.
+[01:21:07.000 --> 01:21:10.000]   Very expensive.
+[01:21:10.000 --> 01:21:16.000]   What you really want is a piece of software that in particular is activated at the site.
+[01:21:16.000 --> 01:21:32.000]   So the idea of the Amazon Mechanical Tap was, "Well, let's create an infrastructure for a program to request something to the Amazon Mechanical Tap platform,
+[01:21:32.000 --> 01:21:40.000]   which is then sending that request to a human which is there, we need to do the task."
+[01:21:40.000 --> 01:21:46.000]   And the human received the data, take the decision, do the task, send the output,
+[01:21:46.000 --> 01:21:57.000]   and the output is then packaged in a way which is useful for the system there for using the results of this.
+[01:21:57.000 --> 01:22:11.000]   So basically creating an interface between a program and the human which is providing some task for the IT system.
+[01:22:11.000 --> 01:22:26.000]   For instance, that was used in one case that became relatively famous was when there was a boat which was lost outside of the coast of California.
+[01:22:26.000 --> 01:22:45.000]   And a huge amount of data that was to be analyzed, data from camera, from airplanes flying across the area where the boat was supposed to be.
+[01:22:45.000 --> 01:22:58.000]   And they used Amazon Mechanical Tap for splitting the images of the surveillance camera of the plane to several people, thousands of people,
+[01:22:58.000 --> 01:23:08.000]   thousands of people, thousands of images, and everybody was checking for that particular image to figure out if there was possibly a boat in that image.
+[01:23:08.000 --> 01:23:22.000]   Because at that time, 10 years ago, we automated the software for finding a particular object, like a boat in a relatively complicated image,
+[01:23:22.000 --> 01:23:29.000]   like in the sea with clouds, fog, waves, and so on.
+[01:23:29.000 --> 01:23:39.000]   They never found the boat, by the way, but the poor people that were in the boat are lost.
+[01:23:39.000 --> 01:23:44.000]   But at any rate, it was an interesting application of this system.
+[01:23:44.000 --> 01:23:49.000]   Then it was still used for a number of tasks.
+[01:23:49.000 --> 01:23:58.000]   So the idea is basically, one way to see it is a marketplace for work.
+[01:23:58.000 --> 01:24:02.000]   I am paid for my micro task.
+[01:24:02.000 --> 01:24:14.000]   So the interesting idea is that I received maybe five cents for checking an image and saying, yes, there is a threat.
+[01:24:14.000 --> 01:24:16.000]   It's taking one minute.
+[01:24:16.000 --> 01:24:21.000]   I pay very low, but it's very, very short time.
+[01:24:21.000 --> 01:24:25.000]   I receive a number of those tasks.
+[01:24:25.000 --> 01:24:34.000]   And there are people who are paying their bills with this kind of work.
+[01:24:34.000 --> 01:24:43.000]   So basically, the infrastructure, it was the first platform for crowdsourcing, if you want.
+[01:24:43.000 --> 01:24:55.000]   And now there are a number of platforms doing similar things for micro tasks, like Amazon Mechanical Tasks, or broader tasks.
+[01:24:55.000 --> 01:25:02.000]   So marketplace for work, nowadays there are plenty of different ones.
+[01:25:02.000 --> 01:25:15.000]   I can use this kind of platform for doing quite complicated things like creating the new logo for my company, for instance.
+[01:25:15.000 --> 01:25:21.000]   It's not a micro task of Amazon Mechanical Tasks.
+[01:25:21.000 --> 01:25:31.000]   The initial slogan was artificial intelligence, because it's not artificial intelligence, it's an artificial version of artificial intelligence.
+[01:25:31.000 --> 01:25:45.000]   The artificial is the fact that it's not real intelligence, but it's something which is mimicking artificial intelligence by using human intelligence.
+[01:25:45.000 --> 01:25:57.000]   It's the, if you want, deviant idea, deviant version of the Turing test.
+[01:25:57.000 --> 01:26:10.000]   So from the idea of the Turing test, you can understand, an AI could be said that it passed the Turing test if you can distinguish from a human.
+[01:26:10.000 --> 01:26:15.000]   It's okay. Let's say the AI is not good enough, but the human is good enough.
+[01:26:15.000 --> 01:26:20.000]   Okay, so let's see the human in the room.
+[01:26:20.000 --> 01:26:32.000]   Interesting, but also creating a lot of problems, if you look closely, because making human computing, say, accessible as a web service,
+[01:26:32.000 --> 01:26:44.000]   first of all it means that the human is the service of the technology, and not the technology and the service of the human as we normally think it should be.
+[01:26:44.000 --> 01:26:51.000]   But, you know, maybe it was the first symptom of something.
+[01:26:51.000 --> 01:27:05.000]   But anyway, there are a number of tasks also in terms of how much to pay, because, you know, five cents for a task which is taking ten seconds,
+[01:27:05.000 --> 01:27:14.000]   so ten cents, one euro per minute is sixty euro an hour if you want.
+[01:27:14.000 --> 01:27:34.000]   So sixty euro an hour is quite a good salary, even in the US, but there is nothing preventing people from rolling as workers
+[01:27:34.000 --> 01:27:42.000]   for the Amazon Mechanical Turk, Turkas, they say, in any other country.
+[01:27:42.000 --> 01:27:48.000]   And there are countries where this could be the monthly wage of a person.
+[01:27:48.000 --> 01:27:59.000]   So it's really difficult to figure out the impact of this thing, this thing could happen.
+[01:27:59.000 --> 01:28:11.000]   And also, if you are working for such a system, for such a platform, then what does it mean, which kind of guarantee do you have?
+[01:28:11.000 --> 01:28:20.000]   Can you take, do you have rights of any sort? If you are sick, you are sick and you are not paying, because you cannot perform your task.
+[01:28:20.000 --> 01:28:29.000]   If you are in maternity leave, there is no maternity leave. If you are on vacation, there is no vacation, no paying vacation.
+[01:28:29.000 --> 01:28:34.000]   If you are working other hours, there are not working hours.
+[01:28:34.000 --> 01:28:46.000]   So it's creating a very complicated environment, so to say, for work.
+[01:28:46.000 --> 01:28:58.000]   And again, if you want, I was just saying that it is very difficult to think of a free service, because distributing the source code is not enough.
+[01:28:58.000 --> 01:29:09.000]   But if you are using, if a service would be using something similar to Amazon Mechanical Turk, there is also the human in the group.
+[01:29:09.000 --> 01:29:22.000]   So what does it mean to create this as a free version of that service? Which kind of access to code?
+[01:29:22.000 --> 01:29:42.000]   Okay. I'm done with my slides, and maybe you have questions or comments?
+[01:29:42.000 --> 01:29:52.000]   Okay. I would like you to take a look at this.
+[01:29:52.000 --> 01:30:02.000]   Okay.
+[01:30:02.000 --> 01:30:31.000]   Okay.
+[01:30:31.000 --> 01:30:51.000]   Thank you.
+[01:30:51.000 --> 01:31:10.000]   Thank you.
+[01:31:10.000 --> 01:31:13.000]   So what is this?
+[01:31:13.000 --> 01:31:40.000]   So today, I was revising the slides for today's class, so I had the idea of checking, what would...
+[01:31:40.000 --> 01:31:46.000]   ...the subject suggest in terms of what is...
+[01:31:46.000 --> 01:32:08.000]   Oops.
+[01:32:08.000 --> 01:32:18.000]   Does this work?
+[01:32:18.000 --> 01:32:32.000]   So I was asking what are the main points for a class on software, this and the protection, implication for privacy and IPR.
+[01:32:32.000 --> 01:32:41.000]   I was surprised by the accuracy of the answer, because stating that the 10 points, I don't know about 10,
+[01:32:41.000 --> 01:32:53.000]   but the main points are possible. So first of all, data privacy and security, okay, discuss the importance of data privacy and so on.
+[01:32:53.000 --> 01:33:03.000]   So user office to sensitive information in cloud, examine the measure taken by the service provider to secure user data,
+[01:33:03.000 --> 01:33:14.000]   and the connection with the relation, I didn't touch this, but clearly this whenever you talk about privacy, you already discuss this with Andrea Rosato.
+[01:33:14.000 --> 01:33:25.000]   User consent, informal consent, and the term of service and privacy policies, the report transparency in the language that user can understand.
+[01:33:25.000 --> 01:33:35.000]   Yes, I already had the software as a service, SNA transparency as an item in the list before.
+[01:33:35.000 --> 01:33:48.000]   Compliance with the regulation, the connection with the client, with the privacy issue, and also the point I raised before.
+[01:33:48.000 --> 01:33:57.000]   The fact that there are several different entities, who is the company providing the service, who is the infrastructure they use,
+[01:33:57.000 --> 01:34:04.000]   where is the algorithm which is used and so on and so forth.
+[01:34:04.000 --> 01:34:14.000]   Okay, so then intellectual property in software as a service could be a problem, yes, that's relevant.
+[01:34:14.000 --> 01:34:21.000]   Okay.
+[01:34:21.000 --> 01:34:29.000]   The service level agreements.
+[01:34:29.000 --> 01:34:43.000]   Service level agreement, how they may include clauses related to data privacy, security, intellectual property, which are not necessarily aligned with the designs of the users.
+[01:34:43.000 --> 01:34:49.000]   Vendor management, the role of third party vendors in the software as a service ecosystem and so on.
+[01:34:49.000 --> 01:34:51.000]   Okay, so here's an example.
+[01:34:51.000 --> 01:35:00.000]   Okay, emerging technologies like artificial intelligence.
+[01:35:00.000 --> 01:35:13.000]   User rights, the rights that users have concerning the data including right to access correct and deleted personal information and ethical considerations.
+[01:35:13.000 --> 01:35:24.000]   Then I ask more details on some of the items about the vendor management for instance, contract obligation, risk mitigating strategies,
+[01:35:24.000 --> 01:35:38.000]   third party security and privacy assessment, the fact that for a company that is managing privacy, data bound to privacy regulation,
+[01:35:38.000 --> 01:35:52.000]   using an external provider is a problem because they need to use, they need to, they still are responsible toward the final user,
+[01:35:52.000 --> 01:35:54.000]   but they are delegating another one.
+[01:35:54.000 --> 01:36:05.000]   So they need to make it transparent to the user in the privacy statement that the user do have the right to see.
+[01:36:05.000 --> 01:36:11.000]   So this is an interesting point.
+[01:36:11.000 --> 01:36:15.000]   Okay, examples.
+[01:36:15.000 --> 01:36:23.000]   Security breaches, yes, already there.
+[01:36:23.000 --> 01:36:32.000]   Successful implementation, when we have a number of successful implementations, we experience them.
+[01:36:32.000 --> 01:36:39.000]   AI and privacy concerns in terms of emerging technologies.
+[01:36:39.000 --> 01:36:45.000]   How the use of artificial intelligence software as a service application can raise privacy concerns.
+[01:36:45.000 --> 01:36:51.000]   Scenarios where AI algorithms analyze user data and make it issue for privacy.
+[01:36:51.000 --> 01:37:07.000]   Clearly this is one of the issues of the activity and similar entities, the fact that people could provide in the data data to analyze something which is protected by privacy.
+[01:37:07.000 --> 01:37:15.000]   Similarly for the property because of the training, because of the data and so on.
+[01:37:15.000 --> 01:37:22.000]   And also blockchain technology could be used for improving security and privacy.
+[01:37:22.000 --> 01:37:29.000]   And then finally, ethical consideration, but we will go back to these kind of topics in a later class.
+[01:37:29.000 --> 01:37:47.000]   So it was interesting, what I just wanted to share with you this list of contribution from Chai Chiftee, which is on the one hand nice, on the other hand worrying because of why do you study,
+[01:37:47.000 --> 01:38:05.000]   because since there is an entity which is already there providing a very well-known input, why do I teach if there is something which could be providing a similar input as a...
+[01:38:05.000 --> 01:38:14.000]   So, still I think we are better off.
+[01:38:14.000 --> 01:38:18.000]   We are at risk.
+[01:38:18.000 --> 01:38:27.000]   I hope you still consider the first part of this class better than this.
+[01:38:27.000 --> 01:38:33.000]   Whatever I said until now, I didn't change my slides after seeing this.
+[01:38:33.000 --> 01:38:49.000]   So these are the next.
+[01:38:49.000 --> 01:38:51.000]   Okay.
+[01:38:51.000 --> 01:38:55.000]   I see you next week.
+[01:38:55.000 --> 01:38:59.000]   Thank you.
+[01:38:59.000 --> 01:39:11.000]   Thank you.

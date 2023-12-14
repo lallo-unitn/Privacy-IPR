@@ -1,0 +1,387 @@
+[00:00:00.000 --> 00:00:04.000]   Digital rivinagement system and trusted computing.
+[00:00:04.000 --> 00:00:07.000]   Do you know what trusted computing is?
+[00:00:07.000 --> 00:00:16.000]   Do you ever hear the expression?
+[00:00:16.000 --> 00:00:18.000]   No?
+[00:00:18.000 --> 00:00:20.000]   I should put it down.
+[00:00:20.000 --> 00:00:26.000]   So that's interesting because trusted computing is everywhere.
+[00:00:26.000 --> 00:00:30.000]   Even though you're not probably aware of it.
+[00:00:30.000 --> 00:00:36.000]   Do you ever hear about a secure boot?
+[00:00:36.000 --> 00:00:37.000]   Yes?
+[00:00:37.000 --> 00:00:44.000]   You know that starting with Windows 10, as far as I remember, no?
+[00:00:44.000 --> 00:00:53.000]   In order to boot the Windows operating system, you need to have the so-called secure boot enabled.
+[00:00:53.000 --> 00:00:56.000]   Which means trusted computing.
+[00:00:56.000 --> 00:01:04.000]   Trusted computing is on every cell phone, on every laptop, sold everywhere.
+[00:01:04.000 --> 00:01:15.000]   So we will be talking about trusted computing and what it's meant to do and why.
+[00:01:15.000 --> 00:01:30.000]   And some final consideration about, well, intellectual property and digital way of implementing the exclusive right.
+[00:01:30.000 --> 00:01:42.000]   If you remember, when I'm talking about the Eastern of copyright, we have been finishing our journey by talking about the white copyright treaty of 1986.
+[00:01:42.000 --> 00:01:49.000]   It was a treaty adopted with the Indian World Intellectual Property Organization.
+[00:01:49.000 --> 00:01:56.000]   It is probably the last piece of important legislation regarding copyright.
+[00:01:56.000 --> 00:02:04.000]   And there are two articles in that treaty which are quite important. Article 11 and Article 12.
+[00:02:04.000 --> 00:02:12.000]   Article 11 is titled "Obligations conserving technological measures".
+[00:02:12.000 --> 00:02:33.000]   And it states that "Contracting parties shall provide adequate legal protection and effective legal remedies against the circumvention of effective technological measures that are used by authors in connection with the exercise of their rights under this treaty or the Bergen Convention
+[00:02:33.000 --> 00:02:44.000]   to restrict acts in respect of their work which are not authorized by the outdoors, concerned or permitted by law".
+[00:02:44.000 --> 00:03:00.000]   So Article 11 of the white copyright treaty of 1986 states that "What are called digital rights management systems should be protected by the legal system".
+[00:03:00.000 --> 00:03:16.000]   That is to say, circumvention of digital rights management systems are to be considered illegal and there should be legal remedies against those actions.
+[00:03:16.000 --> 00:03:41.000]   And that's quite interesting because as we will see, the major implementations of the white copyright treaty by the European Union and by the United States with a digital millennium copyright type of 1998.
+[00:03:41.000 --> 00:04:01.000]   Actually, they do not protect against the circumvention of effective technological measures when used to restrict acts which are not authorized or permitted by the law.
+[00:04:01.000 --> 00:04:15.000]   But they just protect the digital rights management systems regardless of the code they are used for.
+[00:04:15.000 --> 00:04:42.000]   Which means that basically copyright holders or authors, but usually authors are not the real copyright holders, may restrict by using digital technologies any possible use of a digital intellectual work.
+[00:04:42.000 --> 00:04:49.000]   You remember we have been talking about the first state doctrine.
+[00:04:49.000 --> 00:05:09.000]   And I told you that first state doctrine is quite an obscure legal institution which on the other side gives you the power to do whatever you want with a copy of an intellectual work you are.
+[00:05:09.000 --> 00:05:14.000]   You own it illegally.
+[00:05:14.000 --> 00:05:31.000]   It makes it possible to plant a book, to burn it, to read it once, twice, three times, to borrow it or to sell it to another person.
+[00:05:31.000 --> 00:05:34.000]   That's the first state doctrine.
+[00:05:34.000 --> 00:05:43.000]   Every time I sell a copy of an intellectual work I lose any further distribution right on that copy.
+[00:05:43.000 --> 00:05:57.000]   That's quite important because it makes me the owner of the medium through which the intellectual work is distributed.
+[00:05:57.000 --> 00:06:04.000]   I didn't see anything about that.
+[00:06:04.000 --> 00:06:12.000]   Did I tell you something about Alice in Wonderland?
+[00:06:12.000 --> 00:06:15.000]   Yes, I did.
+[00:06:15.000 --> 00:06:27.000]   So you remember Alice in Wonderland is a book in the public domain but still Adobe decided to distribute it in a digital format.
+[00:06:27.000 --> 00:06:33.000]   Actually that copy was taken from the Gutenberg Project.
+[00:06:33.000 --> 00:06:39.000]   Remember we have been talking about the Gutenberg Project when talking about the Android games.
+[00:06:39.000 --> 00:06:45.000]   Creative commerce and kind of stuff.
+[00:06:45.000 --> 00:06:59.000]   And it was very funny because one of the permissions or the obligations of the license through which that book was distributed was prohibiting to read that book aloud.
+[00:06:59.000 --> 00:07:03.000]   But who cares?
+[00:07:03.000 --> 00:07:07.000]   You know how the legal system works.
+[00:07:07.000 --> 00:07:21.000]   If you are violating a prescription of a software license, well, it's up to the copyright owner to bring you to court.
+[00:07:21.000 --> 00:07:29.000]   And the judge will decide whether that close of the license is legally binding or not.
+[00:07:29.000 --> 00:07:37.000]   And honestly, the legal requirement not to read the book aloud is not binding.
+[00:07:37.000 --> 00:07:42.000]   It's just bullshit.
+[00:07:42.000 --> 00:07:52.000]   And so there was no way for Adobe to enforce that license or that part of the license.
+[00:07:52.000 --> 00:08:07.000]   But still you can imagine a digital work protected by a digital right management system that allows you to read a book just once or twice and not more.
+[00:08:07.000 --> 00:08:13.000]   So you do not own the book. You just have the permission to read it.
+[00:08:13.000 --> 00:08:17.000]   The same for a movie.
+[00:08:17.000 --> 00:08:30.000]   When I was younger, it was possible to buy a movie in a DVD format or in a video set.
+[00:08:30.000 --> 00:08:35.000]   And it was possible to borrow it.
+[00:08:35.000 --> 00:08:38.000]   It was possible to lend it.
+[00:08:38.000 --> 00:08:43.000]   It was possible to watch it how many times you wanted it.
+[00:08:43.000 --> 00:09:04.000]   So Article 11 of the copyright treaty protects digital rights management system and it protects basically the possibility of authors to impose any restriction which can be implemented with a digital technology.
+[00:09:04.000 --> 00:09:14.000]   Article 12 instead talks about digital right management information.
+[00:09:14.000 --> 00:09:24.000]   That is to say what you need for a digital right management system are two basic components.
+[00:09:24.000 --> 00:09:31.000]   The first one is the component which is going to restrict any action which is not permitted.
+[00:09:31.000 --> 00:09:39.000]   And the second one is a way of expressing what is permitted and what is not permitted.
+[00:09:39.000 --> 00:09:59.000]   So why Article 11 protects the first component of the digital fence or digital, how can I call it, digital way of excluding people from the level working.
+[00:09:59.000 --> 00:10:25.000]   Article 12 instead says that it is not permitted to remove or alter any right management information which is the digital translation of a software or distribution license.
+[00:10:25.000 --> 00:10:38.000]   And you see, the parties shall provide an effective league of remedies against any person normally performing one of the following nuts.
+[00:10:38.000 --> 00:10:45.000]   To remove or alter any electronic right management information without authority.
+[00:10:45.000 --> 00:11:06.000]   To distribute import or distribution, broadcast or communicate to the public without authority, works or copies of works knowing that electronic right management information has been removed or altered without authority.
+[00:11:06.000 --> 00:11:23.000]   Rights management information are information which identifies the author of the work, the owner of any right in the work or information about the terms and conditions of use of the work.
+[00:11:23.000 --> 00:11:29.000]   And any numbers or codes that represent such information.
+[00:11:29.000 --> 00:11:37.000]   Okay, so basically a license in a digital form.
+[00:11:37.000 --> 00:11:47.000]   And we will see how we can create a license in a digital form.
+[00:11:47.000 --> 00:11:53.000]   As you know, an international treaty must be implemented by national legislation.
+[00:11:53.000 --> 00:12:05.000]   That is to say an international treaty is binding for signing states, but not for individuals.
+[00:12:05.000 --> 00:12:13.000]   Unless the international treaty is translated into national legislation.
+[00:12:13.000 --> 00:12:26.000]   And so the White Paper Copyright Treaty of 1986 was implemented in Europe by the European directive number 29 of 2001.
+[00:12:26.000 --> 00:12:35.000]   And in the United States by the digital moon landing copyright that of 1998.
+[00:12:35.000 --> 00:12:51.000]   And remember 1988 was also the year when the Copyright Extension Act, also called the Mickey Mouse Act was adopted.
+[00:12:51.000 --> 00:13:07.000]   It was during the Clinton administration. So with the democratic majority of the White House and Congress.
+[00:13:07.000 --> 00:13:18.000]   The European directive, this is Article 6 of that directive, Directive 29, Obligation and Institute of Technological Measures.
+[00:13:18.000 --> 00:13:29.000]   And you see, paragraph 1 says that member states have provided adequate legal protection against the implementation of any effective technological measures.
+[00:13:29.000 --> 00:13:44.000]   Which the person concerned carries out in the knowledge of with the reasonable ground to know that he or she is pursuing that objective.
+[00:13:44.000 --> 00:14:02.000]   As you see, there is no mention of acts which are not authorized by the authors or permitted by law.
+[00:14:02.000 --> 00:14:19.000]   The only requirement for a digital right management system to be protected by the European directive and the national legislation implemented in the directive is to be effective.
+[00:14:19.000 --> 00:14:22.000]   Okay, that's the only requirement.
+[00:14:22.000 --> 00:14:34.000]   As long as a technological measure is effective, it must be protected by the legal system. That is to say, any civil convention must be prohibited.
+[00:14:34.000 --> 00:14:40.000]   And effective legal remedies must be provided against the civil convention.
+[00:14:40.000 --> 00:15:02.000]   Effective legal remedies means that you may have a court order not to distribute a word which is not protected by digital right management systems or stuff like that.
+[00:15:02.000 --> 00:15:09.000]   Moreover, as you see, paragraph 2 goes even further.
+[00:15:09.000 --> 00:15:27.000]   It says that member states should provide adequate legal protection against the manufacture, import and distribution of sale or rental advertisement, or sale or rental, or possession for commercial purposes of devices, products and components,
+[00:15:27.000 --> 00:15:35.000]   or the provision of services which are promoted, advertised or marketed for the purpose of the civil convention,
+[00:15:35.000 --> 00:16:00.000]   or have only a limited commercial significant purpose or use other than civil convention, or a primarily designed, produced, adapted, performed for the purpose of enabling or facilitating the civil convention of any technological, effective technological measure.
+[00:16:00.000 --> 00:16:25.000]   It is not just the act of circumventing, which is prohibited, but also the act of promoting services or products which are meant to be used as circumvent digital right management systems.
+[00:16:25.000 --> 00:16:36.000]   If we read the digital copyright act of 1988, we see that even though the wording is different, the meaning is the same.
+[00:16:36.000 --> 00:16:51.000]   No personal, or manufacturing, or the offer to the public, provide or under waste traffic in any technology, product, service, device, component, or partner of,
+[00:16:51.000 --> 00:17:09.000]   that is primarily designed or produced for the purpose of civil convention, a technological measure, has only limited commercial significant purpose or use other than the civil convention, or its market.
+[00:17:09.000 --> 00:17:19.000]   You see, the wording is very similar to paragraph two of article six of the European Directly.
+[00:17:19.000 --> 00:17:48.000]   So, the complete provision of any civil convention, device, product, service, or content, there was a very nice, not that much actually,
+[00:17:48.000 --> 00:17:58.000]   episode, story.
+[00:17:58.000 --> 00:18:22.000]   There was a firm producing the digital right management system, which was basically using a feature of the Windows operating system, which I'm not sure whether it is available or not.
+[00:18:22.000 --> 00:18:47.000]   Basically, at that time, when inserting a CD-ROM in the computer, the Windows operating system was looking for a file on that CD-ROM called autorun.e,
+[00:18:47.000 --> 00:19:00.000]   and if that file was present, the operating system was executing the instructions contained in that file.
+[00:19:00.000 --> 00:19:09.000]   So, for instance, an instruction was to run a program by the operating system.
+[00:19:09.000 --> 00:19:20.000]   So, that firm produced a technological measure, digital right management system, that was using that feature.
+[00:19:20.000 --> 00:19:49.000]   It was using that autorun feature of the Windows operating system to launch every time you inserted a CD-ROM program to protect from so-called writing or making copies of that CD-ROM.
+[00:19:49.000 --> 00:20:02.000]   But, you know, that feature of the Windows operating system could be disabled by just pressing the shift button on the keyboard.
+[00:20:02.000 --> 00:20:26.000]   That is to say, if you didn't want the operating system to run that autorun file, you just needed to insert the CD-ROM and press at the same time the shift button, so that the autorun was not launched any longer.
+[00:20:26.000 --> 00:20:38.000]   So, a student, a PhD student, as far as I remember, I do not remember, published a paper about that digital right management system,
+[00:20:38.000 --> 00:20:52.000]   and he wrote on the paper that that measure, that technological measure, was not really effective because it could be supermended by just pressing the shift button.
+[00:20:52.000 --> 00:21:21.000]   And what happened was that the firm decided to sue the student for distributing something which could be used to circumvent an effective technological measure.
+[00:21:21.000 --> 00:21:37.000]   That was very funny because the news was in the front page of every newspaper of that time, and that was not a good publicity for the firm.
+[00:21:37.000 --> 00:21:52.000]   Moreover, the move was risky because, as you know, the technological measure must be really effective.
+[00:21:52.000 --> 00:22:08.000]   And so there was the high mobility that in charge, I would say that that specific implementation of digital and digital right management system was far from being effective.
+[00:22:08.000 --> 00:22:23.000]   And indeed, the firm decided to retract and to drop the suit.
+[00:22:23.000 --> 00:22:43.000]   Anyway, they thought, they thought, they thought that they could have a claim based on the digital right management system, as it all on the white or copyright street.
+[00:22:43.000 --> 00:22:47.000]   Did you remember they closed the door?
+[00:22:47.000 --> 00:22:57.000]   No problem.
+[00:22:57.000 --> 00:23:16.000]   It's not so warm today.
+[00:23:16.000 --> 00:23:33.000]   So, how do we create an infrastructure for a digital right management system?
+[00:23:33.000 --> 00:23:43.000]   I want to take a step back in time to talk about something that probably you never heard about.
+[00:23:43.000 --> 00:23:49.000]   You know something about the semantic web?
+[00:23:49.000 --> 00:23:52.000]   You've heard something.
+[00:23:52.000 --> 00:23:54.000]   You're the only one?
+[00:23:54.000 --> 00:23:56.000]   Others?
+[00:23:56.000 --> 00:23:58.000]   You didn't.
+[00:23:58.000 --> 00:24:02.000]   Okay, so you know what the semantic web was about?
+[00:24:02.000 --> 00:24:09.000]   I don't know whether it is correct to say it is about right now.
+[00:24:09.000 --> 00:24:18.000]   The semantic web was an interesting approach to solve a computational problem.
+[00:24:18.000 --> 00:24:25.000]   We are at the end of the '80s, sorry.
+[00:24:25.000 --> 00:24:35.000]   Search and gene were not very popular. At that time, there were so-called directories.
+[00:24:35.000 --> 00:24:48.000]   And if you wanted to find a website, you needed to search in those directories, which were just a list of websites, groups, or subjects.
+[00:24:48.000 --> 00:25:01.000]   If you wanted to promote your website, you needed to contact those directories to include your website on some of the categories.
+[00:25:01.000 --> 00:25:19.000]   For instance, in 1995, we created the University of Trento faculty of law. We created the first Italian law review.
+[00:25:19.000 --> 00:25:25.000]   It was called the Cardozo electronic law ballot.
+[00:25:25.000 --> 00:25:39.000]   And in order to make it visible, I had to contact many different directories. Yahoo was one of them.
+[00:25:39.000 --> 00:25:54.000]   To include that law review into the lists of legal websites.
+[00:25:54.000 --> 00:26:14.000]   And the first, I don't remember when Google was founded.
+[00:26:14.000 --> 00:26:40.000]   In 1998, the very end of the '90s, Google was going to change the search and gene landscape because it was serving the web
+[00:26:40.000 --> 00:26:53.000]   basically. In a single database, you could search.
+[00:26:53.000 --> 00:27:06.000]   It was a different approach. It was changing the game.
+[00:27:06.000 --> 00:27:16.000]   But still, there was a problem. Because the web was meant for human consumption.
+[00:27:16.000 --> 00:27:28.000]   And if you think about HTML, the language we used to create web pages, which is a markup language,
+[00:27:28.000 --> 00:27:40.000]   better markup language was indeed created and conceived for humans.
+[00:27:40.000 --> 00:28:02.000]   The idea was to translate some typographical aspects of written documents in a digital form.
+[00:28:02.000 --> 00:28:14.000]   And if you know something about HTML, all the tags are meant to have a typographical meaning.
+[00:28:14.000 --> 00:28:20.000]   Headers, colleagues, old, stuff like that.
+[00:28:20.000 --> 00:28:38.000]   And you know, those tools are used by humans to parse the document.
+[00:28:38.000 --> 00:28:50.000]   If you see something on the top of the page, which is written with larger characters, that's a title.
+[00:28:50.000 --> 00:28:56.000]   And you know that the title is a short, very short description of the content of the page.
+[00:28:56.000 --> 00:29:12.000]   You may be reading the title and deciding whether there are assets worth reading or not according to your interest, what you're looking for.
+[00:29:12.000 --> 00:29:26.000]   So HTML was meant by humans for humans. It was very difficult to parse the algorithm.
+[00:29:26.000 --> 00:29:44.000]   It is to say to create an algorithm to automatically parse information and translate information from their typographical meaning.
+[00:29:44.000 --> 00:30:09.000]   Well, you know, one of the examples, you must remember that in 1994, 1993, 1994, they were, at least in Europe, but also in the United States, no internet service provider.
+[00:30:09.000 --> 00:30:27.000]   As far as I know, only students or employees of large corporations had access, or governmental agencies had access to the internet at that time.
+[00:30:27.000 --> 00:30:44.000]   I had the possibility to use the internet because I was able with my model to connect to a telephone number of the faculty of sociology in Trenköm.
+[00:30:44.000 --> 00:30:53.000]   And from that connection, I was able to go online.
+[00:30:53.000 --> 00:31:07.000]   But that was just because I was a student, so I was given an account, a machine, which was connected to you.
+[00:31:07.000 --> 00:31:16.000]   Everything started to change, probably in Europe in 1994, 1995.
+[00:31:16.000 --> 00:31:31.000]   I remember that the first internet service provider started to appear in 1995, in late 1994.
+[00:31:31.000 --> 00:31:53.000]   So it is only in the mid-90s that ordinary people, not university students, not just university students or academic staff, were allowed to serve people.
+[00:31:53.000 --> 00:32:05.000]   And that led to the so-called dot-com bubble.
+[00:32:05.000 --> 00:32:12.000]   New economy, stuff like that, probably you never heard about it.
+[00:32:12.000 --> 00:32:38.000]   You are too young. The first e-commerce website started to appear. E-commerce started to become eBay, Amazon, stuff like that.
+[00:32:38.000 --> 00:32:53.000]   And in the second dot of the 90s, many, many websites related to commercial activities started to appear.
+[00:32:53.000 --> 00:33:09.000]   They were using server-side dynamic scripting for creating web pages.
+[00:33:09.000 --> 00:33:29.000]   And those new types of search engines started to appear, but still it was not very easy to perform searches on the internet
+[00:33:29.000 --> 00:33:39.000]   because of the very nature of the language used to express web pages, HTML.
+[00:33:39.000 --> 00:33:48.000]   It was not possible to conceive a way of extracting, for instance, price information from a website.
+[00:33:48.000 --> 00:34:05.000]   Because in order to extract price information, you needed to parse HTML and understand how HTML was used in that specific page to express a price, for instance.
+[00:34:05.000 --> 00:34:19.000]   Or to find the name of a product. Can you find the name of a product algorithmically with HTML?
+[00:34:19.000 --> 00:34:33.000]   Well, you need to analyze each single website. For instance, some of them were, I don't know, using the red color to express the price.
+[00:34:33.000 --> 00:35:02.000]   So you can parse the page, find the pieces of red information, and presume there are prices, and so you can extract that information and add some metadata to the page.
+[00:35:02.000 --> 00:35:10.000]   And that's how the semantic web idea started to appear.
+[00:35:10.000 --> 00:35:25.000]   You know, we already had digital technologies for making searches very easy, and information retrieval very simple.
+[00:35:25.000 --> 00:35:40.000]   You know, in a database, information is structured according to some metadata.
+[00:35:40.000 --> 00:35:58.000]   Think about the bibliography countries. You know, a bibliography is a collection of records, which are subdivided into many components.
+[00:35:58.000 --> 00:36:11.000]   The author's name, the title, the title of the review where the article was published, the year of publication, the pages, and so on and so forth.
+[00:36:11.000 --> 00:36:25.000]   Probably you are used to big text. So you know what a bibliography looks like.
+[00:36:25.000 --> 00:36:36.000]   And you know, you have all those fields. Author, title, year, journal.
+[00:36:36.000 --> 00:36:49.000]   You have different type of entries, articles, books, reports, and so on and so forth.
+[00:36:49.000 --> 00:36:57.000]   So you have plenty of meta information about the information.
+[00:36:57.000 --> 00:37:03.000]   And basically the semantic web was meant to be something like that.
+[00:37:03.000 --> 00:37:28.000]   To transform the web into a large distributed database by using XML technologies to create metadata and stuff like that.
+[00:37:28.000 --> 00:37:39.000]   And then use an SQL type of language to retrieve that information.
+[00:37:39.000 --> 00:38:00.000]   Because at that time we had the perception that there were two possible ways of creating a web with really retrievable information.
+[00:38:00.000 --> 00:38:08.000]   The first one was to have artificial intelligence.
+[00:38:08.000 --> 00:38:23.000]   A algorithms which are capable of understanding the meaning of HTML in order to extract information.
+[00:38:23.000 --> 00:38:33.000]   But that was seen as far from being possible at that time.
+[00:38:33.000 --> 00:38:42.000]   And that was perceived as being computationally expensive.
+[00:38:42.000 --> 00:38:52.000]   The other possibility is that is to create a layer of metadata.
+[00:38:52.000 --> 00:38:59.000]   A layer of additional information to make retrieving information easier.
+[00:38:59.000 --> 00:39:06.000]   And the semantic web was that second kind of approach.
+[00:39:06.000 --> 00:39:23.000]   So here is an example of a description of the slides I'm showing you in the LDF format.
+[00:39:23.000 --> 00:39:29.000]   Which was one of the components of the semantic web initiative.
+[00:39:29.000 --> 00:39:36.000]   By the way the semantic web initiative was taken by the worldwide web consortium.
+[00:39:36.000 --> 00:39:43.000]   W3C.
+[00:39:43.000 --> 00:40:12.000]   And you know you can, well in that example I'm using the doubling metadata to identify the creator, the title and the subject of a piece of information.
+[00:40:12.000 --> 00:40:27.000]   So the semantic web didn't succeed.
+[00:40:27.000 --> 00:40:34.000]   And you know why possibly.
+[00:40:34.000 --> 00:40:45.000]   Because there was no much interest in transforming the web in something which was easily searchable.
+[00:40:45.000 --> 00:41:05.000]   I have the feeling that that was due to the fact that the semantic web was far too democratic as a technology.
+[00:41:05.000 --> 00:41:17.000]   Because it was meant to transform the web into a distributed database everyone could contribute to.
+[00:41:17.000 --> 00:41:31.000]   And searchable with limited computational power.
+[00:41:31.000 --> 00:41:39.000]   Instead what we are heading to is the other option.
+[00:41:39.000 --> 00:41:47.000]   Searching the web through stuff like chat GPT.
+[00:41:47.000 --> 00:42:00.000]   But you know you cannot run your instance of chat GPT on your computer because you cannot have enough computational power on your personal computers.
+[00:42:00.000 --> 00:42:29.000]   You know that Nvidia, as far as I remember, recently was awarded with a huge growth of their market capitalization because they are producing CPUs optimized for large language models.
+[00:42:29.000 --> 00:42:47.000]   Because training a large language model is a computational intensive enterprise.
+[00:42:47.000 --> 00:43:03.000]   I don't know because I had, last year I had to scan some books in Latin.
+[00:43:03.000 --> 00:43:22.000]   You know that there is this piece of code called Tesseract by Google which is an OCR engine for character recognition.
+[00:43:22.000 --> 00:43:37.000]   Which is based on neural networks so it can be trained to recognize additional characters.
+[00:43:37.000 --> 00:43:57.000]   The problem is that training for a new language is such an intensive computational task that a laptop like mine takes a couple of weeks.
+[00:43:57.000 --> 00:44:08.000]   So it's not feasible. And that's just for character recognition.
+[00:44:08.000 --> 00:44:24.000]   I read an article about OpenAI and they are using such a huge amount of resources which are costly to run their chat GPT.
+[00:44:24.000 --> 00:44:39.000]   But many start doubting whether chat GPT can be a viable business to generate profit to cover the costs of running it.
+[00:44:39.000 --> 00:44:47.000]   Well, you know that's not probably a problem for Microsoft right now.
+[00:44:47.000 --> 00:45:03.000]   What I'm trying to stress is the fact that why the semantic web was the idea of creating a democratic web searchable by everyone with limited computational resources.
+[00:45:03.000 --> 00:45:26.000]   The idea of creating an extra layer of artificial intelligence in order to make the web searchable is going to give to some huge corporation the role of gatekeeper.
+[00:45:26.000 --> 00:45:31.000]   Anyway, this is outside the scope of my lecture.
+[00:45:31.000 --> 00:45:53.000]   But still I would like to stress the fact that starting from the semantic web initiative we started to understand that there are ways of creating a language, a Markov language to express legal ideas.
+[00:45:53.000 --> 00:46:02.000]   And indeed what we saw is the emergence of those legal semantics.
+[00:46:02.000 --> 00:46:16.000]   P3P is an example. P3P is a Markov language to express privacy policies and privacy preferences.
+[00:46:16.000 --> 00:46:30.000]   The idea behind P3P was that websites could produce in a digital format their privacy policy.
+[00:46:30.000 --> 00:46:59.000]   And your web browser could be configured with your privacy preferences in order to negotiate with the website what you were going to accept of their policy and what you are not going to accept of it.
+[00:46:59.000 --> 00:47:27.000]   XML and mpeg-right-extrational languages instead are two examples of ways of expressing licenses over intellectual books.
+[00:47:27.000 --> 00:47:42.000]   And so you can create a license for a single user by using digital signature certificates and stuff like that.
+[00:47:42.000 --> 00:47:52.000]   And state what the user is allowed to do with the network work and what is not allowed.
+[00:47:52.000 --> 00:48:01.000]   Adopt the lead, execute the style play and stuff like that.
+[00:48:01.000 --> 00:48:22.000]   These are within the Y for copyright free team, right-man's-answerment information.
+[00:48:22.000 --> 00:48:45.000]   But, you know, you can express a license, but then you need to have applications which are going to comply with the license.
+[00:48:45.000 --> 00:48:58.000]   It was a friend of mine who once sent me a copy of his new book in PDF format.
+[00:48:58.000 --> 00:49:14.000]   And he was afraid that some of the early readers could disclose and believe the book in the war.
+[00:49:14.000 --> 00:49:18.000]   I don't know why it was a book about the history of copyright.
+[00:49:18.000 --> 00:49:25.000]   There are not many people interested in the history of copyright anymore.
+[00:49:25.000 --> 00:49:32.000]   So he decided to protect the book with the password.
+[00:49:32.000 --> 00:49:39.000]   And he was a Windows user as you can imagine.
+[00:49:39.000 --> 00:49:46.000]   And he didn't know that there are free software tools for reading PDF files.
+[00:49:46.000 --> 00:49:55.000]   They want to even bother you with asking the password. They would just read the password from PDF file, the free file.
+[00:49:55.000 --> 00:50:07.000]   So I was using one of those programs. So I was not even aware that it was a password, that the file was in free.
+[00:50:07.000 --> 00:50:15.000]   So I told him, because he wrote the password in the email.
+[00:50:15.000 --> 00:50:27.000]   I said, "Well, you know, PDF file password protection is not so effective as a digital rind-manizement system."
+[00:50:27.000 --> 00:50:46.000]   Anyway, what I want to stress is that once again, if the application is not compliant with the statements of the license, the license is useless.
+[00:50:46.000 --> 00:51:04.000]   So how can we have applications which can be trusted to comply with the license?
+[00:51:04.000 --> 00:51:11.000]   And that's where Trusted Computing starts to become important.
+[00:51:11.000 --> 00:51:30.000]   Trusted Computing was the name created by the Trusted Computing group at the end of the 1990s, the beginning of the new century, to describe that new technology.
+[00:51:30.000 --> 00:51:41.000]   Trusted Computing is not a digital rind-manizement system, as you understand. Security boot is not a digital rind-manizement system.
+[00:51:41.000 --> 00:52:10.000]   But Trusted Computing, a secure boot which is just an implementation, is a way of performing a control over every piece of software executed by a computer.
+[00:52:10.000 --> 00:52:21.000]   By using digital certificate and signature.
+[00:52:21.000 --> 00:52:31.000]   As far as I know, the first implementation of the Trusted Computing platform was by Linux.
+[00:52:31.000 --> 00:52:40.000]   And I could be running Linux in a Trusted Computing environment without any problem.
+[00:52:40.000 --> 00:52:45.000]   I do not actually, because I'm lazy.
+[00:52:45.000 --> 00:53:06.000]   So I prefer to disable secure boot, but there is no, probably in the near future, secure boot will not be disabled.
+[00:53:06.000 --> 00:53:23.000]   It won't be possible to disable secure boot, I don't know. Possibly there are computers where secure boot is not disabled at all.
+[00:53:23.000 --> 00:53:25.000]   What is Trusted Computing?
+[00:53:25.000 --> 00:53:44.000]   Well, basically, a Trusted Computing environment is an environment controlled by a Trusted Platform module, which was also called the Freeth Chapin.
+[00:53:44.000 --> 00:53:48.000]   We'll come into that later.
+[00:53:48.000 --> 00:54:09.000]   The Trusted Platform module, or TPM, is a piece of memory which is protected from tampering and modifications.
+[00:54:09.000 --> 00:54:33.000]   And that piece of protected memory contains digital certificates which are used to sign the bootloader, the kernel, and every other possible application run by a computer.
+[00:54:33.000 --> 00:54:48.000]   If the bootloader, the kernel, are not signed with one of those certificates, they won't be executed.
+[00:54:48.000 --> 00:54:58.000]   Now, for instance, in my laptop, if I want, I can install my own certificate.
+[00:54:58.000 --> 00:55:08.000]   That is to say, I can create a certification authority. I do have one, actually.
+[00:55:08.000 --> 00:55:35.000]   I'm using digital certificates for the SSL secure socket layer for sexting my email server, for instance, and stuff like that.
+[00:55:35.000 --> 00:55:53.000]   So I could load in the Trusted Platform module my own digital certificate, and I could use those digital certificates to sign my bootloader to sign my kernel.
+[00:55:53.000 --> 00:56:05.000]   That would be a pain, because every time you update the kernel, you have to sign it, otherwise it won't be yet executed.
+[00:56:05.000 --> 00:56:32.000]   But, you know, if you are very strict on your own security, you could use Trusted Computing 4, making sure nothing which is not signed by you is run by your computer.
+[00:56:32.000 --> 00:56:41.000]   So Trusted Computing and the Trusted Platform module is a name-stroke.
+[00:56:41.000 --> 00:56:51.000]   Just gives you power if you want to have that power of control over your own machine.
+[00:56:51.000 --> 00:57:09.000]   Still, there is also another component of the Trusted Platform, which is called a remote attestation.
+[00:57:09.000 --> 00:57:30.000]   That is to say, a remote resource could check whether you are running or not any application which is not signed.
+[00:57:30.000 --> 00:57:42.000]   I had a cell phone before this one. This is made by OPPO.
+[00:57:42.000 --> 00:57:54.000]   I was taking a picture when my cell phone died on a step to do it.
+[00:57:54.000 --> 00:58:05.000]   You cannot leave without a cell phone right now, because everyone presumes that you are always available, so they want to call you.
+[00:58:05.000 --> 00:58:21.000]   I used to leave in a time when no cell phone was available, and the only way to store it to people was to die on a fixed telephone manual.
+[00:58:21.000 --> 00:58:28.000]   If the signal was there, it was answered, otherwise...
+[00:58:28.000 --> 00:58:45.000]   Anyway, I had to run in a shop to buy a cell phone, and I chose the first one that had a...
+[00:58:45.000 --> 00:58:56.000]   On my old cell phone, I used to use... probably I told you about the FM radio.
+[00:58:56.000 --> 00:59:02.000]   No, I didn't. The FM radio.
+[00:59:02.000 --> 00:59:11.000]   And you know, there is a chip with the FM radio in this cell phone, but it has been disabled.
+[00:59:11.000 --> 00:59:31.000]   And you know why? Because the Italian government decided that in Italy it is not possible to sell a radio which is capable of receiving in the FM.
+[00:59:31.000 --> 00:59:41.000]   And it is not capable of receiving the digital signal, too.
+[00:59:41.000 --> 00:59:52.000]   But why is the reason FM is cheap in this form? In this form, there is no digital radio chip available.
+[00:59:52.000 --> 01:00:06.000]   And so, Apple decided to disable it. Otherwise, it was not complying with the Italian regulation on radio technologies.
+[01:00:06.000 --> 01:00:22.000]   Well, I said, I don't care very much because as long as I get the phone, I will bring it home, I will route it, and I will enable the chip by myself.
+[01:00:22.000 --> 01:00:40.000]   I was wrong because Apple decided not to let users access the trusted platform module.
+[01:00:40.000 --> 01:01:00.000]   Well, they are doing that for my security, obviously. But they will not give me the opportunity to upload my digital certificate on the Trusted Platform Module, which is called in a different way here, but it is the same stuff.
+[01:01:00.000 --> 01:01:16.000]   The footloader is locked, so I cannot change it. There is no way.
+[01:01:16.000 --> 01:01:32.000]   But there is another problem. Suppose that I find a way to route my phone. There is no one, but suppose I can find it.
+[01:01:32.000 --> 01:02:00.000]   Well, as far as I know, the problem is that the app of my bank would be able to see that I added my own certificate, which they don't trust, and they wouldn't let me use my bank account from itself.
+[01:02:00.000 --> 01:02:06.000]   That is what a remote attestation is all about.
+[01:02:06.000 --> 01:02:35.000]   So, Trusted Computing is about users trusting their own devices, but Trusted Computing is also a way for third parties to trust your computer, your cell phone.
+[01:02:35.000 --> 01:02:58.000]   And so, to decide whether the application you are using is trustable or not.
+[01:02:58.000 --> 01:03:27.000]   You cannot access Netflix, Disney, Colossal, or Tear. If you do not have an ERM, a digital arriving management system enabled on your browser, there is no way.
+[01:03:27.000 --> 01:03:36.000]   And they can check it.
+[01:03:36.000 --> 01:03:53.000]   Trusted Platform Module is not a digital arriving management system, but as you may understand, it is.
+[01:03:53.000 --> 01:04:01.000]   One of the reasons is thinking this something about trust.
+[01:04:01.000 --> 01:04:16.000]   Because page 12 is the same as page 13, and page 13 should be different anyway.
+[01:04:16.000 --> 01:04:29.000]   Page 13 should be about the legislative attempt to make Trusted Platform Module mandatory for every digital device.
+[01:04:29.000 --> 01:04:43.000]   By Srinathar Fritth-Ollings, this is why Trusted Platform Module is also called the Fritth-Chimp.
+[01:04:43.000 --> 01:04:49.000]   That legislation was attempted at the beginning of the century.
+[01:04:49.000 --> 01:04:55.000]   It was also attempted in Italy by Leonardo Cariglione.
+[01:04:55.000 --> 01:04:59.000]   I don't know, did he remember that many?
+[01:04:59.000 --> 01:05:11.000]   It was very famous because it was credited for inventing MP3, the audio compression form.
+[01:05:11.000 --> 01:05:24.000]   It was a member, a very active member of the MP3 group.
+[01:05:24.000 --> 01:05:39.000]   And it tried to convince the Italian government to adopt a legislation for making Trusted Platform Module mandatory for every digital device.
+[01:05:39.000 --> 01:05:58.000]   That was not a very good move actually, because that led to an opposition movement against those technologies.
+[01:05:58.000 --> 01:06:10.000]   And that's the reason why you haven't heard about Trusted Platform Module, because they changed its name.
+[01:06:10.000 --> 01:06:13.000]   Now it's called Secure.
+[01:06:13.000 --> 01:06:22.000]   Which is more appealing.
+[01:06:22.000 --> 01:06:36.000]   So it is not a digital-run international system, but it is a requirement for every digital-run international system to work.
+[01:06:36.000 --> 01:06:55.000]   And even though it was not made mandatory by legislation for every digital device, it was adopted by the computer industry.
+[01:06:55.000 --> 01:07:09.000]   And now that stuff is in every digital device you may have.
+[01:07:09.000 --> 01:07:24.000]   And that is making possible, that made possible the creation of digital-run international systems.
+[01:07:24.000 --> 01:07:53.000]   And I would like to make a step forward to understand the meaning of digital-run management systems within our journey through digital-run.
+[01:07:53.000 --> 01:07:59.000]   The history of intellectual property.
+[01:07:59.000 --> 01:08:05.000]   You know I started talking about the stationers' copyright, you remember.
+[01:08:05.000 --> 01:08:19.000]   And I told you that the stationers' copyright was copyright framed by the stationers for themselves.
+[01:08:19.000 --> 01:08:31.000]   It was private law, but in the sense of law made by privates, by private enterprises and individuals.
+[01:08:31.000 --> 01:08:36.000]   But still law for everyone.
+[01:08:36.000 --> 01:08:44.000]   Digital-run management systems are basically the same.
+[01:08:44.000 --> 01:08:54.000]   A digital-run management system makes the legal system useless.
+[01:08:54.000 --> 01:08:57.000]   You don't need it.
+[01:08:57.000 --> 01:09:05.000]   Well maybe you needed to prevent the circumvention of the ecological, digital-run management system.
+[01:09:05.000 --> 01:09:15.000]   But the digital-run management system makes copyright law useless.
+[01:09:15.000 --> 01:09:30.000]   By giving the copyright owners the power to create and shape their copyright at their will.
+[01:09:30.000 --> 01:09:36.000]   This is called digital self-help.
+[01:09:36.000 --> 01:09:51.000]   You know self-help is the possibility, the very limited possibility you have in the real world to make your own justice.
+[01:09:51.000 --> 01:10:07.000]   Think about when you take your car to a...
+[01:10:07.000 --> 01:10:16.000]   What is the English name of the man impaling the car?
+[01:10:16.000 --> 01:10:18.000]   Mechanical?
+[01:10:18.000 --> 01:10:22.000]   Anyway, you know what I mean, okay?
+[01:10:22.000 --> 01:10:35.000]   You know that if you do not pay, the guy will have the power to keep the car until you pay.
+[01:10:35.000 --> 01:10:44.000]   That's a way of... that's a form of self-help.
+[01:10:44.000 --> 01:11:02.000]   Because he can keep the car regardless of whether he succeeded in repairing your car.
+[01:11:02.000 --> 01:11:12.000]   Regardless, the claim he has is correct or not.
+[01:11:12.000 --> 01:11:19.000]   Maybe he's charging you an amount of money which is unreasonable for the working age.
+[01:11:19.000 --> 01:11:29.000]   But still he has the power, or she has the power, to use self-help.
+[01:11:29.000 --> 01:11:37.000]   Facing your land is another way of keeping people outside self-help.
+[01:11:37.000 --> 01:11:47.000]   But usually self-help in the real world is very limited because it's dangerous.
+[01:11:47.000 --> 01:11:54.000]   If we let people use self-help, you know, fights may arise.
+[01:11:54.000 --> 01:11:56.000]   People start fighting.
+[01:11:56.000 --> 01:12:01.000]   And when people start fighting, you don't know where they are headed.
+[01:12:01.000 --> 01:12:07.000]   They may be using violence, and violence is not tolerated.
+[01:12:07.000 --> 01:12:12.000]   In the digital environment, instead, we do not have violence.
+[01:12:12.000 --> 01:12:20.000]   And so, with the White copyright treaty of 1996 and the digital rights management system protection,
+[01:12:20.000 --> 01:12:28.000]   we decided that in that environment, self-help is allowed.
+[01:12:28.000 --> 01:12:36.000]   But that's the way of privatizing the regulations related to copyright.
+[01:12:36.000 --> 01:12:39.000]   I told you about the first sale doctrine.
+[01:12:39.000 --> 01:12:51.000]   A digital rights management system may just take the sale doctrine away.
+[01:12:51.000 --> 01:13:08.000]   Even though the first sale doctrine is codified by the legal system.
+[01:13:08.000 --> 01:13:25.000]   Julie Cohen said that digital self-help should be limited, too.
+[01:13:25.000 --> 01:13:37.000]   And that if a digital rights management system is used in order to take away rights granted by the legal system,
+[01:13:37.000 --> 01:13:47.000]   you should have a right to hack, to remove the digital rights management system as long as it is possible.
+[01:13:47.000 --> 01:14:01.000]   I told you, with trusted computing, this is not actually an option unless you find a flaw in the trusted computing platform.
+[01:14:01.000 --> 01:14:19.000]   An acting trusted computing platform, as far as I know, is a very hard job to do.
+[01:14:19.000 --> 01:14:33.000]   And that leads me to a final consideration about the use of technologies for shaping human behavior,
+[01:14:33.000 --> 01:14:39.000]   which is what a digital rights management system is doing.
+[01:14:39.000 --> 01:14:45.000]   Is that related to the legal system?
+[01:14:45.000 --> 01:15:14.000]   Do you think a translation of a legal principle into a digital architecture is coherent with our legal tradition?
+[01:15:14.000 --> 01:15:24.000]   I used to say to my daughters that legal rules are meant to be broken.
+[01:15:24.000 --> 01:15:35.000]   And that's not just a joke.
+[01:15:35.000 --> 01:15:44.000]   It would be useless to create legal rules to prohibit behavior which is impossible.
+[01:15:44.000 --> 01:15:50.000]   Suppose we are all immortal, we cannot die.
+[01:15:50.000 --> 01:16:12.000]   Is it useful to have a rule against killing people? Killing people is just not possible.
+[01:16:12.000 --> 01:16:29.000]   There are rules which must be breakable because they may be in contracts with other rules.
+[01:16:29.000 --> 01:16:56.000]   For instance, in Italy we have a constitutional code which has the duty of checking whether regular legislation is in contracts with Italian Constitution.
+[01:16:56.000 --> 01:17:12.000]   But the only way a private citizen has to access the Italian constitutional code is by violating the rule.
+[01:17:12.000 --> 01:17:21.000]   By violating the rule that he or she pretends is unconstitutional.
+[01:17:21.000 --> 01:17:29.000]   Many of you are Italians, right?
+[01:17:29.000 --> 01:17:50.000]   Probably you know about the DJ Fado and Marco Capato case, about the possibility of someone to commit suicide.
+[01:17:50.000 --> 01:18:06.000]   There was a rule in the Italian criminal code prohibiting everyone from helping someone who wants to kill himself or they sell.
+[01:18:06.000 --> 01:18:35.000]   But the Italian Constitutional Code said that that rule is not constitutional because there are conditions where someone has a right to kill their son.
+[01:18:35.000 --> 01:18:44.000]   Because of mental, of healthy issues and stuff like that.
+[01:18:44.000 --> 01:18:56.000]   But the only way to have the Italian Constitutional Code be clear that rule unconstitutional was by violating that rule.
+[01:18:56.000 --> 01:19:24.000]   And my professor of constitutional law wrote a book about a right we have in Italy to resist, that is to say to violate unconstitutional legal rules.
+[01:19:24.000 --> 01:19:46.000]   If we make a digital infrastructure unbreakable and we pretend to regulate human behavior in that infrastructure, not with the legal rules but with the architecture of the infrastructure,
+[01:19:46.000 --> 01:19:57.000]   we are getting away from the legal domain and we are entering another domain.
+[01:19:57.000 --> 01:20:10.000]   And keep in mind that while legal rules can be broken, can be violated, digital architectures cannot.
+[01:20:10.000 --> 01:20:39.000]   And so, Lawrence Lessig
+[01:20:39.000 --> 01:20:58.000]   wrote in 1886 this nice article, "Theory in the Infrastructure."
+[01:20:58.000 --> 01:21:18.000]   He also wrote a book called "Another Laws of Silver Space."
+[01:21:18.000 --> 01:21:33.000]   You can read it for free in his website. Download the book.
+[01:21:33.000 --> 01:21:54.000]   It's a very interesting reading because it was the one that first gave us the idea that the legal system cannot be translated into a digital infrastructure.
+[01:21:54.000 --> 01:22:08.000]   Okay, any questions? I think I'm over, so I would like to thank you for your kind attention.
+[01:22:08.000 --> 01:22:20.000]   I really appreciated your participation, your questions. It was interesting. It was a nice class.
+[01:22:20.000 --> 01:22:33.000]   I'm sure you will be performing very well at the exam, so I will see you then to discuss your paper, written exam, whatever.
+[01:22:33.000 --> 01:22:46.000]   I have, well, my best wishes for your career. I hope you will be able to get what you're looking for.
+[01:22:46.000 --> 01:22:51.000]   Thank you very much. Bye-bye.
+[01:22:51.000 --> 01:22:59.720]   [BLANK_AUDIO]

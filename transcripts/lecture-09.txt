@@ -1,0 +1,511 @@
+[00:00:00.000 --> 00:00:15.000]   We'll be looking at the development of privacy from the very beginning and then we will start talking about European, also to understand the differences between the American and European approach.
+[00:00:15.000 --> 00:00:31.000]   Later on we will move on to discuss the GDPR, the General Data Protection Regulation, which entered into force five years ago.
+[00:00:31.000 --> 00:00:50.000]   But was adopted in 2016. But first of all, I would like to point out that privacy is quite a very difficult topic for a lawyer because he has an intrinsic ambiguity.
+[00:00:50.000 --> 00:01:05.000]   From a legal perspective we recognize that there are secrets, secrets that must be kept.
+[00:01:05.000 --> 00:01:20.000]   For instance, if you are an employee of Coca-Cola and you happen to know the recipe of Coca-Cola, you know that you're not allowed to disseminate your knowledge.
+[00:01:20.000 --> 00:01:26.000]   Non-disclosure agreements and stuff like that are enforceable.
+[00:01:26.000 --> 00:01:35.000]   So we usually think about, for instance, the Coca-Cola recipe as a trade secret.
+[00:01:35.000 --> 00:01:55.000]   But there are other kinds of secrets, think about military secrets or the relationship between psychologists and patients.
+[00:01:55.000 --> 00:02:08.000]   Somehow in our religious, you know that there is some confidentiality in the relationship between you and your priest or whatever.
+[00:02:08.000 --> 00:02:36.000]   So those are situations where everything is pretty clear, that something is secret, must be kept secret, and disseminating the knowledge of that secret is forbidden because there is a contract or because there is a revelation.
+[00:02:36.000 --> 00:02:43.000]   State secrecy, for instance, is regulated by law in almost every country in the world.
+[00:02:43.000 --> 00:02:50.000]   Military secrecy is the same. Then there are non-disclosure agreements.
+[00:02:50.000 --> 00:03:03.000]   Non-disclosure agreements are binding in some jurisdictions, while almost everywhere in the Western, within the Western legal tradition.
+[00:03:03.000 --> 00:03:12.000]   But usually there are limitations to the secrecy imposed by the contract.
+[00:03:12.000 --> 00:03:33.000]   Anyway, you find an employee of a firm and you sign a non-disclosure agreement, even when leaving the firm, giving a non-disclosure agreement is binding for you, usually for a limited amount of time.
+[00:03:33.000 --> 00:03:44.000]   Then there is the reputation, hunger, stuff like that.
+[00:03:44.000 --> 00:03:54.000]   But while secrecy protects against the dissemination of knowledge about true facts,
+[00:03:54.000 --> 00:04:06.000]   usually the protection of your reputation, hunger, stuff like that are usually related to false statements.
+[00:04:06.000 --> 00:04:19.000]   The formation, for instance, the formation is defined as the publication of the false information about somebody.
+[00:04:19.000 --> 00:04:31.000]   And if the information is not false but is true, then there is no defamation, no right to compensation.
+[00:04:31.000 --> 00:04:40.000]   The truth is a defense in a defamation suit.
+[00:04:40.000 --> 00:04:49.000]   So, repetition on one side is clearly defined.
+[00:04:49.000 --> 00:04:53.000]   You are protected against false statements.
+[00:04:53.000 --> 00:05:02.000]   But as long as the statements are true, free speech will prevail.
+[00:05:02.000 --> 00:05:21.000]   Because if you think about it, both defamation, the protection of reputation on, or stuff like that, and secrecy are of limitation to what we call free speech.
+[00:05:21.000 --> 00:05:29.000]   And free speech is one of the fundamental rights within the Western legal tradition.
+[00:05:29.000 --> 00:05:36.000]   Usually we think that free speech is not limited and cannot be limited in any way.
+[00:05:36.000 --> 00:05:41.000]   Well, actually free speech is regulated.
+[00:05:41.000 --> 00:05:53.000]   You cannot claim free speech protection if you are in a theater and you start shouting, "Fire, fire, fire!"
+[00:05:53.000 --> 00:06:00.000]   But there is no fire. That's actually a crime in many jurisdictions.
+[00:06:00.000 --> 00:06:09.000]   So free speech doesn't mean that you are allowed to say whatever you think you can say.
+[00:06:09.000 --> 00:06:17.000]   And as I said secrecy is a limitation to free speech.
+[00:06:17.000 --> 00:06:22.000]   The information is a limitation to free speech.
+[00:06:22.000 --> 00:06:42.000]   We do not have any troubles in understanding that limitation because, as I said, free speech doesn't protect you from the liability of a state in the false statement.
+[00:06:42.000 --> 00:06:57.000]   But anyway, secrecy on one side and the protection against the false statements that may harm your honor can be clearly defined.
+[00:06:57.000 --> 00:07:01.000]   And what about privacy instead?
+[00:07:01.000 --> 00:07:17.000]   Privacy is in the borderline of those two clear legal institutions.
+[00:07:17.000 --> 00:07:30.000]   Because privacy will protect you against the dissemination of information which is not false and which is not secret.
+[00:07:30.000 --> 00:07:44.000]   And as you may understand, the clash between privacy and free speech is more difficult to solve for that very reason.
+[00:07:44.000 --> 00:08:00.000]   Because with privacy we are regulating free speech in a way which is not clearly defined and clearly set by the legal system.
+[00:08:00.000 --> 00:08:10.000]   Privacy is a continuous attempt to find a balance between free speech and the protection of what.
+[00:08:10.000 --> 00:08:14.000]   What does privacy protect?
+[00:08:14.000 --> 00:08:17.000]   That's a difficult question.
+[00:08:17.000 --> 00:08:32.000]   And we will see, this is why I will tell you something about the history of privacy because by looking at history of privacy,
+[00:08:32.000 --> 00:08:40.000]   you can see how privacy evolved during time.
+[00:08:40.000 --> 00:08:48.000]   And so, we can start from the very beginning.
+[00:08:48.000 --> 00:08:53.000]   Sorry, I want to silence myself.
+[00:08:53.000 --> 00:08:56.000]   The origin of privacy.
+[00:08:56.000 --> 00:09:11.000]   Well, probably you remember that in the lectures, in the video lecture I gave you, because I was saying,
+[00:09:11.000 --> 00:09:22.000]   I was talking about the fact that the legal system is a set of rules created by a democratic body,
+[00:09:22.000 --> 00:09:28.000]   representing the will of the people those rules are going to be applied to.
+[00:09:28.000 --> 00:09:32.000]   That's the foundation of the Western legal tradition.
+[00:09:32.000 --> 00:09:47.000]   But that's a false statement because there are actually what we comparative lawyers call them hormones.
+[00:09:47.000 --> 00:10:01.000]   There are legal rules that people sitting in the parliament are writing down in a piece of paper pretending everyone is going to follow them.
+[00:10:01.000 --> 00:10:12.000]   Those rules are binding, but at the very end, a judge will decide what is binding.
+[00:10:12.000 --> 00:10:23.000]   And the judge will read those words, those rules, and will try to apply them.
+[00:10:23.000 --> 00:10:33.000]   And that process of reading the rules and applying them is called interpretation.
+[00:10:33.000 --> 00:10:54.000]   Or let me see if I can find an example to show you what I mean.
+[00:10:54.000 --> 00:11:00.000]   Yes.
+[00:11:00.000 --> 00:11:04.000]   There we go.
+[00:11:04.000 --> 00:11:14.000]   This is Article 100, 1382 of the French Civil Code.
+[00:11:14.000 --> 00:11:32.000]   The French Civil Code was enacted by Napoleon in 1804. As far as I remember, it entered into force in 1806.
+[00:11:32.000 --> 00:11:50.000]   So right after the French Revolution, that destroyed what was called the Ancheme regime, the previous legal order.
+[00:11:50.000 --> 00:12:06.000]   And in the previous legal order, the law was just the will of the king or the queen sometimes.
+[00:12:06.000 --> 00:12:25.000]   And the will of the king or the queen was binding because the king was given the power by God himself that was believed by everyone.
+[00:12:25.000 --> 00:12:41.000]   So God gave the king the power to legislate, and that was the source of the legitimacy of the legislation.
+[00:12:41.000 --> 00:12:56.000]   After the French Revolution, everything changed because the French Revolution gave the people the power to enact the rules.
+[00:12:56.000 --> 00:13:10.000]   Well, that was something that already happened in history, in human history, think about the Greek democracy.
+[00:13:10.000 --> 00:13:37.000]   That in a modern national state like the French state at the end of the 18th century, the will of the people was
+[00:13:37.000 --> 00:13:47.000]   expressed by representative democracy.
+[00:13:47.000 --> 00:14:00.000]   Through a democratic process, we elect people representatives, and they will be expressing the will of the people.
+[00:14:00.000 --> 00:14:10.000]   And so they will be able to write rules binding for everyone.
+[00:14:10.000 --> 00:14:28.000]   And since rules are just the expression of the will of the people, accordingly there is no room for interpretation by judges.
+[00:14:28.000 --> 00:14:36.000]   Because they were called the mouth of the law.
+[00:14:36.000 --> 00:14:47.000]   So they had just to read the rules and apply them without any room for interpretation.
+[00:14:47.000 --> 00:15:08.000]   The civic code adopted by a Bologonic civic code, was the attempt to order or reorder private law in a single legislation code,
+[00:15:08.000 --> 00:15:27.000]   well organized, well written, clear, complete, and expressing a system of rules, a coordinated system of rules.
+[00:15:27.000 --> 00:15:41.000]   Was very well written according to many authors of the time.
+[00:15:41.000 --> 00:15:49.000]   And this is the basic rule about civil liability.
+[00:15:49.000 --> 00:16:04.000]   Any person who causes injury to another by any act whatsoever is obligated to compensate such another person for their injury sustained.
+[00:16:04.000 --> 00:16:09.000]   You find it clear?
+[00:16:09.000 --> 00:16:11.000]   It is clear.
+[00:16:11.000 --> 00:16:14.000]   There is an injury?
+[00:16:14.000 --> 00:16:20.000]   Well actually injury is not the correct translation.
+[00:16:20.000 --> 00:16:43.000]   Let me see if I can find the French.
+[00:16:43.000 --> 00:17:12.000]   Okay.
+[00:17:12.000 --> 00:17:41.000]   Okay.
+[00:17:41.000 --> 00:17:49.000]   You see, injury is the translation of the word "domage".
+[00:17:49.000 --> 00:17:52.000]   It should be translated with damage.
+[00:17:52.000 --> 00:17:53.000]   Okay.
+[00:17:53.000 --> 00:17:59.000]   Injury usually is a personal injury to your body.
+[00:17:59.000 --> 00:18:02.000]   Domage is damage.
+[00:18:02.000 --> 00:18:04.000]   It's a broader definition.
+[00:18:04.000 --> 00:18:05.000]   Okay.
+[00:18:05.000 --> 00:18:14.000]   Anyway, keep that in mind. This is not correct translation.
+[00:18:14.000 --> 00:18:18.000]   Let's make an example.
+[00:18:18.000 --> 00:18:29.000]   You are the owner of the pub, the place of the town, the city.
+[00:18:29.000 --> 00:18:43.000]   Every student of the local university is coming to your pub, drinking a lot of beer, and you're making a huge amount of wine.
+[00:18:43.000 --> 00:18:57.000]   Then I come along and I open a pub just in front of yours, and I start selling beer at a lower price.
+[00:18:57.000 --> 00:19:05.000]   People are not coming to your pub any longer. They are coming to my pub.
+[00:19:05.000 --> 00:19:14.000]   And you do not get as much money as you used to.
+[00:19:14.000 --> 00:19:18.000]   Does that article applies?
+[00:19:18.000 --> 00:19:25.000]   Can you ask me a compensation?
+[00:19:25.000 --> 00:19:29.000]   There is a damage.
+[00:19:29.000 --> 00:19:36.000]   My activity is interfering with your activity, right?
+[00:19:36.000 --> 00:19:44.000]   And I am making you lose money.
+[00:19:44.000 --> 00:19:46.000]   I'm a person.
+[00:19:46.000 --> 00:19:51.000]   The damage is caused by my activity.
+[00:19:51.000 --> 00:19:56.000]   So I think the article should be applied.
+[00:19:56.000 --> 00:20:12.000]   Do you think it is possible, even in the 18th century France, to get compensation for such an activity?
+[00:20:12.000 --> 00:20:15.000]   It's not.
+[00:20:15.000 --> 00:20:17.000]   Why?
+[00:20:17.000 --> 00:20:23.000]   How can you read that article? Well, I said injury is not correct.
+[00:20:23.000 --> 00:20:27.000]   Translation is damage.
+[00:20:27.000 --> 00:20:46.000]   How can you read that article and exclude liability in such a situation?
+[00:20:46.000 --> 00:20:50.000]   Because it's not a person, it's a business.
+[00:20:50.000 --> 00:20:57.000]   Well, you are a person getting the money, so no, that's not.
+[00:20:57.000 --> 00:21:01.000]   It's not a direct act towards a person.
+[00:21:01.000 --> 00:21:09.000]   Excuse me, the objective before act, I didn't understand that.
+[00:21:09.000 --> 00:21:16.000]   It's not an action against someone.
+[00:21:16.000 --> 00:21:25.000]   But if you read, well, "tout fait qua non de l'homme,"
+[00:21:25.000 --> 00:21:37.000]   every fact whatsoever of the man, which causes damage, oblige.
+[00:21:37.000 --> 00:21:45.000]   Okay, so it's an action. I'm acting as a public owner.
+[00:21:45.000 --> 00:21:49.000]   But if the other person opened the bar,
+[00:21:49.000 --> 00:21:56.000]   he's really anywhere else there wouldn't be a problem.
+[00:21:56.000 --> 00:22:01.000]   Well, but that's not the fun, if you think about it.
+[00:22:01.000 --> 00:22:13.000]   Maybe the action that I do is not to damage the other person,
+[00:22:13.000 --> 00:22:18.000]   but is to aiming at making money for me.
+[00:22:18.000 --> 00:22:21.000]   So maybe the reason of...
+[00:22:21.000 --> 00:22:23.000]   But he's causing the damage.
+[00:22:23.000 --> 00:22:25.000]   Yeah, okay.
+[00:22:25.000 --> 00:22:30.000]   So that's for sure.
+[00:22:30.000 --> 00:22:34.000]   It's because there's another damage from the first public owner.
+[00:22:34.000 --> 00:22:38.000]   He's damaging my responsibility to open another bar.
+[00:22:38.000 --> 00:22:41.000]   So there are two damages.
+[00:22:41.000 --> 00:22:47.000]   Well, that's a good attempt, but it's not the correct answer,
+[00:22:47.000 --> 00:22:56.000]   because owning a pub doesn't give you a monopolistic power
+[00:22:56.000 --> 00:23:01.000]   or the ownership of pubs in general.
+[00:23:01.000 --> 00:23:04.000]   Well, the first attempt could be,
+[00:23:04.000 --> 00:23:10.000]   "Well, opening a pub is not an illegal activity."
+[00:23:10.000 --> 00:23:16.000]   But if you read carefully that article,
+[00:23:16.000 --> 00:23:24.000]   it doesn't say that you're protected against illegal activities.
+[00:23:24.000 --> 00:23:32.000]   It says that you're protected against every possible activity
+[00:23:32.000 --> 00:23:42.000]   which is causing the damage.
+[00:23:42.000 --> 00:23:56.000]   Do you have a right to earn money from an economic activity?
+[00:23:56.000 --> 00:23:59.000]   You do not have that right.
+[00:23:59.000 --> 00:24:04.000]   Something is missing in that article.
+[00:24:04.000 --> 00:24:08.000]   That article requires three elements.
+[00:24:08.000 --> 00:24:17.000]   The damage, the activity, someone performing something,
+[00:24:17.000 --> 00:24:28.000]   and a causal relationship between that activity and the damage.
+[00:24:28.000 --> 00:24:40.000]   But the real civil liability in France in that period of time
+[00:24:40.000 --> 00:24:48.000]   required a fourth element, evaluation of a right.
+[00:24:48.000 --> 00:24:53.000]   But that element was not written.
+[00:24:53.000 --> 00:24:56.000]   Why? Well, we don't know.
+[00:24:56.000 --> 00:25:08.000]   But if you read every treaty about civil liability written in France
+[00:25:08.000 --> 00:25:16.000]   in that period of time, everyone was listing four elements.
+[00:25:16.000 --> 00:25:20.000]   The activity, the damage, the causal relationship
+[00:25:20.000 --> 00:25:23.000]   between those first elements
+[00:25:23.000 --> 00:25:30.000]   and the violation of the victim rights.
+[00:25:30.000 --> 00:25:42.000]   That's interesting because the attempt to write clear rule failed
+[00:25:42.000 --> 00:25:52.000]   in one of the most important institutions of private law, civil liability.
+[00:25:52.000 --> 00:25:58.000]   So judges, well, they were reading the treaties
+[00:25:58.000 --> 00:26:02.000]   and they knew what civil liability was.
+[00:26:02.000 --> 00:26:08.000]   So when reading that article, article 1382,
+[00:26:08.000 --> 00:26:18.000]   they believed the violation of the victim's right was there,
+[00:26:18.000 --> 00:26:22.000]   even though it was not.
+[00:26:22.000 --> 00:26:29.000]   So those judges were not the mouth of the law.
+[00:26:29.000 --> 00:26:32.000]   They were creating the rules,
+[00:26:32.000 --> 00:26:40.000]   and they were doing so because they were tout civil liability at university.
+[00:26:40.000 --> 00:26:46.000]   And so they knew that civil liability consisted in fourth elements
+[00:26:46.000 --> 00:26:53.000]   and not in three.
+[00:26:53.000 --> 00:26:59.000]   Well, I told you that story because there is something similar with privacy
+[00:26:59.000 --> 00:27:02.000]   and it's a region.
+[00:27:02.000 --> 00:27:08.000]   Privacy was not an act of legislation.
+[00:27:08.000 --> 00:27:23.000]   Privacy was born out of an article written by two law professors
+[00:27:23.000 --> 00:27:31.000]   at the University of Harvard and published in 1890
+[00:27:31.000 --> 00:27:36.000]   on the Harvard Law Review.
+[00:27:36.000 --> 00:27:44.000]   And the title of the article was "The Rights to Privacy."
+[00:27:44.000 --> 00:27:55.000]   No legislation, no will of the people.
+[00:27:55.000 --> 00:28:05.000]   Those two young scholars, legal scholars, they were not judges.
+[00:28:05.000 --> 00:28:10.000]   Brandes was going to become judge later on in his life
+[00:28:10.000 --> 00:28:17.000]   and he became Chief Justice of the U.S. Supreme Court.
+[00:28:17.000 --> 00:28:23.000]   But at the time he was just a young law professor,
+[00:28:23.000 --> 00:28:26.000]   together with Warren.
+[00:28:26.000 --> 00:28:34.000]   Warren was married with a young and beautiful daughter
+[00:28:34.000 --> 00:28:46.000]   of a rich family of the upper class of Boston.
+[00:28:46.000 --> 00:28:57.000]   And Warren and his wife were, you know, were partying a lot.
+[00:28:57.000 --> 00:29:06.000]   They were young, they were rich, and they were famous.
+[00:29:06.000 --> 00:29:15.000]   And you know, a new kind of technology started being developed
+[00:29:15.000 --> 00:29:27.000]   in the 19th century, photography, pictures.
+[00:29:27.000 --> 00:29:32.000]   Those pictures were published in newspapers,
+[00:29:32.000 --> 00:29:39.000]   that kind of newspapers that today we call tableaui,
+[00:29:39.000 --> 00:29:48.000]   where beautiful, famous people were portrayed,
+[00:29:48.000 --> 00:29:55.000]   because those tableaus were a salinul.
+[00:29:55.000 --> 00:30:00.000]   And Warren and his wife were not very happy about that.
+[00:30:00.000 --> 00:30:03.000]   But they didn't have any remedy.
+[00:30:03.000 --> 00:30:04.000]   There was no remedy.
+[00:30:04.000 --> 00:30:07.000]   Free speech was probated.
+[00:30:07.000 --> 00:30:11.000]   And so he, together with his colleague,
+[00:30:11.000 --> 00:30:14.000]   decided to write an article, a legal article,
+[00:30:14.000 --> 00:30:17.000]   about the right to privacy.
+[00:30:17.000 --> 00:30:24.000]   And he said, "If we read carefully the American Constitution,
+[00:30:24.000 --> 00:30:31.000]   even though privacy is not mentioned anywhere,
+[00:30:31.000 --> 00:30:40.000]   still we can construct a right to privacy,
+[00:30:40.000 --> 00:30:47.000]   as a right to be left alone in your domestic environment,
+[00:30:47.000 --> 00:30:51.000]   in your private life.
+[00:30:51.000 --> 00:30:55.000]   And your private life must not be exposed to others
+[00:30:55.000 --> 00:31:11.000]   unless there is a compelling public need
+[00:31:11.000 --> 00:31:19.000]   or public interest in exposing the private life of a private individual."
+[00:31:19.000 --> 00:31:23.000]   For instance, if you're a politician,
+[00:31:23.000 --> 00:31:26.000]   your right to privacy, your right to be left alone,
+[00:31:26.000 --> 00:31:44.000]   is different from the right to privacy of an unknown person.
+[00:31:44.000 --> 00:31:55.000]   If you are a politician against homosexuality, for instance,
+[00:31:55.000 --> 00:32:02.000]   and then it is being discovered that you are gay,
+[00:32:02.000 --> 00:32:08.000]   well, the contradiction between your statements
+[00:32:08.000 --> 00:32:17.000]   and your way of life is of public interest.
+[00:32:17.000 --> 00:32:20.000]   You're lying.
+[00:32:20.000 --> 00:32:25.000]   And for a politician lying better,
+[00:32:25.000 --> 00:32:35.000]   the knowledge that a politician is lying is of public interest.
+[00:32:35.000 --> 00:32:40.000]   But if you are an unknown private individual,
+[00:32:40.000 --> 00:32:54.000]   your sexual preferences are not of any interest for the public.
+[00:32:54.000 --> 00:32:57.000]   That's your business.
+[00:32:57.000 --> 00:33:05.000]   And Warren Brandes try to find the right to privacy
+[00:33:05.000 --> 00:33:12.000]   by reading the U.S. Constitution.
+[00:33:12.000 --> 00:33:14.000]   And we will come back to that,
+[00:33:14.000 --> 00:33:20.000]   because it's a very important topic in the U.S.
+[00:33:20.000 --> 00:33:24.000]   because it is related to abortion.
+[00:33:24.000 --> 00:33:36.000]   So it is being discussed right now, in this very moment.
+[00:33:36.000 --> 00:33:44.000]   Those two law professors were trying to read the American Constitution
+[00:33:44.000 --> 00:33:55.000]   and to see that by protecting some situations,
+[00:33:55.000 --> 00:34:11.000]   the American Constitution was implying the existence of a right to be left alone.
+[00:34:11.000 --> 00:34:21.000]   As you know, the right to be left alone
+[00:34:21.000 --> 00:34:26.000]   was also the foundation of abortion,
+[00:34:26.000 --> 00:34:35.000]   the right to abortion of free choice, I don't know how you want to call it.
+[00:34:35.000 --> 00:34:45.000]   The idea was that during the early stages of pregnancy,
+[00:34:45.000 --> 00:34:51.000]   the body of the child and the body of the mother
+[00:34:51.000 --> 00:35:00.000]   are so connected that we cannot make a distinction between them.
+[00:35:00.000 --> 00:35:04.000]   It's the body of the woman.
+[00:35:04.000 --> 00:35:11.000]   And she has the right to be left alone in deciding
+[00:35:11.000 --> 00:35:22.000]   whether to carry on with the pregnancy or not.
+[00:35:22.000 --> 00:35:28.000]   This is the reason why in Roe v. Wade in 1973,
+[00:35:28.000 --> 00:35:33.000]   U.S. Supreme Court said that another expression of the right to be left alone,
+[00:35:33.000 --> 00:35:52.000]   the right to privacy, is the right of the woman to choose whether to carry on pregnancy or not.
+[00:35:52.000 --> 00:36:02.000]   So at first, at the very beginning, privacy was just an article written in a
+[00:36:02.000 --> 00:36:06.000]   law journal.
+[00:36:06.000 --> 00:36:14.000]   Harvard at that time was not so prestigious as it is today.
+[00:36:14.000 --> 00:36:19.000]   The journal started the publication in 1887.
+[00:36:19.000 --> 00:36:24.000]   It was a very young journal.
+[00:36:24.000 --> 00:36:29.000]   Now the Harvard Law Review is one of the most influential
+[00:36:29.000 --> 00:36:36.000]   and popular legal journals in the world.
+[00:36:36.000 --> 00:36:39.000]   At that time, it was not like that.
+[00:36:39.000 --> 00:36:45.000]   Anyway, by the early 60s,
+[00:36:45.000 --> 00:36:58.000]   plenty of court decisions were based on the idea of privacy as the right to be left alone.
+[00:36:58.000 --> 00:37:11.000]   The U.S. Supreme Court in 1865 said that privacy was implicit in the Bill of Rights.
+[00:37:11.000 --> 00:37:18.000]   It was lying within the penumbras of the Constitution.
+[00:37:18.000 --> 00:37:25.000]   That was the U.S. Supreme Court.
+[00:37:25.000 --> 00:37:33.000]   And in 1860, another law professor, Professor Prosser,
+[00:37:33.000 --> 00:37:42.000]   wrote an article called "Privacy" and published in the California Law Review.
+[00:37:42.000 --> 00:37:50.000]   And he said that by analyzing the court decisions, plenty of that,
+[00:37:50.000 --> 00:38:01.000]   we could find at least four major expressions of the right to privacy.
+[00:38:01.000 --> 00:38:09.000]   The first expression was appropriation of someone else's identity,
+[00:38:09.000 --> 00:38:14.000]   what we now call the identity type,
+[00:38:14.000 --> 00:38:18.000]   pretending to be someone else,
+[00:38:18.000 --> 00:38:26.000]   and acting as that different person.
+[00:38:26.000 --> 00:38:37.000]   The second expression was false light in the public eyes.
+[00:38:37.000 --> 00:38:45.000]   And I will give you an example, a few examples of action.
+[00:38:45.000 --> 00:38:57.000]   The third dimension, the third expression, was publication of private facts.
+[00:38:57.000 --> 00:39:02.000]   And the fourth was intrusion.
+[00:39:02.000 --> 00:39:13.000]   Well, appropriation of someone else's identity is very easy to understand.
+[00:39:13.000 --> 00:39:21.000]   The false light in the public eyes is a bit more complicated.
+[00:39:21.000 --> 00:39:28.000]   And I will give you an example, an Italian example.
+[00:39:28.000 --> 00:39:38.000]   In the early '90s, there was an Italian party called the Northern League
+[00:39:38.000 --> 00:39:55.000]   that was on the rise, and it was promoting a tough approach towards immigration.
+[00:39:55.000 --> 00:40:02.000]   And that was one of the major components of their brand.
+[00:40:02.000 --> 00:40:14.000]   Fighting immigration, fighting illegal immigration whatsoever.
+[00:40:14.000 --> 00:40:20.000]   In 1892, there were the Italian general election,
+[00:40:20.000 --> 00:40:26.000]   and the Northern League published an advertisement,
+[00:40:26.000 --> 00:40:41.000]   impeaching a priest and stating that Catholic people were voting for the Northern League.
+[00:40:41.000 --> 00:40:48.000]   You know, probably that picture was taken by someone somewhere we don't know.
+[00:40:48.000 --> 00:40:52.000]   It was not very clear.
+[00:40:52.000 --> 00:41:04.000]   But it was the picture of a real priest.
+[00:41:04.000 --> 00:41:23.000]   By any chance, that priest was actually known for his commitment to helping immigrant people
+[00:41:23.000 --> 00:41:27.000]   when they came to Italy.
+[00:41:27.000 --> 00:41:35.000]   He was working with non-profit associations rather.
+[00:41:35.000 --> 00:41:41.000]   That was part of his public projection.
+[00:41:41.000 --> 00:41:45.000]   He was known for that.
+[00:41:45.000 --> 00:41:51.000]   So he was not very happy to see his picture taken by a party,
+[00:41:51.000 --> 00:42:01.000]   fighting against everything he was working for.
+[00:42:01.000 --> 00:42:04.000]   So he decided to sue.
+[00:42:04.000 --> 00:42:06.000]   And he won't.
+[00:42:06.000 --> 00:42:14.000]   Because that advertisement was creating a false image of that priest,
+[00:42:14.000 --> 00:42:22.000]   that very priest. He was a real person.
+[00:42:22.000 --> 00:42:32.000]   And yet he was trying to build his public personality
+[00:42:32.000 --> 00:42:40.000]   in a way which was not compatible with the ideology of that party.
+[00:42:40.000 --> 00:42:44.000]   That is false life.
+[00:42:44.000 --> 00:43:03.000]   When you are suggesting that someone has a public image
+[00:43:03.000 --> 00:43:18.000]   which is not related to the public image someone is trying to construct.
+[00:43:18.000 --> 00:43:27.000]   The second example, another Italian newspaper, we are in the mid-90s,
+[00:43:27.000 --> 00:43:37.000]   published an article about a female football team.
+[00:43:37.000 --> 00:43:43.000]   That's typical Italian.
+[00:43:43.000 --> 00:43:51.000]   The assumption was that every member of that football team was less human.
+[00:43:51.000 --> 00:43:58.000]   That was commonplace. Probably it is commonplace today.
+[00:43:58.000 --> 00:44:06.000]   If they are playing football, it means that they are not young women.
+[00:44:06.000 --> 00:44:18.000]   Anyway, for that article, the newspaper decided to use the picture of a famous model.
+[00:44:18.000 --> 00:44:35.000]   She was almost naked, but she was wearing the t-shirt of the Italian national team.
+[00:44:35.000 --> 00:44:44.000]   And she sued the newspaper because of the false lies and public eyes
+[00:44:44.000 --> 00:44:53.000]   and expressions of privacy. She said, "I could be lesbian. It's not a problem for me, but I'm not.
+[00:44:53.000 --> 00:45:02.000]   I have a boyfriend, I want to be a family, a natural sexual family, and so on and so forth."
+[00:45:02.000 --> 00:45:15.000]   So by using the picture to describe an article about lesbians, you are suggesting I'm a lesbian too.
+[00:45:15.000 --> 00:45:24.000]   Nothing was written about the sexual preferences of that model.
+[00:45:24.000 --> 00:45:36.000]   But using that picture for describing that article was suggesting that she could be lesbian.
+[00:45:36.000 --> 00:45:40.000]   And she said, "I'm not."
+[00:45:40.000 --> 00:45:50.000]   Now, as you may understand, false lies and public eyes can be problematic because
+[00:45:50.000 --> 00:45:55.000]   what is your social projection?
+[00:45:55.000 --> 00:46:11.000]   What people really think of you or what you believe you are making people think of you?
+[00:46:11.000 --> 00:46:23.000]   I'm talking about your public projection, which is what lawyers call personality.
+[00:46:23.000 --> 00:46:35.000]   By using the person concept as coming from our Latin tradition.
+[00:46:35.000 --> 00:46:52.000]   You know, persona in Latin means character, like the character of a moon.
+[00:46:52.000 --> 00:47:10.000]   So there is the actor who is performing the character and the persona, which is the character.
+[00:47:10.000 --> 00:47:23.000]   And it is pretty common place to say that everyone is wearing a mask, and it was common in the Greek theater to wear a mask.
+[00:47:23.000 --> 00:47:38.000]   So my public projection, what I'm trying to make you think I am, maybe it is not what I really am.
+[00:47:38.000 --> 00:47:56.000]   There is a part of subjective element in my performance as a member of society.
+[00:47:56.000 --> 00:48:10.000]   Then I get back home and I take my mask away and I start being my real self.
+[00:48:10.000 --> 00:48:22.000]   There was a law professor writing about false lies and public eyes and stating that that expression of privacy could be tricky
+[00:48:22.000 --> 00:48:42.000]   because it could be used by a student pretending that a 21 is a way of falsely,
+[00:48:42.000 --> 00:48:51.000]   untruly describing evil, error, and so false lies in the public eyes.
+[00:48:51.000 --> 00:49:08.000]   As far as I know, that never happened, but you know, if we start protecting our subjective understanding of our self,
+[00:49:08.000 --> 00:49:13.000]   that can be tricky.
+[00:49:13.000 --> 00:49:26.000]   But if we look at court decisions, we see that every time false lies in the public eyes was used,
+[00:49:26.000 --> 00:49:38.000]   it was because there was an objective clash between the social perception of the personality of an individual
+[00:49:38.000 --> 00:49:44.000]   and the portray that was made of that individual.
+[00:49:44.000 --> 00:49:58.000]   So judges are trying to use not what the victim pretends to be his social projection,
+[00:49:58.000 --> 00:50:05.000]   but what is socially perceived in an objective way.
+[00:50:05.000 --> 00:50:27.000]   Publication of private facts, well, that's pretty easy, could seem to be pretty easy.
+[00:50:27.000 --> 00:50:39.000]   But private facts can be meaningful for society. Private behavior of a politician is meaningful for society
+[00:50:39.000 --> 00:50:46.000]   in understanding whether that politician is lying or not.
+[00:50:46.000 --> 00:51:12.000]   So, publication of private facts is the very domain where the right to privacy and free speech come to confront themselves.
+[00:51:12.000 --> 00:51:30.000]   And the solution that was adopted, as we will see even in Italy, was the public interest criteria.
+[00:51:30.000 --> 00:51:47.000]   And, you know, sometimes public interest is not easily defined.
+[00:51:47.000 --> 00:51:58.000]   I found court decisions in Italy specifically that said that since the press was talking about something,
+[00:51:58.000 --> 00:52:07.000]   that was evidence of public interest, but that is not.
+[00:52:07.000 --> 00:52:19.000]   Sometimes the press is talking about, you know, facts that are not objectively of public interest.
+[00:52:19.000 --> 00:52:32.000]   So if you use that criteria, it's like a cat trying to eat his tail.
+[00:52:32.000 --> 00:52:40.000]   You cannot look at the press and what the press is doing in order to decide whether there is a public interest.
+[00:52:40.000 --> 00:52:49.000]   And how to define the public interest objectively, well, that's very difficult, actually.
+[00:52:49.000 --> 00:52:56.000]   But we will come back to that later on.
+[00:52:56.000 --> 00:53:14.000]   Intrusion is easier. I'll give you an example of a very famous Italian journalist, a female.
+[00:53:14.000 --> 00:53:32.000]   She was the uncle woman of the most important, what do they call it, in English, news,
+[00:53:32.000 --> 00:53:47.000]   was it a newscaster? Anyway, the person is the newscaster.
+[00:53:47.000 --> 00:53:53.000]   Anyway, you understood what I'm talking about. She was very famous.
+[00:53:53.000 --> 00:54:07.000]   And once she went to her parents' house, they had a beautiful house with a garden, a private garden,
+[00:54:07.000 --> 00:54:20.000]   with high fences. So she was thinking nobody was looking at her and she started sunbathing topless.
+[00:54:20.000 --> 00:54:33.000]   But a photographer was able to take a picture of her and publish the picture.
+[00:54:33.000 --> 00:54:45.000]   And, you know, there was a very famous Italian scandal about the pizza and the boobs of the famous uncle woman.
+[00:54:45.000 --> 00:55:00.000]   She saw it because she said, well, I was sunbathing in a private place where I was supposed to be alone.
+[00:55:00.000 --> 00:55:14.000]   Nobody could take pictures of me unless we, you know, very sophisticated gear.
+[00:55:14.000 --> 00:55:20.000]   And that is intrusion.
+ was talking about the fact that the legal system is a set of rules created by a democratic body,
+[00:55:34.000 --> 00:55:41.000]   you have an expectation that nobody is looking at you.
+[00:55:41.000 --> 00:55:50.000]   And if someone is doing so, that's intrusion.
+[00:55:50.000 --> 00:56:05.000]   So that was the picture of privacy taken by processor at the end of the fifties, early sixties in the U.S.
+[00:56:05.000 --> 00:56:25.000]   I should add a fifth dimension, which is the right to oblivion, which was starting to emerge,
+[00:56:25.000 --> 00:56:38.000]   which is related to publication of private facts.
+[00:56:38.000 --> 00:56:45.000]   Suppose there is a public interest in the publication of the private facts right now.
+[00:56:45.000 --> 00:56:52.000]   Do you think that public interest is going to last forever?
+[00:56:52.000 --> 00:56:57.000]   I'll give you an example, an Italian example once again.
+[00:56:57.000 --> 00:57:07.000]   There was a guy who killed his wife in the early fifties.
+[00:57:07.000 --> 00:57:12.000]   He was convicted to a life sentence.
+[00:57:12.000 --> 00:57:24.000]   And the news of his conviction was published in a very famous Italian newspaper as the frontline title.
+[00:57:24.000 --> 00:57:31.000]   In the early fifties, '51, '52, I don't remember exactly.
+[00:57:31.000 --> 00:57:41.000]   In the eighties, that very newspaper started an advertising campaign.
+[00:57:41.000 --> 00:57:50.000]   And in that advertisement campaign, he republished some of the old front pages of the newspaper.
+[00:57:50.000 --> 00:57:59.000]   One of them was about the conviction of the guy who sued the newspaper, saying that,
+[00:57:59.000 --> 00:58:21.000]   "Well, I was convicted, I spent my time in jail, but there is no actual present time public interest
+[00:58:21.000 --> 00:58:30.000]   in the republication of my personal."
+[00:58:30.000 --> 00:58:34.000]   And the judges said, "Yes, you are right."
+[00:58:34.000 --> 00:58:42.000]   Also because the republication was not in order to discuss, for instance,
+[00:58:42.000 --> 00:58:59.000]   I know what in Italian is called "hemedecide," the killing of women within a romantic type of relationship,
+[00:58:59.000 --> 00:59:18.000]   which is emerging as a major component of the number of homicides in Italy.
+[00:59:18.000 --> 00:59:26.000]   No, it was just an advertisement made to sell more copies of the newspaper.
+[00:59:26.000 --> 00:59:33.000]   It was not for public debate, because for instance, a few years later,
+[00:59:33.000 --> 00:59:51.000]   another man convicted for a bias crime, crimes, attempted to block, to stop the republication of his adventures,
+[00:59:51.000 --> 01:00:05.000]   but judges in that situation said, "No, you are wrong because your crimes were very important for society at that time,
+[01:00:05.000 --> 01:00:18.000]   and talking about the history of crime in our country is not outside the public interest."
+[01:00:18.000 --> 01:00:31.000]   So even the right to oblivion was part, was the fifth element of the right to be let along.
+[01:00:31.000 --> 01:00:35.000]   That was the U.S. and what about Europe?
+[01:00:35.000 --> 01:00:42.000]   Because as you know, in the U.S. there is the common law tradition,
+[01:00:42.000 --> 01:00:49.000]   and part of the rules are judge-made.
+[01:00:49.000 --> 01:01:00.000]   So there is no problem with the common law tradition to see that judges are starting to use a new legal concept,
+[01:01:00.000 --> 01:01:08.000]   maybe found on a legal publication.
+[01:01:08.000 --> 01:01:17.000]   Well, even in the similar tradition, as I said, something like that can happen.
+[01:01:17.000 --> 01:01:23.000]   I gave you the French example before.
+[01:01:23.000 --> 01:01:44.000]   Anyway, usually European judges are trying to root their decisions on a specific legal statement found in legislation.
+[01:01:44.000 --> 01:02:10.000]   And the only rule that can be related to privacy within the European context is Article 8 of the European Convention on Numer Rights,
+[01:02:10.000 --> 01:02:14.000]   which was adopted in the early '80s.
+[01:02:14.000 --> 01:02:21.000]   Article 8 says that everyone has a right to respect for his private and family life,
+[01:02:21.000 --> 01:02:26.000]   his own and his corestral correspondence.
+[01:02:26.000 --> 01:02:36.000]   But if you read paragraph 2, you may have the idea, and probably that's correct,
+[01:02:36.000 --> 01:02:46.000]   that paragraph 1 applies not in the relationship between private individuals,
+[01:02:46.000 --> 01:02:54.000]   but in the relationship of a private individual against the public authorities.
+[01:02:54.000 --> 01:03:09.000]   So it is not very clear whether Article 8 could be used in a privacy claim between two private individuals,
+[01:03:09.000 --> 01:03:20.000]   a news publisher and a person, for instance.
+[01:03:20.000 --> 01:03:38.000]   Sorry, but I'm more familiar with the Italian situation, and that was the least of rules I could find,
+[01:03:38.000 --> 01:03:47.000]   starting from the '40s, about privacy in Italy.
+[01:03:47.000 --> 01:03:52.000]   Article 6 of the Italian Civil Code is the right to your name.
+[01:03:52.000 --> 01:04:07.000]   You're not allowed to use my name, which is, you remember, related to the appropriation of someone else's identity.
+[01:04:07.000 --> 01:04:11.000]   The right to do your image.
+[01:04:11.000 --> 01:04:22.000]   You're not allowed to take pictures or use my picture if I do not give you my consent.
+[01:04:22.000 --> 01:04:39.000]   There are limitations, actually, because as we see with the right to your portraying,
+[01:04:39.000 --> 01:04:55.000]   that right is limited because if you are in a public space, you cannot pretend not to be portrayed.
+[01:04:55.000 --> 01:05:09.000]   Then there is honor and reputation protected by crime and criminal law.
+[01:05:09.000 --> 01:05:16.000]   But as we have seen, honor and reputation are protected against false statements,
+[01:05:16.000 --> 01:05:27.000]   whereas privacy is protected against the dissemination of true statements.
+[01:05:27.000 --> 01:05:37.000]   And then there is the so-called moral right of outroshy.
+[01:05:37.000 --> 01:05:50.000]   But that's basically it. There is no clear reference to the right to privacy in Italian legislation until the end,
+[01:05:50.000 --> 01:06:00.000]   as we will see the adoption of the European Direct Ignatie in '85.
+[01:06:00.000 --> 01:06:15.000]   Still, even...
+[01:06:15.000 --> 01:06:21.000]   I was expecting a different slide.
+[01:06:21.000 --> 01:06:31.000]   Instead of like cutting each other's slides.
+[01:06:31.000 --> 01:06:54.000]   Still, even in Italy, there was the pressure for judges to protect situations
+[01:06:54.000 --> 01:07:05.000]   which were similar to those protected by judges in the US.
+[01:07:05.000 --> 01:07:17.000]   The first court decision, though, was about a very famous singer, Enrico Caruso.
+[01:07:17.000 --> 01:07:23.000]   He was a very famous Italian singer. He was popular in the United States, too.
+[01:07:23.000 --> 01:07:30.000]   He had an amazing line.
+[01:07:30.000 --> 01:07:42.000]   And in the '50s, a movie about his life was being produced.
+[01:07:42.000 --> 01:07:52.000]   And in that movie, that movie was not actually what we call "dock fiction."
+[01:07:52.000 --> 01:07:59.000]   It was not a real portray of the singer.
+[01:07:59.000 --> 01:08:12.000]   Real facts, false facts mixed together in order to make a nice movie about a nice character.
+[01:08:12.000 --> 01:08:20.000]   So Caruso's family tried to stop the production of the movie.
+[01:08:20.000 --> 01:08:28.000]   In the Italian Supreme Court, we are in the very early '50s, and Italian Supreme Court said,
+[01:08:28.000 --> 01:08:32.000]   "Well, we do not have a right to privacy in Italy."
+[01:08:32.000 --> 01:08:37.000]   Moreover, some of those facts are not even true.
+[01:08:37.000 --> 01:08:43.000]   So, no protection. No right.
+[01:08:43.000 --> 01:08:53.000]   There is the right to your name, your right to your image, and so on and so forth.
+[01:08:53.000 --> 01:08:54.000]   Yes?
+[01:08:54.000 --> 01:09:02.000]   Sorry, but didn't you say that there was protection against the diffusion of untrue facts?
+[01:09:02.000 --> 01:09:09.000]   Yes, but those facts were not actually harming the law of interpretation.
+[01:09:09.000 --> 01:09:13.000]   It was just giving him a favor of life.
+[01:09:13.000 --> 01:09:17.000]   The whole story is about law affairs and stuff like that.
+[01:09:17.000 --> 01:09:24.000]   It was not pitching the singer in a bad way.
+[01:09:24.000 --> 01:09:28.000]   So there was not damage to the honor and the reputation.
+[01:09:28.000 --> 01:09:37.000]   It was just false stuff like that.
+[01:09:37.000 --> 01:09:57.000]   For me, the '50s, I think Italian television wanted to produce a series or a movie or a TV movie,
+[01:09:57.000 --> 01:10:13.000]   I don't remember exactly, about the life of a clarita petacci, which was the lover of the Italian dictator, Vincito Mussolini.
+[01:10:13.000 --> 01:10:28.000]   Mussolini was married with a woman, but petacci was his true lover,
+[01:10:28.000 --> 01:10:39.000]   and they were killed together at the end of the Second World War.
+[01:10:39.000 --> 01:10:44.000]   In that case, the court decided to take a different approach, and they said,
+[01:10:44.000 --> 01:10:55.000]   "Well, there is not a right to privacy in Italy.
+[01:10:55.000 --> 01:11:06.000]   There are single rights like those I mentioned here."
+[01:11:06.000 --> 01:11:25.000]   And those rights are not unrelated, one to another.
+[01:11:25.000 --> 01:11:38.000]   They formed the protection of human personality.
+[01:11:38.000 --> 01:11:59.000]   Even though the claim was rejected, there was the first opening of the Italian Supreme Court to the idea that there was a single right to personality.
+[01:11:59.000 --> 01:12:09.000]   And indeed, just a few years later, sorry, Clarita Petacci was in the '60s, not in the '50s.
+[01:12:09.000 --> 01:12:15.000]   It was about ten years after the Caruso case.
+[01:12:15.000 --> 01:12:26.000]   In the mid-70s, the Italian Supreme Court decided to take a totally different approach and said, "Yes,
+[01:12:26.000 --> 01:12:40.000]   even in Italy there is a right to privacy, which is the expression of the right of personality the previous decision was talking about."
+[01:12:40.000 --> 01:13:04.000]   "Raya" was her name.
+[01:13:04.000 --> 01:13:13.000]   "Soraia"
+[01:13:13.000 --> 01:13:30.000]   She was the wife of the Persian Shah.
+[01:13:30.000 --> 01:13:38.000]   "Pavar"
+[01:13:38.000 --> 01:14:05.000]   She divorced by the Persian king. She came to Italy.
+[01:14:05.000 --> 01:14:09.000]   I don't know why.
+[01:14:09.000 --> 01:14:28.000]   And in the early '70s, she was, a picture of her was taken when she was kissing another man in a private place, something like that.
+[01:14:28.000 --> 01:14:39.000]   She stood and she won. And the Italian Supreme Court said, "Yes, we do have a right to privacy in Italy,
+[01:14:39.000 --> 01:15:00.000]   and we can find it by systematically reading all the legal rules related to the protection of personality."
+[01:15:00.000 --> 01:15:15.000]   So, even in Italy, at the very end, we came to the very same conclusions of US judges.
+[01:15:15.000 --> 01:15:22.000]   But that was just judge made of all.
+[01:15:22.000 --> 01:15:36.000]   No legislation has been ever enacted in Italy and in Europe about privacy in Italy that has the right to be let alone.
+[01:15:36.000 --> 01:15:54.000]   In the meantime, something else was going on because computer technology started to emerge.
+[01:15:54.000 --> 01:16:16.000]   And that started to highlight another problem which could be related to privacy.
+[01:16:16.000 --> 01:16:30.000]   The first applications I was able to track down were in the US and they were related to the labor market.
+[01:16:30.000 --> 01:16:51.000]   You know, it is probably known to you that if you want a job, you have to go through a process which usually is called job selection.
+[01:16:51.000 --> 01:17:01.000]   Or the personal selection process.
+[01:17:01.000 --> 01:17:10.000]   And many companies are actually outsourcing that process to specialize the firms.
+[01:17:10.000 --> 01:17:20.000]   That started to take place in the US in the 50s.
+[01:17:20.000 --> 01:17:41.000]   And that selection process may be quite invasive because there may be a psychological assessment through psychological tests.
+[01:17:41.000 --> 01:17:54.000]   You have to disclose a part of your private life, habits, or stuff like that.
+[01:17:54.000 --> 01:18:04.000]   And that information was collected by those firms.
+[01:18:04.000 --> 01:18:14.000]   But usually that was not a real problem because those collections were in bakery format.
+[01:18:14.000 --> 01:18:28.000]   Huge catalogs or databases of very difficult to consult and information retrieval was almost impossible.
+[01:18:28.000 --> 01:18:39.000]   Moreover, copying and disseminating those databases was very difficult because they were made of paper.
+[01:18:39.000 --> 01:18:57.000]   But then when computers started to become popular, that type of data was collected in a digital form.
+[01:18:57.000 --> 01:19:17.000]   And a huge amount of personal information was available and the market for that information started to appear.
+[01:19:17.000 --> 01:19:31.000]   The US decided not to take any legal action to regulate that new market.
+[01:19:31.000 --> 01:19:50.000]   And that was because I believe an ideological attitude towards information and the economy of information.
+[01:19:50.000 --> 01:20:08.000]   A free market, a competitive market, is supposed to work better. Greater the amount of information is available to agents in that market.
+[01:20:08.000 --> 01:20:13.000]   Think about insurance.
+[01:20:13.000 --> 01:20:36.000]   If I want to price the risk of your behavior, the greater amount of information I have about you,
+[01:20:36.000 --> 01:20:49.000]   the more the price will be correct.
+[01:20:49.000 --> 01:21:12.000]   A free market ideology is probably, or can probably be used in order to say that information must flow free of any obstacle.
+[01:21:12.000 --> 01:21:19.000]   More information, better for the marketplace.
+[01:21:19.000 --> 01:21:46.000]   On the other side, instead, in Europe we had a different perspective. So the growing amount of private information disseminated the less freedom left for individuals.
+[01:21:46.000 --> 01:21:57.000]   The more I know about you, the greater is my power over you.
+[01:21:57.000 --> 01:22:17.000]   And my power over you means that you are not free to self-determine you in your business-contractual relationships.
+[01:22:17.000 --> 01:22:46.000]   So in Europe we decided that regulating the collecting and processing of personal information was the only way to preserve some basic freedoms or invables.
+[01:22:46.000 --> 01:23:01.000]   And to make individuals,
+[01:23:01.000 --> 01:23:27.000]   and to let individuals maintain some control over information about them.
+[01:23:27.000 --> 01:23:42.000]   That was crucial in order to maintain an economic system where asymmetries of information are going to produce different market power.
+[01:23:42.000 --> 01:24:01.000]   Because if I know everything about you and you do not know very much about me, I may exercise that information asymmetry in a way which gives me contractual power.
+[01:24:01.000 --> 01:24:27.000]   So as you see, a different perspective. And this is why in Europe we started to think about the general regulation of the
+[01:24:27.000 --> 01:24:39.000]   what is called computer privacy. That is to say, it is not just a matter to be let alone.
+[01:24:39.000 --> 01:24:58.000]   It is a matter of the fact that computer technologies allow the collection of a huge amount of information.
+[01:24:58.000 --> 01:25:15.000]   But computer technologies also make the retrieval of that information, the unification of different sources of information very easy.
+[01:25:15.000 --> 01:25:42.000]   This is why it is not just a problem of being let alone, but it is a matter of giving you the power to control what information about you is public and what is not.
+[01:25:42.000 --> 01:25:58.000]   So the European way of thinking about privacy is not only dimensional, just the right to be let alone, but also the right to control your data.
+[01:25:58.000 --> 01:26:11.000]   The right to know what is known about you.
+[01:26:11.000 --> 01:26:20.000]   But I would like to start talking about the European legislation tomorrow, if you don't mind, so I can...
+[01:26:20.000 --> 01:26:28.000]   Do you have any passion? Also because I think you need some time to eat, right?
+[01:26:28.000 --> 01:26:36.000]   And I'm getting more angry too.
+[01:26:36.000 --> 01:26:49.000]   So no questions. Thank you for your kind attention. I will meet you again tomorrow morning at, well, I've passed one.
+[01:26:49.000 --> 01:27:17.000]   Okay, have a nice meal. Thank you.

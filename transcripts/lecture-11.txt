@@ -1,0 +1,579 @@
+[00:00:00.000 --> 00:00:04.000]   [ Inaudible ]
+[00:00:04.000 --> 00:00:07.000]   >> Today, first of all, they are processing.
+[00:00:07.000 --> 00:00:13.000]   We have been looking at some definitions.
+[00:00:13.000 --> 00:00:29.000]   And today, we are going to analyze specific rules.
+[00:00:29.000 --> 00:00:41.000]   There are basically two categories of personal data.
+[00:00:41.000 --> 00:00:47.000]   The first one is, you know, general personal data,
+[00:00:47.000 --> 00:00:52.000]   which may lead to the identification of a person.
+[00:00:52.000 --> 00:00:57.000]   And then we have special configuration of personal data
+[00:00:57.000 --> 00:01:04.000]   that are identified by Article 9 of each ER.
+[00:01:04.000 --> 00:01:10.000]   Article 9 deals with the processing of personal data,
+[00:01:10.000 --> 00:01:14.000]   or if you're repeating a rational or ethnic region
+[00:01:14.000 --> 00:01:19.000]   political opinions, religious or philosophical beliefs,
+[00:01:19.000 --> 00:01:26.000]   trade human membership, genetic data, biometric data,
+[00:01:26.000 --> 00:01:32.000]   data conserving hands and the conserving natural persons,
+[00:01:32.000 --> 00:01:36.000]   sex life, sexual orientation, stuff like that.
+[00:01:36.000 --> 00:01:42.000]   So these, using the terminology of the directing,
+[00:01:42.000 --> 00:01:47.000]   these are sensitive personal data,
+[00:01:47.000 --> 00:01:55.000]   which need to be regulated in a different way,
+[00:01:55.000 --> 00:02:04.000]   even though if we look at, you know, Article 9,
+[00:02:04.000 --> 00:02:11.000]   Article 9 says that basically the processing of sensitive personal data
+[00:02:11.000 --> 00:02:13.000]   is prohibited, okay?
+[00:02:13.000 --> 00:02:16.000]   That should be the rule.
+[00:02:16.000 --> 00:02:24.000]   But then in photograph two, there are a few number of exceptions.
+[00:02:24.000 --> 00:02:34.000]   Which basically means that the processing of sensitive personal data
+[00:02:34.000 --> 00:02:37.000]   is far from being prohibited,
+[00:02:37.000 --> 00:02:44.000]   even though as we will see, a letter A says that member state
+[00:02:44.000 --> 00:03:02.000]   may be prohibiting, well, first of all, you see that
+[00:03:02.000 --> 00:03:08.000]   letter A says that if the data subject has given explicit consent
+[00:03:08.000 --> 00:03:11.000]   to the processing of those personal data,
+[00:03:11.000 --> 00:03:15.000]   then the processing is allowed.
+[00:03:15.000 --> 00:03:23.000]   So consent is going to leave the prohibition, okay?
+[00:03:23.000 --> 00:03:30.000]   Though member state shall provide that the prohibition
+[00:03:30.000 --> 00:03:36.000]   may not be left by the consent, okay?
+[00:03:36.000 --> 00:03:46.000]   So that's basically an exception to the unification principle
+[00:03:46.000 --> 00:03:53.000]   of the law on privacy, because you remember we said that
+[00:03:53.000 --> 00:04:02.000]   deregulation is immediately and directly binding in every member state
+[00:04:02.000 --> 00:04:08.000]   without the requirement of implementation or like the directive, okay?
+[00:04:08.000 --> 00:04:15.000]   So the directive harmonizes the laws of different member states
+[00:04:15.000 --> 00:04:20.000]   by providing a set of basic principles which must be translated
+[00:04:20.000 --> 00:04:26.000]   into national legislation, whereas the regulation instead is immediately binding.
+[00:04:26.000 --> 00:04:30.000]   Nonetheless, when talking about sensitive data,
+[00:04:30.000 --> 00:04:36.000]   we see that member states are allowed to change the default rule.
+[00:04:36.000 --> 00:04:42.000]   So the default rule is sensitive data cannot be processed
+[00:04:42.000 --> 00:04:46.000]   unless there is a specific consent.
+[00:04:46.000 --> 00:04:51.000]   But member state may arise, if you want,
+[00:04:51.000 --> 00:05:01.000]   the level of protection by prohibiting that consent is enough to leave the deprivation.
+[00:05:01.000 --> 00:05:10.000]   Then there are other exceptions like processing is necessary
+[00:05:10.000 --> 00:05:13.000]   for the purposes of giving out the obligations
+[00:05:13.000 --> 00:05:19.000]   and exercising specific rights of the controller or the data subjects
+[00:05:19.000 --> 00:05:24.000]   in the field of environmental employment, social security,
+[00:05:24.000 --> 00:05:31.000]   social protection law, and so on and so forth.
+[00:05:31.000 --> 00:05:36.000]   Precising is necessary to protect the vital interest of the data subject
+[00:05:36.000 --> 00:05:41.000]   or of another national person where the data subject is physically
+[00:05:41.000 --> 00:05:46.000]   or legally incapable of giving consent.
+[00:05:46.000 --> 00:05:52.000]   Anyway, as you see, unlike normal personal data,
+[00:05:52.000 --> 00:05:57.000]   there are more restrictions when talking about sensitive data.
+[00:05:57.000 --> 00:06:02.000]   And the reason is that sensitive personal data may,
+[00:06:02.000 --> 00:06:10.000]   the knowledge of sensitive personal data may give the data controller
+[00:06:10.000 --> 00:06:13.000]   some advantage, some power.
+[00:06:13.000 --> 00:06:16.000]   Think about an insurance company, okay?
+[00:06:16.000 --> 00:06:25.000]   An insurance company that can get very much detailed information
+[00:06:25.000 --> 00:06:33.000]   about your health and habits and so forth and so on and so on.
+[00:06:33.000 --> 00:06:41.000]   So in order to process those information,
+[00:06:41.000 --> 00:06:54.000]   we need to get that information in the specific consent.
+[00:06:54.000 --> 00:07:01.000]   Rights, rights given to the data subject.
+[00:07:01.000 --> 00:07:03.000]   You remember, the data subject is the person,
+[00:07:03.000 --> 00:07:07.000]   the natural person whose data are being processed.
+[00:07:07.000 --> 00:07:13.000]   The first right I would like to talk is the right of access.
+[00:07:13.000 --> 00:07:18.000]   We were talking about that last time.
+[00:07:18.000 --> 00:07:23.000]   As you see, the data subject shall have the right to obtain from the controller
+[00:07:23.000 --> 00:07:27.000]   confirmation as to whether or not personal data concerning him
+[00:07:27.000 --> 00:07:30.000]   or her are being processed.
+[00:07:30.000 --> 00:07:34.000]   And where that is the case, access to the personal data
+[00:07:34.000 --> 00:07:36.000]   and the following information.
+[00:07:36.000 --> 00:07:43.000]   The purpose is of the processing and the categories of personal data concern.
+[00:07:43.000 --> 00:07:52.000]   So the first right of the data subject and the relative obligation
+[00:07:52.000 --> 00:07:59.000]   of the data controller is the right to have knowledge
+[00:07:59.000 --> 00:08:03.000]   and to access personal data.
+[00:08:03.000 --> 00:08:07.000]   And on the other side, the obligation of the data controller
+[00:08:07.000 --> 00:08:13.000]   to fully disclose the amount of personal data is processing
+[00:08:13.000 --> 00:08:18.000]   and the purposes of the processing.
+[00:08:18.000 --> 00:08:25.000]   You remember, when we were talking about the general principles of processing,
+[00:08:25.000 --> 00:08:31.000]   we said that the purpose must be specific, must be disclosed,
+[00:08:31.000 --> 00:08:53.000]   must be the consent must be related not just to the categories of personal data
+[00:08:53.000 --> 00:09:00.000]   but also the purposes of the processing.
+[00:09:00.000 --> 00:09:08.000]   Another right which is given to the data subject is the right to rectification.
+[00:09:08.000 --> 00:09:12.000]   The data subject shall have the right to obtain from the controller
+[00:09:12.000 --> 00:09:22.000]   without undue delay the rectification of inaccurate personal data concerning him or her.
+[00:09:22.000 --> 00:09:28.000]   And then there is the right to be forgotten.
+[00:09:28.000 --> 00:09:33.000]   The right to the erasure of personal data.
+[00:09:33.000 --> 00:09:37.000]   The data subject shall have the right to obtain from the controller
+[00:09:37.000 --> 00:09:43.000]   the erasure of personal data concerning him or her without undue delay.
+[00:09:43.000 --> 00:09:47.000]   And the controller shall have the obligation to erase personal data
+[00:09:47.000 --> 00:09:53.000]   without undue delay where one of the following ground supplies.
+[00:09:53.000 --> 00:10:05.000]   And let me see if we can read Article 17 from the directive.
+[00:10:05.000 --> 00:10:10.000]   Personal data are no longer necessary in relation to the purpose
+[00:10:10.000 --> 00:10:18.000]   for which they were collected or otherwise possessed.
+[00:10:18.000 --> 00:10:26.000]   Withdrawals of consent.
+[00:10:26.000 --> 00:10:37.000]   And the error obviously, you see personal data have been unlawfully possessed.
+[00:10:37.000 --> 00:10:47.000]   So that's the so-called right to be forgotten or the right to oblivion
+[00:10:47.000 --> 00:10:56.000]   which is usually perceived as being important in relationship
+[00:10:56.000 --> 00:11:05.000]   with the persistence of digital information.
+[00:11:05.000 --> 00:11:11.000]   Probably I've seen that many times Google's result at the very end
+[00:11:11.000 --> 00:11:17.000]   says that in accordance with the European regulation of privacy
+[00:11:17.000 --> 00:11:32.000]   we had to remove some information which cannot be any longer displayed.
+[00:11:32.000 --> 00:11:43.000]   I would like to stress the fact that probably our perception of
+[00:11:43.000 --> 00:11:53.000]   the digital environment is wrong with reference to be right to be forgotten
+[00:11:53.000 --> 00:12:09.000]   because I've been using the internet since the mid and early 90s
+[00:12:09.000 --> 00:12:29.000]   and I had some exposure to
+[00:12:29.000 --> 00:12:39.000]   news groups, blogs, news papers,
+[00:12:39.000 --> 00:12:43.000]   news websites, disorders, and both.
+[00:12:43.000 --> 00:12:49.000]   But I see that much of my activity or my past activities
+[00:12:49.000 --> 00:12:58.000]   just disappeared from any online resources.
+[00:12:58.000 --> 00:13:05.000]   Databases are disappearing because the websites are no longer maintained
+[00:13:05.000 --> 00:13:14.000]   but also because the way the web is indexed by Google
+[00:13:14.000 --> 00:13:24.000]   and so searchable by search engine has changed over time.
+[00:13:24.000 --> 00:13:32.000]   Forms, other public places where people gather to share opinions
+[00:13:32.000 --> 00:13:44.000]   and information are no longer indexed by Google.
+[00:13:44.000 --> 00:13:52.000]   Basically, at least a few years ago I remember that
+[00:13:52.000 --> 00:13:58.000]   when doing some research, the picture of the search engine
+[00:13:58.000 --> 00:14:05.000]   was giving you a picture of the amount of information that had been collected
+[00:14:05.000 --> 00:14:08.000]   over many years.
+[00:14:08.000 --> 00:14:12.000]   Right now instead if you look at Google for instance,
+[00:14:12.000 --> 00:14:15.000]   which is probably the most important search engine,
+[00:14:15.000 --> 00:14:29.000]   you see that you have a picture of very present and recent information.
+[00:14:29.000 --> 00:14:49.000]   And so I think that the idea that whatever you place
+[00:14:49.000 --> 00:14:54.000]   in the digital environment is going to stay there forever
+[00:14:54.000 --> 00:14:59.000]   is just a sensation without any real environment.
+[00:14:59.000 --> 00:15:03.000]   This is not actually true.
+[00:15:03.000 --> 00:15:11.000]   And so I do not believe that the right to erasure
+[00:15:11.000 --> 00:15:21.000]   is going to change our perception of the digital environment.
+[00:15:21.000 --> 00:15:29.000]   So there was a huge debate about the right to be forgotten
+[00:15:29.000 --> 00:15:37.000]   and the novelty of that provision by Article 17 of the European Regulation.
+[00:15:37.000 --> 00:15:44.000]   I don't think the impact of that article is going to change deeply,
+[00:15:44.000 --> 00:15:55.000]   not change the digital environment.
+[00:15:55.000 --> 00:16:06.000]   Another important right I think is the right to data portability.
+[00:16:06.000 --> 00:16:10.000]   The data subject shall have the right to receive the personal data
+[00:16:10.000 --> 00:16:16.000]   conserving in the mirror which he or she has provided to a controller
+[00:16:16.000 --> 00:16:23.000]   in a structured commonly used and machine readable format.
+[00:16:23.000 --> 00:16:27.000]   And then the right to transmit those data to another controller
+[00:16:27.000 --> 00:16:35.000]   without an entrance from the controller to which the personal data has been provided.
+[00:16:35.000 --> 00:16:44.000]   This is interesting I think because that leads to a pressure for data controllers
+[00:16:44.000 --> 00:16:54.000]   to use machine readable formats, commonly used formats, that is to say,
+[00:16:54.000 --> 00:17:07.000]   it's an indirect way of regulating also the formats that are used
+[00:17:07.000 --> 00:17:14.000]   for controlling and processing personal information.
+[00:17:14.000 --> 00:17:24.000]   And you may look at that article as a way of regulating the technology
+[00:17:24.000 --> 00:17:37.000]   at a very low level.
+[00:17:37.000 --> 00:17:56.000]   And then there is Article 25, which is titled "Data Protection by Designer"
+[00:17:56.000 --> 00:18:07.000]   and by the four, which is another form of directly regulating the technology.
+[00:18:07.000 --> 00:18:15.000]   And one of the reasons why I believe that for you reading the regulation
+[00:18:15.000 --> 00:18:27.000]   is quite important because deregulation is going to affect the way of writing software.
+[00:18:27.000 --> 00:18:31.000]   Taking into account the state of the art, the cost of implementation,
+[00:18:31.000 --> 00:18:35.000]   and the nature, scope, context, and purposes of processing,
+[00:18:35.000 --> 00:18:42.000]   as well as the risk of varying likelihood and severity for rights and freedom
+[00:18:42.000 --> 00:18:47.000]   of natural persons posed by de-processing, the controller shall,
+[00:18:47.000 --> 00:18:51.000]   both at the time of determination of the means for processing
+[00:18:51.000 --> 00:18:56.000]   and at the time of de-processing itself,
+[00:18:56.000 --> 00:19:01.000]   implement appropriate technical and organizational measures
+[00:19:01.000 --> 00:19:06.000]   such as personal colonization, which are designed to implement
+[00:19:06.000 --> 00:19:14.000]   data protection principles such as data minimization in an effective manner
+[00:19:14.000 --> 00:19:21.000]   and to integrate the necessary safeguards into de-processing
+[00:19:21.000 --> 00:19:24.000]   in order to meet the requirement of this regulation
+[00:19:24.000 --> 00:19:34.000]   and protect the rights of the data subjects.
+[00:19:34.000 --> 00:20:00.000]   So, de-processing must be designed in order to implement some level of data protection.
+[00:20:00.000 --> 00:20:10.000]   And as you see, there is an explicit reference to the state of the art,
+[00:20:10.000 --> 00:20:22.000]   which means that the data controller is bound to take into account
+[00:20:22.000 --> 00:20:31.000]   de-technological development.
+[00:20:31.000 --> 00:20:38.000]   Well, there is also a reference to the cost of implementation
+[00:20:38.000 --> 00:20:48.000]   in relation to the nature, scope, context, and the purposes of de-processing.
+[00:20:48.000 --> 00:20:59.000]   So, what we may be expecting from judges is that they will try to balance
+[00:20:59.000 --> 00:21:12.000]   the requirement of privacy by design and the costs of designing
+[00:21:12.000 --> 00:21:22.000]   the processing implementation that fulfill this requirement.
+[00:21:22.000 --> 00:21:27.000]   So, there is room for interpretation.
+[00:21:27.000 --> 00:21:46.000]   But anyway, what this article refers to is the fact that we need to take into account
+[00:21:46.000 --> 00:21:51.000]   every possible technological development.
+[00:21:51.000 --> 00:22:06.000]   As I told you, I had a colleague of you doing a thesis with me on anonymization.
+[00:22:06.000 --> 00:22:17.000]   And, well, there was a document by the working party,
+[00:22:17.000 --> 00:22:21.000]   Article 29 of the Directed Working Party,
+[00:22:21.000 --> 00:22:35.000]   which is the collective body of every national administrative authority
+[00:22:35.000 --> 00:22:50.000]   delegated with the management of the directive before and the regulation now.
+[00:22:50.000 --> 00:22:59.000]   Indeed, we will...well, let me say something more about that.
+[00:22:59.000 --> 00:23:08.000]   As you see, the directive first and the regulation later are setting
+[00:23:08.000 --> 00:23:11.000]   each number of principles.
+[00:23:11.000 --> 00:23:20.000]   And as I said, those principles must be translated into specific rules,
+[00:23:20.000 --> 00:23:27.000]   which is not always easy.
+[00:23:27.000 --> 00:23:33.000]   This is the reason why the directive before and the regulation now
+[00:23:33.000 --> 00:23:39.000]   required the member states to create independent authorities
+[00:23:39.000 --> 00:23:48.000]   for the protection of individuals with regard to the processing of personality.
+[00:23:48.000 --> 00:23:55.000]   And those authorities were given the power, well, first of all,
+[00:23:55.000 --> 00:24:03.000]   to provide specific authorization for the processing of specific categories of data,
+[00:24:03.000 --> 00:24:13.000]   of personal data, by setting limitations, by setting the modalities
+[00:24:13.000 --> 00:24:19.000]   through which the processing must be carried out, and so on and so forth.
+[00:24:19.000 --> 00:24:36.000]   But also, deregulation gives the authorities the power to adopt technical implementation
+[00:24:36.000 --> 00:24:45.000]   for translating principles into technological requirements.
+[00:24:45.000 --> 00:24:53.000]   And regarding...well, for instance, anonymization, you remember,
+[00:24:53.000 --> 00:25:00.000]   anonymization is a way of getting outside the boundaries of the regulation.
+[00:25:00.000 --> 00:25:08.000]   The regulation does not deal with anonymized data.
+[00:25:08.000 --> 00:25:14.000]   That kind of data is not personal any longer.
+[00:25:14.000 --> 00:25:20.000]   And so it is outside the scope of the directive.
+[00:25:20.000 --> 00:25:30.000]   The problem is what do we mean by anonymization?
+[00:25:30.000 --> 00:25:50.000]   And I assure you that from a technical perspective,
+[00:25:50.000 --> 00:26:06.000]   the algorithms for anonymizing data are far from being safe.
+[00:26:06.000 --> 00:26:13.000]   Unfortunately, the working group, the working party,
+[00:26:13.000 --> 00:26:24.000]   adopted a sort of guideline, but the guideline was adopted in 2014,
+[00:26:24.000 --> 00:26:27.000]   almost 10 years ago.
+[00:26:27.000 --> 00:26:36.000]   And that technical documentation is actually outdated.
+[00:26:36.000 --> 00:26:42.000]   It should be updated.
+[00:26:42.000 --> 00:26:49.000]   But seldom anonymization is an even harder topic,
+[00:26:49.000 --> 00:26:57.000]   because as you remember, while anonymization brings personal data
+[00:26:57.000 --> 00:27:03.000]   outside the boundaries of the regulation, seldom anonymization instead
+[00:27:03.000 --> 00:27:09.000]   is still within the regulations boundaries.
+[00:27:09.000 --> 00:27:18.000]   Because seldom anonymization is a two-way process.
+[00:27:18.000 --> 00:27:27.000]   That is to say, I still have information which will permit me to bring back
+[00:27:27.000 --> 00:27:38.000]   those seldom anonymized data into the personal data configuring.
+[00:27:38.000 --> 00:27:51.000]   And so we should really need to have updated technical documentation
+[00:27:51.000 --> 00:28:04.000]   as to how seldom anonymized data in a way which is consistent with the directive.
+[00:28:04.000 --> 00:28:13.000]   Otherwise, the risk is that if we leave judges the power to the side,
+[00:28:13.000 --> 00:28:20.000]   well, they do not have the knowledge.
+[00:28:20.000 --> 00:28:42.000]   They may delegate the decision to a technical entity, an expert or whatever.
+[00:28:42.000 --> 00:28:49.000]   But the risk is that by doing so, we may have different interpretation
+[00:28:49.000 --> 00:28:55.000]   of technological requirements for a processing to be lawful
+[00:28:55.000 --> 00:29:04.000]   in different jurisdictions, which rises the level of uncertainty
+[00:29:04.000 --> 00:29:33.000]   and makes creating technological processes more difficult.
+[00:29:33.000 --> 00:29:42.000]   And this is also the problem that everyone is facing
+[00:29:42.000 --> 00:29:54.000]   when implementing those principles into different organizational settings.
+[00:29:54.000 --> 00:29:58.000]   I told you about university.
+[00:29:58.000 --> 00:30:05.000]   We are processing for research purposes a huge amount of data.
+[00:30:05.000 --> 00:30:12.000]   I belong to the Department of Psychology and Cognitive Sciences.
+[00:30:12.000 --> 00:30:17.000]   And we do experiments with human beings.
+[00:30:17.000 --> 00:30:23.000]   We collect very sensitive information about that.
+[00:30:23.000 --> 00:30:35.000]   Probably there are research groups doing similar research projects
+[00:30:35.000 --> 00:30:41.000]   in your department, too, when testing, for instance, an application
+[00:30:41.000 --> 00:30:47.000]   in a real environment.
+[00:30:47.000 --> 00:31:03.000]   But still, in our university, we do not have yet a clear set of procedures
+[00:31:03.000 --> 00:31:11.000]   for dealing with those personal data processing.
+[00:31:11.000 --> 00:31:13.000]   We are working on them.
+[00:31:13.000 --> 00:31:20.000]   Since we lack, we do have general principles,
+[00:31:20.000 --> 00:31:28.000]   but we lack specific guidelines regarding implementation of those principles.
+[00:31:28.000 --> 00:31:34.000]   And you see, as I said, we're talking about the implementation
+[00:31:34.000 --> 00:31:42.000]   of the regulation by the RPSS, the health service provider
+[00:31:42.000 --> 00:31:49.000]   of our province.
+[00:31:49.000 --> 00:31:57.000]   The measures that must be taken in order to design a data processing
+[00:31:57.000 --> 00:32:07.000]   which is lawful must be technical, but must be organizational, too.
+[00:32:07.000 --> 00:32:18.000]   And what does that mean specifically?
+[00:32:18.000 --> 00:32:31.000]   Do we have to implement some sort of access control
+[00:32:31.000 --> 00:32:41.000]   by technical means or also by organizational means?
+[00:32:41.000 --> 00:32:51.000]   So what I'm trying to say is that we are still in the process
+[00:32:51.000 --> 00:33:06.000]   of understanding the real implications of Article 25.
+[00:33:06.000 --> 00:33:12.000]   The second paragraph of Article 25 is easier to understand.
+[00:33:12.000 --> 00:33:26.000]   It is what I probably correctly, but maybe not, call the Facebook rule.
+[00:33:26.000 --> 00:33:30.000]   The controllers shall implement appropriate technical
+[00:33:30.000 --> 00:33:34.000]   and organizational measures for ensuring that, by default,
+[00:33:34.000 --> 00:33:38.000]   only personal data which are necessary for each specific purpose
+[00:33:38.000 --> 00:33:42.000]   of the processing are processed.
+[00:33:42.000 --> 00:33:46.000]   That obligation applies to the amount of personal data collected,
+[00:33:46.000 --> 00:33:51.000]   to the extent of their processing, the period of their storage
+[00:33:51.000 --> 00:33:53.000]   and their proximity.
+[00:33:53.000 --> 00:33:57.000]   In particular, such measures shall ensure that, by default,
+[00:33:57.000 --> 00:34:03.000]   personal data are not made accessible without the individual's intervention
+[00:34:03.000 --> 00:34:09.000]   to an indefinite number of natural persons.
+[00:34:09.000 --> 00:34:14.000]   Remember, that was the Facebook default as far as I know.
+[00:34:14.000 --> 00:34:19.000]   When you created a new account in Facebook, by default,
+[00:34:19.000 --> 00:34:25.000]   your account was publicly available and readable by anyone.
+[00:34:25.000 --> 00:34:32.000]   That had to be changed in order to comply with the last sentence
+[00:34:32.000 --> 00:34:39.000]   of Article 25 paragraph 2.
+[00:34:39.000 --> 00:34:44.000]   By default, personal data are not made accessible
+[00:34:44.000 --> 00:34:46.000]   without the individual's intervention.
+[00:34:46.000 --> 00:34:50.000]   So you need to change the default behavior of an application
+[00:34:50.000 --> 00:34:54.000]   in order to make that application share your information
+[00:34:54.000 --> 00:35:10.000]   for the publicly-unbounded environment.
+[00:35:10.000 --> 00:35:22.000]   As you may understand, this is going to affect the
+[00:35:22.000 --> 00:35:28.000]   so-called social media.
+[00:35:28.000 --> 00:35:33.000]   What I would like to stress once again is that this is a specific
+[00:35:33.000 --> 00:35:44.000]   and direct regulation of the technology,
+[00:35:44.000 --> 00:35:56.000]   which is a novelty which must be taken into account
+[00:35:56.000 --> 00:36:04.000]   in the future because, as far as I know,
+[00:36:04.000 --> 00:36:09.000]   the privacy regulation is the first specific
+[00:36:09.000 --> 00:36:15.000]   direct regulation of the technology.
+[00:36:15.000 --> 00:36:23.000]   But as you know, other regulations are coming to life.
+[00:36:23.000 --> 00:36:26.000]   I'm thinking about the possible regulation
+[00:36:26.000 --> 00:36:34.000]   of artificial intelligence that will be another beat
+[00:36:34.000 --> 00:36:52.000]   of regulation of the technology.
+[00:36:52.000 --> 00:36:59.000]   As you may understand, regulating a technology is not that easy
+[00:36:59.000 --> 00:37:09.000]   and may lead to unintended results
+[00:37:09.000 --> 00:37:17.000]   because we are not completely aware of the path
+[00:37:17.000 --> 00:37:24.000]   that technological developments are taking.
+[00:37:24.000 --> 00:37:37.000]   But what that means, I believe, for people like you is that
+[00:37:37.000 --> 00:37:42.000]   in the future you will have to deal with the legal regulations
+[00:37:42.000 --> 00:37:53.000]   affecting the way you write software.
+[00:37:53.000 --> 00:38:04.000]   And that doesn't come unexpected.
+[00:38:04.000 --> 00:38:09.000]   Already here in the '90s, within the legal community,
+[00:38:09.000 --> 00:38:17.000]   we were discussing about the fact that digital technologies
+[00:38:17.000 --> 00:38:28.000]   were going to have a huge impact on the legal system.
+[00:38:28.000 --> 00:38:33.000]   Not just you have been talking about, for instance,
+[00:38:33.000 --> 00:38:37.000]   you remember file sharing.
+[00:38:37.000 --> 00:38:40.000]   File sharing is an activity I was carrying out
+[00:38:40.000 --> 00:38:48.000]   when I was a very young teenager with my friend
+[00:38:48.000 --> 00:38:52.000]   with Alpiszto Technologies.
+[00:38:52.000 --> 00:39:06.000]   We were young people loving music with little money.
+[00:39:06.000 --> 00:39:13.000]   We were buying or home playing Alpiszto together
+[00:39:13.000 --> 00:39:17.000]   and then we were making copies.
+[00:39:17.000 --> 00:39:22.000]   Those copies were illegal, technically,
+[00:39:22.000 --> 00:39:27.000]   but no one was trying to prosecute us
+[00:39:27.000 --> 00:39:29.000]   because it was not perceived as being legal,
+[00:39:29.000 --> 00:39:39.000]   it was perceived as being perfectly acceptable
+[00:39:39.000 --> 00:39:41.000]   sharing behavior.
+[00:39:41.000 --> 00:39:43.000]   We were sharing culture among us
+[00:39:43.000 --> 00:39:52.000]   because we didn't have the money to assess otherwise that culture.
+[00:39:52.000 --> 00:39:57.000]   As you may understand, digital technologies are going to change
+[00:39:57.000 --> 00:40:01.000]   the impact of that behavior.
+[00:40:01.000 --> 00:40:07.000]   Because we were a group of five, six, seven people,
+[00:40:07.000 --> 00:40:15.000]   a very limited amount of people, sharing music, for instance.
+[00:40:15.000 --> 00:40:19.000]   But if I start sharing my music with thousands,
+[00:40:19.000 --> 00:40:23.000]   hundreds of thousands or millions of people,
+[00:40:23.000 --> 00:40:29.000]   the impact of my behavior is different.
+[00:40:29.000 --> 00:40:41.000]   And so, technology is going to have an impact
+[00:40:41.000 --> 00:40:54.000]   on the behavior and on the results or the consequences of that behavior.
+[00:40:54.000 --> 00:41:00.000]   On the other side, the legal community, starting in the mid-90s,
+[00:41:00.000 --> 00:41:06.000]   started to understand that the digital environment
+[00:41:06.000 --> 00:41:16.000]   could be shaped in such a way so that legal rules could be translated
+[00:41:16.000 --> 00:41:20.000]   into boundaries of the technology,
+[00:41:20.000 --> 00:41:41.000]   into the architecture of the digital environment.
+[00:41:41.000 --> 00:41:58.000]   I remember one example related to online communities.
+[00:41:58.000 --> 00:42:05.000]   There were service providers which were not allowing more than
+[00:42:05.000 --> 00:42:12.000]   the amount of people to gather in chat rooms, for instance,
+[00:42:12.000 --> 00:42:18.000]   because they didn't want them to share their experience
+[00:42:18.000 --> 00:42:27.000]   about the service provision in order not to raise complaints and stuff like that.
+[00:42:27.000 --> 00:42:41.000]   That is to say, the digital environment can be shaped in such a way as to
+[00:42:41.000 --> 00:42:55.000]   make some illegal behavior not possible any longer.
+[00:42:55.000 --> 00:43:04.000]   But that translation, Lawrence Lessig was the one using the word translation
+[00:43:04.000 --> 00:43:24.000]   to describe the way a legal principle may be translated into the digital environment.
+[00:43:24.000 --> 00:43:43.000]   Lawrence Lessig was very critical about that approach
+[00:43:43.000 --> 00:43:52.000]   because he said that something in the translation is lost.
+[00:43:52.000 --> 00:44:03.000]   The legal rules are always evolving because they are read by judges
+[00:44:03.000 --> 00:44:07.000]   and applied by judges in different contexts,
+[00:44:07.000 --> 00:44:15.000]   mainly to a different interpretation of the same rule.
+[00:44:15.000 --> 00:44:34.000]   That flexibility gives the law the possibility to evolve in an evolving environment.
+[00:44:34.000 --> 00:44:39.000]   Whereas when we translate that rule, that principle,
+[00:44:39.000 --> 00:44:45.000]   we can't do it to a technology while the technology is not evolving anymore.
+[00:44:45.000 --> 00:44:59.000]   So as long as the principle is very general and very broad,
+[00:44:59.000 --> 00:45:09.000]   like privacy by design, I don't see very much troubles.
+[00:45:09.000 --> 00:45:20.000]   But as soon as the legislators are becoming to regulate a given technology,
+[00:45:20.000 --> 00:45:28.000]   there may be the danger of over-regulating.
+[00:45:28.000 --> 00:45:32.000]   In any way you need to take into account that you will have to deal with
+[00:45:32.000 --> 00:45:38.000]   specific regulations of the technologies you are going to deal with,
+[00:45:38.000 --> 00:45:47.000]   to be involved with, and so you will have to keep an eye on the regulation.
+[00:45:47.000 --> 00:45:51.000]   For example, the Senate.
+[00:45:51.000 --> 00:45:55.000]   As you see, in order to make everything easier,
+[00:45:55.000 --> 00:46:01.000]   there is a certification mechanism.
+[00:46:01.000 --> 00:46:07.000]   That is to say, it is possible to implement a certification body
+[00:46:07.000 --> 00:46:14.000]   which will certify that your system is compatible with Article 25,
+[00:46:14.000 --> 00:46:19.000]   in order to reduce costs.
+[00:46:19.000 --> 00:46:30.000]   Okay.
+[00:46:30.000 --> 00:46:35.000]   Other important articles,
+[00:46:35.000 --> 00:46:43.000]   and then I will turn my attention to another aspect,
+[00:46:43.000 --> 00:46:56.000]   are Article 32 of the regulation.
+[00:46:56.000 --> 00:46:58.000]   Taking into account the state of the art,
+[00:46:58.000 --> 00:47:03.000]   the cost of implementation, the nature, scope, context, and purposes
+[00:47:03.000 --> 00:47:06.000]   of processing, as well as the risk of buying.
+[00:47:06.000 --> 00:47:12.000]   Like you said, the very beginning is equal, identical to Article 25.
+[00:47:12.000 --> 00:47:16.000]   The controller, the processor shall implement appropriate
+[00:47:16.000 --> 00:47:21.000]   technical and organizational measures to ensure a level of security
+[00:47:21.000 --> 00:47:25.000]   appropriate to the risk, including the failure,
+[00:47:25.000 --> 00:47:34.000]   as appropriate, seldom minimization and encryption of personal data.
+[00:47:34.000 --> 00:47:40.000]   The ability to ensure the ongoing confidence shall be integrity,
+[00:47:40.000 --> 00:47:45.000]   availability, and resilience of processing systems and services,
+[00:47:45.000 --> 00:47:52.000]   the ability to restore, and so on and so forth.
+[00:47:52.000 --> 00:47:57.000]   Regularly testing and testing, evaluating the effectiveness
+[00:47:57.000 --> 00:48:00.000]   of technical and organizational measures
+[00:48:00.000 --> 00:48:05.000]   for ensuring the security of the recession.
+[00:48:05.000 --> 00:48:23.000]   So, security is not perceived as a static process.
+[00:48:23.000 --> 00:48:40.000]   Security must be continuously checked, also against technological development.
+[00:48:40.000 --> 00:48:44.000]   As you may understand, this is costly.
+[00:48:44.000 --> 00:48:49.000]   And it is fair to say that the European regulation,
+[00:48:49.000 --> 00:48:53.000]   European directing first and European regulation,
+[00:48:53.000 --> 00:49:06.000]   made the processing of personal data more costly.
+[00:49:06.000 --> 00:49:14.000]   On the other side, that is necessary in order to have a,
+[00:49:14.000 --> 00:49:20.000]   first of all, a plain level field in Europe,
+[00:49:20.000 --> 00:49:27.000]   so that every firm dealing with personal data
+[00:49:27.000 --> 00:49:35.000]   will have the same amount of duties and obligations.
+[00:49:35.000 --> 00:49:39.000]   And on the other side, to create a safe environment
+[00:49:39.000 --> 00:49:49.000]   for the collection, the processing of personal data,
+[00:49:49.000 --> 00:50:00.000]   which are believed to be a valuable economic asset.
+[00:50:00.000 --> 00:50:03.000]   What are the consequences?
+[00:50:03.000 --> 00:50:13.000]   What if I do not take adequate technical and organizational measures?
+[00:50:13.000 --> 00:50:18.000]   Well, liability.
+[00:50:18.000 --> 00:50:38.000]   The primary sanction is civil liability.
+[00:50:38.000 --> 00:50:44.000]   The data subject shall have the right to compensation
+[00:50:44.000 --> 00:50:52.000]   whenever there is a data breach,
+[00:50:52.000 --> 00:50:59.000]   which leads to the problem of the effectiveness of such a sanction.
+[00:50:59.000 --> 00:51:13.000]   Because in order to claim the damage, you need to be aware of it.
+[00:51:13.000 --> 00:51:23.000]   And most of the time, data breaches are kept secret.
+[00:51:23.000 --> 00:51:30.000]   So that's obviously the problem.
+[00:51:30.000 --> 00:51:38.000]   Even though, as you see,
+[00:51:38.000 --> 00:51:43.000]   Article 33 says that in the case of a personal data breach,
+[00:51:43.000 --> 00:51:48.000]   the controller shall without a new delay and were feasible
+[00:51:48.000 --> 00:51:53.000]   not later than 72 hours after, I then became aware of it,
+[00:51:53.000 --> 00:51:58.000]   notify the personal data breach to the supervisory authority
+[00:51:58.000 --> 00:52:04.000]   competency in accordance with Article 55.
+[00:52:04.000 --> 00:52:08.000]   Unless the personal data breaches are likely to result in a risk
+[00:52:08.000 --> 00:52:13.000]   to the rights and freedom of national persons.
+[00:52:13.000 --> 00:52:27.000]   So there is a specific duty to make data breaches known
+[00:52:27.000 --> 00:52:35.000]   to the supervisory authority.
+[00:52:35.000 --> 00:52:42.000]   Article 34 also says that when the personal data breach
+[00:52:42.000 --> 00:52:46.000]   is likely to result in a high risk to the rights and freedom
+[00:52:46.000 --> 00:52:49.000]   of national persons, the controller shall communicate
+[00:52:49.000 --> 00:52:54.000]   the personal data breach to the data subject without a new delay.
+[00:52:54.000 --> 00:52:58.000]   As you see, we have two regimes here.
+[00:52:58.000 --> 00:53:03.000]   We have a very specific and tight set of rules
+[00:53:03.000 --> 00:53:08.000]   for notification to the supervisory authority.
+[00:53:08.000 --> 00:53:15.000]   And on the other side, we have a more...
+[00:53:15.000 --> 00:53:22.000]   How can I describe it?
+[00:53:22.000 --> 00:53:37.000]   A less tight rule for the communication to the data subject.
+[00:53:37.000 --> 00:53:42.000]   Clear and plain language.
+[00:53:42.000 --> 00:53:46.000]   That's important.
+[00:53:46.000 --> 00:53:53.000]   We will probably see some references to the clear plain language
+[00:53:53.000 --> 00:53:56.000]   in different rules too.
+[00:53:56.000 --> 00:54:02.000]   Then we have Article 44 and followings.
+[00:54:02.000 --> 00:54:28.000]   The international flow personally.
+[00:54:28.000 --> 00:54:36.000]   Chapter 5 of the regulation sets a set of principles
+[00:54:36.000 --> 00:54:42.000]   in order to make the transfer to third countries possible
+[00:54:42.000 --> 00:54:50.000]   but only under some requirements and condition.
+[00:54:50.000 --> 00:55:00.000]   The basic principle is given by Article 45,
+[00:55:00.000 --> 00:55:03.000]   a transfer of personal data to a third country
+[00:55:03.000 --> 00:55:06.000]   or an international organization may take place
+[00:55:06.000 --> 00:55:11.000]   where the commission has decided that the third country,
+[00:55:11.000 --> 00:55:18.000]   an territory or one or more specific sectors
+[00:55:18.000 --> 00:55:22.000]   within that third country or the international organization
+[00:55:22.000 --> 00:55:30.000]   in question ensures an adequate level of protection.
+[00:55:30.000 --> 00:55:34.000]   And that case as a transfer does not require
+[00:55:34.000 --> 00:55:38.000]   any specific authorization.
+[00:55:38.000 --> 00:55:42.000]   As far as I know, we didn't have many decisions
+[00:55:42.000 --> 00:55:46.000]   about the commission,
+[00:55:46.000 --> 00:55:53.000]   but one important decision was made about the United Kingdom.
+[00:55:53.000 --> 00:56:00.000]   After Brexit, the United Kingdom left the European Union
+[00:56:00.000 --> 00:56:10.000]   starting from 2021.
+[00:56:10.000 --> 00:56:18.000]   The problem was that by leaving the European Union,
+[00:56:18.000 --> 00:56:24.000]   the United Kingdom was also leaving the internal market.
+[00:56:24.000 --> 00:56:28.000]   And you remember, the regulation is about an internal market
+[00:56:28.000 --> 00:56:34.000]   for personal data.
+[00:56:34.000 --> 00:56:40.000]   So by becoming a third country, the United Kingdom
+[00:56:40.000 --> 00:56:48.000]   did have to provide assurances about the ongoing level
+[00:56:48.000 --> 00:56:52.000]   of protection of privacy.
+[00:56:52.000 --> 00:56:56.000]   And given the fact that the United Kingdom still had
+[00:56:56.000 --> 00:57:01.000]   and has legislation on privacy which is compatible
+[00:57:01.000 --> 00:57:05.000]   with the legislation of the European Union,
+[00:57:05.000 --> 00:57:12.000]   that led to the approval of an anti-racism decision
+[00:57:12.000 --> 00:57:16.000]   by the commission.
+[00:57:16.000 --> 00:57:19.000]   That leads me to...
+[00:57:19.000 --> 00:57:46.000]   [no audio]
+[00:57:46.000 --> 00:57:50.000]   to one aspect of the regulation,
+[00:57:50.000 --> 00:57:52.000]   the so-called "Brassen Effect."
+[00:57:52.000 --> 00:58:16.000]   [no audio]
+[00:58:16.000 --> 00:58:20.000]   Article 3, territorial scope.
+[00:58:20.000 --> 00:58:23.000]   This regulation applies to the processing of personal data
+[00:58:23.000 --> 00:58:26.000]   in the context of the activities of an establishment
+[00:58:26.000 --> 00:58:31.000]   of a controller or a processor in the union,
+[00:58:31.000 --> 00:58:34.000]   regardless of whether the processing
+[00:58:34.000 --> 00:58:39.000]   takes place in the union or not.
+[00:58:39.000 --> 00:58:43.000]   This regulation applies to the processing of personal data,
+[00:58:43.000 --> 00:58:47.000]   of data subject who are in the union,
+[00:58:47.000 --> 00:58:51.000]   by a controller or processor not established in the union,
+[00:58:51.000 --> 00:58:55.000]   where the processing activities are related to
+[00:58:55.000 --> 00:59:03.000]   one offering of goods or services irrespective
+[00:59:03.000 --> 00:59:09.000]   of whether the payment of the data subject is required.
+[00:59:09.000 --> 00:59:14.000]   Or monitoring the behavior as far as the behavior takes place
+[00:59:14.000 --> 00:59:17.000]   in the union.
+[00:59:17.000 --> 00:59:24.000]   So, if there is an establishment of the controller
+[00:59:24.000 --> 00:59:30.000]   within the union, that falls within the meaning
+[00:59:30.000 --> 00:59:35.000]   of the regulation.
+[00:59:35.000 --> 00:59:40.000]   But even if there is no establishment
+[00:59:40.000 --> 00:59:44.000]   of the processor in the union,
+[00:59:44.000 --> 00:59:48.000]   that is to say the processor, the controller,
+[00:59:48.000 --> 00:59:54.000]   is outside the European Union, like in the United States,
+[00:59:54.000 --> 01:00:00.000]   but that outside entity is offering services
+[01:00:00.000 --> 01:00:06.000]   or goods even for free to a European citizen,
+[01:00:06.000 --> 01:00:12.000]   then there is a processing of personal data
+[01:00:12.000 --> 01:00:20.000]   under the European regulation.
+[01:00:20.000 --> 01:00:25.000]   And the same for monitoring the behavior of a person
+[01:00:25.000 --> 01:00:31.000]   who is located in the European Union.
+[01:00:31.000 --> 01:00:41.000]   That is to say, as you see, the European regulation
+[01:00:41.000 --> 01:00:47.000]   is applied not just with the borders of the European Union,
+[01:00:47.000 --> 01:00:50.000]   but also outside.
+[01:00:50.000 --> 01:00:58.000]   In other words, it has a global effect.
+[01:00:58.000 --> 01:01:06.000]   You know, lawyers are used to the concept
+[01:01:06.000 --> 01:01:16.000]   that the law is a national phenomenon.
+[01:01:16.000 --> 01:01:19.000]   It is not possible to apply Italian law in Switzerland
+[01:01:19.000 --> 01:01:25.000]   or Germany.
+[01:01:25.000 --> 01:01:34.000]   But instead, the privacy regulation of the EU
+[01:01:34.000 --> 01:01:44.000]   applies also to entities outside the borders of the union.
+[01:01:44.000 --> 01:01:49.000]   This is the Brussels effect.
+[01:01:49.000 --> 01:01:59.000]   The fact that the GDPR has the status of the global regulation
+[01:01:59.000 --> 01:02:06.000]   that applies to everyone dealing with personal data,
+[01:02:06.000 --> 01:02:14.000]   of data subjects who are European citizens.
+[01:02:14.000 --> 01:02:22.000]   And this is the reason why the GDPR has become
+[01:02:22.000 --> 01:02:28.000]   a global model of privacy regulation.
+[01:02:28.000 --> 01:02:35.000]   Many different countries have adopted a regulation
+[01:02:35.000 --> 01:02:42.000]   which is comparable to the GDPR.
+[01:02:42.000 --> 01:02:46.000]   And the result is twofold.
+[01:02:46.000 --> 01:02:59.000]   First, to have the possibility to require,
+[01:02:59.000 --> 01:03:07.000]   to ask for an advocacy decision by the Commission.
+[01:03:07.000 --> 01:03:13.000]   And so, if a state outside the union
+[01:03:13.000 --> 01:03:16.000]   has a regulation on privacy
+[01:03:16.000 --> 01:03:24.000]   which is similar to the regulation of the European Union,
+[01:03:24.000 --> 01:03:32.000]   the interchange of personal information
+[01:03:32.000 --> 01:03:38.000]   is possible without authorization.
+[01:03:38.000 --> 01:03:52.000]   So, by adopting such a type of regulation,
+[01:03:52.000 --> 01:04:06.000]   a third country may have access to the European Union
+[01:04:06.000 --> 01:04:14.000]   in terms of personal data flows.
+[01:04:14.000 --> 01:04:20.000]   The other aspect is the fact that the European Union
+[01:04:20.000 --> 01:04:26.000]   is capable of regulating something globally
+[01:04:26.000 --> 01:04:33.000]   because of economic power.
+[01:04:33.000 --> 01:04:36.000]   European Union is the biggest market in the world.
+[01:04:36.000 --> 01:04:41.000]   And so, if you want to do business in the biggest market in the world,
+[01:04:41.000 --> 01:04:49.000]   you need to comply with the regulation of that market.
+[01:04:49.000 --> 01:04:58.000]   And this is the reason why the privacy regulation
+[01:04:58.000 --> 01:05:13.000]   of the European Union has a global status.
+[01:05:13.000 --> 01:05:20.000]   This is also the reason why the European Union is rushing to adopt
+[01:05:20.000 --> 01:05:25.000]   a regulation on artificial intelligence
+[01:05:25.000 --> 01:05:29.000]   probably in the form of a directive
+[01:05:29.000 --> 01:05:36.000]   because the European Union wants to lead
+[01:05:36.000 --> 01:05:53.000]   on the regulation of that technology too.
+[01:05:53.000 --> 01:06:10.000]   Lastly, the scope.
+[01:06:10.000 --> 01:06:15.000]   As you see, Article 2, this regulation applies to the process
+[01:06:15.000 --> 01:06:19.000]   of personal data, all your path without by automated means
+[01:06:19.000 --> 01:06:27.000]   and to the processing other than by automated means of personal data
+[01:06:27.000 --> 01:06:30.000]   which form part of a filing system
+[01:06:30.000 --> 01:06:36.000]   or are intended to form a part of a filing system.
+[01:06:36.000 --> 01:06:47.000]   The regulation does not apply to the processing of personal data.
+[01:06:47.000 --> 01:06:59.000]   Well, see, by a national person in the course of a purely personal or outside activity.
+[01:06:59.000 --> 01:07:07.000]   So, even keeping phone numbers on your cell phone
+[01:07:07.000 --> 01:07:12.000]   as long as you're doing that for professional reasons
+[01:07:12.000 --> 01:07:20.000]   like taking care of your customers and stuff like that,
+[01:07:20.000 --> 01:07:28.000]   that falls within the scope of the regulation.
+[01:07:28.000 --> 01:07:39.000]   So, every processing.
+[01:07:39.000 --> 01:07:58.000]   There are other rules which may be interesting.
+[01:07:58.000 --> 01:08:01.000]   Article 7, for instance.
+[01:08:01.000 --> 01:08:06.000]   We have seen that the foundation of the processing,
+[01:08:06.000 --> 01:08:13.000]   when the processing is not required by the law, is the consent.
+[01:08:13.000 --> 01:08:21.000]   And Article 7 regulates the consent.
+[01:08:21.000 --> 01:08:23.000]   Where processing is based on consent,
+[01:08:23.000 --> 01:08:26.000]   the controller should be able to demonstrate that the data subject
+[01:08:26.000 --> 01:08:33.000]   that has consented to the processing of his or her personal data.
+[01:08:33.000 --> 01:08:44.000]   Well, this probably seems a very interesting rule,
+[01:08:44.000 --> 01:08:50.000]   but that's very important instead.
+[01:08:50.000 --> 01:08:58.000]   It is the processor that must give evidence of the consent.
+[01:08:58.000 --> 01:09:13.000]   And not the data subject that has to prove that he or she didn't express any consent.
+[01:09:13.000 --> 01:09:19.000]   If the data subject's consent is given in the context of a written declaration,
+[01:09:19.000 --> 01:09:24.000]   which also concerns other matters,
+[01:09:24.000 --> 01:09:38.000]   think about turn of services or websites, social network or stuff like that.
+[01:09:38.000 --> 01:09:42.000]   The request for consent shall be presented in a manner
+[01:09:42.000 --> 01:09:47.000]   which is clearly distinguishable from the other matters
+[01:09:47.000 --> 01:09:55.000]   in an intelligible and easily accessible form using clear and plain language.
+[01:09:55.000 --> 01:10:03.000]   You see, clear and plain language.
+[01:10:03.000 --> 01:10:07.000]   Any part of such a declaration which constitutes an infringement
+[01:10:07.000 --> 01:10:14.000]   of this revelation shall not be binding.
+[01:10:14.000 --> 01:10:29.000]   I don't know if Article 7 paragraph 2 is effectively implemented online.
+[01:10:29.000 --> 01:10:38.000]   Sometimes I have the feeling it is not.
+[01:10:38.000 --> 01:10:53.000]   But privacy policies should be written in a very easily intelligible way.
+[01:10:53.000 --> 01:11:02.000]   That's a clear requirement of the regulation.
+[01:11:02.000 --> 01:11:29.000]   After that, it is not a problem if people will just keep on accepting every possible privacy policy.
+[01:11:29.000 --> 01:11:38.000]   I don't know a final consideration, maybe.
+[01:11:38.000 --> 01:11:51.000]   How much effective is DG DPR in protecting the privacy of people?
+[01:11:51.000 --> 01:12:04.000]   As you see, the regulation is very full of principles,
+[01:12:04.000 --> 01:12:13.000]   procedural requirements, and so on and so forth.
+[01:12:13.000 --> 01:12:22.000]   That should make the processing of personal data safer generally in Europe
+[01:12:22.000 --> 01:12:39.000]   or by the processing by any entity dealing with personal data of European citizens.
+[01:12:39.000 --> 01:12:49.000]   On the other side, as I said, if people are willing to share their personal data
+[01:12:49.000 --> 01:12:56.000]   because they do not understand their value, well, that's outside the scope of a regulation
+[01:12:56.000 --> 01:13:06.000]   and the scope of a legal order.
+[01:13:06.000 --> 01:13:16.000]   The legal order must take any step in order to make a digital environment safer
+[01:13:16.000 --> 01:13:25.000]   than people are protecting their own interests.
+[01:13:25.000 --> 01:13:31.000]   Do you have any question?
+[01:13:31.000 --> 01:13:37.000]   Well, I think this is it, as I said.
+[01:13:37.000 --> 01:13:48.000]   We cannot read the entire regulation together, but I would like you to read.
+[01:13:48.000 --> 01:14:00.000]   As I said, it's going to impact your future career anyway as long as you remain in Europe
+[01:14:00.000 --> 01:14:14.000]   or you will deal with personal data of European people.
+[01:14:14.000 --> 01:14:16.600]   Okay, so thank you very much for your kind attention.
+[01:14:16.600 --> 01:14:18.840]   I'm closing my lecture now.

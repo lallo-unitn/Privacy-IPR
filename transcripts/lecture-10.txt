@@ -1,0 +1,499 @@
+[00:00:00.000 --> 00:00:08.680]   This is the reason why the European Union, at that time the European Community, the economic
+[00:00:08.680 --> 00:00:19.760]   community, or what better, the European community decided to adopt a new legislation.
+[00:00:19.760 --> 00:00:27.040]   A new legislation which was going to have a huge impact on the global perception of
+[00:00:27.040 --> 00:00:36.040]   privacy and as we will see, we're talking about the effect of EU legislation.
+[00:00:36.040 --> 00:00:44.040]   We will be talking about the so-called Russell effect, but that European legislation is capable
+[00:00:44.040 --> 00:00:52.040]   of having a global impact over other jurisdictions.
+[00:00:52.040 --> 00:01:01.040]   We will see that the European regulation on privacy became an international model for
+[00:01:01.040 --> 00:01:02.040]   regulating privacy.
+[00:01:02.040 --> 00:01:10.040]   We have to keep in mind that specifically when the first legislation was adopted in
+[00:01:10.040 --> 00:01:20.040]   the mid-90s, the major objective of the European Union was, "Oh, well, I wouldn't be
+[00:01:20.040 --> 00:01:25.040]   cognizant of the European Union because this is the name of the union right now."
+[00:01:25.040 --> 00:01:34.040]   But at first there were European economic communities which later on became the European
+[00:01:34.040 --> 00:01:38.040]   community and now the European Union.
+[00:01:38.040 --> 00:01:53.040]   As you see, the name of the legislation reflects the different names of this peculiar international
+[00:01:53.040 --> 00:01:55.040]   organization.
+[00:01:55.040 --> 00:02:04.040]   In the mid-90s, the European Union decided to adopt an legislation regarding privacy,
+[00:02:04.040 --> 00:02:10.040]   but you need to keep in mind that at that time the internet was not so popular among
+[00:02:10.040 --> 00:02:12.040]   ordinary people.
+[00:02:12.040 --> 00:02:23.040]   It was very popular within the academic communities, but between huge corporations, but it was
+[00:02:23.040 --> 00:02:28.040]   not a social phenomenon as it is right now.
+[00:02:28.040 --> 00:02:36.040]   It was starting to become something like that, but at that time, and that is reflected in
+[00:02:36.040 --> 00:02:48.040]   the legislation, you will see that there are not many references to the internet as such.
+[00:02:48.040 --> 00:03:00.040]   Instead, there are references to computer privacy and the definition of treatment of
+[00:03:00.040 --> 00:03:05.040]   personal data reflects that.
+[00:03:05.040 --> 00:03:16.040]   Moreover, in the early 90s, when the legislation was conceived, the major goal of the European
+[00:03:16.040 --> 00:03:25.040]   Union was to create a single market, a single internal market among the member states.
+[00:03:25.040 --> 00:03:38.040]   This is reflected in the approach adopted to privacy because actually the main aim of
+[00:03:38.040 --> 00:03:50.040]   the legislation was to fall on one side to create a framework for protecting individuals,
+[00:03:50.040 --> 00:03:57.040]   natural persons, from the processing of personal data.
+[00:03:57.040 --> 00:04:09.040]   On the other side, the objective was to create what is called a plain level field, that is
+[00:04:09.040 --> 00:04:20.040]   to say common rules for every member state so that no one state could legislate in such
+[00:04:20.040 --> 00:04:29.040]   a way to have a competitive advantage over other member states.
+[00:04:29.040 --> 00:04:38.040]   If you think about that, a single market means a single set of rules which are going to be
+[00:04:38.040 --> 00:04:46.040]   applied to every firm operating in that market.
+[00:04:46.040 --> 00:04:58.040]   The idea was to acknowledge the fact that personal data were becoming an important asset
+[00:04:58.040 --> 00:05:10.040]   for which a market was going to be developed and that market needed to have common rules
+[00:05:10.040 --> 00:05:13.040]   within the European Union.
+[00:05:13.040 --> 00:05:26.040]   Otherwise, what are called non-trade barriers could be created in order to avoid competition
+[00:05:26.040 --> 00:05:37.040]   or to protect national firms and enterprises.
+[00:05:37.040 --> 00:05:45.040]   A second aspect we needed to take into account is the general approach of the European Union
+[00:05:45.040 --> 00:05:50.040]   to creating new legislation.
+[00:05:50.040 --> 00:05:57.040]   As I said, a single market requires a single set of rules, but if we need to take into
+[00:05:57.040 --> 00:06:03.040]   account the fact that European member states belong to different legal traditions.
+[00:06:03.040 --> 00:06:12.040]   Well, we all belong to the so-called Western legal tradition, more or less, but there are
+[00:06:12.040 --> 00:06:22.040]   big differences between Italian and German law, for instance, or between German and French
+[00:06:22.040 --> 00:06:25.040]   law, between French and Spanish law.
+[00:06:25.040 --> 00:06:35.040]   The terminology is different, and terminology usually reflects different rules.
+[00:06:35.040 --> 00:06:42.040]   For instance, if you want to buy an apartment in Italy, you just sign a contract, and after
+[00:06:42.040 --> 00:06:48.040]   signing the contract you become the owner of the apartment or house or whatever.
+[00:06:48.040 --> 00:06:56.040]   In Germany, this is not true.
+[00:06:56.040 --> 00:07:02.040]   In order to, well, if you sign a contract, you take the obligation of transferring the
+[00:07:02.040 --> 00:07:11.040]   ownership, but the transfer of ownership comes at a later moment when you, well, using the
+[00:07:11.040 --> 00:07:23.040]   Latin word "tragizzio," when you actually transfer the ownership, which in modern legal
+[00:07:23.040 --> 00:07:32.040]   systems means transcribing the transfer in the public register.
+[00:07:32.040 --> 00:07:44.040]   So, well, contract rules are similar in Italy and in Germany, but there are differences
+[00:07:44.040 --> 00:07:47.040]   which must be taken into account.
+[00:07:47.040 --> 00:07:57.040]   So, how can you create a set of rules using 26, 21, and not to remember how many national
+[00:07:57.040 --> 00:08:04.040]   languages with different legal terminologies, with different legal traditions, with different
+[00:08:04.040 --> 00:08:05.040]   rules?
+[00:08:05.040 --> 00:08:11.040]   You know, the contract in Italy is basically the same as the contract in Germany, but as
+[00:08:11.040 --> 00:08:16.040]   we have seen right now, the effect of the contract in Italy may be different from the
+[00:08:16.040 --> 00:08:20.040]   effects of the contract in Germany.
+[00:08:20.040 --> 00:08:24.040]   So, there are two ways.
+[00:08:24.040 --> 00:08:30.040]   One is to harmonize sort of the legislation.
+[00:08:30.040 --> 00:08:40.040]   That is to say, to create a set of general principles which will try to be translated
+[00:08:40.040 --> 00:08:52.040]   into national rules, which are going to achieve some sort of convergence towards a common
+[00:08:52.040 --> 00:08:55.040]   rules.
+[00:08:55.040 --> 00:09:06.040]   Armonization is one approach, and that is taking place with the legal tool called the
+[00:09:06.040 --> 00:09:07.040]   directive.
+[00:09:07.040 --> 00:09:17.040]   The second approach instead is the unification of rules, unification of the legal systems
+[00:09:17.040 --> 00:09:27.040]   in a single set of common rules, which are immediately binding in every single state.
+[00:09:27.040 --> 00:09:33.040]   And this is achieved through a different legal tool, which is called deregulation.
+[00:09:33.040 --> 00:09:41.040]   You probably remember something like that when I was giving you an introduction to the
+[00:09:41.040 --> 00:09:50.040]   general concept of the legal system.
+[00:09:50.040 --> 00:10:05.040]   The directive is a set of principles which must be translated into national rules.
+[00:10:05.040 --> 00:10:15.040]   So the directive is binding for member states, but not for European citizens.
+[00:10:15.040 --> 00:10:20.040]   Well, this is not entirely true because the European Court of Justice said that even the
+[00:10:20.040 --> 00:10:28.040]   directive may have the so-called direct effect, so affecting the behavior of individuals within
+[00:10:28.040 --> 00:10:36.040]   the European community without the need of any translation into national rules.
+[00:10:36.040 --> 00:10:40.040]   But this is not a general idea.
+[00:10:40.040 --> 00:10:47.040]   The general idea of a directive is that the directive must be implemented with national
+[00:10:47.040 --> 00:10:50.040]   legislation.
+[00:10:50.040 --> 00:10:52.040]   Yes?
+[00:10:52.040 --> 00:10:57.040]   I am not familiar with the European legal framework.
+[00:10:57.040 --> 00:11:06.040]   What happens when a directive or a regulation like the JPR gets published by the European
+[00:11:06.040 --> 00:11:11.040]   organ that publishes these things and one state doesn't want to comply with it?
+[00:11:11.040 --> 00:11:18.040]   Well, when we are talking about the regulation, the regulation is immediately binding for
+[00:11:18.040 --> 00:11:19.040]   everyone.
+[00:11:19.040 --> 00:11:22.040]   That's not a problem.
+[00:11:22.040 --> 00:11:26.040]   That is to say, national judges are going to apply the regulation regardless of the
+[00:11:26.040 --> 00:11:29.040]   will of the state, so to speak.
+[00:11:29.040 --> 00:11:40.040]   So, in the letter that represents the legal ranking, the European government is above all?
+[00:11:40.040 --> 00:11:41.040]   Yes, basically.
+[00:11:41.040 --> 00:11:42.040]   Okay.
+[00:11:42.040 --> 00:11:52.040]   So, for example, probably I've heard about the controversy when the Polish Constitutional
+[00:11:52.040 --> 00:12:05.040]   Court said that a Polish law has a cake, that the European law cannot be superior to Polish
+[00:12:05.040 --> 00:12:06.040]   law.
+[00:12:06.040 --> 00:12:15.040]   Well, according to the treaties instead, there is the principle of supremacy of the European
+[00:12:15.040 --> 00:12:17.040]   Union law.
+[00:12:17.040 --> 00:12:25.040]   So, every judge in every member state will have to abide with the European rules.
+[00:12:25.040 --> 00:12:34.040]   And if national rule is not consistent with the European legal framework, then the national
+[00:12:34.040 --> 00:12:42.040]   judge may be rising the problem with the European Court of Justice, which is going to adopt
+[00:12:42.040 --> 00:12:48.040]   a binding decision that every judge will be applying in each member state.
+[00:12:48.040 --> 00:12:59.040]   So, in Italy we have a constitutional law, the article 117 of the Italian Constitution
+[00:12:59.040 --> 00:13:08.040]   that states specifically that national legislation cannot be adopted in contrast with European
+[00:13:08.040 --> 00:13:09.040]   legislation.
+[00:13:09.040 --> 00:13:16.040]   And there was a political debate about removing that provision.
+[00:13:16.040 --> 00:13:24.040]   But when we are talking about a regulation, a regulation must be applied by every judge
+[00:13:24.040 --> 00:13:26.040]   in every member state.
+[00:13:26.040 --> 00:13:34.040]   So, every European citizen in every member state will be able to ask a judge to apply
+[00:13:34.040 --> 00:13:40.040]   that regulation immediately, without intervention of the member state.
+[00:13:40.040 --> 00:13:47.040]   What happens instead when talking about directives, because directives are obligations to the
+[00:13:47.040 --> 00:13:52.040]   state, to adopt national legislation to implement the directive.
+[00:13:52.040 --> 00:14:00.040]   Well, that's where the European Commission comes into play.
+[00:14:00.040 --> 00:14:05.040]   The European Commission is the so-called watchdog of the European law.
+[00:14:05.040 --> 00:14:13.040]   So, if a member state doesn't comply with the directive, it doesn't implement the directed
+[00:14:13.040 --> 00:14:15.040]   international legislation.
+[00:14:15.040 --> 00:14:21.040]   The European Commission has the power to sue, that is to say, to bring the member state
+[00:14:21.040 --> 00:14:23.040]   before the European Court of Justice.
+[00:14:23.040 --> 00:14:30.040]   And the European Court of Justice will apply and find a huge amount of money, millions
+[00:14:30.040 --> 00:14:42.040]   of euros for a week or for a day or for a month of not implementation of the directive.
+[00:14:42.040 --> 00:14:55.040]   But as I said, since that's a relatively weak instrument the European Commission has
+[00:14:55.040 --> 00:15:05.040]   at its disposal, the European Court of Justice said that when the European directive is detailed
+[00:15:05.040 --> 00:15:17.040]   enough to be applied by judges, then there is no necessity of the member state implementation.
+[00:15:17.040 --> 00:15:20.040]   And the European directive may have direct effect.
+[00:15:20.040 --> 00:15:29.040]   It is to say, a judge may be applied the directive even or better, regardless of national implementation.
+[00:15:29.040 --> 00:15:35.040]   Anyway, this is the reason why the European Union cannot be regarded as an inter-national
+[00:15:35.040 --> 00:15:50.040]   organization, because European law has a superior strength in respect to national legislation.
+[00:15:50.040 --> 00:16:01.040]   But as I said, a directive is naturally weaker than a regulation.
+[00:16:01.040 --> 00:16:14.040]   And this is the reason why usually when regulating a new domain, a new topic, the European Union
+[00:16:14.040 --> 00:16:20.040]   will start with a directive or a set of directives.
+[00:16:20.040 --> 00:16:29.040]   That happened with privacy, but that happened with the telecommunication legislation too.
+[00:16:29.040 --> 00:16:36.040]   In the mid-90s, the European Union started to adopt a series of directives in order to
+[00:16:36.040 --> 00:16:44.040]   liberalize the internal market for a telephone service provision.
+[00:16:44.040 --> 00:16:53.040]   After 15-20 years, those directives were paid and substituted by regulations.
+[00:16:53.040 --> 00:17:04.040]   So the idea is to create a directive in order to harmonize rules at a national level
+[00:17:04.040 --> 00:17:13.040]   by applying common principles, but with national legislation, which means national terminology,
+[00:17:13.040 --> 00:17:19.040]   national wording of rules, and so on and so forth.
+[00:17:19.040 --> 00:17:26.040]   Obviously, the European Commission and the European Court of Justice will take care of
+[00:17:26.040 --> 00:17:34.040]   checking whether national implementation is combined or in contrast with a directive
+[00:17:34.040 --> 00:17:42.040]   with a principle set by the directive.
+[00:17:42.040 --> 00:17:50.040]   And after a period of harmonization, the directive will be substituted by your regulation.
+[00:17:50.040 --> 00:17:53.040]   And that happened with privacy too.
+[00:17:53.040 --> 00:18:04.040]   So in 1985, with the directive number A46, the European Union adopted a set of rules
+[00:18:04.040 --> 00:18:09.040]   for the protection of individuals with regard to the processing of personal data
+[00:18:09.040 --> 00:18:17.040]   and on the free movement of such data, the creation of a single internal market for personal data.
+[00:18:17.040 --> 00:18:31.040]   And instead, well, 21 years later, the directive was repealed and substituted
+[00:18:31.040 --> 00:18:45.040]   by a general data protection regulation, which was adopted in 2016, but it entered into force in May 2018.
+[00:18:45.040 --> 00:18:49.040]   And well, I want to show you.
+[00:18:49.040 --> 00:19:17.040]   [ Silence ]
+[00:19:17.040 --> 00:19:25.040]   [ Silence ]
+[00:19:25.040 --> 00:19:29.040]   This was the directive.
+[00:19:29.040 --> 00:19:41.040]   Well, it is a long document, but only about 34 articles, with some initial consideration
+[00:19:41.040 --> 00:19:57.040]   and the so-called whereas. That's the European regulation, which is longer, as you may see.
+[00:19:57.040 --> 00:20:16.040]   Okay, 88, 99 articles. If we look at it from PDF files, which is probably better, you can, you know,
+[00:20:16.040 --> 00:20:23.040]   88, well, I was confusing a number of articles with a number of pages of the PDF.
+[00:20:23.040 --> 00:20:39.040]   The regulation is 88 pages long. The directive is 20 pages long.
+[00:20:39.040 --> 00:20:45.040]   So you may understand that the regulation is much more detailed.
+[00:20:45.040 --> 00:20:54.040]   And we will have to have a look at those differences just a little bit.
+[00:20:54.040 --> 00:21:09.040]   A suggestion, well, a very strong suggestion. I would like you to read the regulation.
+[00:21:09.040 --> 00:21:18.040]   I will try to show you. The regulation will have a huge impact on your work, whatever you're going to do in your life.
+[00:21:18.040 --> 00:21:27.040]   But I think this could be a good occasion to have a look at it.
+[00:21:27.040 --> 00:21:39.040]   I mean, I'm not asking you to study it, but, you know, just have a reading being used for your understanding
+[00:21:39.040 --> 00:21:43.040]   of how much detail the European regulation is.
+[00:21:43.040 --> 00:21:59.040]   Now, it is detailed, but not actually enough. I was the tutor of a colleague of you,
+[00:21:59.040 --> 00:22:09.040]   the student of the Department of Information Technology, writing a paper on anonymization of data.
+[00:22:09.040 --> 00:22:15.040]   We will see that anonymous data are not personal data.
+[00:22:15.040 --> 00:22:24.040]   So they are not part, they are not subject to the European Union regulation.
+[00:22:24.040 --> 00:22:34.040]   And there are some data which are valuable, even if they are not personal, but they are anonymized.
+[00:22:34.040 --> 00:22:41.040]   Because you do not really care about making references to a specific individual,
+[00:22:41.040 --> 00:22:50.040]   but you need just a collection of data or think about the use of a website or whatever.
+[00:22:50.040 --> 00:23:00.040]   You don't really need to know who is going to watch your website already.
+[00:23:00.040 --> 00:23:08.040]   You just need to know how many people per hour, per day, per month, or something like that.
+[00:23:08.040 --> 00:23:18.040]   And so, if you want to be outside the boundaries of European regulation on privacy,
+[00:23:18.040 --> 00:23:27.040]   you may be willing to adopt a procedure for anonymizing your data.
+[00:23:27.040 --> 00:23:37.040]   Well, when we were discussing about the specific algorithms you may be using for anonymizing data,
+[00:23:37.040 --> 00:23:49.040]   but still preserving some value of those data, we understood that the European regulation was not so detailed.
+[00:23:49.040 --> 00:24:02.040]   The principles were not so clear, where personal data can be processed in order to become an anonymous data.
+[00:24:02.040 --> 00:24:05.040]   It's not so clear.
+[00:24:05.040 --> 00:24:16.040]   And so, the implementation of deregulation is going to take quite some time,
+[00:24:16.040 --> 00:24:20.040]   because there are many issues which must be clarified,
+[00:24:20.040 --> 00:24:27.040]   and the only clarification process is through the legal process.
+[00:24:27.040 --> 00:24:39.040]   Judges and court decisions at the national level, at the European level, with the European Court of Justice.
+[00:24:39.040 --> 00:24:50.040]   Then there are administrative authorities enacting, you know, detailed regulations to implement the European regulation, and stuff like that.
+[00:24:50.040 --> 00:25:00.040]   Even though it's a very long document, we would say that it is basically based on general principles.
+[00:25:00.040 --> 00:25:12.040]   And those principles are not always clearly translatable into specific legal rules.
+[00:25:12.040 --> 00:25:15.040]   Anyway, we will come to that.
+[00:25:15.040 --> 00:25:27.040]   So, adopted in 2016 and entered into force, well, five years ago,
+[00:25:27.040 --> 00:25:41.040]   I'm part of the department's delegates to privacy issues at our university,
+[00:25:41.040 --> 00:25:50.040]   and we are still in the process of implementing deregulation.
+[00:25:50.040 --> 00:25:53.040]   It's a very long process.
+[00:25:53.040 --> 00:26:02.040]   And I would like to stress the fact that even though there are rules which have been created in order to make,
+[00:26:02.040 --> 00:26:14.040]   to have an impact on digital technologies, we will see the principle of privacy by the side, for instance.
+[00:26:14.040 --> 00:26:26.040]   So, a very important aspect of the implementation of the GDPR relates to organizational measures.
+[00:26:26.040 --> 00:26:46.040]   A couple of years ago, we had a member of the IT staff of the Agenda Promenciale Periservitina Sanitari, which is the local authority for the provision of health services.
+[00:26:46.040 --> 00:26:59.040]   And we will see that health-related personal data are a very sensitive kind of data, which must be treated in a quite specific way.
+[00:26:59.040 --> 00:27:08.040]   And he came here in order to describe to our students the process of the implementation of the directive.
+[00:27:08.040 --> 00:27:20.040]   And he said that, well, setting up a digital environment in compliance with the directive was quite an easy task.
+[00:27:20.040 --> 00:27:29.040]   You know, you need to take care of encryption, password, and stuff like that, but it's not very difficult.
+[00:27:29.040 --> 00:27:42.040]   The problem was to identify organizational procedures in order to know who is assessing which data.
+[00:27:42.040 --> 00:27:48.040]   And that is very complicated, he said.
+[00:27:48.040 --> 00:28:07.040]   And so the organization of the services were more troublesome than the technological implementation of the directive.
+[00:28:07.040 --> 00:28:27.040]   Anyway, so five years after, well, as I said, it was adopted in 2016, but the European Union decided to give everyone two years to comply.
+[00:28:27.040 --> 00:28:39.040]   So to be able to read the regulation, to be able to understand it, to be able to fix issues in the interpretation of the regulation and stuff like that.
+[00:28:39.040 --> 00:28:46.040]   But still we are in the process of implementation.
+[00:28:46.040 --> 00:29:03.040]   And that in part is due to the fact that the regulation is, yes, the tail of the butt, it remains a set of principles that must be applied and the application is not always clear.
+[00:29:03.040 --> 00:29:27.040]   And the other side, because the implementation of the regulation is a murder zone, it requires quite careful assessment of technologies and organizational procedures and so on and so forth.
+[00:29:27.040 --> 00:29:43.040]   The way is you see the regulation as the same title of the directive, "Regulation of the Protection of Natural Persons with the Regard of the Processing of Personal Data and on the Free Movement of Such Data."
+[00:29:43.040 --> 00:30:05.040]   So it is clear that what is regulated is personal data of natural persons, not corporations, not firms, not just individuals, persons.
+[00:30:05.040 --> 00:30:22.040]   And we will see that the definition of personal data processing is so broad to include almost everything.
+[00:30:22.040 --> 00:30:37.040]   And so we will have to start with the definition. And I want you to appreciate the differences between deregulation and the directive.
+[00:30:37.040 --> 00:30:50.040]   Let's see if I have a couple of... Okay.
+[00:30:50.040 --> 00:31:04.040]   This is the directive, in Article 2 of the directive, we had, well, how many? One, two, three, four, five, six, seven, eight definitions of concept.
+[00:31:04.040 --> 00:31:13.040]   That's the Article 4 of the regulation.
+[00:31:13.040 --> 00:31:30.040]   There are 26 definitions. So a huge amount. Why? Why do we have to define concepts like personal data processing and stuff like that?
+[00:31:30.040 --> 00:31:44.040]   You know, personal data was defined even in the directive. Processing was defined in the directive. Let me increase so you can read better.
+[00:31:44.040 --> 00:32:13.040]   Well, because as I said, deregulation is adopted in how many? 21, 22...
+[00:32:13.040 --> 00:32:33.040]   (inaudible)
+[00:32:33.040 --> 00:32:51.040]   Oh, 24 languages. Okay.
+[00:32:51.040 --> 00:33:11.040]   So...
+[00:33:11.040 --> 00:33:40.040]   So we need to have a way of defining concepts so that in different languages, the definition will be the same.
+[00:33:40.040 --> 00:33:55.040]   Which is not possible as you may understand. And there is a huge debate about legislation in different languages.
+[00:33:55.040 --> 00:34:07.040]   You know, this is not a specific problem of the European Union because other states are facing similar problems. Think about Canada.
+[00:34:07.040 --> 00:34:23.040]   They have two official languages, French and English. And you know, two official languages, moreover, the English, the traditional terminology comes from the French language.
+[00:34:23.040 --> 00:34:37.040]   Because William de Conquereur was speaking French. And so, cohorts of William were speaking French.
+[00:34:37.040 --> 00:34:53.040]   And if you think about contract, liability, damage, damage, and stuff like that, you see that. You see that.
+[00:34:53.040 --> 00:34:57.040]   Canadian legislation is not so troublesome.
+[00:34:57.040 --> 00:35:08.040]   When you start mixing German and French and Spanish and Italian and Hungarian and Polish, well...
+[00:35:08.040 --> 00:35:19.040]   And that's the reason why almost every European legislation starts with a set of definitions.
+[00:35:19.040 --> 00:35:37.040]   So, the first definition is the definition of personal data. And I want to read it from the directive. Personal data means an information relating to an identified or identifiable natural person, which is called the data subject.
+[00:35:37.040 --> 00:36:04.040]   An identifiable natural person is one who can be identified directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical,
+[00:36:04.040 --> 00:36:12.040]   physiological, genetic, mental, economic, cultural, social identity of that natural person.
+[00:36:12.040 --> 00:36:20.040]   As you see, a very broad definition that is based on the definition of what can be identified.
+[00:36:20.040 --> 00:36:37.040]   And it's worth noting that in the definition of personal data in the directive...
+[00:36:37.040 --> 00:36:50.040]   Okay, there we are. Well, the definition is mostly identical, but I would like to stress the fact that...
+[00:36:50.040 --> 00:36:57.040]   Well, this browser is...
+[00:36:57.040 --> 00:37:06.040]   I think it's chromium.
+[00:37:06.040 --> 00:37:17.040]   I would like to stress this part, the online identifier, such an IP number.
+[00:37:17.040 --> 00:37:27.040]   So, you see, the directive was not directly connected with the Internet revolution.
+[00:37:27.040 --> 00:37:46.040]   The deregulation is, instead. We will see that there are specific provisions that are meant to regulate online privacy.
+[00:37:46.040 --> 00:37:58.040]   In the directive, we cannot find anything like that. Online privacy was not even conceived as being a problem.
+[00:37:58.040 --> 00:38:11.040]   Instead, online privacy is one of the major issues faced by the European regulation.
+[00:38:11.040 --> 00:38:27.040]   So, a very broad definition of personal data and a very broad definition of processing any operation or set of operations
+[00:38:27.040 --> 00:38:37.040]   which is performed on personal data, or on set of personal data, whether or not by automated means,
+[00:38:37.040 --> 00:38:48.040]   such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval,
+[00:38:48.040 --> 00:38:57.040]   use, consultation, disclosure by transmission, dissemination, or otherwise making available alignment or combination,
+[00:38:57.040 --> 00:39:01.040]   restriction, erasure, or destruction.
+[00:39:01.040 --> 00:39:14.040]   You see, that leaves to start with such a set of examples.
+[00:39:14.040 --> 00:39:33.040]   So, a very, very broad definition, and look at here, whether or not by automated means.
+[00:39:33.040 --> 00:39:49.040]   That is to say, if I keep a phone book in paper extract, and I write with my pen your name and your telephone number,
+[00:39:49.040 --> 00:39:54.040]   this is a processing of personal data.
+[00:39:54.040 --> 00:40:06.040]   Okay, well, we will see that in that specific situation, if I'm doing that for my own household business,
+[00:40:06.040 --> 00:40:15.040]   this doesn't fall within the meaning and the scope of the regulation.
+[00:40:15.040 --> 00:40:32.040]   But if I'm doing that for professional activities, I'm a lawyer for reasons, and I'm giving my customers telephone numbers in their book,
+[00:40:32.040 --> 00:40:37.040]   well, that's processing of personal data.
+[00:40:37.040 --> 00:40:44.040]   That was the same for the directive, whether or not by automated means.
+[00:40:44.040 --> 00:40:48.040]   You see, the definition of processing is the same.
+[00:40:48.040 --> 00:40:52.040]   It didn't change.
+[00:40:52.040 --> 00:41:00.040]   It didn't change very much.
+[00:41:00.040 --> 00:41:08.040]   Another interesting definition, which was introduced by the European regulation,
+[00:41:08.040 --> 00:41:16.040]   is the concept of that word which is possibly impossible for me to pronounce.
+[00:41:16.040 --> 00:41:19.040]   Let's see if I've got a block.
+[00:41:19.040 --> 00:41:40.040]   "Sale-donimization" or something like that.
+[00:41:40.040 --> 00:42:00.040]   Also to another phenomenon related to or some of the open source free software revolution, open data.
+[00:42:00.040 --> 00:42:17.040]   You may take into account that public administrations are usually the biggest producers of data.
+[00:42:17.040 --> 00:42:45.040]   And since data are produced by using taxpayers' money, there was a growing pressure to make those data available to the general public.
+[00:42:45.040 --> 00:42:48.040]   You have a question, right?
+[00:42:48.040 --> 00:42:58.040]   Let's say that an insurance company, for example, collects my data and doesn't take the burden to sell or anonymize them.
+[00:42:58.040 --> 00:43:06.040]   How do people can check if this is done correctly?
+[00:43:06.040 --> 00:43:14.040]   How can I check that my data is correctly anonymized if the company doesn't want to give me access to them?
+[00:43:14.040 --> 00:43:21.040]   There are different aspects you need to take into account.
+[00:43:21.040 --> 00:43:27.040]   First of all, you do not need to sell, dominate, not...
+[00:43:27.040 --> 00:43:33.040]   That's the stuff, the data. You're not required.
+[00:43:33.040 --> 00:43:40.040]   You can't process personal data as long as you comply with European directive.
+[00:43:40.040 --> 00:43:44.040]   We will see the rules.
+[00:43:44.040 --> 00:43:55.040]   So your insurance company has to take all the steps needed by the European regulation in order to process your data.
+[00:43:55.040 --> 00:44:05.040]   And you will have a right to access their data, your personal data they are processing,
+[00:44:05.040 --> 00:44:11.040]   in order to understand whether they are processing them correctly or not.
+[00:44:11.040 --> 00:44:16.040]   So you will have a right to access.
+[00:44:16.040 --> 00:44:25.040]   You will have, we will see, you will have a right to have them make correction of wrong data and stuff like that.
+[00:44:25.040 --> 00:44:33.040]   But there is no general duty of selling the anonymized data.
+[00:44:33.040 --> 00:44:51.040]   That's a way of permitting the distribution of personal data because the concept behind sell the anonymization is that
+[00:44:51.040 --> 00:45:04.040]   since the data cannot be referred to a natural person any longer, they are not personal data any longer.
+[00:45:04.040 --> 00:45:16.040]   If you anonymize them, because if you sell the anonymized data, that means that you can keep some additional information
+[00:45:16.040 --> 00:45:29.040]   that in conjunction with sell the anonymized data may lead to the identification of the natural person.
+[00:45:29.040 --> 00:45:45.040]   But if you anonymize them, that means if the identification is no longer possible, then you are outside the boundaries of the regulation.
+[00:45:45.040 --> 00:46:00.040]   Because the regulation only applies to personal data, that is to say data of people who can be identified that aren't identified or can be identified.
+[00:46:00.040 --> 00:46:12.040]   So, sell the anonymization only means that the data you are distributing as such are not personal.
+[00:46:12.040 --> 00:46:19.040]   I don't know whether the data is plural or singular in English, but you know what I mean.
+[00:46:19.040 --> 00:46:31.040]   Sell the anonymized data is no longer personal data if you do not have that additional information.
+[00:46:31.040 --> 00:46:42.040]   And there are rules in order to set the standard of security for that additional information not to be disseminated.
+[00:46:42.040 --> 00:46:52.040]   Otherwise, sell the anonymized data will become personal data, and then you will be a branch of personal data.
+[00:46:52.040 --> 00:47:05.040]   So, in the case of an insurance company, they must adopt every means, and we will see privacy by design is one of those principles to be applied,
+[00:47:05.040 --> 00:47:13.040]   in order to keep your data secret basically.
+[00:47:13.040 --> 00:47:20.040]   And you will have some rights you may be exercising.
+[00:47:20.040 --> 00:47:39.040]   They must identify your responsible within the organization of the insurance company, you must have the possibility to contact a specific office.
+[00:47:39.040 --> 00:47:44.040]   Because someone is responsible for the processing.
+[00:47:44.040 --> 00:47:59.040]   You will have the right to access the data. We will see that you will have a right to oblivion for your data to be removed, and so on and so forth.
+[00:47:59.040 --> 00:48:11.040]   But, we may be discussing about the effectiveness of those rights, but that's a totally different topic.
+[00:48:11.040 --> 00:48:31.040]   You know, well, probably it's worth saying right now, but we have an amazing set of rules, the European Regulation of Privacy, but every time you access a website,
+[00:48:31.040 --> 00:48:55.040]   you just press "set" without knowing what is going to happen with your personal data, and the effectiveness of the regulation is something we may be discussing.
+[00:48:55.040 --> 00:49:15.040]   I would like to stress the fact that the regulation has two explicit IAMs, goals.
+[00:49:15.040 --> 00:49:25.040]   Protection of individuals with regards of processing of personal data, the creation of the single internal market, and so on and so forth.
+[00:49:25.040 --> 00:49:31.040]   But there is a third one, which is education.
+[00:49:31.040 --> 00:49:42.040]   Making people aware of how personal data may be an important asset.
+[00:49:42.040 --> 00:50:00.040]   Well, it's a commonplace one, but you know that if the service is free, you are the product.
+[00:50:00.040 --> 00:50:28.040]   Okay? And we need to take into account that my generation was born in a world without digital technologies.
+[00:50:28.040 --> 00:50:37.040]   I owned my first cell mobile phone when I was 30 years old.
+[00:50:37.040 --> 00:50:48.040]   Well, I was pretty lucky because I started using personal computers very early in my life when I was in the middle school,
+[00:50:48.040 --> 00:50:59.040]   because I was belonging to a group of people, among them there were jigs and hares and stuff like that,
+[00:50:59.040 --> 00:51:05.040]   so I was exposed to those technologies very early in my life.
+[00:51:05.040 --> 00:51:11.040]   I was lucky, maybe, or unlucky, I don't know.
+[00:51:11.040 --> 00:51:28.040]   So, while you are digital natives, as they call you, you need to take into account that part of the population is not aware of those technologies
+[00:51:28.040 --> 00:51:37.040]   and the consequences of dissemination of personal data with those technologies.
+[00:51:37.040 --> 00:51:43.040]   And you know, in Europe, everyone is talking about privacy every time.
+[00:51:43.040 --> 00:51:51.040]   Well, you cannot do that because of the privacy regulation, oh, there is the privacy regulation, and so on and so forth.
+[00:51:51.040 --> 00:52:08.040]   Well, I think that sometimes that's annoying because there are people who are not going to disclose what they should be disclosing, claiming some privacy issue.
+[00:52:08.040 --> 00:52:16.040]   The university is going to start using a two-factor authentication mechanism.
+[00:52:16.040 --> 00:52:24.040]   You probably have heard about that. And the reason is for privacy reasons.
+[00:52:24.040 --> 00:52:33.040]   Which I don't think it does make very much sense, in my opinion, but you know, maybe.
+[00:52:33.040 --> 00:52:40.040]   I think that privacy is the key word for making people accept everything.
+[00:52:40.040 --> 00:53:02.040]   But on the other side, that pervasiveness of the privacy issue starts making people aware that they should be concerned about disclosing their personal information.
+[00:53:02.040 --> 00:53:11.040]   And that they should be, well, first of all, aware and then careful.
+[00:53:11.040 --> 00:53:19.040]   So there is that second component that I think is very important.
+[00:53:19.040 --> 00:53:26.040]   European citizens are aware of that because, you know, we are talking about privacy every day almost.
+[00:53:26.040 --> 00:53:31.040]   In other places in the world, instead, this is not true.
+[00:53:31.040 --> 00:53:55.040]   So sometimes people ask me whether, you know, that kind of detailed regulation, as long as it is detailed, is effective in rising the protection of individuals with regards to the processing of personal data.
+[00:53:55.040 --> 00:54:05.040]   I said, well, if people are willing to share everything of their life on Facebook, there is nothing you can do.
+[00:54:05.040 --> 00:54:17.040]   And I think they should be set free to do that.
+[00:54:17.040 --> 00:54:39.040]   On the other side, I think that most people are starting to become aware of the fact that sharing all your life on Facebook or Instagram or whatever has some effect.
+[00:54:39.040 --> 00:54:46.040]   Maybe pleasant, but also not so pleasant.
+[00:54:46.040 --> 00:54:49.040]   Consent indeed is the key word.
+[00:54:49.040 --> 00:55:03.040]   And that's the other definition I would like you to read.
+[00:55:03.040 --> 00:55:24.040]   Consent of the data subject means any freely given specific informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action,
+[00:55:24.040 --> 00:55:42.040]   she signifies agreement to the processing of personal data related to him or her.
+[00:55:42.040 --> 00:55:53.040]   There was not such definition in the directive, even though there was a rule about informed consent.
+[00:55:53.040 --> 00:56:16.040]   We will see instead that in the regulation, consent has been regulated in clear details.
+[00:56:16.040 --> 00:56:28.040]   We will see something more about that later on.
+[00:56:28.040 --> 00:56:51.040]   Other definition, controller, natural legal person, public authority, agency or body which alone are juggling with others, determines the purposes and means of the processing of personal data.
+[00:56:51.040 --> 00:57:01.040]   The processor, which is actually doing the processing on behalf of the controller.
+[00:57:01.040 --> 00:57:18.040]   And you see, there are many different roles which are regulated.
+[00:57:18.040 --> 00:57:45.040]   The controller is the entity, whether an individual or the corporation or a public authority, which is responsible and reliable for the process.
+[00:57:45.040 --> 00:57:58.040]   Sorry, I'm not really familiar with this environment.
+[00:57:58.040 --> 00:58:12.040]   This is not an environment I usually use, so I sometimes make some mistakes with my keyboard.
+[00:58:12.040 --> 00:58:24.040]   General principles, Article 5. Let me see if I can get you to Article 5.
+[00:58:24.040 --> 00:58:28.040]   There we are.
+[00:58:28.040 --> 00:58:34.040]   Well, there are, how many?
+[00:58:34.040 --> 00:58:46.040]   Five, six, eight, six basic principles. I included them all, I think.
+[00:58:46.040 --> 00:58:51.040]   So, let's read the directive.
+[00:58:51.040 --> 00:59:07.040]   Personal data should be A, processed lawfully, fairly and in a transparent manner in relation to the data subject.
+[00:59:07.040 --> 00:59:14.040]   Lawfulness, fairness and transparency.
+[00:59:14.040 --> 00:59:24.040]   Well, lawfulness means that processing must be abided with every rule, legal rule.
+[00:59:24.040 --> 00:59:43.040]   Fairness instead is something more, because that gives the judge the possibility to investigate the purpose, the way, and the ease.
+[00:59:43.040 --> 01:00:10.040]   That is to say, it's a concept which lies outside the legal domain and gives the judge the possibility to conduct a deeper investigation on the ways to processing mistaken bodies.
+[01:00:10.040 --> 01:00:14.040]   Transparency.
+[01:00:14.040 --> 01:00:29.040]   Well, I would like to stress the fact that you as a computer scientist and myself, or I as a lawyer, have different conceptions of transparency.
+[01:00:29.040 --> 01:00:40.040]   You know, if they were clean, those windows would be transparent for you.
+[01:00:40.040 --> 01:00:44.040]   That is to say, you wouldn't see them.
+[01:00:44.040 --> 01:00:50.040]   Network transparency is a clear example of that concept.
+[01:00:50.040 --> 01:00:54.040]   Transparent is something which cannot be seen.
+[01:00:54.040 --> 01:01:05.040]   As a lawyer, we have a different conception of transparency.
+[01:01:05.040 --> 01:01:12.040]   Transparency is what lies behind something which is transparent.
+[01:01:12.040 --> 01:01:24.040]   That calisthenics tool, for instance.
+[01:01:24.040 --> 01:01:47.040]   Keep that in mind when talking about transparency, because sometimes computer scientists, my 18th department uses transparency in a way which is incompatible with a little bit of way I think of transparency.
+[01:01:47.040 --> 01:02:08.040]   I remember when we moved from a set of public IP addresses for our personal computers to a network of private addresses with a network of address translation services in the router.
+[01:02:08.040 --> 01:02:21.040]   I went to the IT department and said, "Well, I didn't know anything about that. I'm not really happy with that. That's my network of the academic community."
+[01:02:21.040 --> 01:02:24.040]   I don't know. We didn't discuss about that transition.
+[01:02:24.040 --> 01:02:28.040]   And he said, "Well, that's transparent to the user."
+[01:02:28.040 --> 01:02:32.040]   That is to say, the user doesn't notice it.
+[01:02:32.040 --> 01:02:38.040]   And I said, "Well, I noticed it. It's not transparent to me."
+[01:02:38.040 --> 01:02:43.040]   What is not transparent is the reason why he decided to make that move.
+[01:02:43.040 --> 01:02:51.040]   It was 20 years ago and the reason was Napster and Fiescher.
+[01:02:51.040 --> 01:03:03.040]   They were not able to implement some traffic control system on their machines, so they decided to shut everything down, which is easier.
+[01:03:03.040 --> 01:03:07.040]   But not transparent from my perspective.
+[01:03:07.040 --> 01:03:31.040]   So, here transparency means that if the synonym was accountable, I should be able to see each step of the process of the process more personally.
+[01:03:31.040 --> 01:03:42.040]   And that's important for and related to fairness and longfulness.
+[01:03:42.040 --> 01:03:45.040]   So, that's the first set of principles.
+[01:03:45.040 --> 01:03:59.040]   Personal data should be collected for a specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes.
+[01:03:59.040 --> 01:04:19.040]   Further processing for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes shall in accordance to not be considered to be compatible with the initial purposes.
+[01:04:19.040 --> 01:04:33.040]   So, the purpose limitation. You need to have a specific, explicit and legitimate purpose.
+[01:04:33.040 --> 01:04:39.040]   You remember Cambridge Analytica?
+[01:04:39.040 --> 01:04:54.040]   That was a violation of paragraph one, letter B of article five.
+[01:04:54.040 --> 01:05:00.040]   The collection was not specified, was not explicit and was not legitimate.
+[01:05:00.040 --> 01:05:03.040]   Yes.
+[01:05:03.040 --> 01:05:14.040]   The GPR as a set of rules is quite new. What happens to data that was collected before?
+[01:05:14.040 --> 01:05:24.040]   Well, keep in mind that before the GPR we had a directive and national implementation.
+[01:05:24.040 --> 01:05:33.040]   And yes, there is some changes, but the core principles are basically the same.
+[01:05:33.040 --> 01:05:42.040]   So, if something is illegal now, probably it was illegal even before.
+[01:05:42.040 --> 01:05:54.040]   But as I said, the directive, the deregulation entered into force in 2018, May 25, as far as I remember.
+[01:05:54.040 --> 01:06:02.040]   So, everything done before is outside deregulation. That's the way the legal system works.
+[01:06:02.040 --> 01:06:14.040]   You need to know the rules before you start acting. Rules cannot be applied to activities done before rules were created.
+[01:06:14.040 --> 01:06:30.040]   About the older directives, did those directives also implement obligations about Europeans' citizen's data abroad?
+[01:06:30.040 --> 01:06:42.040]   Not exactly. We will see that probably next week, we will see that that is the brussel effect.
+[01:06:42.040 --> 01:06:55.040]   The directive ultimately, the deregulation, displays its effects also abroad.
+[01:06:55.040 --> 01:07:03.040]   Google, even if located in the US, well, you know Google operates also from Ireland.
+[01:07:03.040 --> 01:07:09.040]   So, probably this is not the best example, but any corporation operating from the US,
+[01:07:09.040 --> 01:07:19.040]   as long as it operates with the European Union citizens, has the obligation to comply with the regulation.
+[01:07:19.040 --> 01:07:30.040]   The European directive was not so far-reaching because it was implemented at the state level.
+[01:07:30.040 --> 01:07:39.040]   I'm not aware of that. For instance, I'm sure that Italy didn't implement any external effect.
+[01:07:39.040 --> 01:07:49.040]   But in principle, that could have been done. But as far as I know, it was not done.
+[01:07:49.040 --> 01:08:07.040]   Instead, deregulation has that. So, it was not possible to have something like the external effect implemented by deregulation before.
+[01:08:07.040 --> 01:08:25.040]   Even though I believe that maybe the Italian authorities for processing of personal data could have done something similar to what they had done with the Church GPT.
+[01:08:25.040 --> 01:08:33.040]   So, I think they had the power to do that. But it was not specifically regulated.
+[01:08:33.040 --> 01:08:45.040]   But also, they used to say that if a single state just says, "No, we don't like the way you treat our data",
+[01:08:45.040 --> 01:08:56.040]   it is possible that a company like OpenAI, I think it's called, just shut down on service in the country.
+[01:08:56.040 --> 01:09:01.040]   That's the difference between a single state and a European.
+[01:09:01.040 --> 01:09:08.040]   That's the key point. And that's also the reason why deregulation was adopted as a regulation.
+[01:09:08.040 --> 01:09:18.040]   So, there is the European Union that is going to watch the application, the European Commission,
+[01:09:18.040 --> 01:09:23.040]   which is more powerful than any member state.
+[01:09:23.040 --> 01:09:32.040]   But as you see, when it came to Church GPT, Church GPT just decided to shut down the service.
+[01:09:32.040 --> 01:09:48.040]   And there was a huge debate in Italy about whether the authorities did that in order to have some practice exposure or what.
+[01:09:48.040 --> 01:10:00.040]   Also, because they didn't, as far as I understand, the Italian authority was not capable to get any significant result,
+[01:10:00.040 --> 01:10:07.040]   as far as I know. But I had an encounter with Church GPT before their decision,
+[01:10:07.040 --> 01:10:16.040]   and when the service was active again, I didn't see any change.
+[01:10:16.040 --> 01:10:23.040]   Something similar happened with the CI. That's not about privacy, but about intellectual property some months ago.
+[01:10:23.040 --> 01:10:25.040]   With face? No, with metal.
+[01:10:25.040 --> 01:10:27.040]   With metal, yeah.
+[01:10:27.040 --> 01:10:33.040]   Yeah, well, this is the reason...
+[01:10:33.040 --> 01:10:40.040]   Well, probably this is also the fourth reason why deregulation was adopted.
+[01:10:40.040 --> 01:10:48.040]   Because acting as a single unit at the European level gives you a contracting power.
+[01:10:48.040 --> 01:10:53.040]   Keep in mind that the European Union represents the biggest market in the world.
+[01:10:53.040 --> 01:11:04.040]   We are bigger than the US in terms of number of consumers and, you know, money.
+[01:11:04.040 --> 01:11:14.040]   So we have quite a huge amount of economic power.
+[01:11:14.040 --> 01:11:18.040]   Okay, the third principle.
+[01:11:18.040 --> 01:11:29.040]   "Possessing shall be adequate, relevant and limited to what is necessary in relationship to the purposes for which they are possessed."
+[01:11:29.040 --> 01:11:42.040]   Data minimization. This is a very important principle, which has huge consequences.
+[01:11:42.040 --> 01:11:51.040]   Some of that not even very clearly identified.
+[01:11:51.040 --> 01:12:01.040]   Do you know Zoom? You all know that Zoom has been used in it.
+[01:12:01.040 --> 01:12:12.040]   You know that Zoom has a feature, according to which if you share your desktop, you're allowed to share just one window.
+[01:12:12.040 --> 01:12:21.040]   Okay.
+[01:12:21.040 --> 01:12:29.040]   Well, I cannot show you my window manager.
+[01:12:29.040 --> 01:12:37.040]   Can you see? No, you cannot.
+[01:12:37.040 --> 01:12:50.040]   Anyway, it's working on a different instance of the X server.
+[01:12:50.040 --> 01:12:55.040]   So you cannot see it, because this one is connected.
+[01:12:55.040 --> 01:13:10.040]   I do that for privacy reasons, but anyway, my window manager was written partly by myself.
+[01:13:10.040 --> 01:13:17.040]   And I'm like, this is the key environment.
+[01:13:17.040 --> 01:13:21.040]   I'm working on Linux, as you probably understand.
+[01:13:21.040 --> 01:13:33.040]   The window manager of KV implements the MS...
+[01:13:33.040 --> 01:13:48.040]   Oh, are they called MS?
+[01:13:48.040 --> 01:13:51.040]   Something like that.
+[01:13:51.040 --> 01:13:57.040]   Extended Window Manager Ints.
+[01:13:57.040 --> 01:14:05.040]   They are defined by the X Stack Stock group.
+[01:14:05.040 --> 01:14:30.040]   What you basically do in order to have this extension is to create a fake window and to register within that fake window all the windows that are managed by your window manager.
+[01:14:30.040 --> 01:14:36.040]   Their name, their ID, the title, and everything.
+[01:14:36.040 --> 01:14:45.040]   And so Zoom, even on Linux, is capable of accessing that information.
+[01:14:45.040 --> 01:15:03.040]   And by assessing that information, it can provide a list of windows and let you decide which one to display and to share.
+[01:15:03.040 --> 01:15:24.040]   During the pandemic, I was working online, I was teaching online, and I noticed that in my window manager, I was able to share my desktop.
+[01:15:24.040 --> 01:15:47.040]   And because Zoom didn't know the windows I had opened, because those extended window manager ints were not implemented in my window manager.
+[01:15:47.040 --> 01:15:51.040]   And I didn't want them.
+[01:15:51.040 --> 01:15:58.040]   One day may be useful, but not for me.
+[01:15:58.040 --> 01:16:16.040]   And we had a discussion with Massimo Zancana, Professor Zancana.
+[01:16:16.040 --> 01:16:35.040]   He said, "Well, I would like to have a letter C of the European regulation because it is collecting data which is not necessary for the application to work.
+[01:16:35.040 --> 01:16:39.040]   It should be up to you to decide what to share or what not to share."
+[01:16:39.040 --> 01:16:47.040]   And he said, "Well, but remember that there was a professor of labor law teaching online.
+[01:16:47.040 --> 01:17:03.040]   He had the browser with a tab opened on a pornographic website, and students were able to see it.
+[01:17:03.040 --> 01:17:15.040]   And those nice students said what they did, they conducted the newspapers, tell them the professor was watching porn movies.
+[01:17:15.040 --> 01:17:21.040]   I don't know what kind of students or what kind of professor he was.
+[01:17:21.040 --> 01:17:30.040]   So I understand there may be reasons why you should be able to choose what to share and what not to share.
+[01:17:30.040 --> 01:17:40.040]   But, you know, who is going to make this decision?
+[01:17:40.040 --> 01:17:43.040]   You or the application?
+[01:17:43.040 --> 01:17:51.040]   Because you need to keep in mind that when Zoom gives you that opportunity, in order to give you that opportunity,
+[01:17:51.040 --> 01:18:02.040]   it must assess the list of all the windows that are open on your desktop.
+[01:18:02.040 --> 01:18:11.040]   So Zoom is capable of knowing whether you are looking or watching a porn movie or not.
+[01:18:11.040 --> 01:18:26.040]   Is that what you want? I don't want Zoom to say that information, and I want to give that information to Zoom.
+[01:18:26.040 --> 01:18:32.040]   Also, because their primacy policy, you know, there was a very long discussion about the adoption of Zoom,
+[01:18:32.040 --> 01:18:39.040]   because their primacy policy was not very clear.
+[01:18:39.040 --> 01:18:48.040]   So, as I said, we are talking about the principle, but when we start talking about the implementation of that principle,
+[01:18:48.040 --> 01:18:53.040]   everything becomes very complicated.
+[01:18:53.040 --> 01:18:59.040]   And there are, you know, we may be talking about the same principle,
+[01:18:59.040 --> 01:19:05.040]   and we may have two different opinions on whether that implementation is correct or not.
+[01:19:05.040 --> 01:19:14.040]   In my opinion, Zoom is violating that minimization principle.
+[01:19:14.040 --> 01:19:22.040]   For others, since Zoom is just trying to protect people from being stupid,
+[01:19:22.040 --> 01:19:27.040]   which is called "patergalese" in my view.
+[01:19:27.040 --> 01:19:37.040]   And I don't know whether Zoom should be allowed to be, you know, like your good father watching you after all of your children.
+[01:19:37.040 --> 01:19:42.040]   Anyway, that's the problem with principles.
+[01:19:42.040 --> 01:19:46.040]   Data should be accurate and keep up to date.
+[01:19:46.040 --> 01:19:52.040]   That is something we will come back to them with in the back.
+[01:19:52.040 --> 01:19:58.040]   Every reasonable step must be taken to ensure that personal data that are inaccurate,
+[01:19:58.040 --> 01:20:10.040]   in regard to the purposes for which they are possessed, are erased or rectified without the way of accuracy principle.
+[01:20:10.040 --> 01:20:19.040]   You know, that's another principle. What a reasonable step means.
+[01:20:19.040 --> 01:20:31.040]   This is the way lawyers usually think and express their principles.
+[01:20:31.040 --> 01:20:40.040]   In a practical way, what I can tell you is that every reasonable step must be taken,
+[01:20:40.040 --> 01:20:59.040]   which means that a judge will be able to decide with a given amount of discretionality,
+[01:20:59.040 --> 01:21:08.040]   if someone is liable or not for violating the principle.
+[01:21:08.040 --> 01:21:22.040]   Those principles give judges the room to adapt the principle to every specific context.
+[01:21:22.040 --> 01:21:38.040]   But that also means that as long as we do not have court decisions to analyze, we do not have any guidelines to understand what is reasonable or not.
+[01:21:38.040 --> 01:21:49.040]   That's typical of the legal system. We have been talking about that when talking about the fair use clause in the U.S. copyright legislation.
+[01:21:49.040 --> 01:21:59.040]   Even though there are those four factors that a judge must be taking into account,
+[01:21:59.040 --> 01:22:15.040]   still we need to look at court decisions in order to understand if something is reasonable or not.
+[01:22:15.040 --> 01:22:25.040]   The first is the storage limitation principle, which means that personal data must be kept in the form which permits identification of the data subjects
+[01:22:25.040 --> 01:22:34.040]   for no longer that is necessary for the purposes for which they were collected and processed.
+[01:22:34.040 --> 01:22:49.040]   The final principle, integrity and confidentiality, personal data shall be processed in the manner that ensure appropriate security of personal data,
+[01:22:49.040 --> 01:23:00.040]   including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage.
+[01:23:00.040 --> 01:23:05.040]   By using appropriate technical and organizational measures.
+[01:23:05.040 --> 01:23:13.040]   You see, I would like to notice that. Technical but also organizational measures.
+[01:23:13.040 --> 01:23:25.040]   This is a principle which will come back when talking about privacy by design.
+[01:23:25.040 --> 01:23:39.040]   And finally, the controller shall be responsible for and able to demonstrate compliance with paragraph 1, accountability principle.
+[01:23:39.040 --> 01:23:46.040]   Okay, do you have any question?
+[01:23:46.040 --> 01:23:50.040]   If you don't mind, I would like to stop here.
