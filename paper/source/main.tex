@@ -1,0 +1,109 @@
+\documentclass[10pt]{article}
+
+% Geometry
+\usepackage[a4paper, margin=1.5in]{geometry}
+
+% Font Encoding and Input
+\usepackage[T1]{fontenc}  % Updated to use T1 encoding for better font rendering
+\usepackage[utf8]{inputenc}  % Use utf8 instead of utf8x for better compatibility
+\usepackage{lmodern}  % Improved font for better scalability
+
+% Language
+\usepackage[english]{babel}
+
+% Spacing
+\usepackage{setspace}
+\singlespacing
+
+% Section Formatting
+\usepackage{titlesec}
+
+% URL and Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+% Colors
+\usepackage[table,xcdraw]{xcolor}
+
+% Code Listings
+\usepackage{listings}
+\usepackage{color}
+
+% Graphics and Figures
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{subcaption}
+\usepackage{caption}
+
+% TikZ and PGF Plots
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{pgf-pie}
+
+% Text Formatting
+\usepackage{verbatim}
+\usepackage{ifthen}
+
+% Math
+\usepackage{amsthm}
+
+% Framing
+\usepackage{mdframed}
+
+% Clever References
+\usepackage{cleveref}
+
+% Bibliography
+\usepackage{biblatex}
+\addbibresource{biblio.bib}
+
+\begin{document}
+
+  \pagenumbering{gobble}
+
+  \input{I-initFolder/pagina_iniziale}
+
+  \cleardoublepage
+
+  % Uncomment to include acknowledgements
+  % \input{II-ackFolder/ringraziamenti}
+  
+  \clearpage
+  \pagestyle{plain}
+
+  \clearpage
+  \tableofcontents
+  \thispagestyle{empty}
+  \newpage
+
+
+  \begingroup
+
+  \input{01-abstract/target}
+  \newpage
+
+  \pagenumbering{arabic}
+  \input{02-intro/target}
+  \newpage
+  \input{03-soa/target}
+  \newpage
+  \input{04-meth/target}
+  \newpage
+  \input{05-results/target}
+  \newpage
+  \input{06-discussion/target}
+  \newpage
+  \input{07-conclusion/target}
+  \newpage
+
+  \endgroup
+
+  \printbibliography
+
+\end{document}
