@@ -1,0 +1,43 @@
+\section{Discussion}
+
+It is clear from what was introduced in section \ref{ss:leg_frame} that among the foundamental values of the Union, the right to privacy, as expressed in the Charter and elaborated on by various directives and regulations, e.g. ePrivacy, is one of the most needed in a democratic society. 
+
+Nonetheless, great discussions are arising in these years to assess to which extends such right can be interfered with in the name of national security and crime prevention and detection. 
+
+The proposal that is the object of this research, as part of these discussions, has risen significant concern in light of the interference that it might cause with to the previously defined right to privacy.
+
+The results show both the degree of the technical efficacy and efficiency of the proposed solution, and also report different rulings of the ECHR regarding mass surveillance and the interpretation of the ePrivacy directive and Article 8 of the Charter. 
+
+\subsection{Relation with current legislative framework and court cases}
+\label{ss:relation_leg}
+
+The proposed regulation imposes service providers under a detection order to process all communications taking place on their platforms and subsequently store the ones for which there is a confirmation of unlawful conduct, i.e. in this case sharing of CSAM material and grooming.
+
+The process laied down in the proposal entails (a) the real-time interception and initial retention of communication data, (b) application of selectors, i.e. ML processing and/or via percpeptual hashing, (c) examination of the alerts by a human analyst, and (d) data retention and reporting. 
+
+For this reason, the proposed methodology for detecting such behaviors can be described as the \textit{bulk interception} of communications as in the judgement for case Big Brother and others v. the United Kingdom (see section \ref{ss:big_brother}). In the same court ruling, the Court agreed on viewing these bulk interceptions "as a gradual process in which the degree of interference with individuals' Article 8 rights increases as the process progresses"\cite{big_brother}.
+
+Furthermore, to avoid the implementation of a system of mass surveillance, a proposal that make use of bulk interception should lay down clear and well defined safeguards to avoid the abuse of the system (see Big Brother and others), the collection of unnecesary data, and data gathering of people outside the original range of the operation (see Szabó and Vissy v. Hungary).
+
+It is true that in Szabó and Vissy v. Hungary the risk of system abuse is given by the secretive nature of the operation. Nonetheless, the Chatcontrol proposal makes use of technologies that can be technically and legislatively subverted to detect behaviors different from the original target, e.g. terrorist, political opposition, journalist. In particular, it is possible to tamper with the machine learning model, or injecting hash signatures to raise alerts for different type of behaviours and shared media.
+
+Moreover, it is possible that under the specifications of this proposal there will be interception and storing of communication data belonging to people outside the scope of the operation. Some examples of situations that could lead to such event are (a) communication with sexual tone between two minors\footnote{see statistics on minors that engage in dangerous online behaviors at \url{}}, (b) communication with sexual tone between two people for which Romeo \& Juliet like laws apply, (c) communication with sexual tone in which media of adult that appear young are shared\footnote{Other situations may apply, like \url{https://www.koffellaw.com/blog/google-ai-technology-flags-dad-who-took-photos-o/}}. 
+
+Furthermore, the interception can be said to be \textit{real-time} since it is applied using both server or client side scanning depending on the communication being E2EE or not. Given this interpretation of the \textit{real-time} adjective, given the preliminary ruling in La Quadrature du Net e a. (see section \ref{sss:quad}), and given that the purpose of of the interception is not to fight an imminent or foreseeable terrorist threat, one can argue that such proposal is violating Article 8 of the Charter.
+
+Finally, the conditions for a detection order to be issued to a service provider are generic, e.g. "the extent to which the service is used or is likely to be used by children" and "any previously identified instances of use of its services for the purpose of
+online child sexual abuse"\cite{eu2023chatcontrol}, and the risk assessment lacks strong framework for the computing of the risk like the CVSS framework in the domain of cybersecurity risk assessment. This could lead to a great number of service providers to be issued such orders.
+
+\subsection{Efficiency and efficacy}
+
+The proposal lay down three technical problems: known CSAM detection, unknown CSAM detection, and grooming detection. 
+
+The first problem is solved by the use perceptual hashing. Unfortunaltely, in the proposal there is not any discussion regarding the deployment of such technologies in an adversarial context. As discussed in section \ref{sss:known_csam}, sharing an image in which some adversarial noise was injected can cause an arbitry number of false-positives. Of course, this is possible if there is some knowledge about how the hashing algorithm work. Unfortunately, the algorithm is executed on client side, causing the implementation of a \textit{security by obscurity} framework difficult.
+
+The second problem is tackled by using ML classifiers for which only claims on their efficiency are provided by the proposal impact assessment. In fact, section \ref{sss:ML} reports results that are less optimistic that the ones in the impact assessment concerning Thorn's Safer tool. Furthermore, these models are likely to raise alerts in those situations discussed in section \ref{ss:relation_leg} above, other than being difficult to deploy in a CSS context given their computational demands. 
+
+To solve the third problem, the Commission proposed the use of text-based ML classifiers giving as an example Microsoft tools that have an accuracy of only 88\%, in my opinion too low to be implemented in such an extended interception domain.
+
+Furthermore, as explained in section \ref{sss:avoid_detection}, it is relatively easy to avoid detection on platforms that are subject to detection orders by simply exchange keys as in an unsecure channel.
+
+Finally, it is important to note how difficult it is to implement such detection systems on platform where E2E encrypted communications take place. Not only it is difficult, but it is more costly in terms of time and in an economical sense. As a consequence, there is a possibility that those providers that will be subject to a detection order will choose to remove E2EE functionalities from their platforms altogheter damaging substantilly the privacy of European citizens and the security of their communications on those platforms.

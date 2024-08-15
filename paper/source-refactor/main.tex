@@ -1,0 +1,92 @@
+%%%%%%%% Sample LaTeX input for Complex Systems %%%%%%%%%%% 
+% Revision 4, Jun 27, 2018
+%
+% This is a LaTeX input file  
+% Text following % on a particular line is treated as a comment, and 
+% ignored by LaTeX.  
+% You do not need to type any text that follows a % 
+% 
+\documentclass[10pt]{article}
+
+\usepackage[a4paper, margin=1.5in]{geometry}
+
+\usepackage{epsf,hyperref}
+\usepackage{amssymb,ComplexSystems}
+
+% Font Encoding and Input
+\usepackage[T1]{fontenc}  % Updated to use T1 encoding for better font rendering
+\usepackage[utf8]{inputenc}  % Use utf8 instead of utf8x for better compatibility
+\usepackage{lmodern}  % Improved font for better scalability
+
+% Language
+\usepackage[english]{babel}
+
+% Code Listings
+\usepackage{listings}
+\usepackage{color}
+\usepackage[table,xcdraw]{xcolor}
+
+% Graphics and Figures
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{subcaption}
+\usepackage{caption}
+
+% Clever References
+\usepackage{cleveref}
+
+% Bibliography
+\usepackage{biblatex}
+\addbibresource{biblio.bib}
+
+% complex-systems.sty is the macro package for Complex Systems.
+% It is available at
+% http://www.complex-systems.com/samples/complex-systems.sty
+% epsf.sty is the preferred graphics import method
+
+\begin{document}
+
+\title{An Overview on the Chatcontrol Proposal% 
+% Use \\ to indicate line breaks in titles longer than about 
+% 55 characters. 
+%
+}
+
+\author{\authname{Riccardo Gennaro}\\[2pt] 
+% Use \\[2pt] to end the line and add space between author name and affiliation. 
+\authadd{Department of Information Engineering and Computer Science, University of Trento}\\
+\authadd{Via Sommarive, 9}\\
+\authadd{Trento, TN 38123, Italy}\\
+}
+
+% The following specifies the running headings 
+%
+% Each running heading should be less than about 50 characters long. 
+% If necessary, give a shortened version of the title. 
+%
+% Use initials for first and second names. If all author names do not fit, truncate the 
+% list and end with ``et al.''.
+\markboth{Chatcontrol Proposal} 
+{An Overview on the Chatcontrol Proposal} 
+
+\maketitle
+% End title section
+
+\begin{abstract}
+
+\end{abstract}
+
+\begin{keywords}
+
+\end{keywords}
+
+\input{02-intro/target}
+\input{03-soa/target}
+\input{04-meth/target}
+\input{05-results/target}
+\input{06-discussion/target}
+\input{07-conclusion/target}
+
+\printbibliography
+
+\end{document}

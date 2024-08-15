@@ -1,0 +1,852 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{abelson2024bugs}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=9d498f19d0ecec78ed8839d5d872ba8b}{%
+           family={Abelson},
+           familyi={A\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e027c8df89339344ddc4de634d17acf1}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c646cd758268cebf702ca74e3e6d3b91}{%
+           family={Bellovin},
+           familyi={B\bibinitperiod},
+           given={Steven\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=14a2b78ffb98c1cb4013dabb4ae9f075}{%
+           family={Benaloh},
+           familyi={B\bibinitperiod},
+           given={Josh},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4f5cc95e80ecb7d031e387ecc2f7d9fa}{%
+           family={Blaze},
+           familyi={B\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+        {{hash=afeebfe583376c9f0092fa2e47fc865b}{%
+           family={Callas},
+           familyi={C\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=15409de33b2fa29965e62538bedee6b5}{%
+           family={Diffie},
+           familyi={D\bibinitperiod},
+           given={Whitfield},
+           giveni={W\bibinitperiod}}}%
+        {{hash=dc48ee11ef96527816b0be56dea7bc79}{%
+           family={Landau},
+           familyi={L\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d036482836fd5481fa5dfa4d946da28a}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Peter\bibnamedelima G},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3a964821f97ee17f8bb285bc61c52899}{%
+           family={Rivest},
+           familyi={R\bibinitperiod},
+           given={Ronald\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b837e34385cb35f468acf14db1d0c87f}
+      \strng{fullhash}{a1ca5769b5e1c7daa0c810cf42520aac}
+      \strng{bibnamehash}{b837e34385cb35f468acf14db1d0c87f}
+      \strng{authorbibnamehash}{b837e34385cb35f468acf14db1d0c87f}
+      \strng{authornamehash}{b837e34385cb35f468acf14db1d0c87f}
+      \strng{authorfullhash}{a1ca5769b5e1c7daa0c810cf42520aac}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cybersecurity}
+      \field{number}{1}
+      \field{title}{Bugs in our pockets: The risks of client-side scanning}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{pages}{tyad020}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/355233857_Bugs_in_our_Pockets_The_Risks_of_Client-Side_Scanning
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/355233857_Bugs_in_our_Pockets_The_Risks_of_Client-Side_Scanning
+      \endverb
+    \endentry
+    \entry{Joint}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c442e564f37c81a205c6fa61c80e29e3}{%
+           family={Board},
+           familyi={B\bibinitperiod},
+           given={European\bibnamedelimb Data\bibnamedelima Protection},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c442e564f37c81a205c6fa61c80e29e3}
+      \strng{fullhash}{c442e564f37c81a205c6fa61c80e29e3}
+      \strng{bibnamehash}{c442e564f37c81a205c6fa61c80e29e3}
+      \strng{authorbibnamehash}{c442e564f37c81a205c6fa61c80e29e3}
+      \strng{authornamehash}{c442e564f37c81a205c6fa61c80e29e3}
+      \strng{authorfullhash}{c442e564f37c81a205c6fa61c80e29e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EDPB-EDPS Joint Opinion 04/2022 on the Proposal for a Regulation of the European Parliament and of the Council laying down rules to prevent and combat child sexual abuse}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.edpb.europa.eu/system/files/2022-07/edpb_edps_jointopinion_202204_csam_en_0.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.edpb.europa.eu/system/files/2022-07/edpb_edps_jointopinion_202204_csam_en_0.pdf
+      \endverb
+    \endentry
+    \entry{Bours}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=92ef63f4724d4a5af6edd1326565079e}{%
+           family={Bours},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f5f7348e01f191ba9e76492ef31ff1e4}{%
+           family={Kulsrud},
+           familyi={K\bibinitperiod},
+           given={Halvor},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{63503a2a3b2321cf0291338376aec6aa}
+      \strng{fullhash}{63503a2a3b2321cf0291338376aec6aa}
+      \strng{bibnamehash}{63503a2a3b2321cf0291338376aec6aa}
+      \strng{authorbibnamehash}{63503a2a3b2321cf0291338376aec6aa}
+      \strng{authornamehash}{63503a2a3b2321cf0291338376aec6aa}
+      \strng{authorfullhash}{63503a2a3b2321cf0291338376aec6aa}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE International Workshop on Information Forensics and Security (WIFS)}
+      \field{title}{Detection of Cyber Grooming in Online Conversation}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/WIFS47025.2019.9035090
+      \endverb
+      \keyw{Support vector machines;Feature extraction;Technological innovation;Training;White spaces;Dictionaries;Neural networks}
+    \endentry
+    \entry{CASTRILLONSANTANA201810}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8d32c6e3815a3fcdcf2722291b7ffb9e}{%
+           family={Castrillón-Santana},
+           familyi={C\bibinithyphendelim S\bibinitperiod},
+           given={Modesto},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ff07cef21c95e696e2f1a9ac696a84ac}{%
+           family={Lorenzo-Navarro},
+           familyi={L\bibinithyphendelim N\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1e5ada3d700d016635f3613acdf42128}{%
+           family={Travieso-González},
+           familyi={T\bibinithyphendelim G\bibinitperiod},
+           given={Carlos\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8cca16bd1b0c2ad28d988dcfc24150a0}{%
+           family={Freire-Obregón},
+           familyi={F\bibinithyphendelim O\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a026a92a65d5f50f1c4dffc0b4121d77}{%
+           family={Alonso-Hernández},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Jesús\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{77bc6e50d141e69334c6cf7625549707}
+      \strng{fullhash}{a7ffe2d85f9227ddda757e2fd36b6336}
+      \strng{bibnamehash}{77bc6e50d141e69334c6cf7625549707}
+      \strng{authorbibnamehash}{77bc6e50d141e69334c6cf7625549707}
+      \strng{authornamehash}{77bc6e50d141e69334c6cf7625549707}
+      \strng{authorfullhash}{a7ffe2d85f9227ddda757e2fd36b6336}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-8655}
+      \field{journaltitle}{Pattern Recognition Letters}
+      \field{note}{Integrating Biometrics and Forensics}
+      \field{title}{Evaluation of local descriptors and CNNs for non-adult detection in visual content}
+      \field{volume}{113}
+      \field{year}{2018}
+      \field{pages}{10\bibrangedash 18}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.patrec.2017.03.016
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167865517300922
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167865517300922
+      \endverb
+      \keyw{Local descriptors,CNNs,Age estimation,Score level fusion}
+    \endentry
+    \entry{eu_charter_fundamental_rights}{legal}{}
+      \list{organization}{1}{%
+        {European Union}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{howpublished}{Official Journal of the European Union}
+      \field{month}{10}
+      \field{number}{2012/C 326/02}
+      \field{title}{Charter of Fundamental Rights of the European Union}
+      \field{type}{Charter}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:12012P/TXT
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:12012P/TXT
+      \endverb
+    \endentry
+    \entry{ePrivacy}{legal}{}
+      \list{organization}{1}{%
+        {European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Official Journal of the European Union}
+      \field{number}{2002/58/EC}
+      \field{title}{Directive on privacy and electronic communications}
+      \field{type}{Directive}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02002L0058-20091219
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02002L0058-20091219
+      \endverb
+      \warn{\item legal entry 'ePrivacy' (biblio.bib): Invalid format '12 July 2002' of date field 'date' - ignoring}
+    \endentry
+    \entry{eu2022impact}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{European Commission}
+      \field{title}{IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down rules to prevent and combat child sexual abuse}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52022SC0209
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52022SC0209
+      \endverb
+    \endentry
+    \entry{eu2023chatcontrol}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{European Commission}
+      \field{note}{COM(2023) XXX final}
+      \field{title}{Proposal for a Regulation of the European Parliament and of the Council laying down rules to prevent and combat child sexual abuse}
+      \field{urlday}{6}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12726-Fighting-child-sexual-abuse-detection-removal-and-reporting-of-illegal-content-online_en
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12726-Fighting-child-sexual-abuse-detection-removal-and-reporting-of-illegal-content-online_en
+      \endverb
+    \endentry
+    \entry{echr}{legal}{}
+      \list{organization}{1}{%
+        {Council of Europe}%
+      }
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{howpublished}{Official Journal of the European Union}
+      \field{month}{11}
+      \field{title}{European Convention on Human Rights}
+      \field{type}{Convention}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{1950}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.echr.coe.int/Documents/Convention_ENG.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.echr.coe.int/Documents/Convention_ENG.pdf
+      \endverb
+    \endentry
+    \entry{Grand_chamber}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b62ca166d2bf80f570452e1636009732}{%
+           family={European\bibnamedelimb Court\bibnamedelimb of\bibnamedelimb Human\bibnamedelima Rights},
+           familyi={E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Grand\bibnamedelima Chamber},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={of\bibnamedelima the},
+           prefixi={o\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
+      }
+      \strng{namehash}{b62ca166d2bf80f570452e1636009732}
+      \strng{fullhash}{b62ca166d2bf80f570452e1636009732}
+      \strng{bibnamehash}{b62ca166d2bf80f570452e1636009732}
+      \strng{authorbibnamehash}{b62ca166d2bf80f570452e1636009732}
+      \strng{authornamehash}{b62ca166d2bf80f570452e1636009732}
+      \strng{authorfullhash}{b62ca166d2bf80f570452e1636009732}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Judgment of the Court (Grand Chamber) of 6 October 2020. La Quadrature du Net and Others v Premier ministre and Others.}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62018CJ0511
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62018CJ0511
+      \endverb
+    \endentry
+    \entry{eu2023impact}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=04477f088e2d7fa909d6f010ddf08b41}{%
+           family={{European Parliament}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{04477f088e2d7fa909d6f010ddf08b41}
+      \strng{fullhash}{04477f088e2d7fa909d6f010ddf08b41}
+      \strng{bibnamehash}{04477f088e2d7fa909d6f010ddf08b41}
+      \strng{authorbibnamehash}{04477f088e2d7fa909d6f010ddf08b41}
+      \strng{authornamehash}{04477f088e2d7fa909d6f010ddf08b41}
+      \strng{authorfullhash}{04477f088e2d7fa909d6f010ddf08b41}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{European Parliament}
+      \field{title}{Proposal for a regulation laying down the rules to prevent and combat child sexual abuse Complementary impact assessment}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740248/EPRS_STU(2023)740248_EN.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740248/EPRS_STU(2023)740248_EN.pdf
+      \endverb
+    \endentry
+    \entry{GDPR}{legal}{}
+      \list{organization}{1}{%
+        {European Union}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Official Journal of the European Union}
+      \field{number}{2016/679}
+      \field{title}{General Data Protection Regulation}
+      \field{type}{Regualtion}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02016R0679-20160504
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02016R0679-20160504
+      \endverb
+      \warn{\item legal entry 'GDPR' (biblio.bib): Invalid format '27 April 2016' of date field 'date' - ignoring}
+    \endentry
+    \entry{big_brother}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5b1bdbcdebd0bd3020123820151b0a80}{%
+           family={Human\bibnamedelima Rights},
+           familyi={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={European\bibnamedelima Court},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{fullhash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{bibnamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authorbibnamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authornamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authorfullhash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CASE OF BIG BROTHER WATCH AND OTHERS v. THE UNITED KINGDOM}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hudoc.echr.coe.int/eng#{%22itemid%22:[%22001-210077%22]}
+      \endverb
+      \verb{url}
+      \verb https://hudoc.echr.coe.int/eng#%7B%22itemid%22:%5B%22001-210077%22%5D%7D
+      \endverb
+    \endentry
+    \entry{telecom}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5b1bdbcdebd0bd3020123820151b0a80}{%
+           family={Human\bibnamedelima Rights},
+           familyi={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={European\bibnamedelima Court},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{fullhash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{bibnamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authorbibnamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authornamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authorfullhash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CASE OF BREYER v. GERMANY}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hudoc.echr.coe.int/eng#{%22itemid%22:[%22001-200442%22]}
+      \endverb
+      \verb{url}
+      \verb https://hudoc.echr.coe.int/eng#%7B%22itemid%22:%5B%22001-200442%22%5D%7D
+      \endverb
+    \endentry
+    \entry{Hungary}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5b1bdbcdebd0bd3020123820151b0a80}{%
+           family={Human\bibnamedelima Rights},
+           familyi={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={European\bibnamedelima Court},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{fullhash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{bibnamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authorbibnamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authornamehash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \strng{authorfullhash}{5b1bdbcdebd0bd3020123820151b0a80}
+      \field{extraname}{3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CASE OF SZABÓ AND VISSY v. HUNGARY}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hudoc.echr.coe.int/eng#{%22itemid%22:[%22001-160020%22]}
+      \endverb
+      \verb{url}
+      \verb https://hudoc.echr.coe.int/eng#%7B%22itemid%22:%5B%22001-160020%22%5D%7D
+      \endverb
+    \endentry
+    \entry{LEE2020301022}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d0beecf57080b857c0201d1dd0a0ac30}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hee-Eun},
+           giveni={H\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=a819c501873517743d19ca92e4cb429c}{%
+           family={Ermakova},
+           familyi={E\bibinitperiod},
+           given={Tatiana},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e59c5ebc428e61fc4d8bd56111996540}{%
+           family={Ververis},
+           familyi={V\bibinitperiod},
+           given={Vasilis},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0b96100b771653a4d227c2ae3739ee40}{%
+           family={Fabian},
+           familyi={F\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{30932d8877bfb43b1eebffb442f05dbf}
+      \strng{fullhash}{e819a1ca11de2cb8483031a67fdbe845}
+      \strng{bibnamehash}{30932d8877bfb43b1eebffb442f05dbf}
+      \strng{authorbibnamehash}{30932d8877bfb43b1eebffb442f05dbf}
+      \strng{authornamehash}{30932d8877bfb43b1eebffb442f05dbf}
+      \strng{authorfullhash}{e819a1ca11de2cb8483031a67fdbe845}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2666-2817}
+      \field{journaltitle}{Forensic Science International: Digital Investigation}
+      \field{title}{Detecting child sexual abuse material: A comprehensive survey}
+      \field{volume}{34}
+      \field{year}{2020}
+      \field{pages}{301022}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.fsidi.2020.301022
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666281720301554
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666281720301554
+      \endverb
+      \keyw{Child sexual abuse material,CSAM,Online crime detection,Social analysis of technology}
+    \endentry
+    \entry{prokos2021squint}{misc}{}
+      \name{author}{7}{}{%
+        {{hash=44d12b7d7797fe9652a9b3818e422eac}{%
+           family={Prokos},
+           familyi={P\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d6ab3cfe853b686e788b5c5904c82182}{%
+           family={Jois},
+           familyi={J\bibinitperiod},
+           given={Tushar\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=01e91840f2a2c7eff73a9eda8c705cf2}{%
+           family={Fendley},
+           familyi={F\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=2a5fad898e95087e1179b1abd0227e94}{%
+           family={Schuster},
+           familyi={S\bibinitperiod},
+           given={Roei},
+           giveni={R\bibinitperiod}}}%
+        {{hash=be3652aa315225d4f9847530b67f2429}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a9a80df1ddea18e1b64f84a0cbcdc25f}{%
+           family={Tromer},
+           familyi={T\bibinitperiod},
+           given={Eran},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3a7e58dc54b05a1f9e413693d8ba1ee1}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yinzhi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1a9a002a6ff2277ca8a60e2597c75f1}
+      \strng{fullhash}{bddda157590979ab984c7bdf27089448}
+      \strng{bibnamehash}{b1a9a002a6ff2277ca8a60e2597c75f1}
+      \strng{authorbibnamehash}{b1a9a002a6ff2277ca8a60e2597c75f1}
+      \strng{authornamehash}{b1a9a002a6ff2277ca8a60e2597c75f1}
+      \strng{authorfullhash}{bddda157590979ab984c7bdf27089448}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cryptology ePrint Archive, Paper 2021/1531}
+      \field{note}{\url{https://eprint.iacr.org/2021/1531}}
+      \field{title}{Squint Hard Enough: Evaluating Perceptual Hashing with Machine Learning}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://eprint.iacr.org/2021/1531
+      \endverb
+      \verb{url}
+      \verb https://eprint.iacr.org/2021/1531
+      \endverb
+    \endentry
+    \entry{interim_regualtion}{legal}{}
+      \list{organization}{1}{%
+        {European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Official Journal of the European Union}
+      \field{number}{2021/1232}
+      \field{title}{Regulation on Temporary Derogation from Certain Provisions of the ePrivacy Directive for the Purpose of Combatting Child Sexual Abuse Online}
+      \field{type}{Regualtion}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02021R1232-20240515
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02021R1232-20240515
+      \endverb
+      \warn{\item legal entry 'interim_regualtion' (biblio.bib): Invalid format '14 July 2021' of date field 'date' - ignoring}
+    \endentry
+    \entry{steinebach2023analysis}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=a99a305f447e3d8b6eb225aacb32b0d4}{%
+           family={Steinebach},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a99a305f447e3d8b6eb225aacb32b0d4}
+      \strng{fullhash}{a99a305f447e3d8b6eb225aacb32b0d4}
+      \strng{bibnamehash}{a99a305f447e3d8b6eb225aacb32b0d4}
+      \strng{authorbibnamehash}{a99a305f447e3d8b6eb225aacb32b0d4}
+      \strng{authornamehash}{a99a305f447e3d8b6eb225aacb32b0d4}
+      \strng{authorfullhash}{a99a305f447e3d8b6eb225aacb32b0d4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th International Conference on Availability, Reliability and Security}
+      \field{title}{An analysis of photodna}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/abs/10.1145/3600160.3605048
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/abs/10.1145/3600160.3605048
+      \endverb
+    \endentry
+    \entry{Thorn}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7c5ac47946ae2d28f5c0da0c2f76f96b}{%
+           family={Thorn},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c5ac47946ae2d28f5c0da0c2f76f96b}
+      \strng{fullhash}{7c5ac47946ae2d28f5c0da0c2f76f96b}
+      \strng{bibnamehash}{7c5ac47946ae2d28f5c0da0c2f76f96b}
+      \strng{authorbibnamehash}{7c5ac47946ae2d28f5c0da0c2f76f96b}
+      \strng{authornamehash}{7c5ac47946ae2d28f5c0da0c2f76f96b}
+      \strng{authorfullhash}{7c5ac47946ae2d28f5c0da0c2f76f96b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How Thorn's CSAM classifier uses artificial intelligence to build a safer internet}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.thorn.org/blog/how-thorns-csam-classifier-uses-artificial-intelligence-to-build-a-safer-internet/
+      \endverb
+      \verb{url}
+      \verb https://www.thorn.org/blog/how-thorns-csam-classifier-uses-artificial-intelligence-to-build-a-safer-internet/
+      \endverb
+    \endentry
+    \entry{teu}{legal}{}
+      \list{organization}{1}{%
+        {European Union}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{howpublished}{Official Journal of the European Union}
+      \field{month}{10}
+      \field{title}{Treaty on European Union}
+      \field{type}{Treaty}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A12012M%2FTXT
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A12012M%2FTXT
+      \endverb
+    \endentry
+    \entry{SandO}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=310ee364ec12ce0a7b2cf43d29ac1593}{%
+           family={V.\bibnamedelimi Fulber-Garcia},
+           familyi={V\bibinitperiod\bibinitdelim F\bibinithyphendelim G\bibinitperiod},
+           given={M.\bibnamedelimi Aibin},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{310ee364ec12ce0a7b2cf43d29ac1593}
+      \strng{fullhash}{310ee364ec12ce0a7b2cf43d29ac1593}
+      \strng{bibnamehash}{310ee364ec12ce0a7b2cf43d29ac1593}
+      \strng{authorbibnamehash}{310ee364ec12ce0a7b2cf43d29ac1593}
+      \strng{authornamehash}{310ee364ec12ce0a7b2cf43d29ac1593}
+      \strng{authorfullhash}{310ee364ec12ce0a7b2cf43d29ac1593}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding Security by Obscurity}
+      \field{urlday}{10}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.baeldung.com/cs/security-by-obscurity
+      \endverb
+      \verb{url}
+      \verb https://www.baeldung.com/cs/security-by-obscurity
+      \endverb
+    \endentry
+    \entry{VITORINO2018303}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a415d7ec8e44206192e88e3a9925233e}{%
+           family={Vitorino},
+           familyi={V\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b276b81b61def970600f0e139821af9d}{%
+           family={Avila},
+           familyi={A\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0359dd0b9573b699447c757884542eaf}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=030eee6c49a220d206a635085a9c3ba8}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Anderson},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{afbca710b96e5813f64f89ff05257423}
+      \strng{fullhash}{67a22165f2bef0206816b3f4ae06a17d}
+      \strng{bibnamehash}{afbca710b96e5813f64f89ff05257423}
+      \strng{authorbibnamehash}{afbca710b96e5813f64f89ff05257423}
+      \strng{authornamehash}{afbca710b96e5813f64f89ff05257423}
+      \strng{authorfullhash}{67a22165f2bef0206816b3f4ae06a17d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1047-3203}
+      \field{journaltitle}{Journal of Visual Communication and Image Representation}
+      \field{title}{Leveraging deep neural networks to fight child pornography in the age of social media}
+      \field{volume}{50}
+      \field{year}{2018}
+      \field{pages}{303\bibrangedash 313}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jvcir.2017.12.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1047320317302377
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1047320317302377
+      \endverb
+      \keyw{Child pornography,SEIC content,Deep learning,Transfer learning,Fine tuning}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

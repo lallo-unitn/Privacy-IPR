@@ -1,0 +1,244 @@
+Impact assessment pg.9
+
+"voluntary actions alone against online child sexual abuse
+have proven insufficient, by virtue of their adoption by a small number providers only, of the
+considerable challenges encountered in the context of private-public cooperation in this field,
+as well as of the difficulties faced by Member States in preventing the phenomenon and
+guaranteeing an adequate level of assistance to victims"
+
+OBJECTIVE: "detection, removal and reporting of
+previously-known and new child sexual abuse material and grooming"
+
+Fundamental rights:
+
+"The proposal takes into account the fact that in all actions relating to children, whether taken by public authorities or private
+institutions, the child's best interests must be a primary consideration." pg. 12
+
+COMMENT: children security & safety over privacy of general population? 
+
+"The processing of users’ personal data for the purposes of detecting, reporting and removing
+online child sexual abuse has a significant impact on users’ rights and can be justified only in
+view of the importance of preventing and combating online child sexual abuse."
+
+
+Chapter I sets out general provisions, including the subject matter and scope of the
+Regulation (Article 1) and the definitions of key terms used in the Regulation (Article 2). The
+reference to ‘child sexual abuse material’ builds on the relevant terms as defined in the Child
+Sexual Abuse Directive, namely, child pornography and pornographic performance, and aims
+to encompass all of the material covered therein insofar as such material can be disseminated
+through the services in question (in practice, typically in the form of video and pictures). The
+definition is in line with the one contained in the interim Regulation. The same holds true in
+respect of the definition of ‘solicitation of children’ and ‘online child sexual abuse’. For the
+definition of several other terms, the proposal relies on definition contained in other acts of
+EU law or proposal, in particular the European Electronic Communications Code (EECC)34
+and the DSA proposal. 
+
+
+Chapter II establishes uniform obligations, applicable to all providers of hosting or
+interpersonal communication service offering such services in the EU’s digital single market,
+to perform an assessment of risks of misuse of their services for the dissemination of known
+or new child sexual abuse material or for the solicitation of children (together defined as
+‘online child sexual abuse’). It also includes targeted obligations for certain providers to
+detect such abuse, to report it via the EU Centre, to remove or disable access to, or to block
+online child sexual abuse material when so ordered.
+
+
+Chapter III contains provisions concerning the implementation and enforcement of this
+Regulation. Section 1 lays down provisions concerning national competent authorities, in
+particular Coordinating Authorities, which are the primary national authorities designated by
+the Member States for the consistent application of this Regulation (Article 25). Coordinating
+Authorities, like other designated competent authorities, are to be independent in all respects,
+akin to a court, and are to perform their tasks impartially, transparently and in a timely
+manner (Article 26). pg. 18
+
+Chapter IV concerns the EU Centre. Its provisions have been based on the Common
+Approach of the European Parliament, the Council and the Commission on decentralised
+agencies.
+
+Chapter V sets out data collection and transparency reporting obligations. It requires the EU
+Centre, Coordinating Authorities and providers of hosting, interpersonal communications and
+internet access services to collect aggregated data relating to their activities under this
+Regulation and make the relevant information available to the EU Centre (Article 83), as well
+as to report annually on their activities to the general public and the Commission (Article 84). 
+
+Chapter VI contains the final provisions of this Regulation. Those relate to the periodic
+evaluation of this Regulation and of the activities of the EU Centre (Article 85); to the
+adoption of delegated and implementing acts in accordance with Articles 290 and 291 TFEU,
+respectively (Articles 86 and 87); to the repeal of the interim Regulation (Regulation
+2021/1232) (Article 88) and finally to the entry into force and application of this Regulation
+(Article 89).
+
+
+------------------------------ CHAPTER II ------------------------------
+OBLIGATIONS OF PROVIDERS OF RELEVANT INFORMATION SOCIETY
+SERVICES TO PREVENT AND COMBAT ONLINE CHILD SEXUAL ABUSE
+
+
+- Service providers are required to assess risk of proliferation of CSAM (Child Sexual Abuse Material) and solicitation of children (grooming) taking into account:
+	-- previous presence of illegal activities related to CSAM
+	-- the existence and implementation by the provider of a policy and the
+		availability of functionalities to address the risk of CSAM (age verification, CSAM report,...)
+	-- the extent to which the service is used or is likely to be used by children
+	-- the availability of functionalities creating or reinforcing the risk of
+		solicitation of children, including the following functionalities (searching other users, enabling
+		mutimedia file sharing).
+		
+		
+- Risk mitigation the service providers need to take
+	-- "adapting, through appropriate technical and operational measures and staffing,
+		the provider’s content moderation or recommender systems, its decisionmaking processes, the 
+		operation or functionalities of the service, or the content
+		or enforcement of its terms and conditions;"
+	-- "reinforcing the provider’s internal processes or the internal supervision of the
+		functioning of the service; 
+	-- "Providers of interpersonal communications services that have identified, pursuant to
+		the risk assessment conducted or updated in accordance with Article 3, a risk of use
+		of their services for the purpose of the solicitation of children, shall take the
+		necessary age verification and age assessment measures to reliably identify child
+		users on their services, enabling them to take the mitigation measures. " (VIOLATION OF GDPR?		
+		ARE WE PROFILING MINORS?)pg 44
+
+
+- Issuance of detection orders
+	-- Given conditions in par 4, the Coordination Authority will request a detection order to the competent
+		judicial authority of the Member State
+	-- par 5,6,8 gives conditions for known and new child pornography, and child solicitation respectively
+	
+- Technologies and safeguards pg.51
+	-- "Providers of hosting services and providers of interpersonal communication services
+		that have received a detection order shall execute it by installing and operating
+		technologies to detect the dissemination of known or new child sexual abuse material
+		or the solicitation of children, as applicable, using the corresponding indicators
+		provided by the EU Centre in accordance with Article 46."
+		
+	-- "The technologies shall be:
+		(a) effective in detecting the dissemination of known or new child sexual abuse
+		material or the solicitation of children, as applicable;
+		
+		(b) not be able to extract any other information from the relevant communications
+		than the information strictly necessary to detect, using the indicators referred to
+		in paragraph 1, patterns pointing to the dissemination of known or new child
+		sexual abuse material or the solicitation of children, as applicable;
+		
+		(c) in accordance with the state of the art in the industry and the least intrusive in
+		terms of the impact on the users’ rights to private and family life, including the
+		confidentiality of communication, and to protection of personal data;
+		
+		(d) sufficiently reliable, in that they limit to the maximum extent possible the rate
+		of errors regarding the detection. "
+		
+	-- "The provider shall:
+		(a) take all the necessary measures to ensure that the technologies and indicators,
+		as well as the processing of personal data and other data in connection thereto,
+		are used for the sole purpose of detecting the dissemination of known or new
+		child sexual abuse material or the solicitation of children, as applicable, insofar
+		as strictly necessary to execute the detection orders addressed to them;
+		
+		(b) establish effective internal procedures to prevent and, where necessary, detect
+		and remedy any misuse of the technologies, indicators and personal data and
+		other data referred to in point (a), including unauthorized access to, and
+		unauthorised transfers of, such personal data and other data;
+		
+		(c) ensure regular human oversight as necessary to ensure that the technologies
+		operate in a sufficiently reliable manner and, where necessary, in particular
+		when potential errors and potential solicitation of children are detected, human
+		intervention; (HUMAN WILL READ FALSE POSITIVE)
+		
+		(d) establish and operate an accessible, age-appropriate and user-friendly
+		mechanism that allows users to submit to it, within a reasonable timeframe,
+		complaints about alleged infringements of its obligations under this Section, as
+		well as any decisions that the provider may have taken in relation to the use of
+		the technologies, including the removal or disabling of access to material
+		provided by users, blocking the users’ accounts or suspending or terminating
+		the provision of the service to the users, and process such complaints in an
+		objective, effective and timely manner;
+		
+		(e) inform the Coordinating Authority, at the latest one month before the start date
+		specified in the detection order, on the implementation of the envisaged
+		measures set out in the implementation plan referred to in Article 7(3);
+		
+		(f) regularly review the functioning of the measures referred to in points (a), (b),
+		(c) and (d) of this paragraph and adjust them where necessary to ensure that the
+		requirements set out therein are met, as well as document the review process
+		and the outcomes thereof and include that information in the report referred to
+		in Article 9(3).
+		
+- Providers of hosting services and providers of interpersonal communications services
+	shall preserve the content data and other data processed in connection to the
+	measures taken to comply with this Regulation and the personal data generated
+	through such processing, only for one or more of the following purposes, as
+	applicable:
+		(a) executing a detection order issued pursuant to Article 7, or a removal order
+		issued pursuant to Article 14;
+		
+		(b) reporting potential online child sexual abuse to the EU Centre pursuant to
+		Article 12;
+		
+		(c) blocking the account of, or suspending or terminating the provision of the
+		service to, the user concerned;
+		
+		(d) handling users’ complaints to the provider or to the Coordinating Authority, or
+		the exercise of users’ right to administrative or judicial redress, in respect of
+		alleged infringements of this Regulation;
+		
+		(e) responding to requests issued by competent law enforcement authorities and
+		judicial authorities in accordance with the applicable law, with a view to
+		providing them with the necessary information for the prevention, detection,
+		investigation or prosecution of child sexual abuse offences, insofar as the
+		content data and other data relate to a report that the provider has submitted to
+		the EU Centre pursuant to Article 12.
+		
+	As regards the first subparagraph, point (a), the provider may also preserve the
+	information for the purpose of improving the effectiveness and accuracy of the
+	technologies to detect online child sexual abuse for the execution of a detection order
+	issued to it in accordance with Article 7. However, it shall not store any personal data
+	for that purpose.
+	
+	Providers shall preserve the information referred to in paragraph 1 for no longer than
+	necessary for the applicable purpose and, in any event, no longer than 12 months
+	from the date of the reporting or of the removal or disabling of access, whichever
+	occurs first.
+	
+	
+https://www.edpb.europa.eu/system/files/2022-07/edpb_edps_jointopinion_202204_csam_en_0.pdf
+EDPB-EDPS
+Joint Opinion 04/2022 
+
+	"The EDPB and EDPS recall that the CJEU has made it clear that Article 15(1) of the e-Privacy Directive
+	is to be interpreted strictly, meaning that the exception to the principle of confidentiality of
+	communications that Article 15(1) allows must remain an exception and must not become the rule"
+	
+	--> how many services will need to implement the control system under a detection order? Meaning, how many 
+		won't pass the risk assessment?
+		
+	"More generally, the proposed Regulation would benefit from further clarity regarding the status of
+	the voluntary detection of child sexual abuse online after the date of application of the proposed
+	Regulation, and on the transition from the voluntary detection regime set out in the Interim
+	Regulation to the detection obligations set out in the proposed Regulation. For instance, the EDPB and
+	EDPS recommend making clear that the proposed Regulation would not provide for a lawful basis for
+	the processing of personal data for the sole purpose of detecting online child sexual abuse on a
+	voluntary basis."
+	
+	--> making clear the fact that such technologies won't be used on voluntary basis under Interim Regulation
+	
+	
+https://www.patrick-breyer.de/wp-content/uploads/2022/11/210611_Opinion-I-HOME-responses-annotated-fin.pdf
+
+	"As stated in the report encryption, while
+	beneficial in ensuring privacy and security of communications, also creates secure
+	spaces for perpetrators to hide their actions, such as trading images and videos, and
+	approaching and grooming children without fear of detection."
+	
+	
+First and second opinion on regular scrutiny
+
+FIRST: NEGATIVE 
+	(3) The report does not clearly establish how safeguards will ensure
+	fundamental rights, in particular regarding technologies to detect CSA in
+	encrypted communications
+	
+SECOND: POSITIVE WITH RESERVATIONS
+	(2) Not clear if general monitoring
+	(3) Proportionality and efficiency not demonstrated
+
+WHAT ABOUT IMPOSING A PARENTAL MODE FOR CHATS WHERE CLIENT_SIDE SCANNING BLOCKS GROOMING?
