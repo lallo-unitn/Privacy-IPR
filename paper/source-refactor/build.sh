@@ -22,10 +22,10 @@ fi
 #	exit 4
 #fi
 
-pdflatex $1 -interaction=batchmode
+pdflatex -shell-escape $1 -interaction=batchmode 
 biber $1 
-pdflatex $1 -interaction=batchmode
-pdflatex $1 -interaction=batchmode
+pdflatex -shell-escape $1 -interaction=batchmode 
+pdflatex -shell-escape $1 -interaction=batchmode 
 #pandoc $1.tex --biblatex -s --toc -o ./$1.md
 
 #Brute force to remove all files except .tex, .bib, .pdf, .sh, .md, .gitignore, LICENSE

@@ -1,43 +1,44 @@
 \section{Related work}
+\label{s:related}
 
 \subsection{Content scanning aglorithms}
 \label{ss:det_algo}
 
-There are two main classes of algorithms used for content scanning: hash-based and ML-based algorithms\cite{abelson2024bugs}. 
+There are two main classes of algorithms used for content scanning: hash-based and ML-based algorithms \cite{abelson2024bugs}. 
 
 \subsubsection{Hash-based detection}
 
 A hash function is a deterministic function that takes an arbitrary-sized input and returns a fixed-size output. For example, hashing a picture using the hashing algorithm SHA-512 always produces a 512-bit string. 
 
-These functions are used since it is faster to compare two strings than two entire images. Furthermore, this prevents providers from storing illegal material, since only pre-computed hashes of the target content are needed\cite{abelson2024bugs}. 
+These functions are used since it is faster to compare two strings than two entire images. Furthermore, this prevents providers from storing illegal material, since only pre-computed hashes of the target content are needed \cite{abelson2024bugs}. 
 
 Given this design, mapping every possible picture to a set with cardinality $2^{256}$ produces outputs that belong to multiple pre-images, i.e. collisions. 
 
 Furthermore, sharing media multiple times results in the message being lossy compressed various times, e.g. sharing a message using WhatsApp. This means that this shared media will now produce a different hash. 
 
-For these reasons, \textit{perceptual hashing} is used in the context of hash-based detection\cite{abelson2024bugs}. Perceptual hashing algorithms are used to recognize targeted media even if it did undergo minor modifications since they produce the same hash even if the input has been modified, e.g. compressed, cropped\cite{abelson2024bugs}.
+For these reasons, \textit{perceptual hashing} is used in the context of hash-based detection \cite{abelson2024bugs}. Perceptual hashing algorithms are used to recognize targeted media even if it did undergo minor modifications since they produce the same hash even if the input has been modified, e.g. compressed, cropped \cite{abelson2024bugs}.
 
 In particular, Steinebach's analysis found that with the lowest threshold, PhotoDNA was able to recognize dissimilar images with a false-positive rate (collision) of only 0.3\%.
 
-An example of perceptual hashing algorithm is Microsoft's PhotoDNA. It has been proved that these algorithms work well and raise low false-positive alerts\cite{steinebach2023analysis}, albeit not in an adversarial environment\cite{prokos2021squint}.
+An example of perceptual hashing algorithm is Microsoft's PhotoDNA. It has been proved that these algorithms work well and raise low false-positive alerts \cite{steinebach2023analysis}, albeit not in an adversarial environment \cite{prokos2021squint}.
 
 \subsubsection{ML-based detection}
 \label{sss:ML}
 
-This second method uses classifiers to understand if the tested content can be considered targeted material. The main difference between ML detection and Hash detection is that the first is capable of recognizing also non-previously known material, while the latter bases its detection mechanism on hashes of previously known target material\cite{abelson2024bugs}. 
+This second method uses classifiers to understand if the tested content can be considered targeted material. The main difference between ML detection and Hash detection is that the first is capable of recognizing also non-previously known material, while the latter bases its detection mechanism on hashes of previously known target material \cite{abelson2024bugs}. 
 
 In particular, this type of technology can detect target behavior in both text-based communications and multimedia files.
 
 Discussing child grooming in online conversations, Bours and Kulsrud (2019) in \cite{Bours} evaluate different methods for detecting such behavior using different types of classifiers, e.g. Neural Networks (NN) and Support Vector Machine (SVM). 
 
-Results for processing of single messages in conversations show that the highest precision (0.68) is found using Logistic Regression. Furthermore, processing all the messages of a single chatter fosters higher precision in determining if a user is engaging in the target behaviour\cite{Bours}. As stated in the state of the art of \cite{Bours}, to obtain the most accurate results the entirety of the conversation needs to be processed.
+Results for processing of single messages in conversations show that the highest precision (0.68) is found using Logistic Regression. Furthermore, processing all the messages of a single chatter fosters higher precision in determining if a user is engaging in the target behaviour \cite {Bours}. As stated in the state of the art of \cite{Bours}, to obtain the most accurate results the entirety of the conversation needs to be processed.
 
 Regarding previously unknown CSAM, Hee-Eun Lee et al. report in their survey how studies between 2012 and 2018 reached varying accuracies trying to solve this classification problem \cite{LEE2020301022}. In particular, Castrillon-Santana et al. (2018) were able to obtain a 7\% error rate in classifying adult/no-adult classification \cite{CASTRILLONSANTANA201810}, while, Vitorino et al. (2018) were able to assess new CSAM using Deep-Learning algorithms with a true positive rate of 87.2\% and true negative rate of 85.0\% \cite{VITORINO2018303}.
 
 \subsection{Content scanning deployment}
 \label{ss:scanning}
 
-To scan an exchange of messages between a sender and a set of receivers the matching algorithm can be set to listen on server-side or on client-side. These two types of scan are called \textit{server-side scanning (SSS)} and \textit{client-side-scanning (CSS)}. Following, I will report on the difference between these two methods.
+To scan an exchange of messages between a sender and a set of receivers the matching algorithm can be set to listen on server-side or on client-side. These two types of scan are called \textit{server-side scanning (SSS)} and \textit{client-side-scanning (CSS)}. In this section I will report on the difference between these two methods.
 
 \subsubsection*{Server side scanning}
 
@@ -52,42 +53,42 @@ As described in \cite{abelson2024bugs}, CSS can solve the problem of detecting t
 \subsection{Legislative Framework}
 \label{ss:leg_frame}
 
-In the European Economic Area (EEA), the use of these technologies to prevent, detect, and prosecute criminal offenses is strictly regulated. Following, I will summarize the most important pieces of EU law that sit at the intersection between EU privacy rights, general monitoring, and the use of these technologies.
+In the European Economic Area (EEA), the use of these technologies to prevent, detect, and prosecute criminal offenses is strictly regulated. In this section I will summarize the most important pieces of EU law that sit at the intersection between EU privacy rights, general monitoring, and the use of these technologies.
 
 \subsubsection{EU Charter of Fundamental Rights}
 
-The European Union considers the right to one's privacy in (digital) communications as one of the fundamental ones. In particular, Art. 7 of the Charter of Fundamental Rights reads "Everyone has the right to respect for his or her private and family life, home and communications"\cite{eu_charter_fundamental_rights}. 
+The European Union considers the right to one's privacy in (digital) communications as one of the fundamental ones. In particular, Art. 7 of the Charter of Fundamental Rights reads ``Everyone has the right to respect for his or her private and family life, home and communications'' \cite {eu_charter_fundamental_rights}. 
 
-Nonetheless, Art.52 \S 3 imposes the same limitations to these rights as the one specified in the \textit{European Convention on Human Rights (ECHR)}\cite{eu_charter_fundamental_rights}. In particular, Art. 8 \S 2, reads that "There shall be no interference by a public authority with the exercise of this right except such as is by the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or the protection of the rights and freedoms of others"\cite{echr}, thus limiting the scope of these rights.
+Nonetheless, Art.52 (3) imposes the same limitations to these rights as the one specified in the \textit{European Convention on Human Rights (ECHR)} \cite {eu_charter_fundamental_rights}. In particular, Art. 8 (2), reads that ``There shall be no interference by a public authority with the exercise of this right except such as is by the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or the protection of the rights and freedoms of others'' \cite {echr}, thus limiting the scope of these rights.
 
 \subsubsection{General Data Protection Regulation - 2016/679}
 
 While the \textit{General Data Protection Regulation (GDPR)} with further modifications does not provide explicit provisions regarding general monitoring, it does specify, inter alia, the methods for processing both personal and sensitive data.
 
-In particular, \textit{personal data} is defined in Art. 4(1) of this regulation \cite{GDPR} as "any information relating to an identified or identifiable natural person". Meanwhile, with \textit{sensitive data} are a set of data that belongs to those special categories that can be found in Art.9 \S 1\cite{GDPR}.
+In particular, \textit{personal data} is defined in Art. 4(1) of this regulation \cite{GDPR} as ``any information relating to an identified or identifiable natural person''. Meanwhile, with \textit{sensitive data} are a set of data that belongs to those special categories that can be found in Art.9 (1) \cite {GDPR}.
 
-Regarding the context of this study, Art. 5 \S 1 point c of the GDPR\cite{GDPR} specifies that the amount gathered personal data should be "adequate, relevant and limited to what is necessary [\dots]", thus establishing the so-called 'data minimization'.
+Regarding the context of this study, Art. 5 (1) point c of the GDPR \cite {GDPR} specifies that the amount gathered personal data should be ``adequate, relevant and limited to what is necessary [\dots]'', thus establishing the so-called 'data minimization'.
 
-Furthermore, as prescribed by Art.9 \S 2, processing sensitive data is limited, inter alia, to either user consent (point a) or a necessity for the public interest, but limited by the fundamental rights and by "essence of the right to data protection"\cite{GDPR} (point g).
+Furthermore, as prescribed by Art.9 (2), processing sensitive data is limited, inter alia, to either user consent (point a) or a necessity for the public interest, but limited by the fundamental rights and by ``essence of the right to data protection'' \cite {GDPR} (point g).
 
 \subsubsection{ePrivacy Directive - 2002/58/EC}
 \label{sss:ePrivacy}
 
-The ePrivacy Directive of 12 July 2002 lays down provisions and rights regarding the privacy of EU citizens concerning electronic communications. Relevant articles to this discussion are Art. 5 \S 1 and Art. 15 \S 1.
+The ePrivacy Directive of 12 July 2002 lays down provisions and rights regarding the privacy of EU citizens concerning electronic communications. Relevant articles to this discussion are Art. 5 (1) and Art. 15 (1).
 
-The first ensures the confidentiality of the communication since it "prohibit(s) listening, tapping, storage or other kinds of interception or surveillance of communications and the related traffic data by persons other than users" \cite{ePrivacy}. 
+The first ensures the confidentiality of the communication since it ``prohibit(s) listening, tapping, storage or other kinds of interception or surveillance of communications and the related traffic data by persons other than users'' \cite{ePrivacy}. 
 
-On the other hand, Art. 15 \S 1 lays down a set of exceptions that limits the scope of this right, i.e., inter alia, "prevention, investigation, detection and prosecution of criminal offenses" \cite{ePrivacy}. 
+On the other hand, Art. 15 (1) lays down a set of exceptions that limits the scope of this right, i.e., inter alia, ``prevention, investigation, detection and prosecution of criminal offenses'' \cite{ePrivacy}. 
 
-Nonetheless, these exceptions must still be in accordance with Art.6 \S(1) and \S(2) of the Treaty on the European Union, ergo, in turn, they must respect Art.7 and Art.8 of the Fundamental Rights of the EU \cite{ePrivacy} \cite{eu_charter_fundamental_rights} \cite{teu}.
+Nonetheless, these exceptions must still be in accordance with Art.6 (1) and (2) of the Treaty on the European Union, ergo, in turn, they must respect Art.7 and Art.8 of the Fundamental Rights of the EU \cite{ePrivacy} \cite{eu_charter_fundamental_rights} \cite{teu}.
 
 \subsubsection{Interim Regulation - 2021/1232}
 
 The Interim Regulation is a temporary regulation that entered into effect on the 2nd of August 2021 to combat online \textit{child sexual abuse (CSA)}. The temporary measure of this regulation is because a legislative framework to fight this phenomenon while maintaining data privacy is still to be agreed upon.
 
-In particular, it is stated in Art. 1 \S 1 of this regulation that the subject matter is laying down a set of derogations from several obligations specified in the ePrivacy directive previously discussed\cite{interim_regualtion}. Most important is Art. 3 \S 1 which prescribes how Art. 5 \S 1 and 6 \S 1 of the ePrivacy Directive will not apply anymore concerning the confidentiality of those communications where there is a well-founded suspicion of online CSA\cite{interim_regualtion}.
+In particular, it is stated in Art. 1 (1) of this regulation that the subject matter is laying down a set of derogations from several obligations specified in the ePrivacy directive previously discussed \cite {interim_regualtion}. Most important is Art. 3 (1) which prescribes how Art. 5 (1) and 6 (1) of the ePrivacy Directive will not apply anymore concerning the confidentiality of those communications where there is a well-founded suspicion of online CSA \cite {interim_regualtion}.
 
-Finally, it is important to note that the Regulation does not impose a service provider to check communications for CSA but only allows them to perform it voluntarily as written in Art. 3 \S 1\cite{interim_regualtion}. As per Art. 10, this regulation was set to apply until August 2024 but was extended to apply until the 3rd of April 2026\cite{interim_regualtion}.
+Finally, it is important to note that the Regulation does not impose a service provider to check communications for CSA but only allows them to perform it voluntarily as written in Art. 3 (1) \cite {interim_regualtion}. As per Art. 10, this regulation was set to apply until August 2024 but was extended to apply until the 3rd of April 2026 \cite {interim_regualtion}.
 
 \subsection{CSAM proposal - 2022/0155 (COD)}
 
@@ -95,7 +96,7 @@ In this section, I'll introduce the CSAM proposal focusing on the obligations of
 
 The CSAM Regulation proposal, also known as ChatControl Regulation, is a proposal for regulation set to find a permanent legislative framework to replace the temporary Interim Regulation previously discussed. 
 
-Furthermore, differently from the above-cited derogation, this proposal aims at forcing service providers to scan conversations for not only previously known CSAM but also newly produced material and text conversations that happen with the intent of grooming a minor, as stated in Chapter II concerning obligations of the service providers\cite{eu2023chatcontrol}.
+Furthermore, differently from the above-cited derogation, this proposal aims at forcing service providers to scan conversations for not only previously known CSAM but also newly produced material and text conversations that happen with the intent of grooming a minor, as stated in Chapter II concerning obligations of the service providers \cite {eu2023chatcontrol}.
 
 The three main actors in this Regulation are
 
@@ -108,7 +109,7 @@ The three main actors in this Regulation are
 Regarding obligations, service providers must develop a risk assessment to report on the risk related to CSAM spread and grooming on their platform or service as prescribed by Art. 3 \cite{eu2023chatcontrol}. 
 Again in Art. 3, the proposal lays down a list of factors helpful in identifying such risks such as previous instances of the target behavior, the extent to which the service is used by children, but also the presence or not of functionalities like enabling users to search other users and share multimedia files.
 
-Successively, the report is sent to the Coordinating Authority of the state in which the service provider has its legal office as per Art. 5. If risk is identified by the CA as per Art. 7 \S 4, the authority will issue a detection order as defined by Art. 7 \S 1. 
+Successively, the report is sent to the Coordinating Authority of the state in which the service provider has its legal office as per Art. 5. If risk is identified by the CA as per Art. 7 (4), the authority will issue a detection order as defined by Art. 7 (1). 
 
 This order entails the entry in effect of the obligation for the interested service provider to apply mitigations for such risk. Moreover, the interested SP will be obliged to deploy a set of technologies with the intent of scanning conversations and file sharing between users to detect alleged CSAM sharing or grooming activities, and successively reporting them to the competent authorities (see Art.3, 4, 5) \cite{eu2023chatcontrol}.
 

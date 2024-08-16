@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.29)  15 AUG 2024 18:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.29)  16 AUG 2024 16:03
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **main -interaction=batchmode
 (./main.tex
@@ -321,18 +321,6 @@ File: listings.cfg 2024/02/21 1.10 listings configuration
 ))
 Package: listings 2024/02/21 1.10 (Carsten Heinz)
 
-(/usr/share/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
-
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 149.
-
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-)
-(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
@@ -340,8 +328,10 @@ Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-LaTeX Info: Redefining \color on input line 758.
 
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
 (/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
@@ -370,6 +360,10 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \minrowclearance=\skip53
 \rownum=\count293
 )
+
+LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
+(LaTeX)        option "xcdraw".
+
 (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -698,31 +692,31 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count426
 \@quotereset=\count427
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 47
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 55
 .
 (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -758,7 +752,7 @@ LaTeX Font Info:    ... okay on input line 47.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 47.
+Package hyperref Info: Link coloring OFF on input line 55.
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -822,69 +816,73 @@ Package biblatex Warning: Biber reported the following issues
 lid format '14 July 2021' of date field 'date' - ignoring.
 
 )
-Package biblatex Info: Reference section=0 on input line 47.
-Package biblatex Info: Reference segment=0 on input line 47.
+Package biblatex Info: Reference section=0 on input line 55.
+Package biblatex Info: Reference segment=0 on input line 55.
 
 
 Package hyperref Warning: bookmark level for unknown title defaults to 0.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
-2.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 79.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+1.
 (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
-2.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+1.
 
 (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-72.
+81.
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-72.
+81.
 
 (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 72.
+(Font)              <10> on input line 81.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 72.
+(Font)              <7> on input line 81.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 72.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
+(Font)              <5> on input line 81.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 72.
+(Font)              <9> on input line 81.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 72.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 7
-2.
+(Font)              <6> on input line 81.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 8
+1.
 
 (/usr/share/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
  
  []
 
@@ -893,80 +891,91 @@ Missing character: There is no ý in font lmsy7!
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}] [
-2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+/enc/dvips/lm/lm-ec.enc}] [2{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+}] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-) (./04-meth/target.tex [4]
+[4]) (./04-meth/target.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 9.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
-.
+(Font)              <8> on input line 10.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+0.
  (/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 (./05-results/target.tex [5]
 
-LaTeX Warning: Reference `sss: ML' on page 6 undefined on input line 26.
+LaTeX Warning: Reference `sss: ML' on page 6 undefined on input line 27.
 
-(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
-)
-(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
-)
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Package caption Warning: \setcaptiontype
+(caption)                outside box or environment on input line 73.
+See the caption package documentation for explanation.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 68.
+(caption)                particular \caption on input line 73.
 See the caption package documentation for explanation.
 
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 68.
-<05-results/img/enc_chat.jpg, id=132, 1084.05pt x 1235.61626pt>
+nput line 73.
+<05-results/img/enc_chat.jpg, id=151, 1583.9175pt x 973.6375pt>
 File: 05-results/img/enc_chat.jpg Graphic file (type jpg)
 <use 05-results/img/enc_chat.jpg>
-Package pdftex.def Info: 05-results/img/enc_chat.jpg  used on input line 73.
-(pdftex.def)             Requested size: 129.43622pt x 147.53224pt.
+Package pdftex.def Info: 05-results/img/enc_chat.jpg  used on input line 77.
+(pdftex.def)             Requested size: 266.48735pt x 163.80768pt.
+[7 <./05-results/img/enc_chat.jpg>]) (./06-discussion/target.tex [8]
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[][][]\T1/lmr/m/n/8 see statis-tics on mi-nors that en-gage in dan-ger-ous on-l
+ine be-hav-
+ []
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 74.
-See the caption package documentation for explanation.
 
-[6 <./05-results/img/enc_chat.jpg>]) (./06-discussion/target.tex [7]
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\T1/lmr/m/n/8 iors at []$\T1/lmtt/m/n/8 https : / / www-[]statista-[]com . ezp 
+. biblio . unitn . it / statistics / 1356753 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
 [][][]\T1/lmr/m/n/8 Other sit-u-a-tions may ap-ply, like []$\T1/lmtt/m/n/8 http
 s : / / www . koffellaw . com / blog /
  []
 
-[8]) (./07-conclusion/target.tex) [9]
+[9]) (./07-conclusion/target.tex [10])
 
 Package biblatex Warning: No driver for 'legal'.
-(biblatex)                Using fallback driver on input line 90.
-
-
-Package biblatex Warning: No driver for 'legal'.
-(biblatex)                Using fallback driver on input line 90.
+(biblatex)                Using fallback driver on input line 99.
 
 
 Package biblatex Warning: No driver for 'legal'.
-(biblatex)                Using fallback driver on input line 90.
+(biblatex)                Using fallback driver on input line 99.
+
+[11]
+
+Package biblatex Warning: No driver for 'legal'.
+(biblatex)                Using fallback driver on input line 99.
 
 
 Package biblatex Warning: No driver for 'legal'.
-(biblatex)                Using fallback driver on input line 90.
-
-[10]
-
-Package biblatex Warning: No driver for 'legal'.
-(biblatex)                Using fallback driver on input line 90.
+(biblatex)                Using fallback driver on input line 99.
 
 
 Package biblatex Warning: No driver for 'legal'.
-(biblatex)                Using fallback driver on input line 90.
+(biblatex)                Using fallback driver on input line 99.
 
-[11] (./main.aux)
+
+Package biblatex Warning: No driver for 'legal'.
+(biblatex)                Using fallback driver on input line 99.
+
+[12] [13] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -976,34 +985,35 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0104C2F16CA05A0857B18B189C01C29D;364.
+(rerunfilecheck)             Checksum: 3726E8CC268B138C328DE44C41274665;602.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24133 strings out of 474963
- 422803 string characters out of 5774095
- 2138187 words of memory out of 5000000
- 46019 multiletter control sequences out of 15000+600000
- 639182 words of font info for 94 fonts, out of 8000000 for 9000
+ 23981 strings out of 474963
+ 420508 string characters out of 5774095
+ 1994187 words of memory out of 5000000
+ 45875 multiletter control sequences out of 15000+600000
+ 644840 words of font info for 95 fonts, out of 8000000 for 9000
  726 hyphenation exceptions out of 8191
- 75i,8n,81p,854b,1743s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,81p,920b,1743s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm
 /lmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share
-/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri7.pfb>
-</usr/share/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf-dist/f
-onts/type1/public/lm/lmro8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lms
-sbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/share/te
-xmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main.pdf (11 pages, 705735 bytes).
+/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/lm/lmr9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb><
+/usr/share/texmf-dist/fonts/type1/public/lm/lmri7.pfb></usr/share/texmf-dist/fo
+nts/type1/public/lm/lmri9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro
+8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/tex
+mf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/lm/lmtt9.pfb>
+Output written on main.pdf (13 pages, 769966 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 308 compressed objects within 4 object streams
- 82 named destinations out of 1000 (max. 500000)
+ 384 PDF objects out of 1000 (max. 8388607)
+ 330 compressed objects within 4 object streams
+ 84 named destinations out of 1000 (max. 500000)
  14 words of extra memory for PDF output out of 10000 (max. 10000000)
 

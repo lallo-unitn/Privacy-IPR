@@ -165,6 +165,37 @@
       \endverb
       \keyw{Support vector machines;Feature extraction;Technological innovation;Training;White spaces;Dictionaries;Neural networks}
     \endentry
+    \entry{effects}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=30d3975e096e9811f3f752cf2890993a}{%
+           family={Breyer},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{30d3975e096e9811f3f752cf2890993a}
+      \strng{fullhash}{30d3975e096e9811f3f752cf2890993a}
+      \strng{bibnamehash}{30d3975e096e9811f3f752cf2890993a}
+      \strng{authorbibnamehash}{30d3975e096e9811f3f752cf2890993a}
+      \strng{authornamehash}{30d3975e096e9811f3f752cf2890993a}
+      \strng{authorfullhash}{30d3975e096e9811f3f752cf2890993a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chat control: New EU government attempt to bulk search private messages and destroy secure end-to-end encryption}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.patrick-breyer.de/en/chat-control-new-eu-government-attempt-to-bulk-search-private-messages-and-destroy-secure-end-to-end-encryption/
+      \endverb
+      \verb{url}
+      \verb https://www.patrick-breyer.de/en/chat-control-new-eu-government-attempt-to-bulk-search-private-messages-and-destroy-secure-end-to-end-encryption/
+      \endverb
+    \endentry
     \entry{CASTRILLONSANTANA201810}{article}{}
       \name{author}{5}{}{%
         {{hash=8d32c6e3815a3fcdcf2722291b7ffb9e}{%

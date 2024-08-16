@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+openssl\PYG{+w}{ }ecparam\PYG{+w}{ }\PYGZhy{}name\PYG{+w}{ }prime256v1\PYG{+w}{ }\PYGZhy{}out\PYG{+w}{ }ecparam.pem
+
+openssl\PYG{+w}{ }ecparam\PYG{+w}{ }\PYGZhy{}name\PYG{+w}{ }prime256v1\PYG{+w}{ }\PYGZhy{}genkey\PYG{+w}{ }\PYGZhy{}noout\PYG{+w}{ }\PYGZhy{}out\PYG{+w}{ }party1\PYGZus{}private\PYGZus{}key.pem
+
+openssl\PYG{+w}{ }ec\PYG{+w}{ }\PYGZhy{}in\PYG{+w}{ }party1\PYGZus{}private\PYGZus{}key.pem\PYG{+w}{ }\PYGZhy{}pubout\PYG{+w}{ }\PYGZhy{}out\PYG{+w}{ }party1\PYGZus{}public\PYGZus{}key.pem
+
+openssl\PYG{+w}{ }pkeyutl\PYG{+w}{ }\PYGZhy{}derive\PYG{+w}{ }\PYGZhy{}inkey\PYG{+w}{ }party1\PYGZus{}private\PYGZus{}key.pem\PYG{+w}{  }\PYGZhy{}peerkey\PYG{+w}{ }party2\PYGZus{}public\PYGZus{}key.pem\PYG{+w}{ }\PYGZhy{}out\PYG{+w}{ }shared\PYGZus{}secret.bin
+
+openssl\PYG{+w}{ }enc\PYG{+w}{ }\PYGZhy{}aes\PYGZhy{}256\PYGZhy{}cbc\PYG{+w}{ }\PYGZhy{}nosalt\PYG{+w}{ }\PYGZhy{}pass\PYG{+w}{ }file:./shared\PYGZus{}secret.bin\PYG{+w}{ }\PYGZhy{}in\PYG{+w}{ }body.bin\PYG{+w}{ }\PYGZhy{}out\PYG{+w}{ }body.ecb.bin
+\end{Verbatim}
