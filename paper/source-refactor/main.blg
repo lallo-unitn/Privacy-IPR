@@ -1,19 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[74] biber:340> INFO - === Fri Aug 16, 2024, 16:03:03
-[88] Biber.pm:419> INFO - Reading 'main.bcf'
-[149] Biber.pm:979> INFO - Found 24 citekeys in bib section 0
-[165] Biber.pm:4419> INFO - Processing section 0
-[174] Biber.pm:4610> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[176] bibtex.pm:1713> INFO - LaTeX decoding ...
-[197] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
-[330] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[330] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[330] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[330] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[353] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[361] bbl.pm:763> INFO - Output to main.bbl
-[361] Biber.pm:131> WARN - legal entry 'GDPR' (biblio.bib): Invalid format '27 April 2016' of date field 'date' - ignoring
-[361] Biber.pm:131> WARN - legal entry 'ePrivacy' (biblio.bib): Invalid format '12 July 2002' of date field 'date' - ignoring
-[362] Biber.pm:131> WARN - legal entry 'interim_regualtion' (biblio.bib): Invalid format '14 July 2021' of date field 'date' - ignoring
-[362] Biber.pm:133> INFO - WARNINGS: 3
+[79] biber:340> INFO - === Sat Aug 17, 2024, 10:29:55
+[91] Biber.pm:419> INFO - Reading 'main.bcf'
+[154] Biber.pm:979> INFO - Found 24 citekeys in bib section 0
+[170] Biber.pm:4419> INFO - Processing section 0
+[179] Biber.pm:4610> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[181] bibtex.pm:1713> INFO - LaTeX decoding ...
+[201] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
+[338] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[338] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[339] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[339] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[365] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[372] bbl.pm:763> INFO - Output to main.bbl
+[372] Biber.pm:131> WARN - legal entry 'GDPR' (biblio.bib): Invalid format '27 April 2016' of date field 'date' - ignoring
+[372] Biber.pm:131> WARN - legal entry 'ePrivacy' (biblio.bib): Invalid format '12 July 2002' of date field 'date' - ignoring
+[373] Biber.pm:131> WARN - legal entry 'interim_regualtion' (biblio.bib): Invalid format '14 July 2021' of date field 'date' - ignoring
+[373] Biber.pm:133> INFO - WARNINGS: 3

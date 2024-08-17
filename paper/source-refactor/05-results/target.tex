@@ -37,7 +37,7 @@ A simple way to avoid detection under this proposed solution is to encrypt the m
 
 To elaborate on this, two adversaries that aim at maintaining the file sharing anonymous could engage in a key exchange as in an insecure communication channel. Having computed a shared secret, such a secret is used to compute a symmetric key used to encrypt the media.
 
-The following bash code and figure show how two users can share media without the system being able to detect CSAM material.
+The bash commands in listing \ref{ls:bash_commands} show how a user computes both a symmetric and asymmetric key to exchange messages on an unsecured channel, while Figure \ref{fig:chat} shows how this method is applied to avoid detection in the chat of a service provider under detection order.
 \\
 
 \lstset{
@@ -70,12 +70,14 @@ openssl pkeyutl -derive -inkey party1_private_key.pem  -peerkey party2_public_ke
 
 openssl enc -aes-256-cbc -nosalt -pass file:./shared_secret.bin -in body.bin -out body.ecb.bin
 \end{lstlisting}
-\captionof{lstlisting}{Client 1 computes the shared secret over unsecured channel and image encryption}
+\label{ls:bash_commands}
+\captionof{lstlisting}{Client 1 computes the shared secret over an unsecured channel and encrypts an image}
 
 \begin{figure}
     \centering
     \includegraphics[keepaspectratio,width=0.7\textwidth]{05-results/img/enc_chat.jpg}
     \captionof{figure}{ECDH key exchange and AES encrypted image sharing}
+    \label{fig:chat}
 \end{figure}
 
 \subsection{Relevant ECHR and ECJ Cases}

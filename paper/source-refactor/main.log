@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.29)  16 AUG 2024 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.29)  17 AUG 2024 10:29
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -876,28 +876,23 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 8
 
 (/usr/share/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+) (./01-abstract/target.tex
+Underfull \hbox (badness 10000) in paragraph at lines 84--2
  []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
- 
- []
-
-(./02-intro/target.tex) (./03-soa/target.tex
+) (./02-intro/target.tex
 Missing character: There is no ý in font lmsy7!
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/lm/lm-ec.enc}] [2{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-}] [3]
+/enc/dvips/lm/lm-ec.enc}]) (./03-soa/target.tex [2{/usr/share/texmf-dist/fonts/
+enc/dvips/lm/lm-rm.enc}] [3] [4]
 Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-[4]) (./04-meth/target.tex
+) (./04-meth/target.tex [5]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
@@ -905,33 +900,33 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
  (/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
-(./05-results/target.tex [5]
+(./05-results/target.tex [6]
 
-LaTeX Warning: Reference `sss: ML' on page 6 undefined on input line 27.
+LaTeX Warning: Reference `sss: ML' on page 7 undefined on input line 27.
 
-[6]
+
 Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
 
 Package caption Warning: \setcaptiontype
-(caption)                outside box or environment on input line 73.
+(caption)                outside box or environment on input line 74.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 73.
+(caption)                particular \caption on input line 74.
 See the caption package documentation for explanation.
 
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 73.
-<05-results/img/enc_chat.jpg, id=151, 1583.9175pt x 973.6375pt>
+nput line 74.
+<05-results/img/enc_chat.jpg, id=148, 1583.9175pt x 973.6375pt>
 File: 05-results/img/enc_chat.jpg Graphic file (type jpg)
 <use 05-results/img/enc_chat.jpg>
-Package pdftex.def Info: 05-results/img/enc_chat.jpg  used on input line 77.
+Package pdftex.def Info: 05-results/img/enc_chat.jpg  used on input line 78.
 (pdftex.def)             Requested size: 266.48735pt x 163.80768pt.
-[7 <./05-results/img/enc_chat.jpg>]) (./06-discussion/target.tex [8]
+[7] [8 <./05-results/img/enc_chat.jpg>]) (./06-discussion/target.tex [9]
 Underfull \hbox (badness 10000) in paragraph at lines 25--25
 [][][]\T1/lmr/m/n/8 see statis-tics on mi-nors that en-gage in dan-ger-ous on-l
 ine be-hav-
@@ -949,16 +944,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--25
 s : / / www . koffellaw . com / blog /
  []
 
-[9]) (./07-conclusion/target.tex [10])
-
-Package biblatex Warning: No driver for 'legal'.
-(biblatex)                Using fallback driver on input line 99.
-
-
-Package biblatex Warning: No driver for 'legal'.
-(biblatex)                Using fallback driver on input line 99.
-
-[11]
+[10]) (./07-conclusion/target.tex) [11]
 
 Package biblatex Warning: No driver for 'legal'.
 (biblatex)                Using fallback driver on input line 99.
@@ -975,7 +961,16 @@ Package biblatex Warning: No driver for 'legal'.
 Package biblatex Warning: No driver for 'legal'.
 (biblatex)                Using fallback driver on input line 99.
 
-[12] [13] (./main.aux)
+[12]
+
+Package biblatex Warning: No driver for 'legal'.
+(biblatex)                Using fallback driver on input line 99.
+
+
+Package biblatex Warning: No driver for 'legal'.
+(biblatex)                Using fallback driver on input line 99.
+
+[13] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -991,10 +986,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23981 strings out of 474963
- 420508 string characters out of 5774095
- 1994187 words of memory out of 5000000
- 45875 multiletter control sequences out of 15000+600000
+ 23991 strings out of 474963
+ 420723 string characters out of 5774095
+ 1998187 words of memory out of 5000000
+ 45882 multiletter control sequences out of 15000+600000
  644840 words of font info for 95 fonts, out of 8000000 for 9000
  726 hyphenation exceptions out of 8191
  75i,8n,81p,920b,1743s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1010,10 +1005,10 @@ nts/type1/public/lm/lmri9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro
 8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/tex
 mf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/lm/lmtt9.pfb>
-Output written on main.pdf (13 pages, 769966 bytes).
+Output written on main.pdf (13 pages, 772309 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 330 compressed objects within 4 object streams
+ 386 PDF objects out of 1000 (max. 8388607)
+ 332 compressed objects within 4 object streams
  84 named destinations out of 1000 (max. 500000)
  14 words of extra memory for PDF output out of 10000 (max. 10000000)
 
